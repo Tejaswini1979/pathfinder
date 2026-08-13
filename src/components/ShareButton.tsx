@@ -39,7 +39,7 @@ export default function ShareButton({ title, description }: Props) {
       aria-label="Share this career"
       className={`inline-flex h-11 items-center gap-2 rounded-full border px-5 text-sm font-semibold transition-colors ${
         copied
-          ? "border-emerald-300 bg-accent-light text-emerald-700"
+          ? "border-blue-300 bg-accent-light text-blue-700"
           : "border-gray-200 bg-white text-gray-700 hover:border-gray-300 hover:bg-gray-50"
       }`}
     >

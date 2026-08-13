@@ -35,7 +35,7 @@ export default function DomainCard({ domain }: { domain: DomainMeta }) {
         )}
         {domain.lowBudgetCount > 0 && (
           <span>
-            <span className="font-semibold text-emerald-600">
+            <span className="font-semibold text-blue-600">
               {domain.lowBudgetCount}
             </span>{" "}
             low-budget

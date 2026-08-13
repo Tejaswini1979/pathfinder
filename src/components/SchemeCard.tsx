@@ -14,7 +14,7 @@ export default function SchemeCard({ scheme }: { scheme: Scheme }) {
           className={`inline-flex items-center rounded-full px-2.5 py-0.5 text-[11px] font-semibold ${
             isState
               ? "bg-primary-light text-primary"
-              : "bg-accent-light text-emerald-700"
+              : "bg-accent-light text-blue-700"
           }`}
         >
           {isState ? (scheme.state ?? "State") : "All-India"}

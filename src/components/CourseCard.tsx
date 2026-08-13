@@ -12,7 +12,7 @@ export default function CourseCard({ course }: { course: Course }) {
         <span className="rounded-full bg-gray-100 px-2.5 py-0.5 text-[11px] font-semibold text-gray-600">
           {course.field}
         </span>
-        <span className="rounded-full bg-accent-light px-2.5 py-0.5 text-[11px] font-semibold text-emerald-700">
+        <span className="rounded-full bg-accent-light px-2.5 py-0.5 text-[11px] font-semibold text-blue-700">
           {course.level}
         </span>
       </div>

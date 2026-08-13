@@ -193,7 +193,7 @@ export default async function CareerPage({ params }: PageProps<"/careers/[id]">)
       {career.scholarships.length > 0 && (
         <section className="mt-8">
           <h2 className="flex items-center gap-2 text-lg font-bold text-gray-900">
-            <BadgeIndianRupee className="h-5 w-5 text-emerald-600" />
+            <BadgeIndianRupee className="h-5 w-5 text-blue-600" />
             Scholarships available
           </h2>
           <div className="mt-4 flex flex-wrap gap-2">
@@ -201,7 +201,7 @@ export default async function CareerPage({ params }: PageProps<"/careers/[id]">)
               <Link
                 key={s}
                 href="/scholarships"
-                className="rounded-full border border-gray-200 bg-white px-4 py-1.5 text-sm text-gray-700 shadow-sm transition-colors hover:border-emerald-300 hover:bg-accent-light"
+                className="rounded-full border border-gray-200 bg-white px-4 py-1.5 text-sm text-gray-700 shadow-sm transition-colors hover:border-blue-300 hover:bg-accent-light"
               >
                 {s}
               </Link>

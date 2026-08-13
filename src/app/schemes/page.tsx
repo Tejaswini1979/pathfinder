@@ -33,7 +33,7 @@ export default function SchemesPage() {
           database so you can find yours from anywhere.
         </p>
         <div className="mt-4 flex flex-wrap items-center gap-x-6 gap-y-1 text-sm text-gray-600">
-          <span className="inline-flex items-center gap-1.5 font-medium text-emerald-700">
+          <span className="inline-flex items-center gap-1.5 font-medium text-blue-700">
             <Landmark className="h-4 w-4" />
             {central.length} all-India schemes
           </span>
