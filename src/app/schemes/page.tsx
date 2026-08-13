@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { ExternalLink, Landmark, IndianRupee } from "lucide-react";
 import AllIndiaSchemeExplorer from "@/components/AllIndiaSchemeExplorer";
 import StateSchemeExplorer from "@/components/StateSchemeExplorer";
+import EducationBackdrop from "@/components/EducationBackdrop";
 import {
   getCentralSchemes,
   getStateSchemes,
@@ -33,7 +34,8 @@ export default function SchemesPage() {
 
   return (
     <div className="mx-auto w-full max-w-6xl flex-1 px-4 py-10 sm:px-6">
-      <header className="mb-8">
+      <header className="relative mb-8 overflow-hidden rounded-2xl border border-gray-200 bg-white px-6 py-8 sm:px-8">
+        <EducationBackdrop />
         <h1 className="text-3xl font-bold tracking-tight text-gray-900">
           Scholarships — all of India
         </h1>

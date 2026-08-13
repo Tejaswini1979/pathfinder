@@ -13,6 +13,7 @@ import {
   BookOpen,
 } from "lucide-react";
 import DomainCard from "@/components/DomainCard";
+import EducationBackdrop from "@/components/EducationBackdrop";
 import {
   getDomainMetaList,
   getAllSubPaths,
@@ -67,7 +68,8 @@ export default function Home() {
 
   return (
     <div className="flex flex-col">
-      <section className="bg-[radial-gradient(60rem_30rem_at_top,var(--color-primary-light),transparent_70%)] bg-white">
+      <section className="relative overflow-hidden bg-[radial-gradient(60rem_30rem_at_top,var(--color-primary-light),transparent_70%)] bg-white">
+        <EducationBackdrop />
         <div className="mx-auto max-w-6xl px-4 pb-12 pt-14 sm:px-6 sm:pt-20">
           <div className="mx-auto max-w-3xl text-center">
             <span className="inline-flex items-center gap-1.5 rounded-full border border-gray-200 bg-gray-50 px-3 py-1 text-xs font-medium text-gray-600">
