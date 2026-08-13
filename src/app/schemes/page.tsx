@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { ShieldAlert, ExternalLink, Landmark, IndianRupee } from "lucide-react";
+import { ExternalLink, Landmark, IndianRupee } from "lucide-react";
 import AllIndiaSchemeExplorer from "@/components/AllIndiaSchemeExplorer";
 import StateSchemeExplorer from "@/components/StateSchemeExplorer";
 import {
@@ -55,16 +55,6 @@ export default function SchemesPage() {
           </span>
         </div>
       </header>
-
-      <div className="mb-8 flex items-start gap-3 rounded-xl border border-amber-200 bg-warning-light p-4 text-sm leading-6 text-amber-800">
-        <ShieldAlert className="mt-0.5 h-5 w-5 shrink-0 text-amber-500" />
-        <p>
-          Central schemes are verified against the National Scholarship Portal.
-          State and UT listings are compiled from official state portals — always
-          confirm eligibility and the current application window on the official
-          portal before applying.
-        </p>
-      </div>
 
       <section className="mb-12">
         <h2 className="mb-4 text-xl font-bold tracking-tight text-gray-900">
