@@ -1,5 +1,6 @@
 import { getSchemes } from "@/data/index";
 import type { Scheme } from "@/data/scheme-types";
+import { stateUtDirectory } from "@/data/state-schemes";
 
 export interface AllIndiaScheme extends Scheme {
   coverage: "CENTRAL" | "STATE";
@@ -11,9 +12,83 @@ const centralStateCodes = [
   "Gujarat", "Haryana", "Himachal Pradesh", "Jharkhand", "Karnataka", "Kerala",
   "Madhya Pradesh", "Maharashtra", "Manipur", "Meghalaya", "Mizoram", "Nagaland",
   "Odisha", "Punjab", "Rajasthan", "Sikkim", "Tamil Nadu", "Telangana", "Tripura",
-  "Uttar Pradesh", "Uttarakhand", "West Bengal", "Delhi", "Jammu & Kashmir",
-  "Puducherry", "Ladakh",
+  "Uttar Pradesh", "Uttarakhand", "West Bengal", "Andaman and Nicobar Islands",
+  "Chandigarh", "Dadra and Nagar Haveli and Daman and Diu", "Delhi",
+  "Jammu and Kashmir", "Ladakh", "Lakshadweep", "Puducherry",
 ];
+
+function inferEducationLevels(text: string): string[] {
+  const t = text.toLowerCase();
+  const levels: string[] = [];
+  if (
+    t.includes("primary") ||
+    t.includes("class 5-8") ||
+    t.includes("class 5–8") ||
+    t.includes("class 6 to ug") ||
+    t.includes("class 8 to ug") ||
+    t.includes("class 1 to 12") ||
+    t.includes("class 1 to pg")
+  ) {
+    levels.push("PRIMARY", "UPPER_PRIMARY");
+  }
+  if (
+    t.includes("secondary") ||
+    t.includes("sslc") ||
+    t.includes("hssc") ||
+    t.includes("class 9-10") ||
+    t.includes("class 9–10") ||
+    t.includes("class 10 & 12") ||
+    t.includes("class 10, 12")
+  ) {
+    levels.push("SECONDARY");
+  }
+  if (
+    t.includes("higher secondary") ||
+    t.includes("hs") ||
+    t.includes("class 11") ||
+    t.includes("class 12")
+  ) {
+    levels.push("HIGHER_SECONDARY");
+  }
+  if (t.includes("ug") || t.includes("undergraduate") || t.includes("graduation")) {
+    levels.push("UNDERGRADUATE");
+  }
+  if (t.includes("pg") || t.includes("postgraduate") || t.includes("post graduate")) {
+    levels.push("POSTGRADUATE");
+  }
+  if (t.includes("professional") || t.includes("technical")) {
+    levels.push("PROFESSIONAL");
+  }
+  if (t.includes("diploma") || t.includes("certificate") || t.includes("iti")) {
+    levels.push("DIPLOMA", "ITI");
+  }
+  return levels;
+}
+
+function stateSchemeToAllIndia(): AllIndiaScheme[] {
+  return stateUtDirectory.flatMap((state) =>
+    state.schemes.map((s) => ({
+      scheme_id: s.id,
+      scheme_name: s.name,
+      category: "STATE" as const,
+      state: state.name,
+      coverage: "STATE" as const,
+      appliesTo: `State/UT: ${state.name}`,
+      official_website: s.url ?? state.portalUrl,
+      scheme_status: "ACTIVE" as const,
+      education_coverage: {
+        education_level: inferEducationLevels(s.educationLevel),
+      },
+      benefit_details: {
+        monetary: { scholarship_amount_description: s.benefit },
+      },
+      eligibility: {
+        demographic: { state_requirement: state.name },
+        economic: { family_income_limit: s.eligibility },
+      },
+    }))
+  );
+}
 
 export function getCentralSchemes(): AllIndiaScheme[] {
   return getSchemes()
@@ -26,13 +101,7 @@ export function getCentralSchemes(): AllIndiaScheme[] {
 }
 
 export function getStateSchemes(): AllIndiaScheme[] {
-  return getSchemes()
-    .filter((s) => s.category === "STATE")
-    .map((s) => ({
-      ...s,
-      coverage: "STATE" as const,
-      appliesTo: `Example: ${s.state ?? "state"} (every state has equivalent schemes)`,
-    }));
+  return stateSchemeToAllIndia();
 }
 
 export function getAllIndiaSchemes(): AllIndiaScheme[] {

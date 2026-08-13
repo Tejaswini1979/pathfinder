@@ -89,7 +89,7 @@ export default function AllIndiaSchemeExplorer({ schemes, educationLevels }: Pro
       <p className="mt-4 text-sm text-gray-500">
         {filtered.length} scheme{filtered.length === 1 ? "" : "s"}
         {category === "CENTRAL" && " — apply from any state"}
-        {category === "STATE" && " — shown as examples; every state has equivalents"}
+        {category === "STATE" && " — every state and union territory"}
       </p>
 
       <div className="mt-5 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
