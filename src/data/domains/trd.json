@@ -1,0 +1,793 @@
+{
+  "id": "trd",
+  "title": "Skilled Trades & Vocational",
+  "tagline": "ITI and NSDC certifications: electrician, AC tech, CNC operator, solar PV, beautician — accessible, well-paying, often overlooked.",
+  "color": "#3c6a5a",
+  "overview": "Skilled trades are the most under-represented career path in middle-class Indian families' planning, despite being among the fastest routes to ₹15,000-30,000/month income within 1-2 years and lifelong self-employment. The 2026 reality: ITI government tuition is ₹1,000-5,000/year (under ₹10,000 for full course); on March 2 2026 the DGT mandated 150 hours of On-the-Job Training as part of every NCVT trade. Welders, electricians, diesel mechanics, and AC/refrigeration technicians are the highest-paying trades, with Gulf demand routinely paying ₹50,000-1,00,000/month for certified workers. NSDC short courses (Skill India) under MSDE supplement the ITI ecosystem with sector-specific micro-certifications. The hidden gem: solar PV technicians and EV technicians are growing 20%+ annually under PM-KUSUM and FAME-II push.",
+  "key_insights": [
+    "Government ITI total fees often under ₹10,000 — the lowest legitimate skill-acquisition cost in any Indian career path; SC/ST students often free.",
+    "Certified welders (NCVT-affiliated) routinely earn ₹50K-1L/month in Gulf countries — one of the fastest middle-income migration routes from India.",
+    "Solar PV technician and EV technician trades are growing 20%+ annually post FAME-II and PM-KUSUM; NSDC adding new courses every year.",
+    "ITI graduates have lateral-entry to second year of Polytechnic Diploma — earn during ITI, save, then upgrade to engineering technician roles at ₹35-45K/month govt JE pay.",
+    "PSU recruitment (Railways RRB, BHEL, NTPC, SAIL, Defence DRDO) reserves a large share for ITI/NCVT-certified candidates — far higher hiring volume than B.Tech graduates."
+  ],
+  "sub_paths": [
+    {
+      "id": "TRD-01",
+      "name": "Electrician (ITI)",
+      "description": "2-year NCVT trade — electrical wiring, transmission lines, machinery. Highest-demand trade with PSU + private + Gulf options.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "8th/10th pass; 12th not required",
+      "entry_route": "Diploma (ITI / NCVT)",
+      "qualification": "ITI Electrician Trade Certificate (NCVT/SCVT) → National Trade Certificate (NTC) after AITT exam",
+      "duration": [
+        "2 years + 150 hrs OJT (DGT 2026 reform)"
+      ],
+      "entrance_exam": "State ITI entrance / merit-based admission on 10th marks",
+      "govt_fees": "₹1,000-5,000/year at govt ITIs; total under ₹10,000",
+      "private_fees": "₹15,000-50,000/year at private ITIs",
+      "top_institutions": [
+        "Govt ITI Mumbai (govt)",
+        "Govt ITI Delhi (govt)",
+        "Govt ITI Pusa Delhi (govt)",
+        "Govt ITI Surat (govt)",
+        "Govt ITI Chennai (govt)",
+        "Maharashtra State Council of Vocational Training (govt)"
+      ],
+      "scholarships": [
+        "Pre-Matric/Post-Matric SC/ST scholarships",
+        "PM Kaushal Vikas Yojana",
+        "state ITI free schemes for reserved categories",
+        "NAPS apprenticeship stipends ₹7,500-9,000/month"
+      ],
+      "abroad_pathways": "Gulf demand strong (UAE, Saudi, Qatar) — certified electricians earn ₹50K-1L/month. Australia/Canada via skilled migration after additional A-grade certification.",
+      "day_in_life": "Wiring installation at construction sites, machinery maintenance in factories, fault-finding and repair, occasional night-shift emergency work. Manual labour with safety gear.",
+      "growth_path": "Trainee Electrician → Skilled Electrician → Foreman → Supervisor / contractor running own crew. PSU route via Railways/state SEBs at ₹18-30K start.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 1.2-2.4 LPA (₹10-20K/month) / Mid: 2.5-4.5 LPA / Senior (self-employed contractor): 5-15 LPA. Note: State SEB lineman ₹18-30K/month govt; Gulf certified ₹50K-1L/month. Source: NCVT MIS, DGT, Glassdoor 2026.",
+      "confidence": "high",
+      "domainId": "trd",
+      "domainTitle": "Skilled Trades & Vocational",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "TRD-02",
+      "name": "Welder (ITI)",
+      "description": "1-2 year NCVT trade — arc, MIG, TIG welding. Very high demand in shipbuilding, pipeline, construction; one of the highest Gulf-pay trades.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "8th pass; 12th not required",
+      "entry_route": "Diploma (ITI / NCVT)",
+      "qualification": "ITI Welder Trade Certificate + AWS / 3G / 6G welder certifications",
+      "duration": [
+        "1 year (NCVT) + advanced specialty certs 3-6 mo each"
+      ],
+      "entrance_exam": "State ITI entrance / merit-based",
+      "govt_fees": "₹1,000-5,000/year govt ITI; under ₹10,000 total",
+      "private_fees": "₹15,000-50,000/year private; AWS-certified welder courses 30,000-1.5 lakh",
+      "top_institutions": [
+        "Govt ITI Mumbai/Delhi/Pune (govt)",
+        "Larsen & Toubro Construction Skills Training Inst (semi-govt CSR)",
+        "Welding Research Institute Tiruchirappalli (govt, CSIR-WRI)",
+        "Indian Institute of Welding Calcutta (NGO)",
+        "Cochin Shipyard Apprentice Centre (govt)",
+        "Hindustan Shipyard Visakhapatnam (govt)"
+      ],
+      "scholarships": [
+        "NSDC PMKVY",
+        "L&T Build India",
+        "Cochin Shipyard apprenticeship stipend",
+        "ESI/EPF benefits"
+      ],
+      "abroad_pathways": "Strongest Gulf trade — UAE/Saudi/Qatar shipyards and pipelines pay ₹60K-1.2L/month for 6G certified welders. Australia/Canada via skilled migration.",
+      "day_in_life": "Welding fabrication on shop floor, site work in pipelines/shipyards. Heavy PPE required (helmet, gloves, fire-resistant clothing). Physically demanding.",
+      "growth_path": "Trainee → Skilled Welder → Specialty Welder (6G, TIG) → Welding Inspector (CSWIP/AWS-CWI cert). Inspector roles 8-15 LPA; supervisor 5-10 LPA.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 1.5-3 LPA (₹12-25K/month) / Mid: 3-7 LPA / Senior (Inspector/abroad): 8-15 LPA. Note: Gulf specialty welders ₹60K-1.2L/month tax-free; CSWIP-certified domestic 8-12L. Source: NCVT, AWS India.",
+      "confidence": "high",
+      "domainId": "trd",
+      "domainTitle": "Skilled Trades & Vocational",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "TRD-03",
+      "name": "Fitter (ITI)",
+      "description": "2-year NCVT trade — mechanical fitting, assembly, machine maintenance in manufacturing/automotive.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "10th pass with Maths and Science",
+      "entry_route": "Diploma (ITI / NCVT)",
+      "qualification": "ITI Fitter Trade Certificate (NCVT)",
+      "duration": [
+        "2 years + 150 hrs OJT"
+      ],
+      "entrance_exam": "State ITI entrance / merit-based",
+      "govt_fees": "₹1,000-5,000/year; under ₹10,000 total",
+      "private_fees": "₹15,000-50,000/year",
+      "top_institutions": [
+        "Govt ITIs (multiple, govt)",
+        "Maruti Suzuki Training Academy Manesar (firm)",
+        "Tata Motors Skill Centre (firm)",
+        "Mahindra Skill Centre (firm)",
+        "Bosch Vocational Centre (firm)",
+        "Hero MotoCorp Training Centre (firm)"
+      ],
+      "scholarships": [
+        "NSDC PMKVY",
+        "Maruti Suzuki cadet program",
+        "NAPS apprenticeship stipends"
+      ],
+      "abroad_pathways": "Gulf manufacturing/petrochem sector hires fitters at ₹45-70K/month. Limited non-Gulf pathways without bridging quals.",
+      "day_in_life": "Component assembly, dimension measurement, machine maintenance and dismantling, blueprint reading. Shop floor work in automotive/manufacturing plants.",
+      "growth_path": "Trainee → Skilled Fitter → Charge Hand → Foreman. Maruti/Tata/Mahindra hire fitters extensively; PSU route via SAIL/BHEL pays better.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 1.4-2.6 LPA / Mid: 3-5 LPA / Senior: 5-12 LPA. Note: Maruti/Tata fitter 2-4L start; PSU SAIL/BHEL via Apprentice exam 3-4.5L. Source: NCVT, AmbitionBox.",
+      "confidence": "high",
+      "domainId": "trd",
+      "domainTitle": "Skilled Trades & Vocational",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "TRD-04",
+      "name": "Diesel Mechanic / Automotive Mechanic (ITI)",
+      "description": "1-2 year NCVT trade — engine repair, vehicle maintenance, heavy machinery. Strong demand in logistics, mining, transport.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "8th/10th pass",
+      "entry_route": "Diploma (ITI / NCVT)",
+      "qualification": "ITI Mechanic Diesel / Mechanic Motor Vehicle Trade Certificate",
+      "duration": [
+        "1 year (Diesel) / 2 years (Motor Vehicle)"
+      ],
+      "entrance_exam": "State ITI entrance",
+      "govt_fees": "₹1,000-5,000/year; under ₹10,000 total",
+      "private_fees": "₹15,000-50,000/year",
+      "top_institutions": [
+        "Govt ITIs (multiple, govt)",
+        "Ashok Leyland Driver Training Centre (firm)",
+        "Tata Motors Service Training (firm)",
+        "Maruti Suzuki Service Training (firm)",
+        "Mahindra Service Training (firm)",
+        "Cummins India Skill Centre (firm)"
+      ],
+      "scholarships": [
+        "NSDC PMKVY",
+        "OEM-funded apprentice stipends",
+        "DDU-GKY for rural youth"
+      ],
+      "abroad_pathways": "Gulf transport/logistics hire diesel mechanics at ₹50-80K/month. Australia heavy-vehicle technician pathway via TAFE bridges.",
+      "day_in_life": "Engine diagnostics, vehicle servicing, breakdown repair, fleet maintenance for trucking firms or in OEM dealerships.",
+      "growth_path": "Trainee → Skilled Mechanic → Service Advisor → Workshop Manager. Self-employed garage owners earn ₹40K-1L/month routinely after 5-10 yrs.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 1.4-2.6 LPA / Mid: 3-6 LPA / Senior (workshop owner): 6-15 LPA. Note: Authorized OEM dealerships 2.5-4.5L start; logistics firms (TCI, GATI) higher; Gulf 6-10L. Source: AmbitionBox.",
+      "confidence": "high",
+      "domainId": "trd",
+      "domainTitle": "Skilled Trades & Vocational",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "TRD-05",
+      "name": "AC / Refrigeration Technician (ITI)",
+      "description": "1-2 year NCVT trade — split AC, central HVAC, commercial refrigeration installation and repair. Booming demand in tier-2/3 cities.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "10th pass",
+      "entry_route": "Diploma (ITI / NCVT)",
+      "qualification": "ITI Mechanic Refrigeration & AC (R&AC) Trade Certificate",
+      "duration": [
+        "2 years + 150 hrs OJT"
+      ],
+      "entrance_exam": "State ITI entrance",
+      "govt_fees": "₹1,000-5,000/year",
+      "private_fees": "₹15,000-50,000/year",
+      "top_institutions": [
+        "Govt ITIs (multiple, govt)",
+        "Bluestar Technical Training (firm)",
+        "Voltas Service Training Centre (firm)",
+        "Daikin India Skill Centre (firm)",
+        "LG Service Training (firm)",
+        "Carrier India Training (firm)"
+      ],
+      "scholarships": [
+        "NSDC PMKVY",
+        "OEM apprentice stipends (Daikin, LG, Voltas)",
+        "DDU-GKY"
+      ],
+      "abroad_pathways": "Gulf HVAC sector massive demand — UAE/Saudi/Qatar pay ₹50-90K/month for HVAC technicians. Singapore service-industry similar.",
+      "day_in_life": "Customer-site AC installation/servicing, freon refilling, fault diagnosis, occasional commercial site work (malls, offices). Lots of travel within city.",
+      "growth_path": "Trainee → Skilled Technician → Senior Technician → Service Manager / Self-employed. Shop owners with 3-5 staff earn ₹40K-1.5L/month.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 1.5-3 LPA / Mid: 3-6 LPA / Senior (self-employed): 6-15 LPA. Note: Brand-authorised technicians (Daikin, LG) 2.5-5L; Gulf 6-12L. Source: AmbitionBox, NCVT.",
+      "confidence": "high",
+      "domainId": "trd",
+      "domainTitle": "Skilled Trades & Vocational",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "TRD-06",
+      "name": "Plumber (ITI)",
+      "description": "1-year NCVT trade — water supply, sanitary fixtures, drainage, pipe-fitting. Heavy demand in real-estate / urban housing growth.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "8th/10th pass",
+      "entry_route": "Diploma (ITI / NCVT)",
+      "qualification": "ITI Plumber Trade Certificate",
+      "duration": [
+        "1 year"
+      ],
+      "entrance_exam": "State ITI entrance",
+      "govt_fees": "₹1,000-5,000/year",
+      "private_fees": "₹15,000-40,000/year",
+      "top_institutions": [
+        "Govt ITIs (multiple, govt)",
+        "Indian Plumbing Skills Council Delhi (semi-govt, NSDC affiliated)",
+        "Jaquar Academy Bhiwadi (firm)",
+        "Hindware Skill Centre (firm)",
+        "Cera Skill Centre (firm)",
+        "Indian Plumbing Association Training Centres (NGO)"
+      ],
+      "scholarships": [
+        "NSDC PMKVY",
+        "DDU-GKY rural youth scheme",
+        "OEM apprentice stipends (Jaquar, Hindware)"
+      ],
+      "abroad_pathways": "Gulf real-estate boom hires Indian plumbers at ₹40-70K/month. UK/Australia plumber pathways possible after additional certifications (NVQ, etc).",
+      "day_in_life": "Site work in residential/commercial buildings, repair calls in homes, drain cleaning, fixture installation. Self-employed plumbers manage own schedule.",
+      "growth_path": "Trainee → Skilled Plumber → Master Plumber → Self-employed contractor. Self-employed plumbers in metros earn ₹30-80K/month routinely.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 1.2-2.4 LPA / Mid: 2.5-5 LPA / Senior (self-employed): 5-12 LPA. Note: Self-employment is the high-pay route; salaried plumber pay caps lower. Source: AmbitionBox, IPA.",
+      "confidence": "high",
+      "domainId": "trd",
+      "domainTitle": "Skilled Trades & Vocational",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "TRD-07",
+      "name": "Carpenter (ITI / NSDC)",
+      "description": "1-year NCVT trade — wooden furniture, modular interiors, finish carpentry, site joinery work.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "8th pass",
+      "entry_route": "Diploma (ITI / NCVT) / Certification (NSDC)",
+      "qualification": "ITI Carpenter Trade Certificate / NSDC Furniture & Fittings short course",
+      "duration": [
+        "1 year (ITI) / 3-6 mo (NSDC)"
+      ],
+      "entrance_exam": "State ITI entrance / NSDC enrollment",
+      "govt_fees": "₹1,000-5,000/year ITI",
+      "private_fees": "₹10,000-40,000 NSDC; private 30,000-80,000",
+      "top_institutions": [
+        "Govt ITIs (govt)",
+        "Furniture & Fittings Skill Council Delhi (semi-govt, NSDC SSC)",
+        "Godrej Interio Training Centre (firm)",
+        "Sleek (Asian Paints) Training (firm)",
+        "Hettich India Modular Training (firm)",
+        "IKEA Indian Supplier Training (firm)"
+      ],
+      "scholarships": [
+        "NSDC PMKVY",
+        "DDU-GKY"
+      ],
+      "abroad_pathways": "Gulf and Africa real-estate demand for finish carpenters; Indian craftsmen prized for traditional woodwork (UAE-based hotels, Saudi palaces).",
+      "day_in_life": "Workshop fabrication of furniture, on-site interior installation, repair and refinishing work. Mix of workshop and customer-site work.",
+      "growth_path": "Trainee → Skilled Carpenter → Master Craftsman → Self-employed / shop owner. Modular kitchen/wardrobe specialists in metros earn well.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 1.2-2.4 LPA / Mid: 2.5-5 LPA / Senior (self-employed): 5-15 LPA. Note: Modular kitchen specialists ₹30K-1L/month; site labourer end ₹10-15K/month. Source: NSDC, AmbitionBox.",
+      "confidence": "medium",
+      "domainId": "trd",
+      "domainTitle": "Skilled Trades & Vocational",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "TRD-08",
+      "name": "Mason / Construction Skills (NSDC)",
+      "description": "Short-duration NSDC course in masonry, bricklaying, plastering, formwork — backbone of India's construction sector.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "8th pass; literacy not always required",
+      "entry_route": "Certification (NSDC)",
+      "qualification": "Construction Skill Development Council (CSDCI) certification",
+      "duration": [
+        "3-6 months"
+      ],
+      "entrance_exam": "Direct enrollment at NSDC training partners",
+      "govt_fees": "Free under PMKVY for eligible candidates",
+      "private_fees": "₹10,000-30,000",
+      "top_institutions": [
+        "Construction Skill Development Council India (CSDCI, semi-govt SSC)",
+        "L&T Construction Skills Training Inst (firm CSR)",
+        "Tata Projects Skill Centre (firm)",
+        "B.G. Shirke Construction Training (firm)",
+        "DDU-GKY rural skill centres (govt)",
+        "RPL (Recognition of Prior Learning) certifications under PMKVY"
+      ],
+      "scholarships": [
+        "PMKVY full course fee covered + ₹500-1,500 monthly stipend",
+        "DDU-GKY for rural youth ₹3,000-9,000/month",
+        "NREGA construction training in some states"
+      ],
+      "abroad_pathways": "Gulf construction labour pathway hires Indian masons at ₹35-60K/month. UAE/Saudi mega-projects (NEOM, Expo) prized destinations.",
+      "day_in_life": "Construction-site brick laying, plastering, RCC formwork, finishing. Physically intensive outdoor work; site rotations.",
+      "growth_path": "Trainee → Skilled Mason → Mistry/Foreman → Subcontractor. Subcontractors with crews of 10-30 workers earn ₹50K-3L/month.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 1.2-2.4 LPA / Mid: 2.4-4.5 LPA / Senior (subcontractor): 4-12 LPA. Note: Daily-wage masons ₹500-1,200/day; certified PMKVY 2.5-4L start; Gulf labour 4-8L. Source: NSDC, CSDCI.",
+      "confidence": "medium",
+      "domainId": "trd",
+      "domainTitle": "Skilled Trades & Vocational",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "TRD-09",
+      "name": "CNC Operator / Machinist (ITI)",
+      "description": "2-year NCVT trade — Computer Numerical Control machine programming and operation; high-precision manufacturing.",
+      "streams": [
+        "Maths"
+      ],
+      "min_12th_percent": "10th pass with Maths/Science",
+      "entry_route": "Diploma (ITI / NCVT)",
+      "qualification": "ITI CNC Operator / Machinist Trade Certificate",
+      "duration": [
+        "2 years + 150 hrs OJT"
+      ],
+      "entrance_exam": "State ITI entrance / merit-based",
+      "govt_fees": "₹1,000-5,000/year",
+      "private_fees": "₹15,000-60,000/year (incl. CNC simulators access)",
+      "top_institutions": [
+        "Govt ITIs (multiple, govt)",
+        "CIPET Chennai/Lucknow (govt, plastics-CNC)",
+        "Bosch Vocational Centre (firm)",
+        "Tata Motors Training Centre (firm)",
+        "Hindustan Aeronautics Training (govt firm)",
+        "Mahindra Skill Centre (firm)"
+      ],
+      "scholarships": [
+        "NSDC PMKVY",
+        "OEM apprenticeships (Bosch, Tata, Mahindra)",
+        "NAPS stipends ₹7,500-9,000/month"
+      ],
+      "abroad_pathways": "Gulf precision-mfg sector hires CNC operators at ₹50-80K/month. Germany Ausbildung dual-vocational pathway possible for top performers.",
+      "day_in_life": "CNC programming/operation in factories, dimension QA, tool changes, basic G-code work. Cleaner factory conditions than welding/fitting trades.",
+      "growth_path": "Trainee → CNC Operator → CNC Programmer → Production Supervisor. CAD/CAM upskill leads to design-engineer track at ₹6-12L.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 1.8-3.6 LPA / Mid: 3.5-7 LPA / Senior (programmer): 6-14 LPA. Note: Auto components (Bosch, ZF) 3-5L start; aerospace/defence CNC higher. Source: AmbitionBox, NCVT.",
+      "confidence": "high",
+      "domainId": "trd",
+      "domainTitle": "Skilled Trades & Vocational",
+      "streamIds": [
+        "maths"
+      ]
+    },
+    {
+      "id": "TRD-10",
+      "name": "Turner (ITI)",
+      "description": "2-year NCVT trade — lathe operation for cylindrical metal work; precision turning, threading, knurling.",
+      "streams": [
+        "Maths"
+      ],
+      "min_12th_percent": "10th pass with Maths and Science",
+      "entry_route": "Diploma (ITI / NCVT)",
+      "qualification": "ITI Turner Trade Certificate",
+      "duration": [
+        "2 years + 150 hrs OJT"
+      ],
+      "entrance_exam": "State ITI entrance",
+      "govt_fees": "₹1,000-5,000/year",
+      "private_fees": "₹15,000-50,000/year",
+      "top_institutions": [
+        "Govt ITIs (govt)",
+        "BHEL Apprentice Centre (govt)",
+        "SAIL Training Centre (govt)",
+        "HAL Training (govt)",
+        "Mazagon Dock Apprentice School (govt)",
+        "Cochin Shipyard Apprentice (govt)"
+      ],
+      "scholarships": [
+        "NSDC PMKVY",
+        "PSU apprentice stipends (BHEL, SAIL, HAL)",
+        "NAPS"
+      ],
+      "abroad_pathways": "Gulf manufacturing hires turners at ₹45-65K/month; less common than welder/fitter migration.",
+      "day_in_life": "Lathe machine operation in workshop/factory, precision dimension work, blueprint reading. Indoor shop work; cleaner than welder trade.",
+      "growth_path": "Trainee → Skilled Turner → Charge Hand → Senior Operator. PSU apprentice → permanent absorption common in BHEL/SAIL.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 1.4-2.6 LPA / Mid: 3-5 LPA / Senior: 5-10 LPA. Note: PSU permanent post 3.5-5L; private precision turning 2.5-4L; Gulf 5-8L. Source: NCVT, BHEL.",
+      "confidence": "medium",
+      "domainId": "trd",
+      "domainTitle": "Skilled Trades & Vocational",
+      "streamIds": [
+        "maths"
+      ]
+    },
+    {
+      "id": "TRD-11",
+      "name": "Electronics Mechanic (ITI)",
+      "description": "2-year NCVT trade — electronics assembly, repair of consumer electronics, telecom equipment, instrumentation.",
+      "streams": [
+        "Maths"
+      ],
+      "min_12th_percent": "10th pass with Maths/Science",
+      "entry_route": "Diploma (ITI / NCVT)",
+      "qualification": "ITI Electronics Mechanic Trade Certificate",
+      "duration": [
+        "2 years + 150 hrs OJT"
+      ],
+      "entrance_exam": "State ITI entrance",
+      "govt_fees": "₹1,000-5,000/year",
+      "private_fees": "₹15,000-50,000/year",
+      "top_institutions": [
+        "Govt ITIs (govt)",
+        "C-DAC ACTS Pune (govt, advanced)",
+        "Samsung India Service Training (firm)",
+        "LG Service Training (firm)",
+        "Bharat Electronics Apprentice Centre (govt)",
+        "ISRO Apprentice Centre (govt)"
+      ],
+      "scholarships": [
+        "NSDC PMKVY",
+        "ISRO apprentice stipend",
+        "BEL apprentice stipend",
+        "OEM apprenticeships"
+      ],
+      "abroad_pathways": "Gulf electronics service hiring at ₹40-65K/month; SE Asia (Singapore, Malaysia) electronics-mfg sector also.",
+      "day_in_life": "PCB-level repair, soldering, test instrument operation, customer-site service calls. Indoor workshop and field-call mix.",
+      "growth_path": "Trainee → Service Technician → Senior Tech → Service Manager / Self-employed. Mobile/laptop repair entrepreneurs earn well.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 1.4-2.6 LPA / Mid: 3-5.5 LPA / Senior: 5-12 LPA. Note: Authorized service centres (Samsung, LG, Apple) 2.5-4L; mobile repair shops self-employed 3-10L. Source: AmbitionBox.",
+      "confidence": "medium",
+      "domainId": "trd",
+      "domainTitle": "Skilled Trades & Vocational",
+      "streamIds": [
+        "maths"
+      ]
+    },
+    {
+      "id": "TRD-12",
+      "name": "Solar PV Technician (NSDC)",
+      "description": "Short-duration NSDC course — solar panel installation, maintenance, on-grid/off-grid systems. Fastest-growing trade post-PM-KUSUM.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "10th pass with Maths/Science",
+      "entry_route": "Certification (NSDC)",
+      "qualification": "NCVT-NSDC Solar PV Installer (Suryamitra programme) / Solar Technician cert",
+      "duration": [
+        "3 months (Suryamitra) / 6-12 mo extended"
+      ],
+      "entrance_exam": "Direct enrollment at MNRE-recognized centres",
+      "govt_fees": "Free under Suryamitra Skill Development scheme",
+      "private_fees": "₹15,000-60,000 private",
+      "top_institutions": [
+        "National Institute of Solar Energy Gurugram (govt, MNRE)",
+        "NISE-affiliated training centres (govt)",
+        "Skill Council for Green Jobs Delhi (semi-govt)",
+        "TERI School of Advanced Studies (private)",
+        "Tata Power Solar training (firm)",
+        "Adani Solar Skill Centre (firm)"
+      ],
+      "scholarships": [
+        "Suryamitra free training + stipend ₹3,500-7,500/month",
+        "PMKVY",
+        "MNRE training subsidy"
+      ],
+      "abroad_pathways": "Gulf and African solar projects increasingly hire Indian-trained technicians; Saudi 'Vision 2030' solar push paying ₹50-80K/month.",
+      "day_in_life": "Rooftop installation work (residential and commercial), wiring inverters, panel cleaning/maintenance, grid-connection testing. Outdoor hands-on work.",
+      "growth_path": "Suryamitra → Senior Technician → Project Coordinator → Site Engineer (with B.Tech upskill). Solar EPC firms (Tata Power, Adani, Vikram Solar) hire heavily.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 1.5-3 LPA / Mid: 3-6 LPA / Senior: 6-12 LPA. Note: Tata/Adani solar EPC 3-5L; rooftop installer entrepreneurs 5-15L. Source: NSDC, MNRE Suryamitra.",
+      "confidence": "medium",
+      "domainId": "trd",
+      "domainTitle": "Skilled Trades & Vocational",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "TRD-13",
+      "name": "Beautician / Cosmetology (NSDC / ITI)",
+      "description": "Short-duration NSDC/B&WSSC certification — hair, skin, nail care; salon work or self-employment. Largely female-dominated trade with strong demand.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "8th pass commonly accepted",
+      "entry_route": "Certification (NSDC) / Diploma",
+      "qualification": "NSDC Beauty & Wellness Council (B&WSSC) certified Beautician / Cosmetology Diploma",
+      "duration": [
+        "3-12 months"
+      ],
+      "entrance_exam": "Direct enrollment",
+      "govt_fees": "Free under PMKVY for eligible candidates",
+      "private_fees": "VLCC, Lakme, Shahnaz Husain academies 30,000-2 lakh",
+      "top_institutions": [
+        "VLCC Institute of Beauty & Nutrition (private, India network)",
+        "Lakmé Academy (firm, India network)",
+        "Shahnaz Husain Beauty Academy (firm)",
+        "Govt ITIs - Beauty & Hair Care trade (govt)",
+        "Beauty & Wellness Sector Skill Council Delhi (semi-govt, NSDC SSC)",
+        "Jawed Habib Academy (firm)"
+      ],
+      "scholarships": [
+        "PMKVY free + stipend",
+        "DDU-GKY rural youth",
+        "Mahila Samakhya for women"
+      ],
+      "abroad_pathways": "Gulf salon industry heavy hiring; Indian beauticians at UAE/Saudi salons earn ₹50-80K/month + tips. Spa/cruise-line industry global.",
+      "day_in_life": "Salon-based hair styling, facials, threading, makeup; self-employed beauticians do home visits. Long standing hours.",
+      "growth_path": "Trainee → Beautician → Senior Stylist → Salon Owner / Bridal Specialist. Bridal makeup artists in metros earn ₹15K-1L per assignment.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 1.2-3 LPA / Mid: 3-7 LPA / Senior (salon owner / bridal): 6-25 LPA. Note: Bridal makeup artists in tier-1 cities earn premium; chain salons (Lakme, Naturals) 2-4L start. Source: NSDC B&WSSC, AmbitionBox.",
+      "confidence": "high",
+      "domainId": "trd",
+      "domainTitle": "Skilled Trades & Vocational",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "TRD-14",
+      "name": "Chef / Cook / Bakery (NSDC / IHM)",
+      "description": "Diploma/short certification — commercial kitchens, hotel F&B, bakery confectionery, cloud kitchens. India's restaurant sector growing 15%+ yearly.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "10th pass for diploma; 12th for IHM craft courses",
+      "entry_route": "Diploma / Certification",
+      "qualification": "Craftsmanship Cook / Bakery diploma / NSDC F&B cert",
+      "duration": [
+        "6 mo to 1.5 yr"
+      ],
+      "entrance_exam": "IHM craft entrance; direct enrollment for short courses",
+      "govt_fees": "IHM Mumbai/Delhi craft 50,000-1.5 lakh total; FCI Bakery 30,000-80,000",
+      "private_fees": "IICA/Cordon Bleu/IHM Aurangabad 1.5-6 lakh; private culinary 1-4 lakh",
+      "top_institutions": [
+        "Institute of Hotel Management (IHM) Mumbai/Delhi/Pusa (govt)",
+        "Food Craft Institutes - state-level (govt)",
+        "Welcomgroup Graduate School Manipal (private)",
+        "Le Cordon Bleu India (Dehradun) (private)",
+        "IICA Indian Inst of Culinary Arts (private)",
+        "Tourism & Hospitality Skill Council Delhi (semi-govt, NSDC)"
+      ],
+      "scholarships": [
+        "PMKVY",
+        "DDU-GKY",
+        "National Council Hotel Mgmt scholarships",
+        "Taj/Oberoi/ITC apprenticeships"
+      ],
+      "abroad_pathways": "Gulf hotels, cruise ships, UK/Australia restaurant industry hire heavily — Indian-trained chefs in Dubai/Doha earn ₹50K-1.5L/month.",
+      "day_in_life": "Hotel/restaurant kitchen prep, station-by-station service, opening/closing duties; bakery early-morning shifts.",
+      "growth_path": "Commis Chef → Demi Chef → Chef de Partie → Sous Chef → Executive Chef → Director of F&B. Cloud-kitchen and food-startup founder route also growing.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 1.5-3.5 LPA / Mid: 4-10 LPA / Senior (Exec Chef / restaurant owner): 12-50 LPA. Note: 5-star chefs (Taj, Oberoi) 6-15L mid-career; cruise ships USD 1500-3000/mo. Source: AmbitionBox, IHM placements.",
+      "confidence": "high",
+      "domainId": "trd",
+      "domainTitle": "Skilled Trades & Vocational",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "TRD-15",
+      "name": "Tailor / Garment Maker (NSDC / ITI)",
+      "description": "ITI Sewing Technology / NSDC garment-construction trade — tailoring, alterations, garment factory line work, boutique work.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "8th pass; literacy basics needed",
+      "entry_route": "Diploma (ITI) / Certification (NSDC ATDC)",
+      "qualification": "ITI Sewing Tech / Apparel Made-Ups & Home Furnishing (AMH) Trade Cert / ATDC garment cert",
+      "duration": [
+        "1-2 years"
+      ],
+      "entrance_exam": "Direct enrollment / state ITI entrance",
+      "govt_fees": "₹1,000-5,000/year ITI; ATDC programmes ₹5,000-30,000",
+      "private_fees": "₹15,000-50,000",
+      "top_institutions": [
+        "Apparel Training & Design Centre (ATDC) - 200+ centres (semi-govt, AEPC)",
+        "Govt ITIs - Sewing Tech (govt)",
+        "Apparel Made-Ups & Home Furnishings Sector Skill Council (semi-govt, NSDC SSC)",
+        "NIFT Continuing Education (govt, advanced)",
+        "Singer Sewing Academy (firm)",
+        "Usha Sewing School (firm)"
+      ],
+      "scholarships": [
+        "PMKVY",
+        "DDU-GKY",
+        "ISDS (Integrated Skill Development Scheme) AEPC",
+        "stipend during ATDC training"
+      ],
+      "abroad_pathways": "Bangladesh/Vietnam/Sri Lanka garment-factory supervisor roles for experienced Indian tailors. Some boutique pathways to UAE.",
+      "day_in_life": "Garment factory line operation OR boutique custom tailoring OR own shop. Sewing machine operation, pattern cutting, finishing.",
+      "growth_path": "Trainee → Operator → Line Lead → Floor Supervisor / Boutique Owner. Boutique designers serving urban customers earn well.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 1.2-2.4 LPA / Mid: 2.5-5 LPA / Senior (boutique owner): 5-15 LPA. Note: Garment factory line 1.2-2L; bespoke tailoring (urban) 4-12L; bridal boutique premium. Source: ATDC, AEPC.",
+      "confidence": "medium",
+      "domainId": "trd",
+      "domainTitle": "Skilled Trades & Vocational",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "TRD-16",
+      "name": "Retail Associate / Sales Skills (NSDC RASCI)",
+      "description": "Short-duration NSDC Retailers Association SSC training — store associate, customer service, inventory mgmt. Massive volume hiring.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "10th pass commonly",
+      "entry_route": "Certification (NSDC) / Skill-first",
+      "qualification": "RASCI (Retailers Association Skill Council of India) certification",
+      "duration": [
+        "2-6 months"
+      ],
+      "entrance_exam": "Direct enrollment",
+      "govt_fees": "Free under PMKVY",
+      "private_fees": "₹5,000-30,000",
+      "top_institutions": [
+        "Retailers Association Skill Council of India (RASCI) - NSDC SSC (semi-govt)",
+        "Future Group Reliance Retail in-house training (firm)",
+        "DMart Training Academy (firm)",
+        "Croma / Tata Trent Training Centres (firm)",
+        "Big Bazaar Internal Training Programmes (firm; legacy)",
+        "Lifestyle / Shoppers Stop in-house Academy (firm)"
+      ],
+      "scholarships": [
+        "PMKVY free + stipend",
+        "DDU-GKY rural youth"
+      ],
+      "abroad_pathways": "Gulf retail hires Indian-trained staff at ₹35-50K/month; Singapore/Malaysia retail also.",
+      "day_in_life": "Customer service on shop floor, billing, inventory, visual merchandising. Long standing hours; weekends and evenings busy.",
+      "growth_path": "Sales Associate → Senior Associate → Section Lead → Store Manager → Area Manager. Retail mgmt MBA pathway viable for top performers.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 1.5-2.4 LPA / Mid: 2.5-5 LPA / Senior (Store Manager): 5-12 LPA. Note: Reliance/DMart/Croma 1.8-3L start; mall retail 2-3L; performance incentives common. Source: AmbitionBox, RASCI.",
+      "confidence": "high",
+      "domainId": "trd",
+      "domainTitle": "Skilled Trades & Vocational",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    }
+  ],
+  "confidence_notes": [
+    "Govt ITI fees verified via state ITI directorates and DGT MIS portal; ₹1,000-5,000/year is the typical range with some variation by state.",
+    "Salary data for ITI trades is sparse on AmbitionBox/Glassdoor since employers are smaller and informal; ranges drawn from NCVT placement disclosures, OEM training centre data, and field reports.",
+    "DGT 2026 OJT mandate (150 hours, March 2 2026) verified from DGT notifications.",
+    "Solar PV Technician confidence 'medium' — Suryamitra figures from MNRE; private-sector salary spread is wide and rapidly changing.",
+    "Carpenter, Mason, Tailor confidence 'medium' — informal sector pay variability is high; ranges should be treated as central tendency with significant individual variation.",
+    "Gulf-pay figures verified through migrant-worker recruitment agency data; tax-free status applies if NRI status met."
+  ]
+}

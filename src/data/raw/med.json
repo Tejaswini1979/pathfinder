@@ -1,0 +1,748 @@
+{
+  "domain": "Medicine & Healthcare",
+  "domain_id": "MED",
+  "overview": "Medicine in India is far broader than MBBS. Roughly 1.1M students take NEET UG annually for ~110,000 MBBS seats; the rest get filtered into BDS, AYUSH, nursing, and allied health — many of which are excellent careers but treated as 'consolation' paths. The 2026 reality: allied health (Audiology, Optometry, Perfusion, Speech-Language Pathology) often has better job security and faster entry to abroad work than mid-tier MBBS routes. Government MBBS fees stay between 7,000 and 6 lakh total; private medical colleges range up to 1 crore for the full degree — which has created a brutal financial barrier and pushed thousands toward MBBS abroad (Russia, Georgia, Philippines, Kazakhstan). Pharmacy, Nursing and Physiotherapy are now post-2025 NEET-mandatory in many states, raising entry standards.",
+  "key_insights": [
+    "Audiology and Speech-Language Pathology have a working professional shortage of roughly 95% in India — fewer than 5,000 SLPs serve a population of ~50M with communication disorders.",
+    "BSc Perfusion Technology, Cardiac Care Technology, and Operation Theatre Technology pay 4-12 LPA fresh in metro corporate hospitals — almost nobody knows these exist after 12th.",
+    "MBBS abroad (Russia, Kazakhstan) total cost 25-40 lakh — the same as a private MBBS in India tier-2 — but FMGE/NExT pass rates are still under 30%, so it is not a guaranteed bypass.",
+    "BAMS and BHMS graduates can prescribe allopathy in some states' rural areas after bridge courses — practical scope is wider than the formal degree suggests.",
+    "Veterinary Science graduates from TANUVAS, IVRI, or GADVASU have near-100% placement in govt extension services, breeders, dairy/poultry industry — vastly under-applied vs the 1L+ NEET-UG seats it competes with."
+  ],
+  "sub_paths": [
+    {
+      "id": "MED-01",
+      "name": "MBBS (Medicine)",
+      "description": "Bachelor of Medicine and Bachelor of Surgery — the standard allopathic medicine degree leading to clinical practice or PG specialization.",
+      "streams": [
+        "Bio"
+      ],
+      "min_12th_percent": "50% PCB (General); 40% reserved categories; NEET cutoff dominant",
+      "entry_route": "Govt exam (NEET UG)",
+      "qualification": "MBBS",
+      "duration": "5.5 years (4.5 academic + 1 yr internship)",
+      "entrance_exam": "NEET UG (May 3, 2026)",
+      "govt_fees": "AIIMS ~7,000 total; central govt colleges 2-6 lakh; state govt 50,000-3 lakh total",
+      "private_fees": "60 lakh to 1.2 Cr (deemed universities, private colleges)",
+      "top_institutions": [
+        "AIIMS Delhi (govt)",
+        "JIPMER Puducherry (govt)",
+        "CMC Vellore (semi-govt/Christian)",
+        "AFMC Pune (govt, defence)",
+        "Maulana Azad Medical College Delhi (govt)",
+        "KGMU Lucknow (govt)"
+      ],
+      "scholarships": [
+        "AIIMS scholarships",
+        "Central Sector Scholarship",
+        "Dr. Ambedkar Foundation",
+        "PM-USP National Means-cum-Merit"
+      ],
+      "abroad_pathways": "USMLE for USA (₹5-8L exam + residency match); PLAB/UKMLA for UK; AMC for Australia. PG abroad route 4-7 years post-MBBS. Common to do PG in India then move.",
+      "day_in_life": "Long hospital hours (12-18 hrs in clinical years); ward rounds, emergencies, surgeries; intern stipend ₹15-30K/month govt.",
+      "growth_path": "Intern to JR (PG) to SR to Asst Prof to Asso Prof to Prof / Consultant. PG (NEET PG via NExT from 2026) determines specialization. Private practice possible post-MD/MS.",
+      "underrated": false,
+      "low_budget": false,
+      "low_percent": false,
+      "salary_bands": "Fresher (post-internship, MBBS only): 3-8 LPA / Mid (post-PG MD/MS): 12-30 LPA / Senior consultant: 30 LPA-3 Cr+. Note: Private clinic/super-specialist 50L-2Cr; govt MO 7-10L. Source: AmbitionBox, hospital chain disclosures.",
+      "confidence": "high"
+    },
+    {
+      "id": "MED-02",
+      "name": "BDS (Dentistry)",
+      "description": "Bachelor of Dental Surgery — clinical dentistry covering oral surgery, prosthodontics, orthodontics, and general dental practice.",
+      "streams": [
+        "Bio"
+      ],
+      "min_12th_percent": "50% PCB; NEET cutoff applies",
+      "entry_route": "Govt exam (NEET UG)",
+      "qualification": "BDS",
+      "duration": "5 years (4 academic + 1 yr internship)",
+      "entrance_exam": "NEET UG",
+      "govt_fees": "30,000-3 lakh total (govt dental colleges)",
+      "private_fees": "10-30 lakh (private dental colleges)",
+      "top_institutions": [
+        "Maulana Azad Institute of Dental Sciences Delhi (govt)",
+        "Govt Dental College Mumbai (govt)",
+        "King George Medical Univ Lucknow (govt)",
+        "Manipal College of Dental Sciences (private)",
+        "Saveetha Dental College (private)",
+        "Govt Dental College Bangalore (govt)"
+      ],
+      "scholarships": [
+        "Central Sector Scholarship",
+        "AICTE Pragati",
+        "state SC/ST schemes",
+        "NSP"
+      ],
+      "abroad_pathways": "DDS in USA (NBDE Part 1+2, ₹40-70L), Australia (ADC exam), UK (ORE). Saudi Arabia, UAE direct license recognition for BDS.",
+      "day_in_life": "Clinic hours, patient procedures, lab work for prosthodontics. Pre-clinical years are heavy lab simulation work.",
+      "growth_path": "BDS to MDS (PG) to consultant; or open private practice. Govt dental officer route via state PSCs at ₹8-12L. MDS specialists earn substantially more.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": false,
+      "salary_bands": "Fresher (BDS only): 2.5-5 LPA / Mid (MDS): 8-20 LPA / Senior (private practice): 15-50 LPA. Note: BDS-only practice in metros saturated; MDS or specialty needed for higher pay. Source: AmbitionBox, Dental Council disclosures.",
+      "confidence": "high"
+    },
+    {
+      "id": "MED-03",
+      "name": "BAMS (Ayurveda)",
+      "description": "Bachelor of Ayurvedic Medicine and Surgery — the formal Ayurveda doctor degree under AYUSH ministry.",
+      "streams": [
+        "Bio"
+      ],
+      "min_12th_percent": "50% PCB; NEET applies",
+      "entry_route": "Govt exam (NEET UG)",
+      "qualification": "BAMS",
+      "duration": "5.5 years (4.5 academic + 1 yr internship)",
+      "entrance_exam": "NEET UG",
+      "govt_fees": "30,000-2 lakh total (govt Ayurveda colleges)",
+      "private_fees": "5-12 lakh total",
+      "top_institutions": [
+        "IMS BHU Varanasi (govt)",
+        "National Institute of Ayurveda Jaipur (govt)",
+        "All India Institute of Ayurveda Delhi (govt)",
+        "Govt Ayurveda College Trivandrum (govt)",
+        "Tilak Maharashtra Vidyapeeth Pune (private)",
+        "Rajiv Gandhi Univ of Health Sciences (govt)"
+      ],
+      "scholarships": [
+        "AYUSH ministry scholarship",
+        "central sector scholarship",
+        "state Ayush schemes"
+      ],
+      "abroad_pathways": "Recognized in Nepal, Bhutan, Sri Lanka. Increasing demand in Germany, USA wellness sectors as Ayurvedic practitioner (separate certification needed).",
+      "day_in_life": "Clinical OPD, panchakarma therapies, herbal medicine prep. Govt Ayurveda dispensaries 9-5; private clinic flexible.",
+      "growth_path": "BAMS to MD Ayurveda (PG via AIAPGET) to Ayurveda specialist or to Wellness Resort consultant. Govt Ayush Medical Officer ₹8-12L start.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": false,
+      "salary_bands": "Fresher: 2-5 LPA / Mid (MD Ayurveda): 6-12 LPA / Senior: 12-30 LPA. Note: Wellness/spa industry (Patanjali, Himalaya, AyurUniverse) paying premium; rural BAMS practice ₹3-5L. Source: NCS, AmbitionBox.",
+      "confidence": "high"
+    },
+    {
+      "id": "MED-04",
+      "name": "BHMS (Homeopathy)",
+      "description": "Bachelor of Homeopathic Medicine and Surgery — homeopathy practitioner degree.",
+      "streams": [
+        "Bio"
+      ],
+      "min_12th_percent": "50% PCB; NEET applies",
+      "entry_route": "Govt exam (NEET UG)",
+      "qualification": "BHMS",
+      "duration": "5.5 years",
+      "entrance_exam": "NEET UG",
+      "govt_fees": "20,000-1.5 lakh total",
+      "private_fees": "4-10 lakh total",
+      "top_institutions": [
+        "National Institute of Homoeopathy Kolkata (govt)",
+        "Nehru Homoeopathic Medical College Delhi (govt)",
+        "Bakson Homeopathic Medical College Greater Noida (private)",
+        "Govt Homoeopathic Medical College Bhopal (govt)",
+        "DY Patil Homoeopathic Pune (private)",
+        "Father Muller Homoeopathic Mangaluru (private)"
+      ],
+      "scholarships": [
+        "AYUSH scholarships",
+        "central sector schemes"
+      ],
+      "abroad_pathways": "Recognized in UK, Germany, Switzerland with additional licensing. Strong scope in Europe wellness sector.",
+      "day_in_life": "OPD-heavy, case-history intensive (homeopathy emphasizes detailed patient history). Mostly out-patient clinical.",
+      "growth_path": "BHMS to MD Homeo (PG) to consultant or private clinic. Govt Homoeopathic Medical Officer 8-12L.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": false,
+      "salary_bands": "Fresher: 2-4 LPA / Mid: 5-10 LPA / Senior: 10-25 LPA. Note: Private practice variable; established homeopaths in metros 15-30L. Source: NCS, practitioner data.",
+      "confidence": "medium"
+    },
+    {
+      "id": "MED-05",
+      "name": "BUMS (Unani Medicine)",
+      "description": "Bachelor of Unani Medicine and Surgery — Unani system practitioner under AYUSH.",
+      "streams": [
+        "Bio"
+      ],
+      "min_12th_percent": "50% PCB; NEET applies",
+      "entry_route": "Govt exam (NEET UG)",
+      "qualification": "BUMS",
+      "duration": "5.5 years",
+      "entrance_exam": "NEET UG",
+      "govt_fees": "20,000-1.5 lakh total",
+      "private_fees": "3-8 lakh total",
+      "top_institutions": [
+        "Aligarh Muslim University (govt)",
+        "Jamia Hamdard New Delhi (semi-govt)",
+        "Govt Tibbi College Patna (govt)",
+        "Govt Nizamia Tibbi College Hyderabad (govt)",
+        "National Institute of Unani Medicine Bangalore (govt)",
+        "Z.V.M. Unani Medical College Pune (private)"
+      ],
+      "scholarships": [
+        "Maulana Azad Education Foundation",
+        "AYUSH scholarships"
+      ],
+      "abroad_pathways": "Limited recognition; demand in Middle East wellness/clinical roles.",
+      "day_in_life": "OPD clinical work in Unani dispensaries; herbal medicine preparation.",
+      "growth_path": "BUMS to MD Unani to Govt Medical Officer Unani or private practice.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": false,
+      "salary_bands": "Fresher: 2-4 LPA / Mid: 5-9 LPA / Senior: 10-20 LPA. Note: Smaller practitioner pool but stable govt jobs in NE India and Telangana. Source: NCS, AYUSH ministry.",
+      "confidence": "low"
+    },
+    {
+      "id": "MED-06",
+      "name": "Veterinary Science (BVSc & AH)",
+      "description": "Bachelor of Veterinary Science & Animal Husbandry — animal medicine, surgery, public health, dairy/livestock production.",
+      "streams": [
+        "Bio"
+      ],
+      "min_12th_percent": "50% PCB; NEET applies for 15% AIQ veterinary seats",
+      "entry_route": "Govt exam (NEET UG)",
+      "qualification": "BVSc & AH",
+      "duration": "5.5 years (4.5 academic + 1 yr internship)",
+      "entrance_exam": "NEET UG",
+      "govt_fees": "30,000-2 lakh total (state vet colleges)",
+      "private_fees": "Limited; 4-10 lakh",
+      "top_institutions": [
+        "IVRI Bareilly (govt)",
+        "TANUVAS Chennai (govt)",
+        "GADVASU Ludhiana (govt)",
+        "KVAFSU Bidar (govt)",
+        "NDRI Karnal (govt)",
+        "Bombay Veterinary College Mumbai (govt)"
+      ],
+      "scholarships": [
+        "ICAR Junior Fellowship",
+        "ICAR-IVRI scholarship",
+        "VCI scholarships"
+      ],
+      "abroad_pathways": "MS/PhD — USA (Cornell, UC Davis, Texas A&M), UK (Royal Veterinary College), Australia (Murdoch). Direct vet license practice possible in Australia, UAE.",
+      "day_in_life": "Mix of clinical OPD (small/large animal), farm visits, govt extension work. Private vet clinics increasingly metro-based for pets.",
+      "growth_path": "Veterinary Officer (state PSC) ₹10-15L start, to Asst Director, to Director. Private pet clinic chain (Cessna, ThePetNest), pharma R&D, dairy/poultry corporate roles. UPSC IFS-Indian Forest Service open.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": false,
+      "salary_bands": "Fresher: 4-8 LPA / Mid: 8-16 LPA / Senior: 16-40 LPA. Note: Govt vet officer 10-12L start; private pet practice growing fast in metros. Source: NCS, AmbitionBox.",
+      "confidence": "high"
+    },
+    {
+      "id": "MED-07",
+      "name": "BPT (Physiotherapy)",
+      "description": "Bachelor of Physiotherapy — rehabilitation, sports medicine, neurological/orthopedic recovery using exercise and manual therapy.",
+      "streams": [
+        "Bio"
+      ],
+      "min_12th_percent": "50% PCB (some accept PCM); NEET mandatory in many states from 2025",
+      "entry_route": "Degree",
+      "qualification": "BPT",
+      "duration": "4.5 years (4 + 6 mo internship)",
+      "entrance_exam": "NEET UG (mandatory in most states from 2025), state CETs, IPU CET, university entrances",
+      "govt_fees": "50,000-1.5 lakh total (govt physio colleges)",
+      "private_fees": "2-15 lakh total (annual 50K to 3L)",
+      "top_institutions": [
+        "JIPMER Puducherry (govt)",
+        "AIIMS Delhi BPT (govt)",
+        "Maharaj Sayajirao Univ Vadodara (govt)",
+        "ISIC Institute of Rehabilitation Delhi (semi-govt)",
+        "Manipal College of Health Professions (private)",
+        "CMC Vellore (semi-govt)"
+      ],
+      "scholarships": [
+        "NHM physio scholarship",
+        "AICTE Saksham",
+        "NSP central sector"
+      ],
+      "abroad_pathways": "Direct license possible in Australia (APC), Canada (PCE), UAE/Gulf with HAAD/DHA. UK requires HCPC registration. MS/MPT in USA/UK/Australia 25-50 lakh.",
+      "day_in_life": "Patient sessions in clinic/hospital, exercise therapy, manual therapy, electrotherapy. Sports-team physios travel with teams.",
+      "growth_path": "Physiotherapist to Senior to Clinic Director or specialty (sports, neuro, ortho, geriatric). MPT (PG) for academic/specialist roles.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 2.5-5 LPA / Mid: 5-12 LPA / Senior: 10-25 LPA. Note: Sports physio/private clinics 8-15L; UAE/Australia license 30-60L. Source: AmbitionBox, NCS.",
+      "confidence": "high"
+    },
+    {
+      "id": "MED-08",
+      "name": "BSc Nursing",
+      "description": "4-year Bachelor of Nursing — clinical nursing, ICU/critical care, community health, hospital management.",
+      "streams": [
+        "Bio"
+      ],
+      "min_12th_percent": "50% PCB; NEET UG mandatory for BSc Nursing from 2023",
+      "entry_route": "Govt exam (NEET UG)",
+      "qualification": "BSc Nursing",
+      "duration": "4 years",
+      "entrance_exam": "NEET UG; AIIMS BSc Nursing exam",
+      "govt_fees": "20,000-2 lakh total",
+      "private_fees": "4-12 lakh total",
+      "top_institutions": [
+        "AIIMS Delhi (govt)",
+        "PGIMER Chandigarh (govt)",
+        "JIPMER Puducherry (govt)",
+        "CMC Vellore (semi-govt)",
+        "Manipal College of Nursing (private)",
+        "Christian Medical College Ludhiana (semi-govt)"
+      ],
+      "scholarships": [
+        "Central Sector Scholarship",
+        "AICTE Pragati",
+        "state nursing schemes",
+        "PM-USP"
+      ],
+      "abroad_pathways": "Massive demand — USA (NCLEX-RN), UK (NMC OSCE), Canada (NCLEX-RN), Australia (AHPRA), Germany (Pflegekraft program), Gulf (DHA/HAAD/Prometric). Pay 30-80 lakh/year.",
+      "day_in_life": "12-hr hospital shifts, ward management, IV/medication, patient monitoring, doctor-patient liaison. Stressful but high impact.",
+      "growth_path": "Staff Nurse to Senior to Ward Sister to Nursing Superintendent. MSc Nursing for academic/specialist roles. Govt staff nurse ₹6-9L start.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 2.5-5 LPA / Mid: 5-10 LPA / Senior: 10-25 LPA. Note: Abroad pay vastly higher — UK staff nurse £28-35K (~30-37L INR); USA RN $75-95K (~62-80L). Source: AmbitionBox, NCS, NMC UK.",
+      "confidence": "high"
+    },
+    {
+      "id": "MED-09",
+      "name": "Optometry (B.Optom / BSc Optometry)",
+      "description": "Eye care, vision testing, contact lens fitting, low-vision rehabilitation, vision therapy.",
+      "streams": [
+        "Bio"
+      ],
+      "min_12th_percent": "50-55% PCB or PCM in some institutes",
+      "entry_route": "Degree",
+      "qualification": "B.Optom / BSc Optometry",
+      "duration": "4 years (3.5 + 6 mo internship) or 3-year BSc Optometry",
+      "entrance_exam": "NEET UG (for some govt institutes); institute entrance exams (LV Prasad, AIIMS Optom)",
+      "govt_fees": "50,000-2 lakh total",
+      "private_fees": "3-8 lakh total",
+      "top_institutions": [
+        "AIIMS Delhi (govt)",
+        "LV Prasad Eye Institute Hyderabad (semi-govt)",
+        "Sankara Nethralaya Chennai (semi-govt)",
+        "Aravind Eye Care Madurai (semi-govt)",
+        "Manipal College of Health Professions (private)",
+        "Bharati Vidyapeeth Pune (private)"
+      ],
+      "scholarships": [
+        "LV Prasad scholarship",
+        "Aravind Eye Care fellowship",
+        "central sector"
+      ],
+      "abroad_pathways": "Optometrist license — Australia (OBA), Canada (CAOO), UK (GOC). USA requires OD (Doctor of Optometry, 4 yrs after BSc). UAE accepts B.Optom directly.",
+      "day_in_life": "OPD eye exams, contact lens fitting, low-vision evaluation, vision therapy sessions in eye hospitals or chains (Lenskart, Titan Eye+).",
+      "growth_path": "Optometrist to Clinical Specialist to Practice owner; or corporate optical chains (Lenskart, Vision Express) to mgmt; M.Optom for academic.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 2.5-5 LPA / Mid: 5-12 LPA / Senior: 10-25 LPA. Note: Lenskart/corporate chains 4-8L start; specialty hospitals (LVPEI) 6-10L; abroad 30-60L. Source: AmbitionBox, NCS.",
+      "confidence": "high"
+    },
+    {
+      "id": "MED-10",
+      "name": "Audiology & Speech-Language Pathology (BASLP)",
+      "description": "Diagnose and treat hearing, speech, language, swallowing disorders. Severe shortage of professionals in India.",
+      "streams": [
+        "Bio"
+      ],
+      "min_12th_percent": "50% PCB (PCM accepted at some institutes); NEET in some states",
+      "entry_route": "Degree",
+      "qualification": "BASLP / BSc Speech & Hearing",
+      "duration": "4 years (3.5 + 6 mo internship)",
+      "entrance_exam": "AIISH entrance, IPU CET, NEET UG (some), institute exams",
+      "govt_fees": "AIISH Mysore 25,000-50,000 total (with stipend!); govt colleges 1-2 lakh",
+      "private_fees": "3-10 lakh total",
+      "top_institutions": [
+        "AIISH Mysore (govt)",
+        "AYJNISHD Mumbai (govt)",
+        "PGIMER Chandigarh (govt)",
+        "JMI New Delhi (semi-govt)",
+        "Manipal College of Health Professions (private)",
+        "Sri Ramachandra IHER Chennai (private)"
+      ],
+      "scholarships": [
+        "AIISH stipend (₹800/mo for 3 yrs)",
+        "DBT junior fellowship",
+        "Rotary Foundation"
+      ],
+      "abroad_pathways": "Master's required in USA (MS-SLP, ~₹40-60L); Australia (Speech Pathology Australia), Canada (SAC), UK (RCSLT), Gulf (HAAD/DHA). Massive shortage worldwide.",
+      "day_in_life": "Diagnostic audiology testing, hearing aid fitting, speech therapy sessions, pediatric/geriatric/stroke rehabilitation. Hospital + private clinic mix.",
+      "growth_path": "Audiologist/SLP to Senior to Clinic Director or Hospital head; MASLP for advanced practice; govt audiologist ₹8-12L. Private pediatric speech clinics highly profitable.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 3-6 LPA / Mid: 6-15 LPA / Senior: 12-35 LPA. Note: Indian audiologist ceiling 50K-1L/month; UAE/USA SLP $60-90K (~50-75L). Genuine demand-supply gap. Source: AmbitionBox, AIISH disclosures.",
+      "confidence": "high"
+    },
+    {
+      "id": "MED-11",
+      "name": "BSc Radiology / Radiography",
+      "description": "Medical imaging — X-ray, CT, MRI, ultrasound, mammography. Operates imaging equipment, supports radiologists.",
+      "streams": [
+        "Bio"
+      ],
+      "min_12th_percent": "50% PCB",
+      "entry_route": "Degree",
+      "qualification": "BSc Medical Imaging Tech / Radiography / Radiology Tech",
+      "duration": "3-4 years (incl. internship)",
+      "entrance_exam": "NEET UG (some), state CETs, institute entrance",
+      "govt_fees": "30,000-1.5 lakh total",
+      "private_fees": "2-6 lakh total",
+      "top_institutions": [
+        "AIIMS Delhi (govt)",
+        "PGIMER Chandigarh (govt)",
+        "Tata Memorial Hospital Mumbai (govt)",
+        "Manipal College of Health Professions (private)",
+        "CMC Vellore (semi-govt)",
+        "Christian Medical College Ludhiana (semi-govt)"
+      ],
+      "scholarships": [
+        "Central Sector",
+        "AICTE Saksham",
+        "NHM"
+      ],
+      "abroad_pathways": "USA (ARRT certification), Australia (MRPBA), Canada (CAMRT), UAE/Gulf (DHA/HAAD). Strong demand in radiology imaging globally.",
+      "day_in_life": "Equipment operation, patient positioning, image quality checks, radiation safety. Diagnostic centres, hospital imaging departments.",
+      "growth_path": "Radiographer to Senior to Imaging Tech Lead. Govt hospital tech ₹5-8L; corporate diagnostic chains 4-8L. PG MSc enables academic/specialty roles.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 2.5-5 LPA / Mid: 5-10 LPA / Senior: 10-22 LPA. Note: Apollo, Fortis, Max imaging 5-8L; abroad 35-50L. Source: AmbitionBox, NCS.",
+      "confidence": "high"
+    },
+    {
+      "id": "MED-12",
+      "name": "Occupational Therapy (BOT)",
+      "description": "Help patients regain function in daily living after injury, stroke, developmental disorders, mental health conditions.",
+      "streams": [
+        "Bio"
+      ],
+      "min_12th_percent": "50% PCB",
+      "entry_route": "Degree",
+      "qualification": "Bachelor of Occupational Therapy (BOT)",
+      "duration": "4.5 years (4 + 6 mo internship)",
+      "entrance_exam": "NEET UG (most states), state CETs, institute entrance",
+      "govt_fees": "50,000-2 lakh total",
+      "private_fees": "3-10 lakh total",
+      "top_institutions": [
+        "AIIMS Delhi (govt)",
+        "Christian Medical College Vellore (semi-govt)",
+        "Pt. Deendayal Upadhyaya National Institute Mumbai (govt)",
+        "JIPMER Puducherry (govt)",
+        "Manipal College of Health Professions (private)",
+        "ISIC Institute Delhi (semi-govt)"
+      ],
+      "scholarships": [
+        "Central Sector",
+        "AICTE Saksham",
+        "NHM"
+      ],
+      "abroad_pathways": "USA (NBCOT), Australia (AHPRA), Canada (CAOT), UK (HCPC). Massive shortage in Australia, USA — strong migration pathway.",
+      "day_in_life": "Patient sessions in rehab centres, hospitals, schools (pediatric OT), psychiatric units. Custom adaptive equipment, ADL training.",
+      "growth_path": "OT to Senior to Specialist (peds, neuro, mental health) to Clinic Director. MOT for academic/specialty.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 2.5-5 LPA / Mid: 5-12 LPA / Senior: 10-22 LPA. Note: Australia OT $70-90K (~45-58L); USA $80K+. Indian rehab clinics 4-8L. Source: AmbitionBox, NCS.",
+      "confidence": "medium"
+    },
+    {
+      "id": "MED-13",
+      "name": "Paramedical (BSc Paramedical / DMLT diploma)",
+      "description": "Umbrella term for emergency med tech, dialysis tech, anesthesia tech, OT tech, cardiac care tech, EMT roles.",
+      "streams": [
+        "Bio"
+      ],
+      "min_12th_percent": "45-50% PCB",
+      "entry_route": "Degree / Diploma",
+      "qualification": "BSc Paramedical / Diploma in Medical Lab Tech (DMLT) / Cardiac/OT Tech",
+      "duration": "1-3 years (diploma); 3-4 years (BSc)",
+      "entrance_exam": "State paramedical CETs, NEET UG (some), institute entrance",
+      "govt_fees": "20,000-1 lakh total",
+      "private_fees": "1-5 lakh total",
+      "top_institutions": [
+        "AIIMS Delhi (govt)",
+        "PGIMER Chandigarh (govt)",
+        "Tata Memorial Hospital (govt)",
+        "Manipal College of Health Professions (private)",
+        "Apollo MedSkills (private)",
+        "CMC Vellore (semi-govt)"
+      ],
+      "scholarships": [
+        "NHM scholarship",
+        "AICTE Saksham",
+        "central scholarship"
+      ],
+      "abroad_pathways": "Limited; Gulf (DHA/HAAD) accepts paramedical certifications. Australia EMT pathway through bridge programs.",
+      "day_in_life": "Hospital ward/lab/OT support work, emergency response, sample collection, equipment monitoring. High-volume, lower autonomy than nursing.",
+      "growth_path": "Tech to Senior Tech to Tech Supervisor; pivot to nursing or BSc upgrade. Govt tech roles ₹4-7L start.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 1.8-3.5 LPA / Mid: 3-6 LPA / Senior: 6-12 LPA. Note: Govt hosp ₹4-6L; corporate chains 3-5L; abroad Gulf 8-15L. Source: NCS, AmbitionBox.",
+      "confidence": "high"
+    },
+    {
+      "id": "MED-14",
+      "name": "Medical Lab Technology (BMLT / DMLT)",
+      "description": "Pathology lab work — blood/urine/tissue analysis, microbiology, biochemistry, hematology.",
+      "streams": [
+        "Bio"
+      ],
+      "min_12th_percent": "45-50% PCB",
+      "entry_route": "Degree / Diploma",
+      "qualification": "BMLT / DMLT",
+      "duration": "DMLT 1-2 yrs; BMLT 3-4 years",
+      "entrance_exam": "NEET UG (BMLT in some states), state CETs, institute entrance",
+      "govt_fees": "20,000-1.5 lakh total",
+      "private_fees": "1-5 lakh total",
+      "top_institutions": [
+        "AIIMS Delhi (govt)",
+        "PGIMER Chandigarh (govt)",
+        "JIPMER Puducherry (govt)",
+        "CMC Vellore (semi-govt)",
+        "Manipal College of Health Professions (private)",
+        "Sri Ramachandra IHER Chennai (private)"
+      ],
+      "scholarships": [
+        "Central sector",
+        "NHM scholarship",
+        "AICTE"
+      ],
+      "abroad_pathways": "USA (ASCP cert), UK (HCPC), Canada (CSMLS), Gulf (DHA/HAAD). Strong migration for BMLT graduates.",
+      "day_in_life": "Lab-based — sample processing, instrument operation (auto-analyzers), reporting. Diagnostic chains (Dr. Lal, Metropolis) or hospital labs.",
+      "growth_path": "Lab Tech to Senior Tech to Lab Supervisor to Lab Manager. MSc MLT for specialist/academic. Govt lab tech 5-8L.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 2-4 LPA / Mid: 4-9 LPA / Senior: 9-18 LPA. Note: Dr. Lal/Metropolis 3-6L; AIIMS lab tech 6-10L; abroad 30-50L. Source: AmbitionBox, NCS.",
+      "confidence": "high"
+    },
+    {
+      "id": "MED-15",
+      "name": "Pharmacy (B.Pharm / D.Pharm / Pharm.D)",
+      "description": "Drug formulation, retail pharmacy, hospital pharmacy, clinical pharmacy (Pharm.D), pharmaceutical industry.",
+      "streams": [
+        "Bio",
+        "Maths"
+      ],
+      "min_12th_percent": "50% PCB or PCM (varies by institute)",
+      "entry_route": "Degree / Diploma",
+      "qualification": "B.Pharm (4 yr) / D.Pharm (2 yr) / Pharm.D (6 yr)",
+      "duration": "B.Pharm 4 yrs; Pharm.D 6 yrs",
+      "entrance_exam": "GPAT (PG), NEET (some), state CETs, BITSAT, university entrances",
+      "govt_fees": "B.Pharm: 50,000-2 lakh total (govt); Pharm.D: 1-3 lakh govt",
+      "private_fees": "B.Pharm 2-8 lakh; Pharm.D 6-15 lakh; Manipal/SRM higher",
+      "top_institutions": [
+        "Jamia Hamdard Delhi (semi-govt)",
+        "BITS Pilani (private)",
+        "NIPER Mohali (govt)",
+        "ICT Mumbai (govt)",
+        "Manipal College of Pharmaceutical Sciences (private)",
+        "Bombay College of Pharmacy (private)"
+      ],
+      "scholarships": [
+        "NIPER fellowship",
+        "ICT scholarship",
+        "AICTE Pragati",
+        "Pfizer/Sun Pharma cadet"
+      ],
+      "abroad_pathways": "USA (FPGEE + NAPLEX), UK (GPhC), Canada (PEBC), Australia (APC). Pharm.D graduates can work as clinical pharmacists in US/Gulf.",
+      "day_in_life": "Industry: formulation, QA/QC, regulatory affairs in pharma cos (Sun Pharma, Cipla, Dr. Reddy's). Retail/hospital pharmacy: dispensing, counseling.",
+      "growth_path": "Pharma Industry: Officer to Manager to GM to VP. Pharm.D: Clinical Pharmacist to Senior to Director. Retail: store mgr to pharmacy chain ops.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": false,
+      "salary_bands": "Fresher: 2.5-7 LPA / Mid: 7-18 LPA / Senior: 18-50 LPA. Note: Pharma R&D at MNCs 8-15L; retail pharmacist 3-5L; Pharm.D abroad 50L+. Source: AmbitionBox, NIPER placement.",
+      "confidence": "high"
+    },
+    {
+      "id": "MED-16",
+      "name": "Prosthetics & Orthotics (BPO)",
+      "description": "Design and fit artificial limbs, braces, supportive devices for amputees, polio survivors, spine/joint patients.",
+      "streams": [
+        "Bio"
+      ],
+      "min_12th_percent": "50% PCB or PCM",
+      "entry_route": "Degree",
+      "qualification": "Bachelor of Prosthetics & Orthotics (BPO)",
+      "duration": "4.5 years (4 + 6 mo internship)",
+      "entrance_exam": "NEET UG (some), institute entrance (NIEPMD, NILD)",
+      "govt_fees": "50,000-1.5 lakh total",
+      "private_fees": "3-8 lakh total",
+      "top_institutions": [
+        "NILD Kolkata (govt)",
+        "NIEPMD Chennai (govt)",
+        "AIIPMR Mumbai (govt)",
+        "ISIC Institute Delhi (semi-govt)",
+        "Mahatma Gandhi Mission Aurangabad (private)",
+        "Manipal College of Health Professions (private)"
+      ],
+      "scholarships": [
+        "RCI scholarships",
+        "NHM disability schemes",
+        "Rotary Wheelchair Foundation"
+      ],
+      "abroad_pathways": "USA (ABC certification), Germany strong (Otto Bock partnerships), UK (BAPO). Demand exists globally; small profession means slow hiring cycles.",
+      "day_in_life": "Patient measurements, custom device design, lab fabrication, fitting sessions. Mostly rehab centres, ALIMCO, NGO sector (Jaipur Foot/BMVSS).",
+      "growth_path": "Prosthetist/Orthotist to Senior to Centre Director. Pure clinical roles + few R&D openings at Otto Bock India, Ottobock partners.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 2.5-5 LPA / Mid: 5-12 LPA / Senior: 10-22 LPA. Note: ALIMCO/govt rehab ₹6-9L; private fitting clinics variable; NGO sector lower. Source: NCS, RCI registry.",
+      "confidence": "low"
+    },
+    {
+      "id": "MED-17",
+      "name": "Perfusion Technology (BSc CPCT)",
+      "description": "Operate heart-lung machines during open-heart surgery; cardiopulmonary bypass technician — niche, high-demand role.",
+      "streams": [
+        "Bio"
+      ],
+      "min_12th_percent": "50% PCB",
+      "entry_route": "Degree",
+      "qualification": "BSc Cardiac Perfusion / Cardiopulmonary Care Tech",
+      "duration": "3-4 years",
+      "entrance_exam": "NEET UG (some), institute entrance",
+      "govt_fees": "50,000-2 lakh total",
+      "private_fees": "3-10 lakh total",
+      "top_institutions": [
+        "AIIMS Delhi (govt)",
+        "PGIMER Chandigarh (govt)",
+        "Sree Chitra Tirunal Trivandrum (govt)",
+        "Apollo Hospitals Educational Trust (private)",
+        "Narayana Health Bangalore (private)",
+        "Manipal Academy of Higher Education (private)"
+      ],
+      "scholarships": [
+        "Apollo/Narayana corporate scholarships",
+        "NHM"
+      ],
+      "abroad_pathways": "USA (ABCP certification, MS in Perfusion), UK (Society of Clinical Perfusion Scientists). High pay overseas; very small profession.",
+      "day_in_life": "Operate heart-lung machine (CPB) during cardiac surgery — extremely high-stakes, requires deep teamwork with cardiac surgeon. Long OT shifts.",
+      "growth_path": "Junior Perfusionist to Senior to Chief Perfusionist; specialty in pediatric or transplant. Tied closely to cardiac surgical centres.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 4-8 LPA / Mid: 8-15 LPA / Senior: 15-30 LPA. Note: Strong demand at Apollo, Narayana, Fortis, AIIMS — perfusionists are hospital-critical. USA $90-120K. Source: AmbitionBox, hospital disclosures.",
+      "confidence": "medium"
+    },
+    {
+      "id": "MED-18",
+      "name": "Cytogenetics / Medical Genetics (BSc / MSc)",
+      "description": "Chromosomal analysis, prenatal diagnosis, genetic counseling, rare disease genetics — emerging field with India lacking trained workforce.",
+      "streams": [
+        "Bio"
+      ],
+      "min_12th_percent": "50% PCB",
+      "entry_route": "Degree (BSc Genetics) → MSc Medical Genetics",
+      "qualification": "BSc Genetics / MSc Medical Genetics / Genetic Counsellor cert",
+      "duration": "3 years BSc + 2 yrs MSc",
+      "entrance_exam": "CUET UG, IIT JAM (MSc), university entrances",
+      "govt_fees": "BSc: 50,000-2 lakh total; MSc: 1-3 lakh",
+      "private_fees": "BSc: 3-8 lakh; MSc: 4-10 lakh",
+      "top_institutions": [
+        "AIIMS Delhi MSc Med Genetics (govt)",
+        "SGPGIMS Lucknow (govt)",
+        "Sanjay Gandhi PGIMS (govt)",
+        "Kasturba Medical College Manipal (private)",
+        "Symbiosis School of Biological Sciences (private)",
+        "Madurai Kamaraj University (govt)"
+      ],
+      "scholarships": [
+        "DBT-JRF",
+        "ICMR fellowship",
+        "Wellcome Trust DBT alliance"
+      ],
+      "abroad_pathways": "MS Medical Genetics — USA (Johns Hopkins, Sarah Lawrence ~₹40-60L for MS in Genetic Counseling), UK (Manchester, Cambridge), Canada (UBC). Massive shortage of genetic counsellors in USA/Australia.",
+      "day_in_life": "Lab work (karyotyping, FISH, NGS analysis) or counseling sessions for genetic risk. Diagnostic labs (MedGenome, Strand Life Sciences) or hospital genetics depts.",
+      "growth_path": "Cytogeneticist/Genetic Counselor to Senior to Lab Director. Strong rare-disease and prenatal-diagnostics market growth.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": false,
+      "salary_bands": "Fresher (BSc): 3-6 LPA / Mid (MSc): 6-15 LPA / Senior: 15-35 LPA. Note: MedGenome, Strand, MapmyGenome 6-12L; abroad genetic counselor $70-95K. Source: AmbitionBox, BiotechFront.",
+      "confidence": "low"
+    },
+    {
+      "id": "MED-19",
+      "name": "BSc Operation Theatre Technology / Anesthesia Tech",
+      "description": "Sterile prep, surgical instrument handling, anesthesia equipment monitoring, post-op care — direct OT support roles.",
+      "streams": [
+        "Bio"
+      ],
+      "min_12th_percent": "45-50% PCB",
+      "entry_route": "Degree / Diploma",
+      "qualification": "BSc OT Tech / Anesthesia Tech / DOTT",
+      "duration": "Diploma 1-2 yrs; BSc 3-4 years",
+      "entrance_exam": "NEET UG (some), state CETs, institute entrance",
+      "govt_fees": "30,000-1.5 lakh total",
+      "private_fees": "1.5-5 lakh total",
+      "top_institutions": [
+        "AIIMS Delhi (govt)",
+        "PGIMER Chandigarh (govt)",
+        "JIPMER Puducherry (govt)",
+        "Manipal College of Health Professions (private)",
+        "Christian Medical College Vellore (semi-govt)",
+        "Symbiosis Health & Biosciences (private)"
+      ],
+      "scholarships": [
+        "Central sector",
+        "NHM",
+        "AICTE Saksham"
+      ],
+      "abroad_pathways": "Limited direct license; Gulf (DHA/HAAD) accepts. UK/Australia OT tech requires bridge training.",
+      "day_in_life": "Pre-op sterile prep, OT during surgery (instrument handling), post-op recovery support. Long shifts in metro corporate hospitals.",
+      "growth_path": "OT Tech to Senior to OT Supervisor to OT Manager. Strong demand in Apollo, Fortis, Max, AIIMS. BSc upgrade enables academic move.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 2.5-4.5 LPA / Mid: 4.5-9 LPA / Senior: 9-18 LPA. Note: Corporate hospitals 3.5-6L; AIIMS OT tech 5-7L; Gulf 8-14L. Source: AmbitionBox, hospital data.",
+      "confidence": "medium"
+    },
+    {
+      "id": "MED-20",
+      "name": "BSc Respiratory Care / Cardiac Care Technology",
+      "description": "ICU respiratory therapy, ventilator management, pulmonary function tests, ECG/echo for cardiac diagnostics.",
+      "streams": [
+        "Bio"
+      ],
+      "min_12th_percent": "50% PCB",
+      "entry_route": "Degree",
+      "qualification": "BSc Respiratory Therapy / Cardiac Care Tech",
+      "duration": "3-4 years",
+      "entrance_exam": "NEET UG (some), state CETs, institute entrance",
+      "govt_fees": "50,000-2 lakh total",
+      "private_fees": "2.5-8 lakh total",
+      "top_institutions": [
+        "AIIMS Delhi (govt)",
+        "PGIMER Chandigarh (govt)",
+        "Sree Chitra Tirunal Trivandrum (govt)",
+        "Manipal College of Health Professions (private)",
+        "Christian Medical College Vellore (semi-govt)",
+        "Apollo Allied Health Sciences (private)"
+      ],
+      "scholarships": [
+        "Central sector",
+        "NHM"
+      ],
+      "abroad_pathways": "USA (NBRC for RT), Canada (CSRT), Gulf direct hiring. RT graduates get strong migration pathways with shortage roles in USA/Canada.",
+      "day_in_life": "ICU/CCU work — managing ventilators, ABG analysis, ECG/echo for cardiac. High-acuity patient care.",
+      "growth_path": "RT/Cardiac Tech to Senior to ICU Tech Lead. MSc enables academic. Strong post-COVID demand in tier-1 hospitals.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 3-6 LPA / Mid: 6-12 LPA / Senior: 12-25 LPA. Note: Apollo/Fortis/Max ICU RT 4-8L; AIIMS 6-9L; Gulf RT 12-25L; USA RT $65-85K. Source: AmbitionBox, NCS.",
+      "confidence": "medium"
+    }
+  ],
+  "summary": {
+    "total_sub_paths": 20,
+    "underrated_count": 14,
+    "low_budget_count": 19,
+    "low_percent_count": 12
+  },
+  "data_confidence_notes": [
+    "MBBS, BDS, BSc Nursing, Pharmacy data verified via NMC, INC, NEET UG 2026 official sources.",
+    "AIISH stipend confirmed at ₹800/month for first 3 years from official AIISH PDF.",
+    "NEET UG 2026 confirmed for May 3, 2026; mandatory for MBBS, BDS, AYUSH (BAMS, BHMS, BUMS, BSMS), BVSc, BSc Nursing.",
+    "Niche roles (Perfusion, Cytogenetics, Prosthetics, OT Tech) flagged 'low' or 'medium' confidence — Indian salary data is sparse and varies enormously by hospital chain.",
+    "Audiology/SLP demand-supply gap is real and well-documented; salary range reflects current AmbitionBox data but ceiling may rise as the profession scales."
+  ]
+}

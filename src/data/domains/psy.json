@@ -1,0 +1,633 @@
+{
+  "id": "psy",
+  "title": "Psychology",
+  "tagline": "From clinical practice to UX research, sport psychology to forensic work — the applied science of how people think and feel.",
+  "color": "#6a5a8a",
+  "overview": "Psychology in India sits at an awkward inflection point in 2026 — demand has exploded post-pandemic, but the regulatory pipeline is being rebuilt. The Rehabilitation Council of India is phasing out M.Phil Clinical Psychology from 2025-26 in favour of MA Clinical Psychology (RCI) and PsyD programmes, which means the path to legal clinical practice has shifted for current undergrads. The bigger reality students miss is that ~70% of psychology graduates end up in non-clinical applied roles — UX research, HR consulting, corporate L&D, education-tech, content — which often pay 2-3× more than clinical practice. Specialized tracks like sport psychology, forensic psychology, and rehabilitation psychology are genuinely undersupplied; cognitive science overlaps heavily with AI research at top labs and has emerged as one of the highest-paying psychology-adjacent paths.",
+  "key_insights": [
+    "RCI registration is the only legal gateway to call yourself a Clinical Psychologist in India — a regular MA from DU/TISS/BHU does not qualify; the M.Phil → MA Clinical (RCI) / PsyD transition is a structural change current undergrads must plan around.",
+    "UX Research at top Indian product firms (Razorpay, Swiggy, Flipkart, PhonePe) pays psychology grads ₹6-10 LPA fresher and ₹15-30 LPA mid-career — the highest-paying applied-psychology path, yet rarely surfaced in counselling.",
+    "Industrial-Organizational Psychology overlaps with MBA-HR but pays better at consulting firms (Mercer, Aon, Korn Ferry) where ₹4-7 LPA fresher rises to ₹20-45 LPA at senior levels.",
+    "NIMHANS and CIP Ranchi remain the gold-standard government training centres for clinical and rehabilitation psychology — annual seats are tiny (~20-30) and competition is intense, but fees are nominal.",
+    "Cognitive Science programmes at IIT Gandhinagar, IIIT Hyderabad, and NIMHANS combine psychology with AI and neuroscience; PhD stipends are fully funded and global PhD admission rates are very strong."
+  ],
+  "sub_paths": [
+    {
+      "id": "PSY-01",
+      "name": "BA / BSc Psychology (3-year UG)",
+      "description": "A 3-year undergraduate degree in Psychology covering cognitive, social, developmental, and abnormal psychology. The standard entry point to almost every psychology career.",
+      "streams": [
+        "Arts",
+        "Bio",
+        "Commerce",
+        "Maths"
+      ],
+      "min_12th_percent": "50-95% depending on college; DU requires 80%+ for top colleges via CUET, while state universities admit at 45-50%.",
+      "entry_route": "Degree",
+      "qualification": "10+2 → CUET-UG or university-specific entrance / direct cutoff → 3-yr BA or BSc Psychology",
+      "duration": [
+        "3 years"
+      ],
+      "entrance_exam": "CUET-UG (most central universities); direct cutoff at DU, Christ, JMI; entrance + interview at TISS, Ashoka, Azim Premji.",
+      "govt_fees": "₹15,000-50,000 total at central universities (DU, BHU, JMI, Pondicherry); state university fees ₹10,000-30,000 total.",
+      "private_fees": "₹2-12 lakh total (Christ ₹3-4 lakh; Ashoka ₹16+ lakh; Symbiosis ₹6-8 lakh).",
+      "top_institutions": [
+        "University of Delhi — LSR, Jesus & Mary, Daulat Ram (govt)",
+        "Tata Institute of Social Sciences, Mumbai (govt)",
+        "Christ University, Bangalore (private)",
+        "Ambedkar University Delhi (govt)",
+        "Ashoka University, Sonipat (private)",
+        "Fergusson College, Pune (semi-govt)"
+      ],
+      "scholarships": [
+        "INSPIRE for BSc",
+        "Central Sector Scholarship",
+        "Various state merit scholarships"
+      ],
+      "abroad_pathways": "MA / MS Psychology in USA, UK, Netherlands; many Indians do their PG abroad (Columbia, KCL, Edinburgh, Maastricht). PhD pathways open in cognitive and clinical research globally.",
+      "day_in_life": "Undergrads attend lectures, run small experiments and surveys, write papers, and intern at NGOs, hospitals, or schools in summer. The degree itself is academic; the career emerges in PG and beyond.",
+      "growth_path": "BA/BSc → MA/MSc Psychology → either RCI-track for clinical practice, OR research PhD, OR applied roles (HR, UX research, content, education tech). About 70% of psychology grads end up in non-clinical applied roles.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": false,
+      "salary_bands": "Fresher (BA only, applied roles): ₹2.5-4 LPA / Mid (with MA + 5 yr exp): ₹5-9 LPA / Senior: ₹10-18 LPA. Note: Salary jumps significantly with PG and specialization; BA Psychology alone is rarely a terminal degree. Source: AmbitionBox, Naukri 2024-25.",
+      "confidence": "high",
+      "domainId": "psy",
+      "domainTitle": "Psychology",
+      "streamIds": [
+        "arts",
+        "bio",
+        "commerce",
+        "maths"
+      ]
+    },
+    {
+      "id": "PSY-02",
+      "name": "MA / MSc Psychology",
+      "description": "A 2-year postgraduate degree, typically with a specialization (clinical, counselling, organizational, applied). The minimum credential for most psychology careers.",
+      "streams": [
+        "Arts",
+        "Bio",
+        "Commerce",
+        "Maths"
+      ],
+      "min_12th_percent": "Depends on UG; PG admission usually requires 50-55% in BA/BSc Psychology (or related).",
+      "entry_route": "Degree",
+      "qualification": "BA/BSc Psychology (or related) → CUET-PG or university-specific entrance → 2-yr MA/MSc with specialization",
+      "duration": [
+        "2 years (after 3-yr UG)"
+      ],
+      "entrance_exam": "CUET-PG (DU, BHU, JMI); TISS NET; Christ University entrance; specific tests at NIMHANS, Ambedkar University, Azim Premji.",
+      "govt_fees": "₹10,000-50,000 total at central / state universities.",
+      "private_fees": "₹2-8 lakh total at Christ, Symbiosis, Amity, Manipal etc.",
+      "top_institutions": [
+        "University of Delhi (govt)",
+        "Tata Institute of Social Sciences (govt)",
+        "NIMHANS, Bangalore — MPhil/PhD (govt)",
+        "Banaras Hindu University (govt)",
+        "Christ University (private)",
+        "Ambedkar University Delhi (govt)"
+      ],
+      "scholarships": [
+        "UGC NET-JRF",
+        "Maulana Azad National Fellowship",
+        "ICSSR Doctoral Fellowship"
+      ],
+      "abroad_pathways": "PhD in USA, UK, Netherlands, Germany — Indian MA Psychology graduates routinely admitted to top programmes. Direct industry roles harder; usually requires further qualification abroad.",
+      "day_in_life": "Postgrad combines coursework, dissertation research, and supervised practicums. Students rotate through hospital placements, schools, NGOs, or HR teams depending on specialization. Reading load is heavy.",
+      "growth_path": "MA → either RCI-track (M.Psy/MA Clinical RCI, PsyD) for clinical practice OR PhD for research/academia OR applied industry roles (HR, UX research, education, content). MA alone qualifies for school counsellor, content, EdTech roles.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": false,
+      "salary_bands": "Fresher (MA, applied roles): ₹3.5-6 LPA / Mid (5 yr exp): ₹7-12 LPA / Senior (10+ yr): ₹14-25 LPA. Note: Without RCI registration, MA holders cannot legally call themselves clinical psychologists or do diagnosis/therapy. Source: AmbitionBox, Naukri 2024-25.",
+      "confidence": "high",
+      "domainId": "psy",
+      "domainTitle": "Psychology",
+      "streamIds": [
+        "arts",
+        "bio",
+        "commerce",
+        "maths"
+      ]
+    },
+    {
+      "id": "PSY-03",
+      "name": "Clinical Psychologist (RCI-licensed)",
+      "description": "A licensed mental-health practitioner who diagnoses, assesses, and treats psychological disorders. RCI registration is legally required to practice clinical psychology in India.",
+      "streams": [
+        "Arts",
+        "Bio",
+        "Commerce",
+        "Maths"
+      ],
+      "min_12th_percent": "BA/BSc Psychology (50%+) is the entry; RCI route requires MA Psychology with 55%+ and then an RCI-recognized professional programme.",
+      "entry_route": "Degree",
+      "qualification": "BA/BSc Psychology → MA/MSc Psychology → 2-yr M.Psy / MA Clinical (RCI) OR 4-yr PsyD (RCI) → RCI registration as Clinical Psychologist on Central Rehabilitation Register",
+      "duration": [
+        "7-9 years (3+2+2 or 3+2+4)"
+      ],
+      "entrance_exam": "Specific entrance exams at each RCI-approved institute: NIMHANS, CIP Ranchi, RINPAS, IHBAS, Amity, JMI, MJRP, Sri Aurobindo Indore.",
+      "govt_fees": "₹50,000-2 lakh total for the M.Psy/MA Clinical (RCI) phase at govt institutes (NIMHANS, CIP Ranchi, RINPAS).",
+      "private_fees": "₹4-12 lakh total for RCI-approved private programmes; PsyD typically ₹8-20 lakh total over 4 years.",
+      "top_institutions": [
+        "NIMHANS, Bangalore (govt)",
+        "Central Institute of Psychiatry, Ranchi (govt)",
+        "RINPAS, Ranchi (govt)",
+        "IHBAS, Delhi (govt)",
+        "Amity Behavioural Sciences, Noida (private)",
+        "Sri Aurobindo University, Indore (private)"
+      ],
+      "scholarships": [
+        "UGC NET-JRF",
+        "ICMR Doctoral Fellowship for research streams"
+      ],
+      "abroad_pathways": "RCI registration is India-specific; for international practice (US/UK/Australia), additional licensure (HCPC, APA, etc.) and country-specific PG. Many Indian RCI psychologists also do PhDs abroad.",
+      "day_in_life": "A clinical psychologist in a hospital OPD sees 6-8 clients in 50-minute sessions, writes case notes between, and reviews case files for the next day. Friday afternoons often involve supervision with a senior. Many also run private practice in the evenings.",
+      "growth_path": "Junior Clinical Psychologist → Senior CP → Consultant CP at hospitals or independent practice. Pivots: school of psychology faculty, private hospital chains (Apollo, Fortis), forensic consulting, research at NIMHANS/CIP.",
+      "underrated": false,
+      "low_budget": false,
+      "low_percent": false,
+      "salary_bands": "Fresher (post-RCI): ₹5-8 LPA / Mid (5-7 yr exp): ₹10-16 LPA / Senior (10+ yr, private practice): ₹18-40 LPA. Note: M.Phil Clinical Psychology is being phased out from 2025-26 in favour of MA Clinical Psychology (RCI) and PsyD per RCI's 2024 notification. Source: AmbitionBox 2024-25, RCI guidelines.",
+      "confidence": "high",
+      "domainId": "psy",
+      "domainTitle": "Psychology",
+      "streamIds": [
+        "arts",
+        "bio",
+        "commerce",
+        "maths"
+      ]
+    },
+    {
+      "id": "PSY-04",
+      "name": "Counselling Psychologist",
+      "description": "A counsellor works with clients on emotional, relational, career, and adjustment issues. Less medicalized than clinical psychology — focused on coping and growth.",
+      "streams": [
+        "Arts",
+        "Bio",
+        "Commerce",
+        "Maths"
+      ],
+      "min_12th_percent": "Same as MA Psychology entry — 50% in BA/BSc Psychology.",
+      "entry_route": "Degree",
+      "qualification": "BA/BSc Psychology → MA/MSc Counselling Psychology OR Diploma/PG Diploma in Counselling Psychology → optional RCI Rehabilitation Counsellor registration",
+      "duration": [
+        "5-6 years (3+2+optional internship)"
+      ],
+      "entrance_exam": "CUET-PG, TISS NET, Christ University entrance, university-specific tests for Counselling Psychology MA programmes.",
+      "govt_fees": "₹30,000-1 lakh total for MA at govt universities (DU, BHU, TISS).",
+      "private_fees": "₹3-8 lakh total at Christ, Symbiosis, Amity. PG Diploma route ₹50,000-2 lakh.",
+      "top_institutions": [
+        "Tata Institute of Social Sciences (govt)",
+        "Christ University, Bangalore (private)",
+        "University of Delhi (govt)",
+        "Mumbai University Garware Institute (govt)",
+        "Manovikas Kendra, Kolkata (private)"
+      ],
+      "scholarships": [
+        "UGC NET-JRF",
+        "TISS need-based aid"
+      ],
+      "abroad_pathways": "MS / MA Counselling in USA, UK, Australia; counselling licensure varies by state/country. ICEF and ACA accreditation routes for Indian counsellors moving abroad.",
+      "day_in_life": "Counsellors see 5-7 clients a day in 50-minute sessions — typically issues like anxiety, relationships, work stress, grief, career transitions. Many work in schools, colleges, EAP companies (1to1help, YourDOST), or independent practice.",
+      "growth_path": "Junior Counsellor → Senior Counsellor → Lead Counsellor / Practice Owner. Pivots: corporate EAP firms, education-tech wellness teams, NGO mental health programmes, life-coaching practice, self-help authorship.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": false,
+      "salary_bands": "Fresher: ₹3-5 LPA / Mid (5 yr): ₹6-10 LPA / Senior (10+ yr private practice): ₹12-25 LPA. Note: Counselling psychologists who are not RCI-registered cannot legally diagnose disorders, but can offer counselling and life-issue support. Source: AmbitionBox 2024-25.",
+      "confidence": "high",
+      "domainId": "psy",
+      "domainTitle": "Psychology",
+      "streamIds": [
+        "arts",
+        "bio",
+        "commerce",
+        "maths"
+      ]
+    },
+    {
+      "id": "PSY-05",
+      "name": "Organizational / I-O Psychologist",
+      "description": "An I-O psychologist applies behavioural science to workplaces — talent assessment, team dynamics, leadership development, employee wellbeing, and organizational change.",
+      "streams": [
+        "Arts",
+        "Bio",
+        "Commerce",
+        "Maths"
+      ],
+      "min_12th_percent": "Same as Psychology UG path; some programmes prefer Commerce or Maths background but no strict requirement.",
+      "entry_route": "Degree",
+      "qualification": "BA/BSc Psychology → MA Industrial-Organizational Psychology OR MBA HR with Psychology specialization",
+      "duration": [
+        "5-6 years (3+2)"
+      ],
+      "entrance_exam": "CUET-PG, TISS NET, Christ University entrance, JBIMS / SIMS entrance for HR-specialization MBAs.",
+      "govt_fees": "₹50,000-1.5 lakh total for MA I-O Psych at govt universities.",
+      "private_fees": "₹4-15 lakh total at Christ, Symbiosis, Amity, TISS; MBA HR ₹15-25 lakh.",
+      "top_institutions": [
+        "Tata Institute of Social Sciences (govt)",
+        "Christ University, Bangalore (private)",
+        "University of Delhi (govt)",
+        "XLRI Jamshedpur — HRM (private/semi-govt)",
+        "Mumbai University (govt)"
+      ],
+      "scholarships": [
+        "UGC NET-JRF",
+        "Corporate diversity scholarships at top B-schools"
+      ],
+      "abroad_pathways": "MS I-O Psychology in USA (Penn, NYU, U-Minnesota), UK (City U London). Strong demand in global HR consulting (McKinsey People Org, Deloitte Human Capital).",
+      "day_in_life": "I-O psychologists in industry run leadership assessments, design hiring tests, facilitate team workshops, analyze employee survey data, and design L&D programmes. Consulting roles at Mercer, Aon, Korn Ferry mix client work with research.",
+      "growth_path": "Analyst → Senior Consultant → Manager → Senior Manager / Head of L&D or Talent. Pivots: HR business partner, organizational development consulting, executive coaching, academic research.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": false,
+      "salary_bands": "Fresher: ₹4-7 LPA / Mid (5-7 yr): ₹10-18 LPA / Senior (10+ yr, consulting): ₹20-45 LPA. Note: One of the highest-paying psychology paths; well-known via MBA-HR overlap with strong demand in HR consulting. Source: AmbitionBox, LinkedIn Salary 2024-25.",
+      "confidence": "high",
+      "domainId": "psy",
+      "domainTitle": "Psychology",
+      "streamIds": [
+        "arts",
+        "bio",
+        "commerce",
+        "maths"
+      ]
+    },
+    {
+      "id": "PSY-06",
+      "name": "Sport Psychologist",
+      "description": "A sport psychologist works with athletes and teams on performance under pressure, focus, motivation, injury recovery, and team dynamics across sports from cricket to chess.",
+      "streams": [
+        "Arts",
+        "Bio",
+        "Commerce",
+        "Maths"
+      ],
+      "min_12th_percent": "BA Psychology entry standards; sport psych is a specialization at PG level.",
+      "entry_route": "Degree",
+      "qualification": "BA/BSc Psychology → MA Psychology with Sport Psychology elective OR MA/MSc Sport Psychology / Sport Sciences (limited programmes in India)",
+      "duration": [
+        "5-6 years"
+      ],
+      "entrance_exam": "CUET-PG, LNIPE Gwalior entrance, university-specific tests. Internationally — GRE for MS programmes abroad.",
+      "govt_fees": "₹30,000-1.5 lakh total at LNIPE, Sports Authority of India institutes, GLC universities.",
+      "private_fees": "₹3-7 lakh for MA with sport specialization at private universities; PG Diploma ₹1-3 lakh.",
+      "top_institutions": [
+        "Lakshmibai National Institute of Physical Education, Gwalior (govt)",
+        "Sports Authority of India NS NIS Patiala (govt)",
+        "Manav Rachna University, Faridabad (private)",
+        "Christ University Sport Studies (private)"
+      ],
+      "scholarships": [
+        "SAI scholarships for sports-track candidates",
+        "AIU sports excellence scholarships"
+      ],
+      "abroad_pathways": "MS Sport Psychology in USA (West Virginia, Boston U), UK (Loughborough, Bangor), Australia (Victoria U). Many Indian sport psychologists train abroad and return to work with national teams.",
+      "day_in_life": "Sport psychologists travel with teams, run pre-match mental preparation sessions, do one-on-one work with athletes recovering from injury or slumps, and analyze pressure-moment performance video. Days are unpredictable — match schedules dictate calendar.",
+      "growth_path": "Junior Sport Psychologist (national academy) → Team Sport Psychologist (state/franchise) → Lead with Senior National Team. Pivots: performance coaching, corporate executive performance, academic research at sports institutes.",
+      "underrated": true,
+      "low_budget": false,
+      "low_percent": false,
+      "salary_bands": "Fresher: ₹3.5-6 LPA / Mid (5 yr, IPL/state team): ₹8-15 LPA / Senior (national team / Olympics): ₹15-30 LPA + match fees. Note: Few full-time positions in India; many sport psychologists combine national-level consulting with private practice and academic work. Source: AmbitionBox, NSDC sports & fitness sector reports.",
+      "confidence": "medium",
+      "domainId": "psy",
+      "domainTitle": "Psychology",
+      "streamIds": [
+        "arts",
+        "bio",
+        "commerce",
+        "maths"
+      ]
+    },
+    {
+      "id": "PSY-07",
+      "name": "Forensic Psychologist",
+      "description": "A forensic psychologist applies psychology to legal and criminal contexts — criminal profiling, witness assessment, court testimony, and victim and offender rehabilitation.",
+      "streams": [
+        "Arts",
+        "Bio",
+        "Commerce",
+        "Maths"
+      ],
+      "min_12th_percent": "BA Psychology entry standards.",
+      "entry_route": "Degree",
+      "qualification": "BA Psychology → MA Psychology + PG Diploma / MSc Forensic Psychology OR MSc Criminology + Psychology background",
+      "duration": [
+        "5-7 years"
+      ],
+      "entrance_exam": "CUET-PG, LNJN NICFS entrance (Delhi), Gujarat Forensic Sciences University entrance, university-specific tests.",
+      "govt_fees": "₹30,000-1.5 lakh total at NICFS, GFSU, NFSU.",
+      "private_fees": "₹3-7 lakh total at private universities.",
+      "top_institutions": [
+        "National Forensic Sciences University, Gandhinagar (govt)",
+        "LNJN National Institute of Criminology and Forensic Science, Delhi (govt)",
+        "Gujarat Forensic Sciences University, Gandhinagar (govt)",
+        "Amity Institute of Forensic Sciences, Noida (private)"
+      ],
+      "scholarships": [
+        "UGC NET-JRF",
+        "MHA fellowships for police-track research"
+      ],
+      "abroad_pathways": "MS Forensic Psychology in USA (John Jay, CUNY), UK (KCL, Glasgow Caledonian). Demand in international tribunals, intelligence agencies, and immigration psychology globally.",
+      "day_in_life": "Forensic psychologists work with police on profiling and interrogation strategy, write court reports, conduct competency-to-stand-trial evaluations, or run prison rehabilitation programmes. Court testimony and case file review take large parts of the week.",
+      "growth_path": "Research Officer → Forensic Psychologist (govt or police consulting) → Senior Consultant. Pivots: academic forensic psychology, NGO criminal justice reform work, private investigation consulting, intelligence agencies.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": false,
+      "salary_bands": "Fresher: ₹4-6 LPA / Mid (5-7 yr): ₹8-14 LPA / Senior (10+ yr govt/consulting): ₹16-25 LPA. Note: Limited full-time roles in India relative to demand and student interest. Source: AmbitionBox + government recruitment notifications.",
+      "confidence": "medium",
+      "domainId": "psy",
+      "domainTitle": "Psychology",
+      "streamIds": [
+        "arts",
+        "bio",
+        "commerce",
+        "maths"
+      ]
+    },
+    {
+      "id": "PSY-08",
+      "name": "Rehabilitation Psychologist",
+      "description": "A rehabilitation psychologist works with people facing physical disabilities, chronic illness, traumatic injury, or psychiatric conditions — focused on adjustment, function, and quality of life.",
+      "streams": [
+        "Arts",
+        "Bio",
+        "Commerce",
+        "Maths"
+      ],
+      "min_12th_percent": "BA Psychology entry; subsequent PG and RCI registration required for clinical work.",
+      "entry_route": "Degree",
+      "qualification": "BA Psychology → MA Psychology → 2-yr M.Phil Rehabilitation Psychology (RCI) → RCI registration as Rehabilitation Psychologist",
+      "duration": [
+        "7-8 years (3+2+2)"
+      ],
+      "entrance_exam": "Specific RCI entrance exams at NIEPID Secunderabad, NIMHANS, RCI-recognized institutes.",
+      "govt_fees": "₹30,000-1.5 lakh total for the M.Phil phase at govt institutes (NIEPID, NIMHANS).",
+      "private_fees": "₹4-8 lakh total at RCI-approved private universities.",
+      "top_institutions": [
+        "National Institute for the Empowerment of Persons with Intellectual Disabilities, Secunderabad (govt)",
+        "NIMHANS, Bangalore (govt)",
+        "Punjab University, Chandigarh (govt)",
+        "Christ University (private)"
+      ],
+      "scholarships": [
+        "UGC NET-JRF",
+        "RCI internship stipends",
+        "Disability-related research grants from MSJE"
+      ],
+      "abroad_pathways": "MS Rehabilitation Psychology in USA (Wisconsin-Madison), UK (Sheffield, Leeds). Particularly relevant for those interested in spinal cord injury, traumatic brain injury, or paediatric rehabilitation.",
+      "day_in_life": "Rehab psychologists work in hospitals or rehab centres, doing intake assessments, family counselling, neuropsychological testing, and ongoing therapy. Patients often have spinal injury, stroke, autism, intellectual disability, or psychiatric rehabilitation needs.",
+      "growth_path": "Junior Rehab Psychologist → Senior → Consultant at rehab centres or independent practice. Pivots: special education leadership, NGO disability work, government rehabilitation programmes, academia.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": false,
+      "salary_bands": "Fresher (post-RCI): ₹4-7 LPA / Mid (5-7 yr): ₹9-14 LPA / Senior (10+ yr): ₹16-25 LPA + private practice. Note: Stable government openings exist via NIEPID, CRC network, and state disability commissionerates. Source: AmbitionBox + RCI/MSJE recruitment.",
+      "confidence": "high",
+      "domainId": "psy",
+      "domainTitle": "Psychology",
+      "streamIds": [
+        "arts",
+        "bio",
+        "commerce",
+        "maths"
+      ]
+    },
+    {
+      "id": "PSY-09",
+      "name": "Neuropsychologist",
+      "description": "A neuropsychologist studies brain-behaviour links, assessing cognitive deficits from stroke, traumatic injury, dementia, or developmental disorders, and designing remediation.",
+      "streams": [
+        "Arts",
+        "Bio",
+        "Commerce",
+        "Maths"
+      ],
+      "min_12th_percent": "Standard psychology UG entry; many neuropsychologists come from PCB backgrounds because of the biological focus.",
+      "entry_route": "Degree",
+      "qualification": "BA/BSc Psychology → MA Psychology → M.Phil Clinical Psychology (RCI) → fellowship or specialization in Neuropsychology at NIMHANS, AIIMS, or abroad",
+      "duration": [
+        "8-10 years"
+      ],
+      "entrance_exam": "NIMHANS PG exam, AIIMS exam for clinical neuropsychology, university tests for related MA programmes.",
+      "govt_fees": "₹30,000-1.5 lakh for the M.Phil + fellowship phase at govt institutes.",
+      "private_fees": "₹6-15 lakh combined at private RCI institutes + fellowship.",
+      "top_institutions": [
+        "NIMHANS, Bangalore (govt)",
+        "AIIMS New Delhi — Department of Psychiatry (govt)",
+        "All India Institute of Speech and Hearing, Mysore — for cognitive-linguistic neuro work (govt)",
+        "PGIMER Chandigarh (govt)"
+      ],
+      "scholarships": [
+        "ICMR Senior Research Fellowship",
+        "DBT/DST research grants",
+        "Foreign-funded fellowships at NIMHANS"
+      ],
+      "abroad_pathways": "PhD/PsyD Neuropsychology in USA (UCSD, Pitt, Columbia), UK (UCL, KCL). Indian neuropsychologists routinely train abroad given limited domestic training capacity.",
+      "day_in_life": "Neuropsychologists conduct 3-4 hour cognitive assessments using batteries like NIMHANS Neuropsychology Battery, write detailed reports for neurologists, and design rehabilitation plans. Many work in hospital memory clinics, stroke units, or paediatric assessment centres.",
+      "growth_path": "Junior Neuropsychologist → Senior Consultant → Department Head at hospital memory clinic or rehab centre. Pivots: neuroscience research at IIT/NCBS, dementia care policy, paediatric autism assessment, pharmaceutical clinical research.",
+      "underrated": false,
+      "low_budget": false,
+      "low_percent": false,
+      "salary_bands": "Fresher (post-RCI fellowship): ₹6-10 LPA / Mid (5-7 yr at hospital): ₹12-18 LPA / Senior (10+ yr, top hospital or private practice): ₹20-35 LPA. Note: Highly specialized — only a handful of dedicated training centres in India produce neuropsychologists. Source: NIMHANS career data, AmbitionBox.",
+      "confidence": "medium",
+      "domainId": "psy",
+      "domainTitle": "Psychology",
+      "streamIds": [
+        "arts",
+        "bio",
+        "commerce",
+        "maths"
+      ]
+    },
+    {
+      "id": "PSY-10",
+      "name": "Health Psychologist",
+      "description": "A health psychologist studies how behaviour and mind affect physical health — chronic illness adjustment, pain management, smoking cessation, lifestyle change, and patient adherence.",
+      "streams": [
+        "Arts",
+        "Bio",
+        "Commerce",
+        "Maths"
+      ],
+      "min_12th_percent": "Standard Psychology UG entry; health psychology specialization at PG level.",
+      "entry_route": "Degree",
+      "qualification": "BA/BSc Psychology → MA Psychology with Health Psychology elective or MSc Health Psychology",
+      "duration": [
+        "5 years"
+      ],
+      "entrance_exam": "CUET-PG, university-specific entrances for MA Psychology.",
+      "govt_fees": "₹30,000-1.5 lakh for MA at govt universities.",
+      "private_fees": "₹3-8 lakh total at Christ, Amity, MIT-WPU.",
+      "top_institutions": [
+        "University of Delhi (govt)",
+        "Christ University, Bangalore (private)",
+        "AIIMS Department of Psychiatry — health psych research (govt)",
+        "MIT-WPU, Pune (private)"
+      ],
+      "scholarships": [
+        "UGC NET-JRF",
+        "ICMR fellowships for health-related research"
+      ],
+      "abroad_pathways": "MS Health Psychology in UK (UCL, KCL, City U), USA (UCSF, Pitt). Strong demand in global health NGOs, public health programmes, and digital health.",
+      "day_in_life": "Health psychologists in hospitals work with cardiac, oncology, or diabetes patients on lifestyle change. In NGOs and digital health firms (Practo, HealthifyMe, MFine), they design behavioural interventions and patient adherence programmes.",
+      "growth_path": "Junior Health Psychologist → Senior → Lead at hospital or digital health firm. Pivots: public health policy, health-tech product roles, international NGOs (PSI, BMGF), behavioural economics consulting.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": false,
+      "salary_bands": "Fresher: ₹4-6 LPA / Mid (5 yr): ₹8-14 LPA / Senior (10+ yr health-tech / NGO leadership): ₹16-30 LPA. Note: Field is small in India but growing fast with digital health and chronic disease focus. Source: AmbitionBox + global health sector reports 2024-25.",
+      "confidence": "medium",
+      "domainId": "psy",
+      "domainTitle": "Psychology",
+      "streamIds": [
+        "arts",
+        "bio",
+        "commerce",
+        "maths"
+      ]
+    },
+    {
+      "id": "PSY-11",
+      "name": "School / Educational Psychologist",
+      "description": "A school psychologist supports children's academic, emotional, and behavioural development — assessing learning needs, designing IEPs, counselling students, and training teachers.",
+      "streams": [
+        "Arts",
+        "Bio",
+        "Commerce",
+        "Maths"
+      ],
+      "min_12th_percent": "Standard Psychology UG entry.",
+      "entry_route": "Degree",
+      "qualification": "BA Psychology → MA Educational Psychology / Counselling Psychology + B.Ed or Diploma in Educational Counselling for school posts",
+      "duration": [
+        "5-6 years"
+      ],
+      "entrance_exam": "CUET-PG, university-specific entrances. CTET-equivalent or state TET for counsellor posts in govt schools.",
+      "govt_fees": "₹30,000-1.5 lakh total for MA at govt universities; B.Ed/PG Diploma ₹10,000-50,000 govt.",
+      "private_fees": "₹3-8 lakh at Christ, Amity, MIT-WPU; PG Diploma ₹50,000-2 lakh.",
+      "top_institutions": [
+        "University of Delhi (govt)",
+        "Tata Institute of Social Sciences (govt)",
+        "Christ University, Bangalore (private)",
+        "Regional Institute of Education, Mysore/Bhubaneswar (govt)"
+      ],
+      "scholarships": [
+        "UGC NET-JRF",
+        "State govt teacher training scholarships"
+      ],
+      "abroad_pathways": "MS School Psychology in USA, UK; international school networks (IB, Cambridge) hire school counsellors trained abroad. Limited direct migration without country-specific licensure.",
+      "day_in_life": "School counsellors meet 4-6 students a day on issues from peer conflict to study anxiety to family stress. They assess learning differences, run small-group programmes, train teachers, and meet parents. School calendars dictate the year.",
+      "growth_path": "Junior Counsellor → Senior Counsellor → Head of Wellbeing or Special Educational Needs at international or top private schools. Pivots: educational technology product roles (Byju's, BrightChamps), curriculum design, special education leadership.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": false,
+      "salary_bands": "Fresher (govt school): ₹3-5 LPA / Mid (private/international school, 5-7 yr): ₹6-12 LPA / Senior (head of wellbeing, 10+ yr): ₹14-25 LPA. Note: International schools (IB/Cambridge) pay 2-3× state-board schools. Source: AmbitionBox + Naukri school recruitment listings.",
+      "confidence": "high",
+      "domainId": "psy",
+      "domainTitle": "Psychology",
+      "streamIds": [
+        "arts",
+        "bio",
+        "commerce",
+        "maths"
+      ]
+    },
+    {
+      "id": "PSY-12",
+      "name": "Cognitive Science / Cognitive Neuroscience Researcher",
+      "description": "A cognitive scientist studies how minds represent information — across psychology, neuroscience, linguistics, AI, and philosophy. Strong overlap with computational research and AI.",
+      "streams": [
+        "Bio",
+        "Maths"
+      ],
+      "min_12th_percent": "60-90% depending on institute; IIT-GN, IIIT-H, NIMHANS programmes are competitive.",
+      "entry_route": "Degree",
+      "qualification": "PCM/PCB → BSc/BA in Psychology, Cognitive Science, Computer Science, or Linguistics → MA/MSc Cognitive Science → PhD",
+      "duration": [
+        "8-10 years (3+2+5 PhD)"
+      ],
+      "entrance_exam": "JEE Main for IIT-GN integrated programmes; IIIT-H entrance; NIMHANS Cognitive Neuroscience entrance; IISc tests for related research streams.",
+      "govt_fees": "₹50,000-2 lakh per year at IITs, IIIT-H, NIMHANS, IISc — most PhD students get full stipend.",
+      "private_fees": "₹4-15 lakh total for related private MSc programmes (Ashoka, Manipal); PhD usually fully funded everywhere.",
+      "top_institutions": [
+        "IIT Gandhinagar — Cognitive Science (govt)",
+        "IIIT Hyderabad — Cognitive Science Lab (govt)",
+        "NIMHANS — Cognitive Neuroscience Centre (govt)",
+        "Indian Institute of Science (govt)",
+        "National Brain Research Centre, Manesar (govt)",
+        "Allahabad University — Cognitive Science (govt)"
+      ],
+      "scholarships": [
+        "INSPIRE Fellowship",
+        "CSIR-UGC NET-JRF",
+        "Prime Minister's Research Fellowship",
+        "Ramanujan Fellowship for returning researchers"
+      ],
+      "abroad_pathways": "PhD in USA (CMU, MIT, UCSD, Berkeley), UK (UCL, Oxford, Edinburgh), Germany (Max Planck), Netherlands (Donders Institute). Indian cognitive scientists routinely admitted to top global PhDs.",
+      "day_in_life": "Cognitive scientists run experiments using fMRI, EEG, eye-tracking, behavioural tasks, or computational modelling. Days mix lab data collection, programming analyses in Python or R, writing papers, and reading. Strong overlap with AI research at top labs.",
+      "growth_path": "PhD → Postdoc → Faculty (IISc, IITs, IIIT-H, NIMHANS) OR Research Scientist (Microsoft Research, Google, AI labs). Pivots: AI/ML research, UX research, neuro-marketing, brain-computer interface startups.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": false,
+      "salary_bands": "PhD stipend: ₹37,000-42,000/month / Postdoc: ₹6-12 LPA / Faculty (IIT/IISc): ₹15-25 LPA + research grants / Industry research scientist (MS Research, Google): ₹40-80 LPA. Source: IIT/IIIT-H placement reports + DST stipend rules + Glassdoor research roles.",
+      "confidence": "high",
+      "domainId": "psy",
+      "domainTitle": "Psychology",
+      "streamIds": [
+        "bio",
+        "maths"
+      ]
+    },
+    {
+      "id": "PSY-13",
+      "name": "UX Researcher (Psychology Background)",
+      "description": "A UX researcher studies how users behave with products through interviews, usability tests, surveys, and behavioural analytics. Psychology graduates are well-suited to this role.",
+      "streams": [
+        "Arts",
+        "Bio",
+        "Commerce",
+        "Maths"
+      ],
+      "min_12th_percent": "BA Psychology entry standards; some specialized HCI programmes prefer Maths/CS background.",
+      "entry_route": "Degree",
+      "qualification": "BA/BSc Psychology + UX Research bootcamp / certificate (Interaction Design Foundation, NN/g) OR MA Psychology with HCI elective OR MSc HCI / Cognitive Science",
+      "duration": [
+        "3-5 years"
+      ],
+      "entrance_exam": "CEED for design-school MSc HCI; standard CUET-PG for psychology MAs; bootcamps are application-based, no entrance.",
+      "govt_fees": "₹50,000-1.5 lakh total for MA Psychology at govt universities; IIT design programmes ₹2-4 lakh total.",
+      "private_fees": "₹50,000-3 lakh for UX Research bootcamps and certificates; MSc HCI at private institutes ₹6-12 lakh.",
+      "top_institutions": [
+        "IIT Bombay — IDC School of Design (govt)",
+        "IIT Guwahati Design (govt)",
+        "IIIT Hyderabad — Cognitive Science (govt)",
+        "Srishti Manipal Institute, Bangalore (private)",
+        "NID Ahmedabad / Bengaluru — for related design HCI (govt)"
+      ],
+      "scholarships": [
+        "INSPIRE for cognitive science routes",
+        "Various design-school merit scholarships"
+      ],
+      "abroad_pathways": "MS HCI in USA (CMU, Michigan, Georgia Tech), UK (UCL Interaction Centre), Sweden (Chalmers). UX research is a globally portable career — Indian UX researchers regularly move to product companies in US/EU.",
+      "day_in_life": "UX researchers run user interviews (5-8/week), usability tests, survey analyses, and field studies. They synthesize findings into research reports for product teams, present to stakeholders, and inform design decisions across roadmaps and feature launches.",
+      "growth_path": "Junior UX Researcher → Senior UX Researcher → Lead → UX Research Manager / Director of Research. Pivots: product management, design strategy, behavioural economics consulting, academia.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": false,
+      "salary_bands": "Fresher: ₹6-10 LPA at top product firms / Mid (5-7 yr): ₹15-30 LPA / Senior (10+ yr at FAANG-equivalent): ₹35-70 LPA. Note: Highest-paying applied-psychology path in India; product-firm UX research is growing fast in 2024-26 with Flipkart, Razorpay, Swiggy, PhonePe hiring actively. Source: AmbitionBox, LinkedIn Salary 2024-25.",
+      "confidence": "high",
+      "domainId": "psy",
+      "domainTitle": "Psychology",
+      "streamIds": [
+        "arts",
+        "bio",
+        "commerce",
+        "maths"
+      ]
+    }
+  ],
+  "confidence_notes": [
+    "RCI 2024 notification on phasing out M.Phil Clinical Psychology and replacement with MA Clinical Psychology (RCI) verified from RCI and UGC notices; specific RCI-approved MA institutes are still being added through 2026.",
+    "Sport Psychology and Forensic Psychology have limited full-time positions in India relative to student interest; salary ranges are estimates based on national-team consulting rates and government forensic lab postings — confidence medium.",
+    "All 13 paths are flagged low_percent: false because every track has at least one mainstream institute with 80-90%+ board cutoffs (DU LSR for BA, NIMHANS for PG/M.Phil); state university and private routes do exist at lower cutoffs.",
+    "UX Research salary data from AmbitionBox and LinkedIn Salary 2024-25; Indian product-firm market for UX has expanded significantly post-2020."
+  ]
+}

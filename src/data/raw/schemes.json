@@ -1,0 +1,5122 @@
+{
+  "metadata": {
+    "title": "Comprehensive Database of Scholarships, Education Schemes & Financial Assistance for Students of Madhya Pradesh",
+    "version": "1.0",
+    "compiled_date": "2026-06-07",
+    "knowledge_cutoff": "June 2026",
+    "disclaimer": "Data compiled from official government portals, scheme guidelines, and verified educational sources as of June 2026. Verify all details from official portals before applying. Scheme parameters (amounts, dates, eligibility) are subject to annual revision by implementing authorities.",
+    "primary_portals": [
+      "https://scholarshipportal.mp.nic.in",
+      "https://hescholarship.mp.gov.in",
+      "https://www.tribal.mp.gov.in/MPTAAS",
+      "https://scholarships.gov.in",
+      "https://shikshaportal.mp.gov.in"
+    ],
+    "helpline": "1800-233-1626 (MP Scholarship Portal)"
+  },
+  "coverage_summary": {
+    "total_schemes_documented": 38,
+    "state_schemes_mp": 21,
+    "central_schemes_applicable_mp": 17,
+    "institution_programs_documented": 8,
+    "total_source_documents": 12,
+    "coverage_by_education_level": {
+      "primary_class_1_5": [
+        "CENTRAL-NSP-006 (Minorities)",
+        "CENTRAL-NSP-012 (PwD)"
+      ],
+      "upper_primary_class_6_8": [
+        "INST-001 JNV",
+        "INST-002 EMRS",
+        "INST-003 KGBV",
+        "CENTRAL-NSP-006 (Minorities)",
+        "CENTRAL-NSP-012 (PwD)"
+      ],
+      "secondary_class_9_10": [
+        "CENTRAL-NSP-001 (PM YASASVI Pre-Matric)",
+        "CENTRAL-NSP-003 (PM YASASVI Top Class School)",
+        "CENTRAL-NSP-004 (NMMS)",
+        "CENTRAL-NSP-008 (SC Pre-Matric)",
+        "CENTRAL-NSP-010 (ST Pre-Matric)",
+        "CENTRAL-NSP-012 (PwD Pre-Matric)",
+        "CENTRAL-NSP-006 (Minority Pre-Matric)",
+        "INST-001 JNV",
+        "INST-002 EMRS",
+        "INST-003 KGBV"
+      ],
+      "higher_secondary_class_11_12": [
+        "CENTRAL-NSP-002 (PM YASASVI Post-Matric)",
+        "CENTRAL-NSP-003 (PM YASASVI Top Class)",
+        "MP-STATE-011 (Laptop Yojana - for Class 12 passers)",
+        "CENTRAL-NSP-007 (Minority Post-Matric)",
+        "CENTRAL-NSP-009 (SC Post-Matric)",
+        "CENTRAL-NSP-011 (ST Post-Matric)"
+      ],
+      "diploma_iti": [
+        "MP-STATE-002 (MMJKY)",
+        "MP-STATE-003 (SC PMS)",
+        "MP-STATE-004 (MPTAAS/ST)",
+        "MP-STATE-005 (OBC PMS)",
+        "MP-STATE-007 (Pratibha Kiran)",
+        "CENTRAL-AICTE-001 (Pragati)",
+        "CENTRAL-AICTE-002 (Saksham)",
+        "INST-008 (Govt ITI)"
+      ],
+      "undergraduate": [
+        "MP-STATE-001 (MMVY)",
+        "MP-STATE-002 (MMJKY)",
+        "MP-STATE-003 (SC PMS)",
+        "MP-STATE-004 (MPTAAS/ST)",
+        "MP-STATE-005 (OBC PMS)",
+        "MP-STATE-006 (Gaon Ki Beti)",
+        "MP-STATE-007 (Pratibha Kiran)",
+        "MP-STATE-008 (Vikramaditya)",
+        "CENTRAL-NSP-005 (CSSS)",
+        "CENTRAL-AICTE-001 (Pragati)",
+        "CENTRAL-AICTE-002 (Saksham)",
+        "CENTRAL-DST-001 (INSPIRE)"
+      ],
+      "postgraduate": [
+        "MP-STATE-001 (MMVY - some integrated PG)",
+        "MP-STATE-003 (SC PMS)",
+        "MP-STATE-004 (MPTAAS/ST)",
+        "MP-STATE-005 (OBC PMS)",
+        "CENTRAL-NSP-005 (CSSS)",
+        "CENTRAL-DST-001 (INSPIRE SHE - M.Sc)"
+      ]
+    },
+    "coverage_by_caste_category": {
+      "general_ews": [
+        "MP-STATE-001 (MMVY)",
+        "MP-STATE-002 (MMJKY)",
+        "MP-STATE-006 (Gaon Ki Beti - no caste restriction)",
+        "MP-STATE-007 (Pratibha Kiran)",
+        "MP-STATE-008 (Vikramaditya)",
+        "MP-STATE-011 (Laptop Yojana)",
+        "CENTRAL-NSP-004 (NMMS)",
+        "CENTRAL-NSP-005 (CSSS)",
+        "CENTRAL-DST-001 (INSPIRE)"
+      ],
+      "obc": [
+        "MP-STATE-002 (MMJKY)",
+        "MP-STATE-005 (OBC PMS)",
+        "MP-STATE-006 (Gaon Ki Beti)",
+        "MP-STATE-008 (Vikramaditya)",
+        "CENTRAL-NSP-001 (PM YASASVI)",
+        "CENTRAL-NSP-002 (PM YASASVI Post-Matric)",
+        "CENTRAL-NSP-003 (PM YASASVI Top Class School)",
+        "MPTAAS (partial)"
+      ],
+      "sc": [
+        "MP-STATE-003 (SC PMS)",
+        "MP-STATE-009 (Awas Bhatta SC)",
+        "MP-STATE-010 (Nishaktjan if applicable)",
+        "CENTRAL-NSP-008 (SC Pre-Matric)",
+        "CENTRAL-NSP-009 (SC Post-Matric)"
+      ],
+      "st": [
+        "MP-STATE-004 (MPTAAS/ST PMS)",
+        "MP-STATE-009 (Awas Bhatta ST)",
+        "CENTRAL-NSP-010 (ST Pre-Matric)",
+        "CENTRAL-NSP-011 (ST Post-Matric)",
+        "INST-002 (EMRS)",
+        "INST-007 (Tribal Ashram Schools)"
+      ],
+      "minority": [
+        "CENTRAL-NSP-006 (Minority Pre-Matric)",
+        "CENTRAL-NSP-007 (Minority Post-Matric)"
+      ],
+      "dnt_ebc": [
+        "CENTRAL-NSP-001 (PM YASASVI)",
+        "CENTRAL-NSP-002 (PM YASASVI Post-Matric)"
+      ],
+      "disability": [
+        "MP-STATE-010 (Nishaktjan MP State)",
+        "CENTRAL-NSP-012 (PwD Pre-Matric)",
+        "CENTRAL-AICTE-002 (Saksham)"
+      ]
+    },
+    "coverage_by_gender": {
+      "girls_specific": [
+        "MP-STATE-006 (Gaon Ki Beti - Rural)",
+        "MP-STATE-007 (Pratibha Kiran - Urban)",
+        "CENTRAL-AICTE-001 (Pragati - Technical Education)",
+        "INST-003 (KGBV - Girls Residential Schools)"
+      ],
+      "all_genders": [
+        "All other schemes open to all genders"
+      ]
+    },
+    "coverage_by_income_band": {
+      "below_54000": [
+        "MP-STATE-007 (Pratibha Kiran degree)",
+        "MP-STATE-008 (Vikramaditya degree)"
+      ],
+      "below_100000": [
+        "CENTRAL-NSP-006 (Minority Pre-Matric)",
+        "MP-STATE-003 (SC 100% scholarship)"
+      ],
+      "below_150000": [
+        "MPTAAS OBC (₹1.5L limit)"
+      ],
+      "below_250000": [
+        "CENTRAL-NSP-001/002/003 (PM YASASVI)",
+        "CENTRAL-NSP-004 (NMMS)",
+        "CENTRAL-NSP-008/009/010/011 (SC/ST Pre/Post Matric)"
+      ],
+      "below_300000": [
+        "MP-STATE-005 (OBC PMS 100%)",
+        "MPTAAS OBC students"
+      ],
+      "below_450000": [
+        "CENTRAL-NSP-005 (CSSS)"
+      ],
+      "below_600000": [
+        "MP-STATE-001 (MMVY)",
+        "MP-STATE-003 (SC 50% scholarship)",
+        "MP-STATE-004 (ST 50% scholarship)"
+      ],
+      "below_800000": [
+        "CENTRAL-AICTE-001 (Pragati)",
+        "CENTRAL-AICTE-002 (Saksham)"
+      ],
+      "merit_no_income_limit": [
+        "MP-STATE-011 (Laptop Yojana - 85%+ marks)",
+        "CENTRAL-DST-001 (INSPIRE - merit-based)"
+      ]
+    },
+    "scheme_ids_all": [
+      "MP-STATE-001",
+      "MP-STATE-002",
+      "MP-STATE-003",
+      "MP-STATE-004",
+      "MP-STATE-005",
+      "MP-STATE-006",
+      "MP-STATE-007",
+      "MP-STATE-008",
+      "MP-STATE-009",
+      "MP-STATE-010",
+      "MP-STATE-011",
+      "MP-STATE-012",
+      "CENTRAL-NSP-001",
+      "CENTRAL-NSP-002",
+      "CENTRAL-NSP-003",
+      "CENTRAL-NSP-004",
+      "CENTRAL-NSP-005",
+      "CENTRAL-NSP-006",
+      "CENTRAL-NSP-007",
+      "CENTRAL-NSP-008",
+      "CENTRAL-NSP-009",
+      "CENTRAL-NSP-010",
+      "CENTRAL-NSP-011",
+      "CENTRAL-AICTE-001",
+      "CENTRAL-AICTE-002",
+      "CENTRAL-DST-001",
+      "CENTRAL-NSP-012",
+      "MP-STATE-013",
+      "MP-STATE-014",
+      "MP-STATE-015",
+      "MP-STATE-016",
+      "MP-STATE-017",
+      "MP-STATE-018",
+      "MP-STATE-019",
+      "MP-STATE-020",
+      "MP-STATE-021",
+      "CENTRAL-NSP-013",
+      "CENTRAL-NSP-014"
+    ],
+    "institution_ids_all": [
+      "INST-001",
+      "INST-002",
+      "INST-003",
+      "INST-004",
+      "INST-005",
+      "INST-006",
+      "INST-007",
+      "INST-008"
+    ],
+    "notes_and_gaps": [
+      "Bicycle distribution scheme, uniform scheme, and book assistance - MP government runs these through school education department; exact current scheme details not publicly available in verified official sources as of June 2026. Verify at https://shikshaportal.mp.gov.in.",
+      "MP government hostels for SC/ST students - detailed current scheme parameters require verification at https://www.tribal.mp.gov.in and https://socialjustice.mp.gov.in.",
+      "National Fellowship programmes (UGC, ICMR, CSIR) are for PhD/research students; MP students eligible but not included in this dataset as they go beyond scholarship to fellowship level.",
+      "PM SHRI Schools in MP - central scheme upgrading government schools; students in PM SHRI schools eligible for all applicable scholarships. Current list of PM SHRI schools in MP available at https://pmshrischools.education.gov.in.",
+      "Minority Merit-cum-Means Scholarship (Maulana Azad National Fellowship) discontinued in 2022; not included.",
+      "Rajiv Gandhi Scholarship for Academic Excellence (studying abroad) - MP students may apply; details at https://highereducation.mp.gov.in.",
+      "MP Tribal Welfare Department also operates coaching assistance programs (free coaching for competitive exams like UPSC, MPSC, banking) for ST students - verify at https://tribal.mp.gov.in.",
+      "CG Scholarship and NTSE are separate; NTSE 2023 onwards merged/restructured - verify current status at https://ncert.nic.in.",
+      "INSPIRE-SHE amount noted as ₹80,000/year in some sources and ₹80,000 in DST official website; confirm current rate at https://online-inspire.gov.in."
+    ]
+  },
+  "schemes": [
+    {
+      "scheme_id": "MP-STATE-001",
+      "scheme_name": "Mukhya Mantri Medhavi Vidyarthi Yojana (MMVY)",
+      "alternate_names": [
+        "MMVY Scholarship",
+        "Chief Minister Meritorious Student Scheme",
+        "Medhavi Chhatra Yojna"
+      ],
+      "category": "STATE",
+      "state": "Madhya Pradesh",
+      "implementing_authority": "Department of Technical Education, Skill Development and Employment, Government of Madhya Pradesh",
+      "department": "Department of Technical Education, Skill Development & Employment",
+      "ministry": null,
+      "official_website": "https://scholarshipportal.mp.nic.in",
+      "official_application_url": "https://scholarshipportal.mp.nic.in/MedhaviChhatra/Medhavi_New/About.aspx",
+      "scheme_status": "ACTIVE",
+      "launched_year": 2017,
+      "education_coverage": {
+        "education_level": [
+          "UNDERGRADUATE",
+          "PROFESSIONAL"
+        ],
+        "eligible_classes": null,
+        "eligible_courses": [
+          "Engineering (B.E./B.Tech)",
+          "Medical (MBBS/BDS)",
+          "Law",
+          "MBA",
+          "MCA",
+          "Integrated PG",
+          "Nursing",
+          "Pharmacy",
+          "Agriculture",
+          "Architecture",
+          "Any UG degree in Govt/Aided/Private colleges"
+        ],
+        "eligible_degrees": [
+          "B.E.",
+          "B.Tech",
+          "MBBS",
+          "BDS",
+          "LLB",
+          "MBA",
+          "MCA",
+          "B.Arch",
+          "B.Sc",
+          "B.A.",
+          "B.Com",
+          "BPharma",
+          "B.Nursing",
+          "Integrated PG"
+        ],
+        "eligible_institutions": "Government and Private AICTE/UGC/MCI approved institutions in MP"
+      },
+      "benefit_details": {
+        "monetary": {
+          "scholarship_amount_description": "Full tuition fee reimbursement (admission fee + actual tuition fee, excluding mess/caution money)",
+          "annual_amount": null,
+          "monthly_amount": null,
+          "one_time_grant": null,
+          "tuition_coverage": true,
+          "tuition_coverage_note": "100% tuition fee for Govt colleges; up to Fee Regulatory Committee approved amount for private colleges; max ₹1.5 lakh/year for private colleges",
+          "hostel_coverage": true,
+          "hostel_coverage_note": "Hostel fee included for residential students",
+          "examination_fee_coverage": false,
+          "book_allowance": false,
+          "transport_allowance": false,
+          "coaching_allowance": false,
+          "device_assistance": false
+        },
+        "non_monetary": {
+          "free_education": false,
+          "hostel": false,
+          "uniform": false,
+          "books": false,
+          "meals": false,
+          "laptop": false,
+          "bicycle": false,
+          "mentorship": false,
+          "coaching": false,
+          "residential_schooling": false,
+          "career_guidance": false
+        }
+      },
+      "eligibility": {
+        "demographic": {
+          "gender": "ALL",
+          "age_min": null,
+          "age_max": null,
+          "state_requirement": "Permanent resident of Madhya Pradesh (Domicile Certificate required)",
+          "district_restriction": null,
+          "rural_restriction": false,
+          "urban_restriction": false
+        },
+        "economic": {
+          "income_threshold": 600000,
+          "family_income_limit": "Annual family income from all sources must be below ₹6,00,000",
+          "ews_eligibility": true,
+          "bpl_requirement": false
+        },
+        "social_category": {
+          "general": true,
+          "ews": true,
+          "obc": true,
+          "obc_ncl": true,
+          "sc": true,
+          "st": true,
+          "minority": true,
+          "denotified_tribes": true,
+          "special_tribal_groups": true,
+          "note": "All categories eligible if criteria met"
+        },
+        "disability": {
+          "disability_eligible": true,
+          "disability_percentage_requirement": null,
+          "specific_disability_categories": null
+        },
+        "academic": {
+          "minimum_percentage": "70% in Class 12 (MPBSE) OR 85% in Class 12 (CBSE/ICSE). For Engineering: JEE Main rank ≤1,50,000. For Medical: NEET qualified. For Law: CLAT qualified (NLU/DU admission).",
+          "grade_requirement": null,
+          "rank_requirement": "JEE Main ≤1,50,000 for engineering; NEET for medical; CLAT for law",
+          "attendance_requirement": null,
+          "course_restrictions": "UG professional/degree courses only; not PG-level fresh applications"
+        },
+        "institutional": {
+          "government_school_required": false,
+          "government_college_required": false,
+          "recognized_institution_required": true,
+          "specific_institution_list": null
+        }
+      },
+      "application_details": {
+        "application_mode": "ONLINE",
+        "application_portal": "https://scholarshipportal.mp.nic.in",
+        "application_frequency": "ANNUAL",
+        "renewal_required": true,
+        "renewal_conditions": "Pass each academic year; continue in same institution",
+        "documents_required": [
+          "Aadhar Card",
+          "Domicile Certificate",
+          "Class 10 Marksheet",
+          "Class 12 Marksheet",
+          "Income Certificate",
+          "Admission Receipt/Fee Challan",
+          "Bank Account Details (Aadhaar-linked)",
+          "Samagra ID",
+          "JEE/NEET/CLAT rank card (if applicable)",
+          "Passport photo"
+        ],
+        "aadhaar_required": true,
+        "domicile_required": true,
+        "income_certificate_required": true,
+        "caste_certificate_required": false,
+        "disability_certificate_required": false
+      },
+      "benefit_delivery": {
+        "direct_benefit_transfer": true,
+        "institution_payment": true,
+        "reimbursement": false,
+        "voucher": false,
+        "physical_benefit": false,
+        "payment_note": "Fees paid directly to institutions (Govt colleges); DBT to student's bank account for private colleges"
+      },
+      "timeline": {
+        "application_start": "Tentatively July–August each year",
+        "application_end": "Tentatively October–November (extended to ~November 15)",
+        "benefit_distribution_cycle": "Annual",
+        "renewal_cycle": "Annual"
+      },
+      "source_documents": [
+        {
+          "source_type": "OFFICIAL_PORTAL",
+          "url": "https://scholarshipportal.mp.nic.in/MedhaviChhatra/Medhavi_New/About.aspx"
+        },
+        {
+          "source_type": "OFFICIAL_DEPT",
+          "url": "https://www.mptesde.mp.gov.in/index.php/scholarship-and-schemes"
+        },
+        {
+          "source_type": "VERIFIED_AGGREGATOR",
+          "url": "https://www.buddy4study.com/article/mmvy-scholarship"
+        },
+        {
+          "source_type": "VERIFIED_AGGREGATOR",
+          "url": "https://www.egovtschemes.com/mukhyamantri-medhavi-vidhyarti-yojana/"
+        }
+      ],
+      "last_verified": "2026-06-07",
+      "confidence_score": 0.92,
+      "data_completeness_score": 0.88,
+      "notes": "Over 1.5 lakh students have benefited; ₹500+ crore disbursed since 2017. 2026 State Budget has reaffirmed dedicated allocation. Application window for 2025-26 tentatively opened late July 2025."
+    },
+    {
+      "scheme_id": "MP-STATE-002",
+      "scheme_name": "Mukhya Mantri Jan Kalyan (Shiksha Protsahan) Yojana (MMJKY)",
+      "alternate_names": [
+        "MMJKY",
+        "Sambal Scholarship",
+        "Jan Kalyan Sambal Yojana Education Incentive"
+      ],
+      "category": "STATE",
+      "state": "Madhya Pradesh",
+      "implementing_authority": "Department of Technical Education, Skill Development and Employment, Government of Madhya Pradesh",
+      "department": "Department of Technical Education, Skill Development & Employment",
+      "ministry": null,
+      "official_website": "https://scholarshipportal.mp.nic.in",
+      "official_application_url": "http://scholarshipportal.mp.nic.in/SambalScholarship/Documents/pdf/phases_mmjky.pdf",
+      "scheme_status": "ACTIVE",
+      "launched_year": null,
+      "education_coverage": {
+        "education_level": [
+          "DIPLOMA",
+          "ITI",
+          "UNDERGRADUATE",
+          "PROFESSIONAL"
+        ],
+        "eligible_classes": null,
+        "eligible_courses": [
+          "Engineering",
+          "Medical",
+          "Law",
+          "Graduation",
+          "Polytechnic Diploma",
+          "ITI"
+        ],
+        "eligible_degrees": [
+          "B.E.",
+          "B.Tech",
+          "MBBS",
+          "BDS",
+          "LLB",
+          "B.A.",
+          "B.Com",
+          "B.Sc",
+          "Diploma",
+          "ITI"
+        ],
+        "eligible_institutions": "Government and recognized private institutions in MP"
+      },
+      "benefit_details": {
+        "monetary": {
+          "scholarship_amount_description": "Full tuition fee for government institutions; up to ₹1.5 lakh/year for private colleges",
+          "annual_amount": null,
+          "monthly_amount": null,
+          "one_time_grant": null,
+          "tuition_coverage": true,
+          "tuition_coverage_note": "Full fee for govt institutions; up to ₹1,50,000 for private",
+          "hostel_coverage": false,
+          "examination_fee_coverage": false,
+          "book_allowance": false,
+          "transport_allowance": false,
+          "coaching_allowance": false,
+          "device_assistance": false
+        },
+        "non_monetary": {
+          "free_education": false,
+          "hostel": false,
+          "uniform": false,
+          "books": false,
+          "meals": false,
+          "laptop": false,
+          "bicycle": false,
+          "mentorship": false,
+          "coaching": false,
+          "residential_schooling": false,
+          "career_guidance": false
+        }
+      },
+      "eligibility": {
+        "demographic": {
+          "gender": "ALL",
+          "age_min": null,
+          "age_max": null,
+          "state_requirement": "Permanent resident of Madhya Pradesh",
+          "district_restriction": null,
+          "rural_restriction": false,
+          "urban_restriction": false
+        },
+        "economic": {
+          "income_threshold": null,
+          "family_income_limit": "Parent/guardian must be a registered unorganized worker under Mukhya Mantri Jan Kalyan (Sambal) Yojana (Sambal Card holder)",
+          "ews_eligibility": true,
+          "bpl_requirement": false
+        },
+        "social_category": {
+          "general": true,
+          "ews": true,
+          "obc": true,
+          "sc": true,
+          "st": true,
+          "minority": true,
+          "note": "All categories eligible; key criterion is Sambal Card (unorganized worker registration)"
+        },
+        "disability": {
+          "disability_eligible": true,
+          "disability_percentage_requirement": null
+        },
+        "academic": {
+          "minimum_percentage": "Admission to recognized course through merit/entrance exam",
+          "grade_requirement": null,
+          "rank_requirement": "JEE/NEET/CLAT required for respective professional courses",
+          "attendance_requirement": null,
+          "course_restrictions": "UG, Diploma, ITI, and professional courses"
+        },
+        "institutional": {
+          "government_school_required": false,
+          "government_college_required": false,
+          "recognized_institution_required": true
+        }
+      },
+      "application_details": {
+        "application_mode": "ONLINE",
+        "application_portal": "https://scholarshipportal.mp.nic.in",
+        "application_frequency": "ANNUAL",
+        "renewal_required": true,
+        "renewal_conditions": "Annual verification; Sambal Card validity",
+        "documents_required": [
+          "Sambal Card / Labor Registration Proof",
+          "Aadhaar Card",
+          "Domicile Certificate",
+          "Income Certificate",
+          "Marksheets",
+          "Admission Documents",
+          "Bank Account Details (Aadhaar-linked)",
+          "Samagra ID"
+        ],
+        "aadhaar_required": true,
+        "domicile_required": true,
+        "income_certificate_required": false,
+        "caste_certificate_required": false,
+        "disability_certificate_required": false
+      },
+      "benefit_delivery": {
+        "direct_benefit_transfer": true,
+        "institution_payment": true,
+        "payment_note": "Fees directly to institutions; difference via DBT"
+      },
+      "timeline": {
+        "application_start": "Tentatively November each year",
+        "application_end": "Tentatively January each year",
+        "benefit_distribution_cycle": "Annual",
+        "renewal_cycle": "Annual"
+      },
+      "source_documents": [
+        {
+          "source_type": "OFFICIAL_PORTAL",
+          "url": "https://scholarshipportal.mp.nic.in"
+        },
+        {
+          "source_type": "VERIFIED_AGGREGATOR",
+          "url": "https://scholarshipsx.com/sambal-card-scholarship/"
+        },
+        {
+          "source_type": "VERIFIED_AGGREGATOR",
+          "url": "https://scholarshiplearn.com/mmjky-scholarship/"
+        }
+      ],
+      "last_verified": "2026-06-07",
+      "confidence_score": 0.88,
+      "data_completeness_score": 0.82,
+      "notes": "Specifically for children of unorganized workers registered under Jan Kalyan Sambal Yojana (Sambal Card). Parent/guardian must possess valid Sambal Card."
+    },
+    {
+      "scheme_id": "MP-STATE-003",
+      "scheme_name": "Post Matric Scholarship Scheme for SC Students (MP)",
+      "alternate_names": [
+        "SC Post Matric Scholarship MP",
+        "MP SC PMS"
+      ],
+      "category": "STATE",
+      "state": "Madhya Pradesh",
+      "implementing_authority": "Social Justice and Disability Welfare Department, Government of Madhya Pradesh",
+      "department": "Social Justice and Disability Welfare Department",
+      "official_website": "https://scholarshipportal.mp.nic.in",
+      "official_application_url": "https://scholarshipportal.mp.nic.in",
+      "scheme_status": "ACTIVE",
+      "education_coverage": {
+        "education_level": [
+          "SECONDARY",
+          "HIGHER_SECONDARY",
+          "DIPLOMA",
+          "ITI",
+          "UNDERGRADUATE",
+          "PROFESSIONAL",
+          "POSTGRADUATE"
+        ],
+        "eligible_classes": [
+          "11",
+          "12"
+        ],
+        "eligible_courses": [
+          "All post-matric courses - Class 11 onwards"
+        ],
+        "eligible_institutions": "Government and recognized institutions in MP"
+      },
+      "benefit_details": {
+        "monetary": {
+          "scholarship_amount_description": "100% scholarship for family income up to ₹1,00,000; 50% scholarship for family income ₹1,00,000–₹6,00,000. Covers tuition fees, maintenance allowance, book grant.",
+          "annual_amount": null,
+          "monthly_amount": "Maintenance allowance varies by course level (up to ₹1,500/month)",
+          "tuition_coverage": true,
+          "hostel_coverage": true,
+          "book_allowance": true,
+          "examination_fee_coverage": false
+        },
+        "non_monetary": {
+          "hostel": true,
+          "meals": false
+        }
+      },
+      "eligibility": {
+        "demographic": {
+          "gender": "ALL",
+          "state_requirement": "Permanent resident of Madhya Pradesh"
+        },
+        "economic": {
+          "income_threshold": 600000,
+          "family_income_limit": "Up to ₹1,00,000: 100% scholarship; ₹1,00,001–₹6,00,000: 50% scholarship",
+          "ews_eligibility": false,
+          "bpl_requirement": false
+        },
+        "social_category": {
+          "general": false,
+          "ews": false,
+          "obc": false,
+          "sc": true,
+          "st": false,
+          "minority": false
+        },
+        "academic": {
+          "minimum_percentage": "Passed Class 10 (matriculation); enrolled in post-matric course",
+          "attendance_requirement": "Regular attendance required"
+        },
+        "institutional": {
+          "recognized_institution_required": true
+        }
+      },
+      "application_details": {
+        "application_mode": "ONLINE",
+        "application_portal": "https://scholarshipportal.mp.nic.in",
+        "application_frequency": "ANNUAL",
+        "renewal_required": true,
+        "documents_required": [
+          "Aadhaar Card",
+          "Caste Certificate (SC)",
+          "Income Certificate",
+          "Domicile Certificate",
+          "Samagra ID",
+          "Marksheets",
+          "Bank Account Details (Aadhaar-linked)",
+          "Institution Bonafide Certificate"
+        ],
+        "aadhaar_required": true,
+        "domicile_required": true,
+        "income_certificate_required": true,
+        "caste_certificate_required": true
+      },
+      "benefit_delivery": {
+        "direct_benefit_transfer": true,
+        "institution_payment": true
+      },
+      "timeline": {
+        "application_start": "Tentatively October each year",
+        "application_end": "Tentatively January each year",
+        "benefit_distribution_cycle": "Annual",
+        "renewal_cycle": "Annual"
+      },
+      "source_documents": [
+        {
+          "source_type": "PDF_REFERENCE",
+          "url": "https://iiitbhopal.ac.in/Document/Academic/Affiliated%20Scholarship%20Schemes%20at%20IIIT%20Bhopal.pdf"
+        },
+        {
+          "source_type": "OFFICIAL_PORTAL",
+          "url": "https://scholarshipportal.mp.nic.in"
+        }
+      ],
+      "last_verified": "2026-06-07",
+      "confidence_score": 0.9,
+      "data_completeness_score": 0.85
+    },
+    {
+      "scheme_id": "MP-STATE-004",
+      "scheme_name": "Post Matric Scholarship Scheme for ST Students (MP / MPTAAS)",
+      "alternate_names": [
+        "MPTAAS Scholarship",
+        "MP Tribal Post Matric Scholarship",
+        "ST Post Matric Scholarship MP",
+        "Madhya Pradesh Tribal Affairs Automation System"
+      ],
+      "category": "STATE",
+      "state": "Madhya Pradesh",
+      "implementing_authority": "Tribal Welfare Department, Government of Madhya Pradesh",
+      "department": "Tribal Welfare Department (Aadim Jati Kalyan Vibhag)",
+      "official_website": "https://www.tribal.mp.gov.in/MPTAAS",
+      "official_application_url": "https://www.tribal.mp.gov.in/MPTAAS",
+      "scheme_status": "ACTIVE",
+      "launched_year": 2018,
+      "education_coverage": {
+        "education_level": [
+          "SECONDARY",
+          "HIGHER_SECONDARY",
+          "DIPLOMA",
+          "ITI",
+          "UNDERGRADUATE",
+          "PROFESSIONAL",
+          "POSTGRADUATE"
+        ],
+        "eligible_classes": [
+          "11",
+          "12"
+        ],
+        "eligible_courses": [
+          "All post-matric/post-secondary courses including ITI, Diploma, UG, PG, Professional"
+        ],
+        "eligible_institutions": "Recognized schools, colleges, universities, professional institutions in MP"
+      },
+      "benefit_details": {
+        "monetary": {
+          "scholarship_amount_description": "Maintenance allowance up to ₹1,500/month; book grant; disability allowance (additional). 100% scholarship for income up to ₹5,00,000; 50% for ₹5,00,001–₹6,00,000.",
+          "monthly_amount": "Up to ₹1,500/month (maintenance allowance)",
+          "book_allowance": true,
+          "tuition_coverage": true,
+          "hostel_coverage": true
+        },
+        "non_monetary": {
+          "hostel": true
+        }
+      },
+      "eligibility": {
+        "demographic": {
+          "gender": "ALL",
+          "state_requirement": "Permanent resident of Madhya Pradesh (Domicile Certificate required)"
+        },
+        "economic": {
+          "income_threshold": 600000,
+          "family_income_limit": "Up to ₹5,00,000: 100% scholarship; ₹5,00,001–₹6,00,000: 50% scholarship",
+          "ews_eligibility": false,
+          "bpl_requirement": false
+        },
+        "social_category": {
+          "general": false,
+          "ews": false,
+          "obc": false,
+          "sc": false,
+          "st": true,
+          "minority": false
+        },
+        "academic": {
+          "minimum_percentage": "Passed Class 10; enrolled in recognized post-matric course",
+          "attendance_requirement": "Regular attendance mandatory"
+        },
+        "institutional": {
+          "recognized_institution_required": true
+        }
+      },
+      "application_details": {
+        "application_mode": "ONLINE",
+        "application_portal": "https://www.tribal.mp.gov.in/MPTAAS",
+        "application_frequency": "ANNUAL",
+        "renewal_required": true,
+        "renewal_conditions": "Annual Samagra ID verification; Aadhaar e-KYC required (MPTAAS 2.0 from July 2025)",
+        "documents_required": [
+          "Aadhaar Card",
+          "Caste Certificate (ST)",
+          "Income Certificate",
+          "Domicile Certificate",
+          "Samagra ID",
+          "Marksheets",
+          "Bank Account Details (Aadhaar-linked)",
+          "Institution Bonafide Certificate",
+          "Disability Certificate (if applicable)"
+        ],
+        "aadhaar_required": true,
+        "domicile_required": true,
+        "income_certificate_required": true,
+        "caste_certificate_required": true,
+        "disability_certificate_required": false
+      },
+      "benefit_delivery": {
+        "direct_benefit_transfer": true,
+        "institution_payment": true,
+        "payment_note": "Upgraded to MPTAAS 2.0 in July 2025 with Aadhaar-based e-KYC and Samagra ID for cross-departmental data validation; DBT payments secured"
+      },
+      "timeline": {
+        "application_start": "Tentatively October each year",
+        "application_end": "Tentatively January each year",
+        "benefit_distribution_cycle": "Annual (Renewal mandatory for 2nd year onwards)",
+        "renewal_cycle": "Annual"
+      },
+      "source_documents": [
+        {
+          "source_type": "OFFICIAL_PORTAL",
+          "url": "https://www.tribal.mp.gov.in/MPTAAS"
+        },
+        {
+          "source_type": "VERIFIED_AGGREGATOR",
+          "url": "https://mptaasscholarships.com/eligibility-criteria/"
+        }
+      ],
+      "last_verified": "2026-06-07",
+      "confidence_score": 0.92,
+      "data_completeness_score": 0.88,
+      "notes": "MPTAAS upgraded to 2.0 in July 2025. Also covers SC students via the same portal. Not availing any other central/state scholarship simultaneously."
+    },
+    {
+      "scheme_id": "MP-STATE-005",
+      "scheme_name": "Post Matric Scholarship Scheme for OBC Students (MP)",
+      "alternate_names": [
+        "OBC Post Matric Scholarship MP",
+        "MP OBC PMS"
+      ],
+      "category": "STATE",
+      "state": "Madhya Pradesh",
+      "implementing_authority": "Government of Madhya Pradesh (OBC Welfare)",
+      "department": "Backward Classes and Minorities Welfare Department / Social Justice",
+      "official_website": "https://scholarshipportal.mp.nic.in",
+      "official_application_url": "https://scholarshipportal.mp.nic.in",
+      "scheme_status": "ACTIVE",
+      "education_coverage": {
+        "education_level": [
+          "SECONDARY",
+          "HIGHER_SECONDARY",
+          "DIPLOMA",
+          "ITI",
+          "UNDERGRADUATE",
+          "PROFESSIONAL",
+          "POSTGRADUATE"
+        ],
+        "eligible_classes": [
+          "11",
+          "12"
+        ],
+        "eligible_courses": [
+          "All post-matric courses - Class 11 onwards"
+        ],
+        "eligible_institutions": "Recognized institutions"
+      },
+      "benefit_details": {
+        "monetary": {
+          "scholarship_amount_description": "100% scholarship; covers tuition fee, maintenance allowance, book grant",
+          "tuition_coverage": true,
+          "hostel_coverage": true,
+          "book_allowance": true
+        }
+      },
+      "eligibility": {
+        "demographic": {
+          "gender": "ALL",
+          "state_requirement": "Permanent resident of Madhya Pradesh"
+        },
+        "economic": {
+          "income_threshold": 300000,
+          "family_income_limit": "Annual family income up to ₹3,00,000 for 100% scholarship",
+          "ews_eligibility": false
+        },
+        "social_category": {
+          "general": false,
+          "ews": false,
+          "obc": true,
+          "sc": false,
+          "st": false,
+          "minority": false
+        },
+        "academic": {
+          "minimum_percentage": "Passed Class 10; enrolled in recognized post-matric course"
+        },
+        "institutional": {
+          "recognized_institution_required": true
+        }
+      },
+      "application_details": {
+        "application_mode": "ONLINE",
+        "application_portal": "https://scholarshipportal.mp.nic.in",
+        "application_frequency": "ANNUAL",
+        "renewal_required": true,
+        "documents_required": [
+          "Aadhaar Card",
+          "OBC Caste Certificate",
+          "Income Certificate",
+          "Domicile Certificate",
+          "Samagra ID",
+          "Marksheets",
+          "Bank Account Details (Aadhaar-linked)"
+        ],
+        "aadhaar_required": true,
+        "domicile_required": true,
+        "income_certificate_required": true,
+        "caste_certificate_required": true
+      },
+      "benefit_delivery": {
+        "direct_benefit_transfer": true,
+        "institution_payment": true
+      },
+      "timeline": {
+        "application_start": "Tentatively October each year",
+        "application_end": "Tentatively January each year",
+        "benefit_distribution_cycle": "Annual",
+        "renewal_cycle": "Annual"
+      },
+      "source_documents": [
+        {
+          "source_type": "PDF_REFERENCE",
+          "url": "https://iiitbhopal.ac.in/Document/Academic/Affiliated%20Scholarship%20Schemes%20at%20IIIT%20Bhopal.pdf"
+        },
+        {
+          "source_type": "OFFICIAL_PORTAL",
+          "url": "https://scholarshipportal.mp.nic.in"
+        }
+      ],
+      "last_verified": "2026-06-07",
+      "confidence_score": 0.9,
+      "data_completeness_score": 0.82
+    },
+    {
+      "scheme_id": "MP-STATE-006",
+      "scheme_name": "Gaon Ki Beti Yojana",
+      "alternate_names": [
+        "Gaon Ki Beti Scholarship",
+        "Village Girl Scholarship MP",
+        "Rural Girls Higher Education Scholarship"
+      ],
+      "category": "STATE",
+      "state": "Madhya Pradesh",
+      "implementing_authority": "Higher Education Department, Government of Madhya Pradesh",
+      "department": "Higher Education Department",
+      "official_website": "https://scholarshipportal.mp.nic.in",
+      "official_application_url": "https://scholarshipportal.mp.nic.in",
+      "scheme_status": "ACTIVE",
+      "education_coverage": {
+        "education_level": [
+          "UNDERGRADUATE",
+          "PROFESSIONAL"
+        ],
+        "eligible_classes": null,
+        "eligible_courses": [
+          "All Graduation courses",
+          "Technical/Medical (₹750/month)",
+          "Other degree courses (₹500/month)"
+        ],
+        "eligible_degrees": [
+          "Any UG Degree",
+          "B.E./B.Tech",
+          "MBBS/BDS",
+          "B.A.",
+          "B.Com",
+          "B.Sc",
+          "Law",
+          "Agriculture",
+          "Pharmacy"
+        ],
+        "eligible_institutions": "Government and private recognized colleges in MP"
+      },
+      "benefit_details": {
+        "monetary": {
+          "scholarship_amount_description": "₹5,000/year (₹500/month × 10 months) for regular courses; ₹7,500/year (₹750/month × 10 months) for technical/medical courses",
+          "annual_amount": 5000,
+          "monthly_amount": 500,
+          "one_time_grant": null,
+          "tuition_coverage": false,
+          "hostel_coverage": false,
+          "examination_fee_coverage": false,
+          "book_allowance": false,
+          "transport_allowance": false,
+          "coaching_allowance": false,
+          "device_assistance": false
+        },
+        "non_monetary": {
+          "free_education": false,
+          "hostel": false,
+          "uniform": false,
+          "books": false,
+          "meals": false,
+          "laptop": false,
+          "bicycle": false,
+          "mentorship": false,
+          "coaching": false,
+          "residential_schooling": false,
+          "career_guidance": false
+        }
+      },
+      "eligibility": {
+        "demographic": {
+          "gender": "FEMALE",
+          "age_min": null,
+          "age_max": null,
+          "state_requirement": "Permanent resident of Madhya Pradesh (Rural area)",
+          "district_restriction": null,
+          "rural_restriction": true,
+          "urban_restriction": false,
+          "rural_note": "Must reside in rural area (MP Rural Residence Certificate required)"
+        },
+        "economic": {
+          "income_threshold": null,
+          "family_income_limit": "No specific income limit; all categories eligible",
+          "ews_eligibility": true,
+          "bpl_requirement": false
+        },
+        "social_category": {
+          "general": true,
+          "ews": true,
+          "obc": true,
+          "sc": true,
+          "st": true,
+          "minority": true,
+          "note": "No caste restriction; open to all rural girls"
+        },
+        "disability": {
+          "disability_eligible": true
+        },
+        "academic": {
+          "minimum_percentage": "Minimum 60% marks in Class 12",
+          "grade_requirement": null,
+          "rank_requirement": "For Law: CLAT qualified (NLU/DU admission)",
+          "attendance_requirement": null,
+          "course_restrictions": "Pursuing graduation (UG) in any recognized college; not for PG"
+        },
+        "institutional": {
+          "government_college_required": false,
+          "recognized_institution_required": true,
+          "note": "Both government and private recognized colleges eligible"
+        }
+      },
+      "application_details": {
+        "application_mode": "ONLINE",
+        "application_portal": "https://scholarshipportal.mp.nic.in",
+        "application_frequency": "ANNUAL (one-time; non-renewable)",
+        "renewal_required": false,
+        "renewal_conditions": "Not renewable; scholarship valid for 10 months in the grant year only",
+        "documents_required": [
+          "MP Rural Residence Certificate",
+          "Samagra ID",
+          "Aadhaar Card",
+          "Income Certificate",
+          "BPL Certificate (if applicable)",
+          "Class 10 and 12 Marksheets",
+          "Bank Account Details (Aadhaar-linked)",
+          "Caste Certificate (if applicable)",
+          "Birth Certificate",
+          "Passport Photo"
+        ],
+        "aadhaar_required": true,
+        "domicile_required": true,
+        "income_certificate_required": false,
+        "caste_certificate_required": false
+      },
+      "benefit_delivery": {
+        "direct_benefit_transfer": true,
+        "institution_payment": false,
+        "payment_note": "DBT directly to student's Aadhaar-linked bank account"
+      },
+      "timeline": {
+        "application_start": "Typically opens after Class 12 results (May–July)",
+        "application_end": "Varies annually",
+        "benefit_distribution_cycle": "Annual (10 monthly installments)",
+        "renewal_cycle": "Not applicable"
+      },
+      "source_documents": [
+        {
+          "source_type": "OFFICIAL_PORTAL",
+          "url": "https://scholarshipportal.mp.nic.in"
+        },
+        {
+          "source_type": "VERIFIED_AGGREGATOR",
+          "url": "https://www.buddy4study.com/article/mp-gaon-ki-beti-yojna"
+        },
+        {
+          "source_type": "VERIFIED_AGGREGATOR",
+          "url": "https://www.govtschemes.in/madhya-pradesh-gaon-ki-beti-scheme"
+        }
+      ],
+      "last_verified": "2026-06-07",
+      "confidence_score": 0.92,
+      "data_completeness_score": 0.9,
+      "notes": "Non-renewable; applies only for 1 year. Can be combined with other scholarships."
+    },
+    {
+      "scheme_id": "MP-STATE-007",
+      "scheme_name": "Pratibha Kiran Scholarship Yojana",
+      "alternate_names": [
+        "Pratibha Kiran Yojana",
+        "Urban Girls Higher Education Scholarship MP"
+      ],
+      "category": "STATE",
+      "state": "Madhya Pradesh",
+      "implementing_authority": "Government of Madhya Pradesh (Higher Education)",
+      "department": "Higher Education Department",
+      "official_website": "https://scholarshipportal.mp.nic.in",
+      "official_application_url": "https://scholarshipportal.mp.nic.in",
+      "scheme_status": "ACTIVE",
+      "education_coverage": {
+        "education_level": [
+          "UNDERGRADUATE",
+          "PROFESSIONAL"
+        ],
+        "eligible_classes": null,
+        "eligible_courses": [
+          "Degree Courses (₹500/month, income < ₹54,000)",
+          "Higher Education (₹500/month, income < ₹1,20,000)",
+          "ITI (₹500/month, income < ₹1,20,000)"
+        ],
+        "eligible_institutions": "Recognized colleges in MP"
+      },
+      "benefit_details": {
+        "monetary": {
+          "scholarship_amount_description": "₹5,000/year (₹500/month × 10 months)",
+          "annual_amount": 5000,
+          "monthly_amount": 500,
+          "tuition_coverage": false,
+          "hostel_coverage": false
+        }
+      },
+      "eligibility": {
+        "demographic": {
+          "gender": "FEMALE",
+          "state_requirement": "Permanent resident of Madhya Pradesh (Urban area)",
+          "rural_restriction": false,
+          "urban_restriction": true,
+          "urban_note": "Must reside in urban area; for urban girls below poverty line"
+        },
+        "economic": {
+          "income_threshold": 120000,
+          "family_income_limit": "Annual family income < ₹54,000 for degree courses; < ₹1,20,000 for ITI/Higher Education",
+          "ews_eligibility": true,
+          "bpl_requirement": true,
+          "bpl_note": "Must be below poverty line"
+        },
+        "social_category": {
+          "general": true,
+          "ews": true,
+          "obc": true,
+          "sc": true,
+          "st": true,
+          "minority": true,
+          "note": "No caste restriction; open to all urban BPL girls"
+        },
+        "academic": {
+          "minimum_percentage": "Minimum 60% marks in Class 12",
+          "course_restrictions": "Pursuing graduation (UG) in recognized college"
+        },
+        "institutional": {
+          "recognized_institution_required": true
+        }
+      },
+      "application_details": {
+        "application_mode": "ONLINE",
+        "application_portal": "https://scholarshipportal.mp.nic.in",
+        "application_frequency": "ANNUAL",
+        "renewal_required": true,
+        "documents_required": [
+          "Aadhaar Card",
+          "Domicile Certificate",
+          "Income Certificate",
+          "BPL Certificate",
+          "Class 12 Marksheet",
+          "Bank Account Details (Aadhaar-linked)",
+          "Samagra ID",
+          "Passport Photo"
+        ],
+        "aadhaar_required": true,
+        "domicile_required": true,
+        "income_certificate_required": true,
+        "caste_certificate_required": false
+      },
+      "benefit_delivery": {
+        "direct_benefit_transfer": true
+      },
+      "timeline": {
+        "application_start": "Typically after Class 12 results",
+        "application_end": "Varies annually",
+        "benefit_distribution_cycle": "Annual (10 monthly installments)",
+        "renewal_cycle": "Annual"
+      },
+      "source_documents": [
+        {
+          "source_type": "OFFICIAL_PORTAL",
+          "url": "https://scholarshipportal.mp.nic.in"
+        },
+        {
+          "source_type": "VERIFIED_AGGREGATOR",
+          "url": "https://bodmaseducation.com/blog_details/madhya-pradesh-scholarship-portal-2-0"
+        }
+      ],
+      "last_verified": "2026-06-07",
+      "confidence_score": 0.9,
+      "data_completeness_score": 0.85,
+      "notes": "Complementary to Gaon Ki Beti (which is for rural girls); this scheme targets urban BPL girls with same benefit amount."
+    },
+    {
+      "scheme_id": "MP-STATE-008",
+      "scheme_name": "Vikramaditya Scholarship Yojana",
+      "alternate_names": [
+        "Vikramaditya Yojana",
+        "General Category Scholarship MP",
+        "Vikramaditya Free Education Scheme"
+      ],
+      "category": "STATE",
+      "state": "Madhya Pradesh",
+      "implementing_authority": "Higher Education Department, Government of Madhya Pradesh",
+      "department": "Higher Education Department",
+      "official_website": "https://scholarshipportal.mp.nic.in",
+      "official_application_url": "https://scholarshipportal.mp.nic.in",
+      "scheme_status": "ACTIVE",
+      "education_coverage": {
+        "education_level": [
+          "UNDERGRADUATE"
+        ],
+        "eligible_classes": null,
+        "eligible_courses": [
+          "Any UG Degree (BA/BSc/BCom/BCA etc.)",
+          "Professional courses in Govt/Aided colleges"
+        ],
+        "eligible_institutions": "Government or aided non-government colleges in Madhya Pradesh"
+      },
+      "benefit_details": {
+        "monetary": {
+          "scholarship_amount_description": "₹2,500/year fee exemption (for graduation); covers admission/tuition fee up to ₹2,500 for degree courses",
+          "annual_amount": 2500,
+          "monthly_amount": null,
+          "tuition_coverage": true,
+          "tuition_coverage_note": "Up to ₹2,500 per year towards tuition/admission fee",
+          "hostel_coverage": false,
+          "examination_fee_coverage": false
+        }
+      },
+      "eligibility": {
+        "demographic": {
+          "gender": "ALL",
+          "state_requirement": "Permanent resident of Madhya Pradesh"
+        },
+        "economic": {
+          "income_threshold": 120000,
+          "family_income_limit": "Annual family income < ₹54,000 for graduation (degree) courses; < ₹1,20,000 for higher education",
+          "ews_eligibility": true,
+          "bpl_requirement": false
+        },
+        "social_category": {
+          "general": true,
+          "ews": true,
+          "obc": true,
+          "sc": false,
+          "st": false,
+          "minority": false,
+          "note": "Primarily for General category students from economically weaker sections; OBC also eligible"
+        },
+        "academic": {
+          "minimum_percentage": "Minimum 60% marks in Class 12",
+          "course_restrictions": "Pursuing UG degree at government/aided non-government college in MP only"
+        },
+        "institutional": {
+          "government_college_required": true,
+          "government_college_note": "Government OR aided non-government college mandatory",
+          "recognized_institution_required": true
+        }
+      },
+      "application_details": {
+        "application_mode": "ONLINE",
+        "application_portal": "https://scholarshipportal.mp.nic.in",
+        "application_frequency": "ANNUAL",
+        "renewal_required": true,
+        "documents_required": [
+          "Aadhaar Card",
+          "Samagra ID",
+          "College Details",
+          "Income Certificate",
+          "Resident Proof",
+          "Class 12 Marksheet",
+          "Bank Account Details (Aadhaar-linked)",
+          "Caste Certificate (if applicable)",
+          "Passport Photo"
+        ],
+        "aadhaar_required": true,
+        "domicile_required": true,
+        "income_certificate_required": true,
+        "caste_certificate_required": false
+      },
+      "benefit_delivery": {
+        "direct_benefit_transfer": true,
+        "institution_payment": true,
+        "payment_note": "Fee waiver/reimbursement mechanism through college"
+      },
+      "timeline": {
+        "application_start": "Typically after UG admission",
+        "application_end": "Varies annually",
+        "benefit_distribution_cycle": "Annual",
+        "renewal_cycle": "Annual"
+      },
+      "source_documents": [
+        {
+          "source_type": "OFFICIAL_PORTAL",
+          "url": "https://scholarshipportal.mp.nic.in"
+        },
+        {
+          "source_type": "VERIFIED_AGGREGATOR",
+          "url": "https://www.buddy4study.com/article/vikramaditya-scholarship"
+        },
+        {
+          "source_type": "VERIFIED_AGGREGATOR",
+          "url": "https://www.egovtschemes.com/vikramaditya-yojna/"
+        }
+      ],
+      "last_verified": "2026-06-07",
+      "confidence_score": 0.9,
+      "data_completeness_score": 0.85,
+      "notes": "Targeted at General + OBC students who do not qualify for reserved category scholarships but need financial support."
+    },
+    {
+      "scheme_id": "MP-STATE-009",
+      "scheme_name": "Vidhyarthi Awas Bhatta Sahayata Yojana (for SC/ST Students)",
+      "alternate_names": [
+        "Student Accommodation Allowance Scheme",
+        "Awas Bhatta SC",
+        "Awas Bhatta ST",
+        "Hostel Assistance Scheme MP"
+      ],
+      "category": "STATE",
+      "state": "Madhya Pradesh",
+      "implementing_authority": "Government of Madhya Pradesh (Social Justice / Tribal Welfare Departments)",
+      "department": "Social Justice & Tribal Welfare",
+      "official_website": "https://scholarshipportal.mp.nic.in",
+      "official_application_url": "https://scholarshipportal.mp.nic.in",
+      "scheme_status": "ACTIVE",
+      "education_coverage": {
+        "education_level": [
+          "SECONDARY",
+          "HIGHER_SECONDARY",
+          "UNDERGRADUATE",
+          "PROFESSIONAL",
+          "POSTGRADUATE"
+        ],
+        "eligible_classes": [
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "eligible_courses": [
+          "All post-matric courses for students living away from home for studies"
+        ]
+      },
+      "benefit_details": {
+        "monetary": {
+          "scholarship_amount_description": "Housing/accommodation allowance for students studying away from home (not in government hostel)",
+          "tuition_coverage": false,
+          "hostel_coverage": true,
+          "hostel_coverage_note": "Monthly accommodation/rent allowance for students staying away from home"
+        }
+      },
+      "eligibility": {
+        "demographic": {
+          "gender": "ALL",
+          "state_requirement": "Permanent resident of Madhya Pradesh"
+        },
+        "economic": {
+          "income_threshold": 600000,
+          "family_income_limit": "Within SC/ST post-matric scholarship income limits"
+        },
+        "social_category": {
+          "sc": true,
+          "st": true
+        },
+        "academic": {
+          "minimum_percentage": "Enrolled in recognized post-matric course; not residing in government hostel"
+        }
+      },
+      "application_details": {
+        "application_mode": "ONLINE",
+        "application_portal": "https://scholarshipportal.mp.nic.in / https://www.tribal.mp.gov.in/MPTAAS",
+        "application_frequency": "ANNUAL",
+        "renewal_required": true,
+        "documents_required": [
+          "Aadhaar Card",
+          "Caste Certificate",
+          "Income Certificate",
+          "Domicile Certificate",
+          "Proof of accommodation (rent receipt/affidavit)",
+          "Samagra ID",
+          "Bank Account Details"
+        ],
+        "aadhaar_required": true,
+        "domicile_required": true,
+        "income_certificate_required": true,
+        "caste_certificate_required": true
+      },
+      "benefit_delivery": {
+        "direct_benefit_transfer": true
+      },
+      "source_documents": [
+        {
+          "source_type": "PDF_REFERENCE",
+          "url": "https://iiitbhopal.ac.in/Document/Academic/Affiliated%20Scholarship%20Schemes%20at%20IIIT%20Bhopal.pdf"
+        },
+        {
+          "source_type": "OFFICIAL_PORTAL",
+          "url": "https://www.tribal.mp.gov.in/CMS/?page=21pnJUImM0rvp09kB6ikPQ%3D%3D&leftid=I7ifJxcwYjN2DmYWvPddIA%3D%3D"
+        }
+      ],
+      "last_verified": "2026-06-07",
+      "confidence_score": 0.8,
+      "data_completeness_score": 0.72,
+      "notes": "Separate schemes exist for SC (under Social Justice dept) and ST (under Tribal Welfare dept). Exact monthly allowance amount requires verification from official portal."
+    },
+    {
+      "scheme_id": "MP-STATE-010",
+      "scheme_name": "Nishaktjan Scholarship Yojana (for Persons with Disabilities)",
+      "alternate_names": [
+        "PwD Scholarship MP",
+        "Disability Scholarship MP",
+        "Divyangjan Scholarship MP"
+      ],
+      "category": "STATE",
+      "state": "Madhya Pradesh",
+      "implementing_authority": "Social Justice and Disability Welfare Department, Government of Madhya Pradesh",
+      "department": "Social Justice and Disability Welfare Department (Nishaktjan Vibhag)",
+      "official_website": null,
+      "official_application_url": null,
+      "scheme_status": "ACTIVE",
+      "education_coverage": {
+        "education_level": [
+          "SECONDARY",
+          "HIGHER_SECONDARY",
+          "UNDERGRADUATE",
+          "PROFESSIONAL",
+          "POSTGRADUATE"
+        ],
+        "eligible_courses": [
+          "All recognized courses in MP and outside MP (recognized institutions)"
+        ]
+      },
+      "benefit_details": {
+        "monetary": {
+          "scholarship_amount_description": "Tuition fee, maintenance allowance, and transport allowance. Exact amounts vary by course level. Cannot be combined with SC/ST/OBC fee exemptions.",
+          "tuition_coverage": true,
+          "hostel_coverage": true,
+          "transport_allowance": true
+        }
+      },
+      "eligibility": {
+        "demographic": {
+          "gender": "ALL",
+          "state_requirement": "Permanent resident of Madhya Pradesh (domicile)"
+        },
+        "economic": {
+          "income_threshold": null,
+          "family_income_limit": "Not specified separately; subject to scheme guidelines"
+        },
+        "social_category": {
+          "general": true,
+          "ews": true,
+          "obc": true,
+          "sc": true,
+          "st": true,
+          "note": "Open to all categories but student cannot simultaneously avail SC/ST/OBC fee exemption and this scheme - must choose one"
+        },
+        "disability": {
+          "disability_eligible": true,
+          "disability_percentage_requirement": "40% or more disability (certificate required)",
+          "specific_disability_categories": "All disability categories recognized under RPWD Act 2016"
+        },
+        "academic": {
+          "minimum_percentage": "Enrolled as regular student in recognized institution",
+          "attendance_requirement": "Regular attendance; if student fails a semester/year, not eligible for repeat semester allowances"
+        },
+        "institutional": {
+          "recognized_institution_required": true,
+          "note": "Both MP and outside-MP recognized institutions eligible"
+        }
+      },
+      "application_details": {
+        "application_mode": "OFFLINE (submit hard copy to Social Justice Department, Old Secretariat Collectorate, Bhopal)",
+        "application_frequency": "ANNUAL",
+        "renewal_required": true,
+        "documents_required": [
+          "Disability Certificate (40%+ disability)",
+          "Domicile Certificate",
+          "Income Certificate",
+          "Marksheets",
+          "Admission Proof",
+          "Bank Account Details"
+        ],
+        "aadhaar_required": true,
+        "domicile_required": true,
+        "income_certificate_required": true,
+        "caste_certificate_required": false,
+        "disability_certificate_required": true
+      },
+      "benefit_delivery": {
+        "direct_benefit_transfer": true,
+        "reimbursement": true
+      },
+      "source_documents": [
+        {
+          "source_type": "PDF_REFERENCE",
+          "url": "https://iiitbhopal.ac.in/Document/Academic/Affiliated%20Scholarship%20Schemes%20at%20IIIT%20Bhopal.pdf"
+        }
+      ],
+      "last_verified": "2026-06-07",
+      "confidence_score": 0.78,
+      "data_completeness_score": 0.68,
+      "notes": "Application process is partially offline. Students receiving SC/ST/OBC fee exemptions cannot combine with this scheme. Must choose one."
+    },
+    {
+      "scheme_id": "MP-STATE-011",
+      "scheme_name": "Pratibhashali Vidyarthi Protsahan Yojana (Free Laptop Scheme)",
+      "alternate_names": [
+        "MP Free Laptop Yojana",
+        "MP Laptop Distribution Scheme",
+        "Laptop Yojana MP"
+      ],
+      "category": "STATE",
+      "state": "Madhya Pradesh",
+      "implementing_authority": "School Education Department, Government of Madhya Pradesh",
+      "department": "School Education Department",
+      "official_website": "https://shikshaportal.mp.gov.in/Laptop",
+      "official_application_url": "https://shikshaportal.mp.gov.in/Laptop",
+      "scheme_status": "ACTIVE",
+      "education_coverage": {
+        "education_level": [
+          "HIGHER_SECONDARY"
+        ],
+        "eligible_classes": [
+          "12"
+        ],
+        "eligible_courses": [
+          "Class 12 passed students (MPBSE only)"
+        ],
+        "eligible_institutions": "Government or MP Board affiliated schools"
+      },
+      "benefit_details": {
+        "monetary": {
+          "scholarship_amount_description": "₹25,000 financial assistance to purchase laptop",
+          "annual_amount": 25000,
+          "monthly_amount": null,
+          "one_time_grant": 25000,
+          "tuition_coverage": false,
+          "hostel_coverage": false,
+          "examination_fee_coverage": false,
+          "book_allowance": false,
+          "device_assistance": true,
+          "device_assistance_note": "₹25,000 DBT for laptop purchase"
+        },
+        "non_monetary": {
+          "laptop": true
+        }
+      },
+      "eligibility": {
+        "demographic": {
+          "gender": "ALL",
+          "state_requirement": "Permanent resident of Madhya Pradesh"
+        },
+        "economic": {
+          "income_threshold": null,
+          "family_income_limit": "No income limit; purely merit-based",
+          "ews_eligibility": true,
+          "bpl_requirement": false
+        },
+        "social_category": {
+          "general": true,
+          "ews": true,
+          "obc": true,
+          "sc": true,
+          "st": true,
+          "minority": true,
+          "note": "All categories eligible; purely merit-based"
+        },
+        "academic": {
+          "minimum_percentage": "85% or more aggregate marks in Class 12 MPBSE exam; must pass all subjects",
+          "grade_requirement": null,
+          "rank_requirement": null,
+          "attendance_requirement": null,
+          "course_restrictions": "Class 12 passed from MPBSE board only; not CBSE/ICSE"
+        },
+        "institutional": {
+          "government_school_required": false,
+          "recognized_institution_required": true,
+          "note": "School must be MPBSE affiliated"
+        }
+      },
+      "application_details": {
+        "application_mode": "AUTOMATIC (no separate application; auto-identified from MPBSE results)",
+        "application_frequency": "ONE_TIME (post Class 12 result)",
+        "renewal_required": false,
+        "renewal_conditions": null,
+        "documents_required": [
+          "Class 12 Roll Number",
+          "Aadhaar-linked Bank Account"
+        ],
+        "aadhaar_required": true,
+        "domicile_required": false,
+        "income_certificate_required": false,
+        "caste_certificate_required": false
+      },
+      "benefit_delivery": {
+        "direct_benefit_transfer": true,
+        "institution_payment": false,
+        "physical_benefit": false,
+        "payment_note": "₹25,000 credited directly to student's Aadhaar-linked bank account after MPBSE result announcement"
+      },
+      "timeline": {
+        "application_start": "Automatically triggered after MPBSE Class 12 results (typically May)",
+        "application_end": "Not applicable (auto-identified)",
+        "benefit_distribution_cycle": "One-time per qualifying year"
+      },
+      "source_documents": [
+        {
+          "source_type": "OFFICIAL_PORTAL",
+          "url": "https://shikshaportal.mp.gov.in/Laptop"
+        },
+        {
+          "source_type": "VERIFIED_AGGREGATOR",
+          "url": "https://www.govtschemes.in/madhya-pradesh-pratibhashali-vidyarthi-protsahan-yojana"
+        },
+        {
+          "source_type": "VERIFIED_AGGREGATOR",
+          "url": "https://sarkariyojana.com/mp-laptop-yojana/"
+        }
+      ],
+      "last_verified": "2026-06-07",
+      "confidence_score": 0.94,
+      "data_completeness_score": 0.92,
+      "notes": "In 2025, ₹235 crore distributed to 94,234 students. Benefits auto-disbursed after MPBSE result declaration. Eligibility: 85%+ in MPBSE Class 12 board. No separate application needed."
+    },
+    {
+      "scheme_id": "MP-STATE-012",
+      "scheme_name": "MP Model Higher Secondary Schools and Girls Education Complex Scholarship",
+      "alternate_names": [
+        "Model School Scholarship",
+        "Girls Education Complex Scholarship"
+      ],
+      "category": "STATE",
+      "state": "Madhya Pradesh",
+      "implementing_authority": "School Education Department / Higher Education Department, Government of Madhya Pradesh",
+      "department": "School Education Department",
+      "official_website": "https://scholarshipportal.mp.nic.in",
+      "scheme_status": "ACTIVE",
+      "education_coverage": {
+        "education_level": [
+          "HIGHER_SECONDARY",
+          "UNDERGRADUATE"
+        ],
+        "eligible_classes": [
+          "11",
+          "12"
+        ],
+        "eligible_courses": [
+          "Higher Secondary (Class 11-12) at Model Schools"
+        ],
+        "eligible_institutions": "Government Model Higher Secondary Schools and Girls Education Complexes in MP"
+      },
+      "benefit_details": {
+        "monetary": {
+          "scholarship_amount_description": "Scholarship/stipend for meritorious girl students at model institutions; exact amount varies",
+          "tuition_coverage": true
+        },
+        "non_monetary": {
+          "residential_schooling": true,
+          "meals": true,
+          "books": true,
+          "hostel": true
+        }
+      },
+      "eligibility": {
+        "demographic": {
+          "gender": "FEMALE",
+          "state_requirement": "Resident of Madhya Pradesh"
+        },
+        "economic": {
+          "income_threshold": null,
+          "family_income_limit": "As per scheme guidelines; typically for economically weaker sections"
+        },
+        "social_category": {
+          "general": true,
+          "sc": true,
+          "st": true,
+          "obc": true
+        },
+        "academic": {
+          "minimum_percentage": "Merit-based selection"
+        }
+      },
+      "source_documents": [
+        {
+          "source_type": "VERIFIED_AGGREGATOR",
+          "url": "https://www.spinoneducation.com/blog/mp-scholarships/"
+        }
+      ],
+      "last_verified": "2026-06-07",
+      "confidence_score": 0.65,
+      "data_completeness_score": 0.55,
+      "notes": "Limited detailed data available publicly. Verify exact amounts and current status at official MP scholarship portal."
+    },
+    {
+      "scheme_id": "CENTRAL-NSP-001",
+      "scheme_name": "PM YASASVI Pre-Matric Scholarship for OBC/EBC/DNT Students",
+      "alternate_names": [
+        "PM Young Achievers Scholarship Award Scheme for Vibrant India - Pre Matric",
+        "YASASVI Pre-Matric"
+      ],
+      "category": "CENTRAL",
+      "state": "ALL_INDIA (MP students eligible)",
+      "implementing_authority": "Ministry of Social Justice and Empowerment, Government of India",
+      "department": "Ministry of Social Justice and Empowerment",
+      "ministry": "Ministry of Social Justice and Empowerment",
+      "official_website": "https://scholarships.gov.in",
+      "official_application_url": "https://scholarships.gov.in",
+      "scheme_status": "ACTIVE",
+      "launched_year": 2022,
+      "education_coverage": {
+        "education_level": [
+          "SECONDARY"
+        ],
+        "eligible_classes": [
+          "9",
+          "10"
+        ],
+        "eligible_courses": [
+          "Class 9 and 10 in government/government-aided/recognized schools"
+        ],
+        "eligible_institutions": "Government/government-aided/local body recognized schools"
+      },
+      "benefit_details": {
+        "monetary": {
+          "scholarship_amount_description": "₹4,000/year consolidated academic allowance (up to ₹75,000 for top-class school scheme)",
+          "annual_amount": 4000,
+          "monthly_amount": null,
+          "tuition_coverage": false,
+          "hostel_coverage": false,
+          "examination_fee_coverage": false
+        }
+      },
+      "eligibility": {
+        "demographic": {
+          "gender": "ALL",
+          "state_requirement": "Must be resident of Madhya Pradesh (state-capped quota applies)"
+        },
+        "economic": {
+          "income_threshold": 250000,
+          "family_income_limit": "Annual parental/guardian income < ₹2,50,000",
+          "ews_eligibility": true,
+          "bpl_requirement": false
+        },
+        "social_category": {
+          "general": false,
+          "ews": false,
+          "obc": true,
+          "obc_ncl": true,
+          "sc": false,
+          "st": false,
+          "minority": false,
+          "denotified_tribes": true,
+          "note": "OBC, EBC (Economically Backward Class), DNT (De-Notified Tribes) only"
+        },
+        "academic": {
+          "minimum_percentage": "Currently studying in Class 9 or 10",
+          "attendance_requirement": "Regular attendance in recognized school"
+        },
+        "institutional": {
+          "government_school_required": true,
+          "note": "Government or government-aided schools only; not private unaided"
+        }
+      },
+      "application_details": {
+        "application_mode": "ONLINE via NSP",
+        "application_portal": "https://scholarships.gov.in",
+        "application_frequency": "ANNUAL",
+        "renewal_required": true,
+        "documents_required": [
+          "OTR number (via NSP OTR app with Aadhaar face authentication)",
+          "Aadhaar Card",
+          "OBC/EBC/DNT Caste Certificate",
+          "Income Certificate",
+          "Domicile Certificate",
+          "School Enrollment Proof",
+          "Bank Account Details (Aadhaar-linked)"
+        ],
+        "aadhaar_required": true,
+        "domicile_required": true,
+        "income_certificate_required": true,
+        "caste_certificate_required": true
+      },
+      "benefit_delivery": {
+        "direct_benefit_transfer": true
+      },
+      "timeline": {
+        "application_start": "July–August each year",
+        "application_end": "August 31, 2025 (for 2025-26); November 15, 2025 (extended)",
+        "benefit_distribution_cycle": "Annual",
+        "renewal_cycle": "Annual"
+      },
+      "source_documents": [
+        {
+          "source_type": "OFFICIAL_PORTAL",
+          "url": "https://scholarships.gov.in"
+        },
+        {
+          "source_type": "VERIFIED_AGGREGATOR",
+          "url": "https://vajiramandravi.com/current-affairs/pm-yasasvi-scholarship-scheme/"
+        }
+      ],
+      "last_verified": "2026-06-07",
+      "confidence_score": 0.9,
+      "data_completeness_score": 0.85,
+      "notes": "OTR (One Time Registration) via NSP OTR app with Aadhaar face authentication is mandatory from 2024-25 onwards. Cannot combine with other central govt scholarship for same class."
+    },
+    {
+      "scheme_id": "CENTRAL-NSP-002",
+      "scheme_name": "PM YASASVI Post-Matric Scholarship for OBC/EBC/DNT Students",
+      "alternate_names": [
+        "PM YASASVI Post Matric",
+        "YASASVI PMS OBC/EBC/DNT"
+      ],
+      "category": "CENTRAL",
+      "state": "ALL_INDIA (MP students eligible)",
+      "implementing_authority": "Ministry of Social Justice and Empowerment, Government of India",
+      "department": "Ministry of Social Justice and Empowerment",
+      "official_website": "https://scholarships.gov.in",
+      "official_application_url": "https://scholarships.gov.in",
+      "scheme_status": "ACTIVE",
+      "launched_year": 2022,
+      "education_coverage": {
+        "education_level": [
+          "HIGHER_SECONDARY",
+          "DIPLOMA",
+          "ITI",
+          "UNDERGRADUATE",
+          "PROFESSIONAL",
+          "POSTGRADUATE"
+        ],
+        "eligible_classes": [
+          "11",
+          "12"
+        ],
+        "eligible_courses": [
+          "Post-matric level - Class 11 onwards, including UG, PG, professional, diploma"
+        ],
+        "eligible_institutions": "Government-recognized institutions"
+      },
+      "benefit_details": {
+        "monetary": {
+          "scholarship_amount_description": "Academic allowance + other benefits; amount varies by course level; maintenance allowance, compulsory non-refundable fee reimbursement",
+          "tuition_coverage": true,
+          "hostel_coverage": false,
+          "book_allowance": true
+        }
+      },
+      "eligibility": {
+        "demographic": {
+          "gender": "ALL",
+          "state_requirement": "Resident of Madhya Pradesh (state quota)"
+        },
+        "economic": {
+          "income_threshold": 250000,
+          "family_income_limit": "Annual family income ≤ ₹2,50,000"
+        },
+        "social_category": {
+          "obc": true,
+          "denotified_tribes": true,
+          "note": "OBC, EBC, DNT categories"
+        },
+        "academic": {
+          "minimum_percentage": "Enrolled in post-matric/post-secondary level recognized course",
+          "attendance_requirement": "No correspondence/distance learning eligibility"
+        }
+      },
+      "application_details": {
+        "application_mode": "ONLINE via NSP",
+        "application_portal": "https://scholarships.gov.in",
+        "application_frequency": "ANNUAL",
+        "renewal_required": true,
+        "documents_required": [
+          "OTR number",
+          "Aadhaar Card",
+          "Caste Certificate",
+          "Income Certificate",
+          "Marksheets",
+          "Admission Proof",
+          "Bank Account Details"
+        ],
+        "aadhaar_required": true,
+        "domicile_required": true,
+        "income_certificate_required": true,
+        "caste_certificate_required": true
+      },
+      "benefit_delivery": {
+        "direct_benefit_transfer": true
+      },
+      "timeline": {
+        "application_start": "July–August each year",
+        "application_end": "November 15, 2025 (for 2025-26)",
+        "benefit_distribution_cycle": "Annual",
+        "renewal_cycle": "Annual"
+      },
+      "source_documents": [
+        {
+          "source_type": "OFFICIAL_PORTAL",
+          "url": "https://scholarships.gov.in"
+        }
+      ],
+      "last_verified": "2026-06-07",
+      "confidence_score": 0.88,
+      "data_completeness_score": 0.8
+    },
+    {
+      "scheme_id": "CENTRAL-NSP-003",
+      "scheme_name": "PM YASASVI Top Class School Education for OBC/EBC/DNT",
+      "alternate_names": [
+        "PM YASASVI Top Class Schools",
+        "YASASVI Central Sector Scheme for Schools"
+      ],
+      "category": "CENTRAL",
+      "state": "ALL_INDIA (MP students eligible)",
+      "implementing_authority": "Ministry of Social Justice and Empowerment, Government of India",
+      "official_website": "https://scholarships.gov.in",
+      "scheme_status": "ACTIVE",
+      "education_coverage": {
+        "education_level": [
+          "SECONDARY",
+          "HIGHER_SECONDARY"
+        ],
+        "eligible_classes": [
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "eligible_institutions": "Top-performing schools with 100% pass rate in Class 10 and 12 board exams"
+      },
+      "benefit_details": {
+        "monetary": {
+          "scholarship_amount_description": "₹75,000 for Class 9; ₹1,25,000 for Class 11; covers tuition, hostel fees, other school charges",
+          "annual_amount": 75000,
+          "tuition_coverage": true,
+          "hostel_coverage": true
+        }
+      },
+      "eligibility": {
+        "demographic": {
+          "gender": "ALL",
+          "state_requirement": "Resident of Madhya Pradesh"
+        },
+        "economic": {
+          "income_threshold": 250000,
+          "family_income_limit": "Annual parental income < ₹2,50,000"
+        },
+        "social_category": {
+          "obc": true,
+          "denotified_tribes": true,
+          "note": "OBC, EBC, DNT students"
+        },
+        "institutional": {
+          "note": "School must have 100% pass rate in Class 10 and 12 board exams (top-performing schools)"
+        }
+      },
+      "application_details": {
+        "application_mode": "ONLINE via NSP",
+        "application_portal": "https://scholarships.gov.in",
+        "application_frequency": "ANNUAL",
+        "renewal_required": true,
+        "documents_required": [
+          "OTR",
+          "Aadhaar",
+          "Caste Certificate",
+          "Income Certificate",
+          "School Enrollment Proof",
+          "Bank Account Details (Aadhaar-linked)"
+        ],
+        "aadhaar_required": true,
+        "domicile_required": true,
+        "income_certificate_required": true,
+        "caste_certificate_required": true
+      },
+      "benefit_delivery": {
+        "direct_benefit_transfer": true,
+        "payment_note": "₹75,000/₹1,25,000 via DBT to Aadhaar-linked bank account"
+      },
+      "timeline": {
+        "application_start": "July 2025 (for 2025-26)",
+        "application_end": "August 31, 2025",
+        "benefit_distribution_cycle": "Annual",
+        "renewal_cycle": "Annual"
+      },
+      "source_documents": [
+        {
+          "source_type": "OFFICIAL_PORTAL",
+          "url": "https://scholarships.gov.in"
+        },
+        {
+          "source_type": "VERIFIED_AGGREGATOR",
+          "url": "https://www.buddy4study.com/scholarship/pm-yasasvi-central-sector-scheme-of-top-class-education-in-schools-for-obc-ebc-and-dnt-students"
+        },
+        {
+          "source_type": "NEWS_VERIFIED",
+          "url": "https://news.careers360.com/pm-yasasvi-scholarship-offers-up-rs-125-lakh-applications-open-for-obc-students-in-class-9-11/amp"
+        }
+      ],
+      "last_verified": "2026-06-07",
+      "confidence_score": 0.9,
+      "data_completeness_score": 0.85
+    },
+    {
+      "scheme_id": "CENTRAL-NSP-004",
+      "scheme_name": "National Means-cum-Merit Scholarship (NMMS)",
+      "alternate_names": [
+        "NMMS Scholarship",
+        "National Means Cum Merit Scholarship Scheme",
+        "NMMSS"
+      ],
+      "category": "CENTRAL",
+      "state": "ALL_INDIA (MP students eligible)",
+      "implementing_authority": "Ministry of Education (MoE), Government of India",
+      "department": "Department of School Education and Literacy, Ministry of Education",
+      "official_website": "https://scholarships.gov.in",
+      "official_application_url": "https://scholarships.gov.in",
+      "scheme_status": "ACTIVE",
+      "education_coverage": {
+        "education_level": [
+          "SECONDARY",
+          "HIGHER_SECONDARY"
+        ],
+        "eligible_classes": [
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "eligible_courses": [
+          "Class 9 to 12 in government/government-aided/local body schools"
+        ],
+        "eligible_institutions": "Government, government-aided, and local body schools only"
+      },
+      "benefit_details": {
+        "monetary": {
+          "scholarship_amount_description": "₹12,000/year (₹1,000/month) for Class 9 to 12",
+          "annual_amount": 12000,
+          "monthly_amount": 1000,
+          "tuition_coverage": false,
+          "hostel_coverage": false,
+          "book_allowance": false
+        }
+      },
+      "eligibility": {
+        "demographic": {
+          "gender": "ALL",
+          "state_requirement": "Student must be resident of Madhya Pradesh (state quota applies)"
+        },
+        "economic": {
+          "income_threshold": 350000,
+          "family_income_limit": "Annual parental income ≤ ₹3,50,000",
+          "ews_eligibility": true,
+          "bpl_requirement": false
+        },
+        "social_category": {
+          "general": true,
+          "ews": true,
+          "obc": true,
+          "sc": true,
+          "st": true,
+          "minority": true,
+          "note": "All categories; state-wise quota with category-based reservations"
+        },
+        "disability": {
+          "disability_eligible": true,
+          "disability_percentage_requirement": null
+        },
+        "academic": {
+          "minimum_percentage": "Selected via NMMS state examination; must pass each class (60% for Class 10 to continue; 55% for SC/ST to continue). Students must be promoted from Class 8 to Class 9 to begin.",
+          "grade_requirement": null,
+          "rank_requirement": "Must qualify NMMS state examination",
+          "attendance_requirement": null,
+          "course_restrictions": "Government/government-aided schools only; no private school"
+        },
+        "institutional": {
+          "government_school_required": true,
+          "note": "Only government, government-aided, or local body schools"
+        }
+      },
+      "application_details": {
+        "application_mode": "ONLINE via NSP (after qualifying NMMS exam)",
+        "application_portal": "https://scholarships.gov.in",
+        "application_frequency": "ANNUAL (exam in Class 8 for Class 9 entry; renewal annually)",
+        "renewal_required": true,
+        "renewal_conditions": "Pass each class; maintain 55-60% marks; promoted to next class in first attempt",
+        "documents_required": [
+          "OTR number",
+          "Aadhaar Card",
+          "Income Certificate",
+          "NMMS Exam Admit Card/Result",
+          "School Bonafide Certificate",
+          "Bank Account Details (Aadhaar-linked)",
+          "Caste Certificate (if applicable)"
+        ],
+        "aadhaar_required": true,
+        "domicile_required": true,
+        "income_certificate_required": true,
+        "caste_certificate_required": false
+      },
+      "benefit_delivery": {
+        "direct_benefit_transfer": true
+      },
+      "timeline": {
+        "application_start": "NMMS exam typically held in November–December; application on NSP after passing",
+        "application_end": "October 31 each year (NSP deadline)",
+        "benefit_distribution_cycle": "Annual (₹12,000/year)",
+        "renewal_cycle": "Annual"
+      },
+      "source_documents": [
+        {
+          "source_type": "OFFICIAL_PORTAL",
+          "url": "https://scholarships.gov.in"
+        },
+        {
+          "source_type": "VERIFIED_AGGREGATOR",
+          "url": "https://www.buddy4study.com/article/nmms-scholarship-applications"
+        }
+      ],
+      "last_verified": "2026-06-07",
+      "confidence_score": 0.93,
+      "data_completeness_score": 0.9,
+      "notes": "1 lakh scholarships awarded nationally per year. Strictly for government school students. No application fee."
+    },
+    {
+      "scheme_id": "CENTRAL-NSP-005",
+      "scheme_name": "Central Sector Scheme of Scholarship for College and University Students (CSSS)",
+      "alternate_names": [
+        "CSS Scholarship",
+        "Central Sector Scholarship",
+        "PM-USP CSSS",
+        "Pradhan Mantri Uchchatar Shiksha Protsahan Scheme"
+      ],
+      "category": "CENTRAL",
+      "state": "ALL_INDIA (MP students eligible)",
+      "implementing_authority": "Department of Higher Education, Ministry of Education, Government of India",
+      "department": "Department of Higher Education",
+      "official_website": "https://scholarships.gov.in",
+      "official_application_url": "https://scholarships.gov.in",
+      "scheme_status": "ACTIVE",
+      "launched_year": 2008,
+      "education_coverage": {
+        "education_level": [
+          "UNDERGRADUATE",
+          "PROFESSIONAL",
+          "POSTGRADUATE"
+        ],
+        "eligible_classes": null,
+        "eligible_courses": [
+          "3-year UG",
+          "4-year UG (B.Tech etc.)",
+          "5-year integrated/professional",
+          "2-year PG"
+        ],
+        "eligible_degrees": [
+          "B.A.",
+          "B.Sc",
+          "B.Com",
+          "B.Tech",
+          "MBBS",
+          "LLB",
+          "M.A.",
+          "M.Sc",
+          "M.Com",
+          "MBA",
+          "Other UG/PG"
+        ],
+        "eligible_institutions": "Regular degree programs in UGC/AICTE/MCI/statutory body recognized institutions with valid AISHE code"
+      },
+      "benefit_details": {
+        "monetary": {
+          "scholarship_amount_description": "UG (first 3 years): ₹12,000/year; PG: ₹20,000/year; 4th year engineering: ₹20,000/year; 4th+5th year professional: ₹20,000/year",
+          "annual_amount": 12000,
+          "monthly_amount": 1000,
+          "tuition_coverage": false,
+          "hostel_coverage": false,
+          "book_allowance": false,
+          "transport_allowance": false,
+          "coaching_allowance": false
+        }
+      },
+      "eligibility": {
+        "demographic": {
+          "gender": "ALL",
+          "state_requirement": "Any state (all India; MP students eligible under state-wise quota)"
+        },
+        "economic": {
+          "income_threshold": 450000,
+          "family_income_limit": "Annual family income from all sources < ₹4,50,000",
+          "ews_eligibility": true,
+          "bpl_requirement": false
+        },
+        "social_category": {
+          "general": true,
+          "ews": true,
+          "obc": true,
+          "sc": true,
+          "st": true,
+          "minority": true,
+          "note": "All categories; stream-wise and state-wise quotas apply"
+        },
+        "disability": {
+          "disability_eligible": true
+        },
+        "academic": {
+          "minimum_percentage": "Above 80th percentile (top 20%) of successful candidates in Class 12 board (Science/Commerce/Humanities stream separately); enrolled in regular UG/PG course",
+          "grade_requirement": null,
+          "rank_requirement": null,
+          "attendance_requirement": "75% attendance; 50% marks each year for renewal",
+          "course_restrictions": "Regular (not correspondence/distance) UG/PG programs only"
+        },
+        "institutional": {
+          "recognized_institution_required": true,
+          "note": "Institution must have valid AISHE code; not for diploma/ITI"
+        }
+      },
+      "application_details": {
+        "application_mode": "ONLINE via NSP",
+        "application_portal": "https://scholarships.gov.in",
+        "application_frequency": "ANNUAL (fresh and renewal)",
+        "renewal_required": true,
+        "renewal_conditions": "50% marks in annual exams; 75% attendance; promoted to next year/semester",
+        "documents_required": [
+          "OTR number",
+          "Aadhaar Card",
+          "Income Certificate",
+          "Class 12 Marksheet",
+          "Admission/Enrollment Proof",
+          "Bank Account Details (Aadhaar-linked)",
+          "Caste Certificate (if applicable)"
+        ],
+        "aadhaar_required": true,
+        "domicile_required": false,
+        "income_certificate_required": true,
+        "caste_certificate_required": false
+      },
+      "benefit_delivery": {
+        "direct_benefit_transfer": true
+      },
+      "timeline": {
+        "application_start": "June each year (for fresh applicants)",
+        "application_end": "October 31, 2025 (for 2025-26); extended to December 15, 2025",
+        "benefit_distribution_cycle": "Annual",
+        "renewal_cycle": "Annual"
+      },
+      "source_documents": [
+        {
+          "source_type": "OFFICIAL_PORTAL",
+          "url": "https://scholarships.gov.in"
+        },
+        {
+          "source_type": "VERIFIED_AGGREGATOR",
+          "url": "https://www.buddy4study.com/article/central-sector-scholarship"
+        },
+        {
+          "source_type": "VERIFIED_AGGREGATOR",
+          "url": "https://www.cbseguidanceweb.com/central-sector-scholarship-scheme-csss/"
+        }
+      ],
+      "last_verified": "2026-06-07",
+      "confidence_score": 0.92,
+      "data_completeness_score": 0.9,
+      "notes": "82,000 scholarships awarded nationally (41,000 each for Science and Commerce+Humanities combined). Stream-wise and state-board-wise merit cutoffs apply."
+    },
+    {
+      "scheme_id": "CENTRAL-NSP-006",
+      "scheme_name": "Pre-Matric Scholarship for Minorities (NSP)",
+      "alternate_names": [
+        "Minority Pre-Matric Scholarship",
+        "Maulana Azad Pre-Matric Scholarship"
+      ],
+      "category": "CENTRAL",
+      "state": "ALL_INDIA (MP students eligible)",
+      "implementing_authority": "Ministry of Minority Affairs, Government of India",
+      "department": "Ministry of Minority Affairs",
+      "official_website": "https://scholarships.gov.in",
+      "official_application_url": "https://scholarships.gov.in",
+      "scheme_status": "ACTIVE",
+      "education_coverage": {
+        "education_level": [
+          "PRIMARY",
+          "UPPER_PRIMARY",
+          "SECONDARY"
+        ],
+        "eligible_classes": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "eligible_courses": [
+          "Class 1 to 10"
+        ],
+        "eligible_institutions": "Government and recognized schools"
+      },
+      "benefit_details": {
+        "monetary": {
+          "scholarship_amount_description": "Admission fee: ₹500/year; Tuition fee: ₹350/month (for Classes 1-10)",
+          "annual_amount": 4700,
+          "monthly_amount": 350,
+          "tuition_coverage": true,
+          "examination_fee_coverage": false
+        }
+      },
+      "eligibility": {
+        "demographic": {
+          "gender": "ALL",
+          "state_requirement": "Resident of Madhya Pradesh"
+        },
+        "economic": {
+          "income_threshold": 100000,
+          "family_income_limit": "Annual family income ≤ ₹1,00,000"
+        },
+        "social_category": {
+          "minority": true,
+          "note": "Muslim, Christian, Sikh, Buddhist, Zoroastrian, Jain communities only (as defined under National Commission for Minorities Act 1992)"
+        },
+        "academic": {
+          "minimum_percentage": "50% marks in previous class examination"
+        }
+      },
+      "application_details": {
+        "application_mode": "ONLINE via NSP",
+        "application_portal": "https://scholarships.gov.in",
+        "application_frequency": "ANNUAL",
+        "renewal_required": true,
+        "documents_required": [
+          "OTR",
+          "Aadhaar Card",
+          "Minority Community Certificate",
+          "Income Certificate",
+          "Marksheets",
+          "Bonafide Certificate",
+          "Bank Account Details"
+        ],
+        "aadhaar_required": true,
+        "domicile_required": true,
+        "income_certificate_required": true,
+        "caste_certificate_required": false
+      },
+      "benefit_delivery": {
+        "direct_benefit_transfer": true
+      },
+      "timeline": {
+        "application_start": "July each year",
+        "application_end": "October 31, 2025 (extended to November 15, 2025 for 2025-26)",
+        "benefit_distribution_cycle": "Annual",
+        "renewal_cycle": "Annual"
+      },
+      "source_documents": [
+        {
+          "source_type": "OFFICIAL_PORTAL",
+          "url": "https://scholarships.gov.in"
+        },
+        {
+          "source_type": "VERIFIED_AGGREGATOR",
+          "url": "https://school.careers360.com/articles/national-scholarship-portal"
+        }
+      ],
+      "last_verified": "2026-06-07",
+      "confidence_score": 0.9,
+      "data_completeness_score": 0.85
+    },
+    {
+      "scheme_id": "CENTRAL-NSP-007",
+      "scheme_name": "Post-Matric Scholarship for Minorities (NSP)",
+      "alternate_names": [
+        "Minority Post-Matric Scholarship",
+        "Post Matric Scholarship for Minorities"
+      ],
+      "category": "CENTRAL",
+      "state": "ALL_INDIA (MP students eligible)",
+      "implementing_authority": "Ministry of Minority Affairs, Government of India",
+      "official_website": "https://scholarships.gov.in",
+      "scheme_status": "ACTIVE",
+      "education_coverage": {
+        "education_level": [
+          "HIGHER_SECONDARY",
+          "DIPLOMA",
+          "ITI",
+          "UNDERGRADUATE",
+          "PROFESSIONAL",
+          "POSTGRADUATE"
+        ],
+        "eligible_classes": [
+          "11",
+          "12"
+        ],
+        "eligible_courses": [
+          "Class 11 and above, all post-matric courses"
+        ]
+      },
+      "benefit_details": {
+        "monetary": {
+          "scholarship_amount_description": "Maintenance allowance, compulsory non-refundable fee reimbursement, and other benefits; amount varies by course level",
+          "tuition_coverage": true,
+          "hostel_coverage": true,
+          "book_allowance": true
+        }
+      },
+      "eligibility": {
+        "demographic": {
+          "gender": "ALL",
+          "state_requirement": "Resident of Madhya Pradesh"
+        },
+        "economic": {
+          "income_threshold": 200000,
+          "family_income_limit": "Annual family income ≤ ₹2,00,000"
+        },
+        "social_category": {
+          "minority": true,
+          "note": "Muslim, Christian, Sikh, Buddhist, Zoroastrian, Jain communities"
+        },
+        "academic": {
+          "minimum_percentage": "50% marks in previous qualifying exam"
+        }
+      },
+      "application_details": {
+        "application_mode": "ONLINE via NSP",
+        "application_portal": "https://scholarships.gov.in",
+        "application_frequency": "ANNUAL",
+        "renewal_required": true,
+        "documents_required": [
+          "OTR",
+          "Aadhaar Card",
+          "Minority Certificate",
+          "Income Certificate",
+          "Marksheets",
+          "Admission Proof",
+          "Bank Account Details"
+        ],
+        "aadhaar_required": true,
+        "domicile_required": true,
+        "income_certificate_required": true
+      },
+      "benefit_delivery": {
+        "direct_benefit_transfer": true
+      },
+      "source_documents": [
+        {
+          "source_type": "OFFICIAL_PORTAL",
+          "url": "https://scholarships.gov.in"
+        }
+      ],
+      "last_verified": "2026-06-07",
+      "confidence_score": 0.88,
+      "data_completeness_score": 0.8
+    },
+    {
+      "scheme_id": "CENTRAL-NSP-008",
+      "scheme_name": "Pre-Matric Scholarship for SC Students (Central Govt)",
+      "alternate_names": [
+        "SC Pre-Matric Scholarship NSP",
+        "Central Pre-Matric SC Scholarship"
+      ],
+      "category": "CENTRAL",
+      "state": "ALL_INDIA (MP students eligible)",
+      "implementing_authority": "Ministry of Social Justice and Empowerment, Government of India",
+      "official_website": "https://scholarships.gov.in",
+      "scheme_status": "ACTIVE",
+      "education_coverage": {
+        "education_level": [
+          "SECONDARY"
+        ],
+        "eligible_classes": [
+          "9",
+          "10"
+        ],
+        "eligible_institutions": "Government/government-aided schools"
+      },
+      "benefit_details": {
+        "monetary": {
+          "scholarship_amount_description": "Maintenance allowance + ad hoc grant; varies by class and residential status (day scholar vs hosteller)",
+          "tuition_coverage": false,
+          "book_allowance": true
+        }
+      },
+      "eligibility": {
+        "demographic": {
+          "gender": "ALL",
+          "state_requirement": "Resident of Madhya Pradesh (state quota)"
+        },
+        "economic": {
+          "income_threshold": 250000,
+          "family_income_limit": "Annual parental income ≤ ₹2,50,000"
+        },
+        "social_category": {
+          "sc": true
+        },
+        "academic": {
+          "minimum_percentage": "Studying in Class 9 or 10"
+        }
+      },
+      "application_details": {
+        "application_mode": "ONLINE via NSP",
+        "application_portal": "https://scholarships.gov.in",
+        "application_frequency": "ANNUAL",
+        "renewal_required": true,
+        "documents_required": [
+          "OTR",
+          "Aadhaar Card",
+          "SC Certificate",
+          "Income Certificate",
+          "School Certificate",
+          "Bank Account Details"
+        ],
+        "aadhaar_required": true,
+        "domicile_required": true,
+        "income_certificate_required": true,
+        "caste_certificate_required": true
+      },
+      "benefit_delivery": {
+        "direct_benefit_transfer": true
+      },
+      "source_documents": [
+        {
+          "source_type": "OFFICIAL_PORTAL",
+          "url": "https://scholarships.gov.in"
+        }
+      ],
+      "last_verified": "2026-06-07",
+      "confidence_score": 0.85,
+      "data_completeness_score": 0.78
+    },
+    {
+      "scheme_id": "CENTRAL-NSP-009",
+      "scheme_name": "Post-Matric Scholarship for SC Students (Central / State)",
+      "alternate_names": [
+        "SC Post Matric Scholarship NSP",
+        "Central Post-Matric SC Scholarship"
+      ],
+      "category": "CENTRAL",
+      "state": "ALL_INDIA (MP students eligible)",
+      "implementing_authority": "Ministry of Social Justice and Empowerment, Government of India",
+      "official_website": "https://scholarships.gov.in",
+      "scheme_status": "ACTIVE",
+      "education_coverage": {
+        "education_level": [
+          "HIGHER_SECONDARY",
+          "DIPLOMA",
+          "ITI",
+          "UNDERGRADUATE",
+          "PROFESSIONAL",
+          "POSTGRADUATE"
+        ],
+        "eligible_classes": [
+          "11",
+          "12"
+        ],
+        "eligible_courses": [
+          "Class 11 onwards, all post-matric courses"
+        ]
+      },
+      "benefit_details": {
+        "monetary": {
+          "scholarship_amount_description": "Maintenance allowance (varies by level: hosteller/day scholar), compulsory fee reimbursement, book grant. Amounts up to ₹48,000/year for master's level hostellers.",
+          "annual_amount": null,
+          "monthly_amount": null,
+          "tuition_coverage": true,
+          "hostel_coverage": true,
+          "book_allowance": true
+        }
+      },
+      "eligibility": {
+        "demographic": {
+          "gender": "ALL",
+          "state_requirement": "Resident of Madhya Pradesh"
+        },
+        "economic": {
+          "income_threshold": 250000,
+          "family_income_limit": "Annual parental income ≤ ₹2,50,000 (for central component)"
+        },
+        "social_category": {
+          "sc": true
+        },
+        "academic": {
+          "minimum_percentage": "Enrolled in recognized post-matric course"
+        }
+      },
+      "application_details": {
+        "application_mode": "ONLINE via NSP",
+        "application_portal": "https://scholarships.gov.in",
+        "application_frequency": "ANNUAL",
+        "renewal_required": true,
+        "documents_required": [
+          "OTR",
+          "Aadhaar Card",
+          "SC Certificate",
+          "Income Certificate",
+          "Marksheets",
+          "Admission Proof",
+          "Bank Account Details"
+        ],
+        "aadhaar_required": true,
+        "domicile_required": true,
+        "income_certificate_required": true,
+        "caste_certificate_required": true
+      },
+      "benefit_delivery": {
+        "direct_benefit_transfer": true
+      },
+      "source_documents": [
+        {
+          "source_type": "OFFICIAL_PORTAL",
+          "url": "https://scholarships.gov.in"
+        },
+        {
+          "source_type": "VERIFIED_AGGREGATOR",
+          "url": "https://educationforallinindia.com/sc-st-obc-scholarship-schemes-2025-%E2%82%B960000-and-%E2%82%B948000-programs-explained/"
+        }
+      ],
+      "last_verified": "2026-06-07",
+      "confidence_score": 0.88,
+      "data_completeness_score": 0.82
+    },
+    {
+      "scheme_id": "CENTRAL-NSP-010",
+      "scheme_name": "Pre-Matric Scholarship for ST Students (Central Govt)",
+      "alternate_names": [
+        "ST Pre-Matric Scholarship NSP",
+        "Tribal Pre-Matric Scholarship Central"
+      ],
+      "category": "CENTRAL",
+      "state": "ALL_INDIA (MP students eligible)",
+      "implementing_authority": "Ministry of Tribal Affairs, Government of India",
+      "department": "Ministry of Tribal Affairs",
+      "official_website": "https://scholarships.gov.in",
+      "official_application_url": "https://scholarships.gov.in",
+      "scheme_status": "ACTIVE",
+      "education_coverage": {
+        "education_level": [
+          "SECONDARY"
+        ],
+        "eligible_classes": [
+          "9",
+          "10"
+        ],
+        "eligible_institutions": "Government/government-aided schools"
+      },
+      "benefit_details": {
+        "monetary": {
+          "scholarship_amount_description": "Maintenance allowance + book grant; amount varies by day scholar/hosteller status",
+          "tuition_coverage": false,
+          "book_allowance": true
+        }
+      },
+      "eligibility": {
+        "demographic": {
+          "gender": "ALL",
+          "state_requirement": "Resident of Madhya Pradesh (state quota)"
+        },
+        "economic": {
+          "income_threshold": 250000,
+          "family_income_limit": "Annual parental income ≤ ₹2,50,000"
+        },
+        "social_category": {
+          "st": true
+        },
+        "academic": {
+          "minimum_percentage": "Studying in Class 9 or 10; enrolled in government school"
+        }
+      },
+      "application_details": {
+        "application_mode": "ONLINE via NSP",
+        "application_portal": "https://scholarships.gov.in",
+        "application_frequency": "ANNUAL",
+        "renewal_required": true,
+        "documents_required": [
+          "OTR",
+          "Aadhaar Card",
+          "ST Certificate",
+          "Income Certificate",
+          "School Certificate",
+          "Bank Account Details"
+        ],
+        "aadhaar_required": true,
+        "domicile_required": true,
+        "income_certificate_required": true,
+        "caste_certificate_required": true
+      },
+      "benefit_delivery": {
+        "direct_benefit_transfer": true
+      },
+      "source_documents": [
+        {
+          "source_type": "OFFICIAL_PORTAL",
+          "url": "https://scholarships.gov.in"
+        },
+        {
+          "source_type": "OFFICIAL_GUIDELINES",
+          "url": "https://scholarships.gov.in/public/schemeGuidelines/POST_MATRIC_ST_GUIDEMINES.pdf"
+        }
+      ],
+      "last_verified": "2026-06-07",
+      "confidence_score": 0.88,
+      "data_completeness_score": 0.8
+    },
+    {
+      "scheme_id": "CENTRAL-NSP-011",
+      "scheme_name": "Post-Matric Scholarship for ST Students (Central Govt)",
+      "alternate_names": [
+        "Umbrella Scheme Post-Matric ST Scholarship",
+        "ST Post Matric NSP"
+      ],
+      "category": "CENTRAL",
+      "state": "ALL_INDIA (MP students eligible)",
+      "implementing_authority": "Ministry of Tribal Affairs, Government of India",
+      "official_website": "https://scholarships.gov.in",
+      "scheme_status": "ACTIVE",
+      "education_coverage": {
+        "education_level": [
+          "HIGHER_SECONDARY",
+          "DIPLOMA",
+          "ITI",
+          "UNDERGRADUATE",
+          "PROFESSIONAL",
+          "POSTGRADUATE"
+        ],
+        "eligible_classes": [
+          "11",
+          "12"
+        ],
+        "eligible_courses": [
+          "Class 11 onwards, all post-matric courses"
+        ]
+      },
+      "benefit_details": {
+        "monetary": {
+          "scholarship_amount_description": "Maintenance allowance, compulsory fee reimbursement, book grant; up to ₹60,000/year for master's level hostellers",
+          "tuition_coverage": true,
+          "hostel_coverage": true,
+          "book_allowance": true
+        }
+      },
+      "eligibility": {
+        "demographic": {
+          "gender": "ALL",
+          "state_requirement": "Resident of Madhya Pradesh"
+        },
+        "economic": {
+          "income_threshold": 250000,
+          "family_income_limit": "Annual parental income ≤ ₹2,50,000"
+        },
+        "social_category": {
+          "st": true
+        }
+      },
+      "application_details": {
+        "application_mode": "ONLINE via NSP",
+        "application_portal": "https://scholarships.gov.in",
+        "application_frequency": "ANNUAL",
+        "renewal_required": true,
+        "documents_required": [
+          "OTR",
+          "Aadhaar Card",
+          "ST Certificate",
+          "Income Certificate",
+          "Marksheets",
+          "Admission Proof",
+          "Bank Account Details"
+        ],
+        "aadhaar_required": true,
+        "domicile_required": true,
+        "income_certificate_required": true,
+        "caste_certificate_required": true
+      },
+      "benefit_delivery": {
+        "direct_benefit_transfer": true
+      },
+      "source_documents": [
+        {
+          "source_type": "OFFICIAL_PORTAL",
+          "url": "https://scholarships.gov.in"
+        }
+      ],
+      "last_verified": "2026-06-07",
+      "confidence_score": 0.88,
+      "data_completeness_score": 0.82
+    },
+    {
+      "scheme_id": "CENTRAL-AICTE-001",
+      "scheme_name": "AICTE Pragati Scholarship for Girl Students",
+      "alternate_names": [
+        "Pragati Scholarship",
+        "AICTE Pragati",
+        "Technical Education Scholarship for Girls"
+      ],
+      "category": "CENTRAL",
+      "state": "ALL_INDIA (MP students eligible)",
+      "implementing_authority": "All India Council for Technical Education (AICTE), Ministry of Education, Government of India",
+      "department": "AICTE under Ministry of Education",
+      "official_website": "https://www.aicte-india.org/schemes/students-development-schemes/Pragati",
+      "official_application_url": "https://scholarships.gov.in",
+      "scheme_status": "ACTIVE",
+      "education_coverage": {
+        "education_level": [
+          "DIPLOMA",
+          "UNDERGRADUATE"
+        ],
+        "eligible_classes": null,
+        "eligible_courses": [
+          "1st year of Technical Diploma",
+          "1st year of Technical Degree (B.Tech/B.E./B.Arch etc.)"
+        ],
+        "eligible_degrees": [
+          "B.Tech",
+          "B.E.",
+          "B.Arch",
+          "B.Pharmacy",
+          "Diploma in Engineering"
+        ],
+        "eligible_institutions": "AICTE-approved institutions"
+      },
+      "benefit_details": {
+        "monetary": {
+          "scholarship_amount_description": "₹50,000/year for every year of study (lump sum towards fees, books, equipment, laptop)",
+          "annual_amount": 50000,
+          "monthly_amount": null,
+          "one_time_grant": null,
+          "tuition_coverage": true,
+          "hostel_coverage": false,
+          "examination_fee_coverage": false,
+          "book_allowance": true,
+          "device_assistance": true,
+          "device_assistance_note": "Included in ₹50,000 for laptop/equipment purchase"
+        }
+      },
+      "eligibility": {
+        "demographic": {
+          "gender": "FEMALE",
+          "state_requirement": "Any state (all India; MP girl students eligible)"
+        },
+        "economic": {
+          "income_threshold": 800000,
+          "family_income_limit": "Annual family income (both parents) < ₹8,00,000",
+          "ews_eligibility": true,
+          "bpl_requirement": false
+        },
+        "social_category": {
+          "general": true,
+          "ews": true,
+          "obc": true,
+          "sc": true,
+          "st": true,
+          "minority": true,
+          "note": "All categories eligible; max 2 girl children per family"
+        },
+        "academic": {
+          "minimum_percentage": "Admitted to 1st year of AICTE-approved technical degree/diploma course",
+          "course_restrictions": "Technical degree (4-year) or technical diploma programs only"
+        },
+        "institutional": {
+          "recognized_institution_required": true,
+          "note": "AICTE-approved institutions only"
+        }
+      },
+      "application_details": {
+        "application_mode": "ONLINE via NSP",
+        "application_portal": "https://scholarships.gov.in",
+        "application_frequency": "ANNUAL (fresh for 1st year; renewal for subsequent years)",
+        "renewal_required": true,
+        "renewal_conditions": "Academic performance; continued enrollment in same institution",
+        "documents_required": [
+          "OTR",
+          "Aadhaar Card",
+          "Income Certificate",
+          "Admission Proof",
+          "Fee Receipt",
+          "Bank Account Details (Aadhaar-linked)",
+          "Caste Certificate (if applicable)"
+        ],
+        "aadhaar_required": true,
+        "domicile_required": false,
+        "income_certificate_required": true,
+        "caste_certificate_required": false
+      },
+      "benefit_delivery": {
+        "direct_benefit_transfer": true
+      },
+      "timeline": {
+        "application_start": "August each year",
+        "application_end": "November 30, 2025; extended to December 15, 2025 (for 2025-26)",
+        "benefit_distribution_cycle": "Annual",
+        "renewal_cycle": "Annual"
+      },
+      "source_documents": [
+        {
+          "source_type": "OFFICIAL_PORTAL",
+          "url": "https://www.aicte-india.org/schemes/students-development-schemes/Pragati/General-Instructions"
+        },
+        {
+          "source_type": "VERIFIED_AGGREGATOR",
+          "url": "https://www.buddy4study.com/article/pragati-scholarship"
+        }
+      ],
+      "last_verified": "2026-06-07",
+      "confidence_score": 0.92,
+      "data_completeness_score": 0.9,
+      "notes": "5,000 total scholarships nationally per year. Max 2 girl children per family. For degree: 4-year program scholarship; for diploma: duration of program."
+    },
+    {
+      "scheme_id": "CENTRAL-AICTE-002",
+      "scheme_name": "AICTE Saksham Scholarship for Differently-Abled Students",
+      "alternate_names": [
+        "Saksham Scholarship",
+        "AICTE PwD Scholarship",
+        "Technical Scholarship for Divyangjan"
+      ],
+      "category": "CENTRAL",
+      "state": "ALL_INDIA (MP students eligible)",
+      "implementing_authority": "All India Council for Technical Education (AICTE), Ministry of Education, Government of India",
+      "official_website": "https://www.aicte-india.org",
+      "official_application_url": "https://scholarships.gov.in",
+      "scheme_status": "ACTIVE",
+      "education_coverage": {
+        "education_level": [
+          "DIPLOMA",
+          "UNDERGRADUATE"
+        ],
+        "eligible_courses": [
+          "1st year of Technical Diploma or Degree program (AICTE-approved)"
+        ],
+        "eligible_institutions": "AICTE-approved institutions"
+      },
+      "benefit_details": {
+        "monetary": {
+          "scholarship_amount_description": "₹50,000/year for every year of study",
+          "annual_amount": 50000,
+          "tuition_coverage": true,
+          "device_assistance": true
+        }
+      },
+      "eligibility": {
+        "demographic": {
+          "gender": "ALL"
+        },
+        "economic": {
+          "income_threshold": 800000,
+          "family_income_limit": "Annual family income < ₹8,00,000"
+        },
+        "social_category": {
+          "general": true,
+          "ews": true,
+          "obc": true,
+          "sc": true,
+          "st": true,
+          "minority": true
+        },
+        "disability": {
+          "disability_eligible": true,
+          "disability_percentage_requirement": "40% or more disability",
+          "specific_disability_categories": "All disability categories (benchmark disability under RPWD Act 2016)"
+        },
+        "academic": {
+          "minimum_percentage": "Admitted to 1st year AICTE-approved technical degree/diploma"
+        }
+      },
+      "application_details": {
+        "application_mode": "ONLINE via NSP",
+        "application_portal": "https://scholarships.gov.in",
+        "application_frequency": "ANNUAL",
+        "renewal_required": true,
+        "documents_required": [
+          "OTR",
+          "Aadhaar Card",
+          "Disability Certificate (40%+)",
+          "Income Certificate",
+          "Admission Proof",
+          "Bank Account Details"
+        ],
+        "aadhaar_required": true,
+        "domicile_required": false,
+        "income_certificate_required": true,
+        "disability_certificate_required": true
+      },
+      "benefit_delivery": {
+        "direct_benefit_transfer": true
+      },
+      "source_documents": [
+        {
+          "source_type": "OFFICIAL_PORTAL",
+          "url": "https://www.aicte-india.org/schemes/students-development-schemes/Pragati"
+        },
+        {
+          "source_type": "VERIFIED_AGGREGATOR",
+          "url": "https://studycart24.com/aicte-pragati-scholarship/"
+        }
+      ],
+      "last_verified": "2026-06-07",
+      "confidence_score": 0.9,
+      "data_completeness_score": 0.88
+    },
+    {
+      "scheme_id": "CENTRAL-DST-001",
+      "scheme_name": "INSPIRE Scholarship for Higher Education (SHE)",
+      "alternate_names": [
+        "INSPIRE-SHE",
+        "Innovation in Science Pursuit for Inspired Research - SHE",
+        "DST INSPIRE Scholarship"
+      ],
+      "category": "CENTRAL",
+      "state": "ALL_INDIA (MP students eligible)",
+      "implementing_authority": "Department of Science and Technology (DST), Government of India",
+      "department": "Department of Science and Technology",
+      "official_website": "https://online-inspire.gov.in",
+      "official_application_url": "https://online-inspire.gov.in",
+      "scheme_status": "ACTIVE",
+      "launched_year": 2008,
+      "education_coverage": {
+        "education_level": [
+          "UNDERGRADUATE",
+          "POSTGRADUATE"
+        ],
+        "eligible_courses": [
+          "B.Sc./B.S. in Natural Sciences",
+          "M.Sc. in Natural/Basic Sciences",
+          "Integrated M.Sc./M.S. in Natural Sciences"
+        ],
+        "eligible_degrees": [
+          "B.Sc.",
+          "B.S.",
+          "M.Sc.",
+          "M.S.",
+          "Integrated B.Sc.-M.Sc."
+        ],
+        "eligible_institutions": "Any academic institute or university in India offering natural/basic sciences programs"
+      },
+      "benefit_details": {
+        "monetary": {
+          "scholarship_amount_description": "₹80,000/year for B.Sc./M.Sc. level study in natural sciences",
+          "annual_amount": 80000,
+          "monthly_amount": null,
+          "tuition_coverage": false,
+          "hostel_coverage": false,
+          "book_allowance": false
+        }
+      },
+      "eligibility": {
+        "demographic": {
+          "gender": "ALL",
+          "age_min": 17,
+          "age_max": 22,
+          "state_requirement": "Any state (no domicile restriction)"
+        },
+        "economic": {
+          "income_threshold": null,
+          "family_income_limit": "No income restriction; merit-based",
+          "ews_eligibility": true
+        },
+        "social_category": {
+          "general": true,
+          "ews": true,
+          "obc": true,
+          "sc": true,
+          "st": true,
+          "minority": true,
+          "note": "All categories; purely merit-based"
+        },
+        "academic": {
+          "minimum_percentage": "One of: Top 1% in Class 12 board; OR top 10,000 ranks in JEE-Advanced; OR top 10,000 ranks in NEET; OR admitted to IISER/NISER/DAE-CBS; OR KVPY/NTSE/JBNSTS Scholar; OR Science Olympiad Medallist",
+          "grade_requirement": null,
+          "rank_requirement": "Top 1% in Class 12 board OR specific competitive exam criteria",
+          "course_restrictions": "Natural and Basic Sciences ONLY (Physics, Chemistry, Biology, Mathematics, Earth Sciences etc.); NOT engineering, medicine, or professional courses directly"
+        }
+      },
+      "application_details": {
+        "application_mode": "ONLINE via official INSPIRE portal",
+        "application_portal": "https://online-inspire.gov.in",
+        "application_frequency": "ANNUAL (fresh + renewal)",
+        "renewal_required": true,
+        "renewal_conditions": "Satisfactory academic performance; continuing in natural sciences program",
+        "documents_required": [
+          "Aadhaar Card",
+          "Class 12 Marksheet",
+          "Board Merit Certificate",
+          "Admission Proof (IISER/NISER etc. if applicable)",
+          "Bank Account Details (SBI, Aadhaar-linked)",
+          "Qualifying exam rank/score if applicable"
+        ],
+        "aadhaar_required": true,
+        "domicile_required": false,
+        "income_certificate_required": false,
+        "caste_certificate_required": false
+      },
+      "benefit_delivery": {
+        "direct_benefit_transfer": true,
+        "payment_note": "Must link SBI bank account with Aadhaar for disbursement"
+      },
+      "timeline": {
+        "application_start": "Typically after Class 12 results (batch applications)",
+        "application_end": "Annually; check https://online-inspire.gov.in for batch-specific dates",
+        "benefit_distribution_cycle": "Annual (₹80,000/year)",
+        "renewal_cycle": "Annual"
+      },
+      "source_documents": [
+        {
+          "source_type": "OFFICIAL_PORTAL",
+          "url": "https://online-inspire.gov.in"
+        },
+        {
+          "source_type": "OFFICIAL_DEPT",
+          "url": "https://dst.gov.in/inspire-scheme-innovation-science-pursuit-inspired-research"
+        },
+        {
+          "source_type": "VERIFIED_AGGREGATOR",
+          "url": "https://www.buddy4study.com/article/inspire-scholarship"
+        }
+      ],
+      "last_verified": "2026-06-07",
+      "confidence_score": 0.92,
+      "data_completeness_score": 0.88,
+      "notes": "12,000 scholarships nationally per year. Strictly for natural/basic sciences; not for engineering or medical. Mentorship programme included."
+    },
+    {
+      "scheme_id": "CENTRAL-NSP-012",
+      "scheme_name": "Pre-Matric Scholarship for Students with Disabilities (Central)",
+      "alternate_names": [
+        "PwD Pre-Matric Scholarship NSP",
+        "Disability Pre-Matric Scholarship Central"
+      ],
+      "category": "CENTRAL",
+      "state": "ALL_INDIA (MP students eligible)",
+      "implementing_authority": "Department of Empowerment of Persons with Disabilities (DEPwD), Ministry of Social Justice and Empowerment",
+      "department": "DEPwD",
+      "official_website": "https://scholarships.gov.in",
+      "scheme_status": "ACTIVE",
+      "education_coverage": {
+        "education_level": [
+          "PRIMARY",
+          "UPPER_PRIMARY",
+          "SECONDARY"
+        ],
+        "eligible_classes": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ]
+      },
+      "benefit_details": {
+        "monetary": {
+          "scholarship_amount_description": "Tuition fee reimbursement, reader allowance (for visually impaired), escort allowance (for severely disabled), maintenance allowance",
+          "tuition_coverage": true
+        }
+      },
+      "eligibility": {
+        "demographic": {
+          "gender": "ALL",
+          "state_requirement": "Resident of Madhya Pradesh"
+        },
+        "economic": {
+          "income_threshold": 250000,
+          "family_income_limit": "Annual parental income ≤ ₹2,50,000"
+        },
+        "social_category": {
+          "general": true,
+          "ews": true,
+          "obc": true,
+          "sc": true,
+          "st": true
+        },
+        "disability": {
+          "disability_eligible": true,
+          "disability_percentage_requirement": "40% or more disability",
+          "specific_disability_categories": "All types of disabilities (visual, hearing, locomotor, intellectual etc.)"
+        },
+        "academic": {
+          "minimum_percentage": "Enrolled in Class 1-10 in recognized school"
+        }
+      },
+      "application_details": {
+        "application_mode": "ONLINE via NSP",
+        "application_portal": "https://scholarships.gov.in",
+        "application_frequency": "ANNUAL",
+        "renewal_required": true,
+        "documents_required": [
+          "OTR",
+          "Aadhaar Card",
+          "Disability Certificate (40%+)",
+          "Income Certificate",
+          "School Certificate",
+          "Bank Account Details"
+        ],
+        "aadhaar_required": true,
+        "domicile_required": true,
+        "income_certificate_required": true,
+        "disability_certificate_required": true
+      },
+      "benefit_delivery": {
+        "direct_benefit_transfer": true
+      },
+      "timeline": {
+        "application_start": "July each year",
+        "application_end": "October 31, 2025 (for 2025-26)",
+        "benefit_distribution_cycle": "Annual",
+        "renewal_cycle": "Annual"
+      },
+      "source_documents": [
+        {
+          "source_type": "OFFICIAL_PORTAL",
+          "url": "https://scholarships.gov.in"
+        },
+        {
+          "source_type": "VERIFIED_AGGREGATOR",
+          "url": "https://school.careers360.com/articles/national-scholarship-portal"
+        }
+      ],
+      "last_verified": "2026-06-07",
+      "confidence_score": 0.88,
+      "data_completeness_score": 0.82
+    },
+    {
+      "scheme_id": "MP-STATE-013",
+      "scheme_name": "Awas Bhatta Sahayata Yojana (Housing Allowance for SC/ST Students)",
+      "alternate_names": [
+        "MP Awas Sahayata Yojana",
+        "Awas Bhatta SC/ST",
+        "Student Housing Assistance Scheme MP",
+        "ABSY"
+      ],
+      "category": "STATE",
+      "state": "Madhya Pradesh",
+      "implementing_authority": "Higher Education Department / Social Justice & Tribal Welfare Departments, Government of Madhya Pradesh",
+      "department": "Higher Education Department (for SC/ST students in higher education); also under MPTAAS portal for tribal students",
+      "official_website": "https://scholarshipportal.mp.nic.in",
+      "official_application_url": "https://scholarshipportal.mp.nic.in/Public/OtherSchemes/GB.aspx?ID=MTE=",
+      "scheme_status": "ACTIVE",
+      "education_coverage": {
+        "education_level": [
+          "HIGHER_SECONDARY",
+          "DIPLOMA",
+          "ITI",
+          "UNDERGRADUATE",
+          "PROFESSIONAL",
+          "POSTGRADUATE"
+        ],
+        "eligible_classes": [
+          "11",
+          "12"
+        ],
+        "eligible_courses": [
+          "All post-matric courses pursued away from home"
+        ],
+        "eligible_institutions": "Government and recognized institutions in MP"
+      },
+      "benefit_details": {
+        "monetary": {
+          "scholarship_amount_description": "Monthly housing allowance: ₹2,000/month for major cities (Bhopal, Indore, Jabalpur, Gwalior, Ujjain); ₹1,000/month for other towns. Paid for actual months of study.",
+          "annual_amount": 24000,
+          "monthly_amount": 2000,
+          "monthly_amount_note": "₹2,000/month in Bhopal, Indore, Jabalpur, Gwalior, Ujjain; ₹1,000/month in other towns",
+          "tuition_coverage": false,
+          "hostel_coverage": true,
+          "hostel_coverage_note": "Covers private rent/accommodation cost; not for those in government hostels"
+        },
+        "non_monetary": {
+          "hostel": false
+        }
+      },
+      "eligibility": {
+        "demographic": {
+          "gender": "ALL",
+          "state_requirement": "Permanent resident of Madhya Pradesh; studying away from home district"
+        },
+        "economic": {
+          "income_threshold": 600000,
+          "family_income_limit": "Annual family income must not exceed ₹6,00,000",
+          "ews_eligibility": false,
+          "bpl_requirement": false
+        },
+        "social_category": {
+          "general": false,
+          "ews": false,
+          "obc": false,
+          "sc": true,
+          "st": true,
+          "minority": false,
+          "note": "Also available to OBC students via MPTAAS portal (SC/ST/OBC under MPTAAS Awas Sahayata)"
+        },
+        "academic": {
+          "minimum_percentage": "Enrolled as regular student in recognized institution",
+          "attendance_requirement": "Must not be residing in government hostel; must have private accommodation",
+          "course_restrictions": "Post-matric level courses only; study city must be different from home district"
+        },
+        "institutional": {
+          "government_college_required": false,
+          "recognized_institution_required": true,
+          "note": "Principal of nearest government institution acts as approving officer for non-government institution students"
+        }
+      },
+      "application_details": {
+        "application_mode": "ONLINE via MP Scholarship Portal 2.0 / MPTAAS",
+        "application_portal": "https://scholarshipportal.mp.nic.in / https://www.tribal.mp.gov.in/MPTAAS",
+        "application_frequency": "ANNUAL",
+        "renewal_required": true,
+        "renewal_conditions": "Annual; submit rent receipt/affidavit; must not be in government hostel",
+        "documents_required": [
+          "Aadhaar Card",
+          "Caste Certificate (SC or ST)",
+          "Income Certificate (family income < ₹6 lakh)",
+          "Domicile Certificate",
+          "Samagra ID",
+          "Bonafide Certificate from Institution",
+          "Proof of Private Accommodation (Rent Agreement or Affidavit)",
+          "Bank Account Details (Aadhaar-linked)",
+          "Passport-size Photo"
+        ],
+        "aadhaar_required": true,
+        "domicile_required": true,
+        "income_certificate_required": true,
+        "caste_certificate_required": true
+      },
+      "benefit_delivery": {
+        "direct_benefit_transfer": true,
+        "reimbursement": false,
+        "payment_note": "DBT to student's Aadhaar-linked bank account after approval by institution principal"
+      },
+      "timeline": {
+        "application_start": "Typically October–November each year",
+        "application_end": "January each year",
+        "benefit_distribution_cycle": "Monthly (paid in installments)",
+        "renewal_cycle": "Annual"
+      },
+      "source_documents": [
+        {
+          "source_type": "OFFICIAL_PORTAL",
+          "url": "https://scholarshipportal.mp.nic.in/Public/OtherSchemes/GB.aspx?ID=MTE="
+        },
+        {
+          "source_type": "VERIFIED_AGGREGATOR",
+          "url": "https://www.egovtschemes.com/awas-bhatta-sahayata-yojana/"
+        },
+        {
+          "source_type": "VERIFIED_AGGREGATOR",
+          "url": "https://sarkariyojana.com/mp-awas-sahayata-yojana/"
+        },
+        {
+          "source_type": "VERIFIED_AGGREGATOR",
+          "url": "https://mptaaas.com/"
+        },
+        {
+          "source_type": "OFFICIAL_PORTAL",
+          "url": "https://www.tribal.mp.gov.in/MPTAAS"
+        }
+      ],
+      "last_verified": "2026-06-07",
+      "confidence_score": 0.9,
+      "data_completeness_score": 0.88,
+      "notes": "Also operated through MPTAAS portal as 'MPTAAS Awas Sahayata Yojana' for SC/ST/OBC students receiving MPTAAS post-matric scholarship. Student must submit rental agreement or affidavit confirming private accommodation."
+    },
+    {
+      "scheme_id": "MP-STATE-014",
+      "scheme_name": "Nishulk Cycle Praday Yojana (Free Bicycle Distribution Scheme)",
+      "alternate_names": [
+        "MP Free Cycle Scheme",
+        "Muft Cycle Yojana",
+        "Free Cycle Distribution Scheme Madhya Pradesh"
+      ],
+      "category": "STATE",
+      "state": "Madhya Pradesh",
+      "implementing_authority": "School Education Department, Government of Madhya Pradesh",
+      "department": "School Education Department",
+      "official_website": "https://shikshaportal.mp.gov.in",
+      "official_application_url": "https://shikshaportal.mp.gov.in",
+      "scheme_status": "ACTIVE",
+      "launched_year": 2004,
+      "education_coverage": {
+        "education_level": [
+          "UPPER_PRIMARY",
+          "SECONDARY"
+        ],
+        "eligible_classes": [
+          "6",
+          "9"
+        ],
+        "eligible_courses": [
+          "Class 6 (primary admission) and Class 9 (secondary admission) in rural government schools"
+        ],
+        "eligible_institutions": "Rural area government schools only"
+      },
+      "benefit_details": {
+        "monetary": {
+          "scholarship_amount_description": "₹4,500 financial assistance (as DBT) for purchase of bicycle. Class 6 students receive 18-inch cycle; Class 9 students receive 20-inch cycle.",
+          "annual_amount": null,
+          "monthly_amount": null,
+          "one_time_grant": 4500,
+          "tuition_coverage": false,
+          "device_assistance": false
+        },
+        "non_monetary": {
+          "bicycle": true,
+          "bicycle_note": "₹4,500 DBT to guardian's bank account for bicycle purchase (switched from physical distribution in 2023)"
+        }
+      },
+      "eligibility": {
+        "demographic": {
+          "gender": "ALL",
+          "age_min": null,
+          "age_max": null,
+          "state_requirement": "Permanent resident of Madhya Pradesh",
+          "rural_restriction": true,
+          "rural_note": "Student must be studying in a rural area government school"
+        },
+        "economic": {
+          "income_threshold": null,
+          "family_income_limit": "No income restriction",
+          "ews_eligibility": true,
+          "bpl_requirement": false
+        },
+        "social_category": {
+          "general": true,
+          "ews": true,
+          "obc": true,
+          "sc": true,
+          "st": true,
+          "minority": true,
+          "note": "No caste restriction; open to all categories"
+        },
+        "academic": {
+          "minimum_percentage": "Enrolled in Class 6 or Class 9 in rural government school",
+          "course_restrictions": "Rural government schools only; school must be more than 2 km from student's home"
+        },
+        "institutional": {
+          "government_school_required": true,
+          "note": "Rural area government schools only; private school students NOT eligible"
+        }
+      },
+      "application_details": {
+        "application_mode": "AUTOMATIC (no student application needed; school prepares list and uploads to MP Education Department portal)",
+        "application_portal": "https://shikshaportal.mp.gov.in",
+        "application_frequency": "ONE_TIME (when student enters Class 6 or Class 9)",
+        "renewal_required": false,
+        "renewal_conditions": "Not applicable; one-time benefit at Class 6 and again at Class 9 entry",
+        "documents_required": [
+          "No documents required from student; school submits list on education portal"
+        ],
+        "aadhaar_required": false,
+        "domicile_required": false,
+        "income_certificate_required": false,
+        "caste_certificate_required": false
+      },
+      "benefit_delivery": {
+        "direct_benefit_transfer": true,
+        "physical_benefit": false,
+        "payment_note": "₹4,500 credited to guardian's Aadhaar-linked bank account (switched to DBT mode in 2023); previously physical cycle distribution. Girl students in hostels also eligible."
+      },
+      "timeline": {
+        "application_start": "Automatic at start of academic year (June–July) for newly admitted Class 6 and Class 9 students",
+        "application_end": "Not applicable",
+        "benefit_distribution_cycle": "One-time at class entry (Class 6 and Class 9)"
+      },
+      "source_documents": [
+        {
+          "source_type": "OFFICIAL_PORTAL",
+          "url": "https://shikshaportal.mp.gov.in"
+        },
+        {
+          "source_type": "DISTRICT_GOVT_WEBSITE",
+          "url": "https://khargone.nic.in/en/scheme/free-cycle-distribution-scheme/"
+        },
+        {
+          "source_type": "DISTRICT_GOVT_WEBSITE",
+          "url": "https://barwani.nic.in/en/scheme/free-cycle-distribution-scheme/"
+        },
+        {
+          "source_type": "VERIFIED_AGGREGATOR",
+          "url": "https://popularschemes.com/madhya-pradesh-free-cycle-distribution-scheme"
+        }
+      ],
+      "last_verified": "2026-06-07",
+      "confidence_score": 0.88,
+      "data_completeness_score": 0.85,
+      "notes": "Scheme started 2004. Amount updated from ₹2,400 (initial) to ₹4,500 in recent years. Class 6 gets 18-inch cycle; Class 9 gets 20-inch cycle. Switched from physical distribution to DBT in 2023. Girl students in hostels also eligible and submit cycle at hostel on school completion."
+    },
+    {
+      "scheme_id": "MP-STATE-015",
+      "scheme_name": "Cycle Distribution Scheme for ST Girls (Class 11)",
+      "alternate_names": [
+        "Tribal Girls Cycle Scheme Class 11",
+        "Adivasi Beti Cycle Yojana"
+      ],
+      "category": "STATE",
+      "state": "Madhya Pradesh",
+      "implementing_authority": "Tribal Affairs Department, Government of Madhya Pradesh",
+      "department": "Tribal Affairs Department (Aadim Jati Kalyan Vibhag)",
+      "official_website": "https://www.tribal.mp.gov.in",
+      "official_application_url": "https://www.tribal.mp.gov.in",
+      "scheme_status": "ACTIVE",
+      "education_coverage": {
+        "education_level": [
+          "HIGHER_SECONDARY"
+        ],
+        "eligible_classes": [
+          "11"
+        ],
+        "eligible_courses": [
+          "Class 11 in government/recognized schools"
+        ],
+        "eligible_institutions": "Schools with Class 11 in MP"
+      },
+      "benefit_details": {
+        "monetary": {
+          "scholarship_amount_description": "Cash grant equivalent to cost of bicycle, credited directly to student bank account",
+          "one_time_grant": null,
+          "one_time_grant_note": "Amount equivalent to bicycle cost (typically ₹4,000–₹4,500); exact amount per official order",
+          "device_assistance": false
+        },
+        "non_monetary": {
+          "bicycle": true
+        }
+      },
+      "eligibility": {
+        "demographic": {
+          "gender": "FEMALE",
+          "state_requirement": "Native of Madhya Pradesh",
+          "rural_restriction": false,
+          "urban_restriction": false
+        },
+        "economic": {
+          "income_threshold": null,
+          "family_income_limit": "No income restriction",
+          "ews_eligibility": true,
+          "bpl_requirement": false
+        },
+        "social_category": {
+          "general": false,
+          "sc": false,
+          "st": true,
+          "note": "Scheduled Tribe (ST) girl students only"
+        },
+        "academic": {
+          "minimum_percentage": "Studying in Class 11; must travel more than 2 km to reach school",
+          "course_restrictions": "Must NOT have received a bicycle in Class 9 (to avoid duplication)"
+        },
+        "institutional": {
+          "recognized_institution_required": true
+        }
+      },
+      "application_details": {
+        "application_mode": "OFFLINE (apply at District Convener/Assistant Commissioner of Tribal Welfare Department or school principal)",
+        "application_portal": "https://www.tribal.mp.gov.in",
+        "application_frequency": "ONE_TIME (Class 11 entry)",
+        "renewal_required": false,
+        "documents_required": [
+          "ST Caste Certificate",
+          "Domicile Certificate",
+          "Marksheet (Class 10)",
+          "School Enrollment Proof (Class 11)",
+          "Bank Account Details",
+          "Declaration that bicycle not received in Class 9"
+        ],
+        "aadhaar_required": true,
+        "domicile_required": true,
+        "income_certificate_required": false,
+        "caste_certificate_required": true
+      },
+      "benefit_delivery": {
+        "direct_benefit_transfer": true,
+        "payment_note": "Cash grant credited to student's bank account; District Collector is approving authority"
+      },
+      "source_documents": [
+        {
+          "source_type": "VERIFIED_AGGREGATOR",
+          "url": "https://www.egovtschemes.com/cycle-distribution-scheme/"
+        },
+        {
+          "source_type": "OFFICIAL_PORTAL",
+          "url": "https://www.tribal.mp.gov.in"
+        }
+      ],
+      "last_verified": "2026-06-07",
+      "confidence_score": 0.82,
+      "data_completeness_score": 0.78,
+      "notes": "Separate from the general Class 6/9 cycle scheme (MP-STATE-014). Specifically for ST girl students in Class 11 who did not receive a cycle in Class 9. District Collector approves."
+    },
+    {
+      "scheme_id": "MP-STATE-016",
+      "scheme_name": "Free Uniform Scheme for Government School Students (Class 1–8)",
+      "alternate_names": [
+        "Nishulk Vardi Yojana",
+        "MP Free Uniform Distribution",
+        "School Uniform Assistance Scheme"
+      ],
+      "category": "STATE",
+      "state": "Madhya Pradesh",
+      "implementing_authority": "School Education Department, Government of Madhya Pradesh",
+      "department": "School Education Department",
+      "official_website": "https://shikshaportal.mp.gov.in",
+      "scheme_status": "ACTIVE",
+      "launched_year": 2004,
+      "education_coverage": {
+        "education_level": [
+          "PRIMARY",
+          "UPPER_PRIMARY"
+        ],
+        "eligible_classes": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "eligible_courses": [
+          "All students enrolled in government primary and middle schools"
+        ],
+        "eligible_institutions": "Government primary and middle schools (Class 1–8) in Madhya Pradesh"
+      },
+      "benefit_details": {
+        "monetary": {
+          "scholarship_amount_description": "₹600 per student for purchase of two sets of uniforms. Disbursed via DBT to guardian's bank account (switched from physical distribution to DBT). Girls receive two sets of stitched uniforms through School Management Committee.",
+          "annual_amount": 600,
+          "monthly_amount": null,
+          "one_time_grant": 600,
+          "tuition_coverage": false
+        },
+        "non_monetary": {
+          "uniform": true,
+          "uniform_note": "Two sets of uniform (₹600 DBT for purchase)"
+        }
+      },
+      "eligibility": {
+        "demographic": {
+          "gender": "ALL",
+          "state_requirement": "Student enrolled in government school in Madhya Pradesh",
+          "rural_restriction": false,
+          "urban_restriction": false
+        },
+        "economic": {
+          "income_threshold": null,
+          "family_income_limit": "No income restriction",
+          "ews_eligibility": true,
+          "bpl_requirement": false
+        },
+        "social_category": {
+          "general": true,
+          "ews": true,
+          "obc": true,
+          "sc": true,
+          "st": true,
+          "minority": true,
+          "note": "No caste restriction; all government school students"
+        },
+        "academic": {
+          "minimum_percentage": "Enrolled in Class 1–8 in government school; enrolled before 15 August of academic year",
+          "course_restrictions": "Government primary and middle schools only; private school students NOT eligible"
+        },
+        "institutional": {
+          "government_school_required": true,
+          "note": "Government primary and middle schools only"
+        }
+      },
+      "application_details": {
+        "application_mode": "AUTOMATIC (no student application needed; School Management Committee distributes)",
+        "application_portal": "https://shikshaportal.mp.gov.in",
+        "application_frequency": "ANNUAL",
+        "renewal_required": false,
+        "renewal_conditions": "Annual benefit; auto-renewed for enrolled students",
+        "documents_required": [
+          "No separate application; enrollment in school is sufficient"
+        ],
+        "aadhaar_required": false,
+        "domicile_required": false,
+        "income_certificate_required": false,
+        "caste_certificate_required": false
+      },
+      "benefit_delivery": {
+        "direct_benefit_transfer": true,
+        "physical_benefit": false,
+        "payment_note": "₹600 DBT to guardian's Aadhaar-linked bank account (switched from physical uniform distribution). Previously distributed via School Management Committee (SHGs). As of 2025, DBT system in place."
+      },
+      "timeline": {
+        "application_start": "Automatic at start of academic year (June–July)",
+        "application_end": "Not applicable",
+        "benefit_distribution_cycle": "Annual",
+        "renewal_cycle": "Annual (automatic for enrolled students)"
+      },
+      "source_documents": [
+        {
+          "source_type": "VERIFIED_AGGREGATOR",
+          "url": "https://www.publicservicesmap.in/schemes/free-uniforms-for-students--fufs"
+        },
+        {
+          "source_type": "NEWS_VERIFIED",
+          "url": "https://www.freepressjournal.in/indore/madhya-pradesh-3-months-into-session-sardarpur-students-yet-to-receive-uniform-money"
+        },
+        {
+          "source_type": "OFFICIAL_PORTAL",
+          "url": "https://shikshaportal.mp.gov.in"
+        }
+      ],
+      "last_verified": "2026-06-07",
+      "confidence_score": 0.88,
+      "data_completeness_score": 0.85,
+      "notes": "Amount raised over years (initially lower); currently ₹600 for two sets. Switched to DBT system; parents receive ₹600 directly instead of physical uniforms. Concerns raised by parents that ₹600 is insufficient for two quality uniform sets (reported August 2025). Scheme runs under RTE Act provisions."
+    },
+    {
+      "scheme_id": "MP-STATE-017",
+      "scheme_name": "Free Textbook Distribution Scheme (Class 9–12, Government Schools)",
+      "alternate_names": [
+        "Nishulk Pathyapustak Vitaran",
+        "Free Books Scheme MP",
+        "MP Free Textbook Scheme"
+      ],
+      "category": "STATE",
+      "state": "Madhya Pradesh",
+      "implementing_authority": "School Education Department, Government of Madhya Pradesh",
+      "department": "School Education Department",
+      "official_website": "https://shikshaportal.mp.gov.in",
+      "scheme_status": "ACTIVE",
+      "launched_year": 2008,
+      "education_coverage": {
+        "education_level": [
+          "SECONDARY",
+          "HIGHER_SECONDARY"
+        ],
+        "eligible_classes": [
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "eligible_courses": [
+          "All subjects at Class 9–12 in MPBSE-affiliated government schools"
+        ],
+        "eligible_institutions": "Government High Schools and Higher Secondary Schools in Madhya Pradesh"
+      },
+      "benefit_details": {
+        "monetary": {
+          "scholarship_amount_description": "Free set of textbooks for all subjects; no monetary benefit—physical books provided",
+          "annual_amount": null,
+          "tuition_coverage": false,
+          "book_allowance": true,
+          "book_allowance_note": "Complete set of free textbooks for all subjects at Class 9–12 level"
+        },
+        "non_monetary": {
+          "books": true,
+          "books_note": "Free textbooks for all subjects; no income/caste restriction"
+        }
+      },
+      "eligibility": {
+        "demographic": {
+          "gender": "ALL",
+          "state_requirement": "Enrolled in government school in Madhya Pradesh"
+        },
+        "economic": {
+          "income_threshold": null,
+          "family_income_limit": "No income restriction",
+          "ews_eligibility": true,
+          "bpl_requirement": false
+        },
+        "social_category": {
+          "general": true,
+          "ews": true,
+          "obc": true,
+          "sc": true,
+          "st": true,
+          "minority": true,
+          "note": "No caste restriction; open to all"
+        },
+        "academic": {
+          "minimum_percentage": "Enrolled in Class 9–12 in government school",
+          "course_restrictions": "Government schools only; private school students NOT eligible"
+        },
+        "institutional": {
+          "government_school_required": true,
+          "note": "Government High Schools and Higher Secondary Schools (Class 9–12)"
+        }
+      },
+      "application_details": {
+        "application_mode": "OFFLINE (collected from school principal's office)",
+        "application_portal": null,
+        "application_frequency": "ANNUAL",
+        "renewal_required": false,
+        "renewal_conditions": "Annual benefit for enrolled students",
+        "documents_required": [
+          "Enrollment in government school; student collect books from school"
+        ],
+        "aadhaar_required": false,
+        "domicile_required": false,
+        "income_certificate_required": false,
+        "caste_certificate_required": false
+      },
+      "benefit_delivery": {
+        "direct_benefit_transfer": false,
+        "physical_benefit": true,
+        "payment_note": "Physical textbooks distributed by school to enrolled students"
+      },
+      "timeline": {
+        "application_start": "Start of academic session (June–July)",
+        "application_end": "Not applicable",
+        "benefit_distribution_cycle": "Annual",
+        "renewal_cycle": "Annual"
+      },
+      "source_documents": [
+        {
+          "source_type": "VERIFIED_AGGREGATOR",
+          "url": "https://www.egovtschemes.com/free-distribution-of-text-books-to-students/"
+        },
+        {
+          "source_type": "DISTRICT_GOVT_WEBSITE",
+          "url": "https://khargone.nic.in/en/scheme/free-textbook-distribution-scheme/"
+        },
+        {
+          "source_type": "OFFICIAL_PORTAL",
+          "url": "https://shikshaportal.mp.gov.in"
+        }
+      ],
+      "last_verified": "2026-06-07",
+      "confidence_score": 0.88,
+      "data_completeness_score": 0.85,
+      "notes": "Launched 1 January 2008. Covers all government high school and higher secondary students. No caste or income restriction. Also, free textbooks for Class 1–8 are provided under RTE Act/Samagra Shiksha."
+    },
+    {
+      "scheme_id": "MP-STATE-018",
+      "scheme_name": "Free Books and Stationery Scheme for SC/ST Students (Higher Education)",
+      "alternate_names": [
+        "SC/ST Free Books Scheme UG",
+        "Higher Education Books Grant SC ST"
+      ],
+      "category": "STATE",
+      "state": "Madhya Pradesh",
+      "implementing_authority": "Higher Education Department, Government of Madhya Pradesh",
+      "department": "Higher Education Department",
+      "official_website": "https://highereducation.mp.gov.in",
+      "scheme_status": "ACTIVE",
+      "education_coverage": {
+        "education_level": [
+          "UNDERGRADUATE",
+          "POSTGRADUATE"
+        ],
+        "eligible_courses": [
+          "All undergraduate and postgraduate regular courses in government colleges"
+        ],
+        "eligible_institutions": "Government colleges in Madhya Pradesh only"
+      },
+      "benefit_details": {
+        "monetary": {
+          "scholarship_amount_description": "Books worth ₹1,500/year + Stationery worth ₹500/year = ₹2,000 total per year",
+          "annual_amount": 2000,
+          "book_allowance": true,
+          "book_allowance_note": "₹1,500 for books + ₹500 for stationery; books from Hindi Granth Academy; stationery provided by college"
+        },
+        "non_monetary": {
+          "books": true
+        }
+      },
+      "eligibility": {
+        "demographic": {
+          "gender": "ALL",
+          "state_requirement": "Native of Madhya Pradesh"
+        },
+        "economic": {
+          "income_threshold": null,
+          "family_income_limit": "No specific income restriction; within SC/ST category"
+        },
+        "social_category": {
+          "sc": true,
+          "st": true,
+          "note": "SC and ST students only; OBC not covered under this specific scheme"
+        },
+        "academic": {
+          "minimum_percentage": "Regular student enrolled in UG or PG program in government college",
+          "course_restrictions": "Regular (not part-time/distance) students; government colleges only"
+        },
+        "institutional": {
+          "government_college_required": true,
+          "note": "Government colleges only; private college students NOT eligible"
+        }
+      },
+      "application_details": {
+        "application_mode": "OFFLINE (approach head/principal of government college)",
+        "application_portal": null,
+        "application_frequency": "ANNUAL",
+        "renewal_required": true,
+        "documents_required": [
+          "SC or ST Caste Certificate",
+          "Domicile Certificate",
+          "Enrollment/Bonafide Certificate from College",
+          "Passport Photo"
+        ],
+        "aadhaar_required": false,
+        "domicile_required": true,
+        "income_certificate_required": false,
+        "caste_certificate_required": true
+      },
+      "benefit_delivery": {
+        "physical_benefit": true,
+        "payment_note": "Books procured from Hindi Granth Academy; stationery provided by college; not cash transfer"
+      },
+      "source_documents": [
+        {
+          "source_type": "VERIFIED_AGGREGATOR",
+          "url": "https://www.egovtschemes.com/distribution-of-free-books-and-stationery-to-sc-st-students/"
+        }
+      ],
+      "last_verified": "2026-06-07",
+      "confidence_score": 0.8,
+      "data_completeness_score": 0.75,
+      "notes": "Books sourced from Hindi Granth Academy (MP government publishing body). Only government college students eligible. OBC students not covered under this specific scheme."
+    },
+    {
+      "scheme_id": "MP-STATE-019",
+      "scheme_name": "Aakanksha Yojana (Free JEE/NEET/CLAT Coaching for ST Students)",
+      "alternate_names": [
+        "Akanksha Scheme MP",
+        "Tribal Coaching Scheme MP",
+        "Aakanksha Coaching Yojana"
+      ],
+      "category": "STATE",
+      "state": "Madhya Pradesh",
+      "implementing_authority": "Tribal Affairs Department (Aadim Jati Kalyan Vibhag), Government of Madhya Pradesh",
+      "department": "Tribal Affairs Department",
+      "official_website": "https://www.tribal.mp.gov.in/MPTAAS",
+      "official_application_url": "https://www.tribal.mp.gov.in/MPTAAS",
+      "scheme_status": "ACTIVE",
+      "launched_year": 2018,
+      "education_coverage": {
+        "education_level": [
+          "HIGHER_SECONDARY"
+        ],
+        "eligible_classes": [
+          "11",
+          "12"
+        ],
+        "eligible_courses": [
+          "Class 11 and 12 with simultaneous coaching for JEE, NEET/AIIMS, CLAT"
+        ],
+        "eligible_institutions": "Reputed coaching institutes in Bhopal, Indore, Jabalpur, Gwalior (expanding to Ujjain and Khandwa in 2025-26)"
+      },
+      "benefit_details": {
+        "monetary": {
+          "scholarship_amount_description": "Fully free coaching at reputed institutes; all coaching fees paid by tribal welfare department",
+          "annual_amount": null,
+          "monthly_amount": null,
+          "coaching_allowance": true,
+          "coaching_allowance_note": "Full coaching fee paid; accommodation also provided at coaching centre"
+        },
+        "non_monetary": {
+          "free_education": true,
+          "hostel": true,
+          "meals": true,
+          "coaching": true,
+          "residential_schooling": true,
+          "coaching_note": "Coaching for JEE (Engineering), NEET/AIIMS (Medical), CLAT (Law) at reputed institutes in divisional headquarters"
+        }
+      },
+      "eligibility": {
+        "demographic": {
+          "gender": "ALL",
+          "state_requirement": "Native of Madhya Pradesh"
+        },
+        "economic": {
+          "income_threshold": 600000,
+          "family_income_limit": "Annual family income from all sources ≤ ₹6,00,000"
+        },
+        "social_category": {
+          "st": true,
+          "note": "Scheduled Tribe (ST) students only"
+        },
+        "academic": {
+          "minimum_percentage": "Minimum 60% marks in Class 10 (MPBSE or equivalent); studying in or having passed Class 10",
+          "grade_requirement": null,
+          "rank_requirement": "Selected through entrance exam conducted by coaching institutes; merit-based",
+          "attendance_requirement": "Minimum 70% attendance in coaching sessions",
+          "course_restrictions": "Must be eligible for Class 11 admission; selection for JEE (800 seats: 100 Indore, 400 Bhopal, 100 Jabalpur, 100 Ujjain, 100 Khandwa), NEET (seats per centre), CLAT (seats per centre)"
+        }
+      },
+      "application_details": {
+        "application_mode": "ONLINE via MPTAAS portal",
+        "application_portal": "https://www.tribal.mp.gov.in/MPTAAS",
+        "application_frequency": "ANNUAL (entrance exam held annually for new batch)",
+        "renewal_required": true,
+        "renewal_conditions": "Maintain 70%+ attendance; pass coaching centre internal tests",
+        "documents_required": [
+          "ST Caste Certificate (digital)",
+          "Aadhaar Card",
+          "Domicile Certificate",
+          "Class 10 Marksheet (min 60%)",
+          "Samagra ID",
+          "Bank Account Details (Aadhaar-linked)",
+          "BPL Card (if applicable)",
+          "Disability Certificate (if applicable)"
+        ],
+        "aadhaar_required": true,
+        "domicile_required": true,
+        "income_certificate_required": true,
+        "caste_certificate_required": true
+      },
+      "benefit_delivery": {
+        "direct_benefit_transfer": false,
+        "institution_payment": true,
+        "physical_benefit": true,
+        "payment_note": "Coaching fees paid directly to empanelled coaching institutes; accommodation and Class 11-12 schooling provided at coaching centre"
+      },
+      "timeline": {
+        "application_start": "Online application: 9 June 2025 to 24 June 2025 (for 2025-26 batch)",
+        "application_end": "24 June 2025 (for 2025-26); check MPTAAS portal for current year",
+        "benefit_distribution_cycle": "2-year program (Class 11 + Class 12)",
+        "renewal_cycle": "Annual (within 2-year program)"
+      },
+      "source_documents": [
+        {
+          "source_type": "OFFICIAL_PORTAL",
+          "url": "https://www.tribal.mp.gov.in/MPTAAS"
+        },
+        {
+          "source_type": "VERIFIED_AGGREGATOR",
+          "url": "https://www.egovtschemes.com/akanksha-scheme/"
+        },
+        {
+          "source_type": "VERIFIED_AGGREGATOR",
+          "url": "https://www.khanglobalstudies.com/blog/akanksha-scheme/"
+        },
+        {
+          "source_type": "NEWS_VERIFIED",
+          "url": "https://mpbreakingnews.in/madhya-pradesh/bhopal/mp-news-mp-government-expand-akanksha-yojana-now-free-coaching-to-tribal-students-in-ujjain-and-khandwa-also-11-698031"
+        },
+        {
+          "source_type": "BLOG_OFFICIAL",
+          "url": "https://www.mpeducationgyandeep.in/2025/06/akanksha-yojana-jee-neet-free-coaching.html"
+        }
+      ],
+      "last_verified": "2026-06-07",
+      "confidence_score": 0.9,
+      "data_completeness_score": 0.88,
+      "notes": "800 ST students benefited currently. In FY 2023-24, ₹2.32 crore spent on 728 students: 209 cleared JEE, 132 NEET, 130 CLAT. Expanding to Ujjain and Khandwa in 2025-26 for JEE (800 total seats). Application window June 2025 for 2025-26 batch."
+    },
+    {
+      "scheme_id": "MP-STATE-020",
+      "scheme_name": "Coaching by Private Institutes for Civil Services (UPSC) – ST Students",
+      "alternate_names": [
+        "ST UPSC Coaching Scheme MP",
+        "All India Services Coaching Scheme Tribal MP"
+      ],
+      "category": "STATE",
+      "state": "Madhya Pradesh",
+      "implementing_authority": "Tribal Affairs Department, Government of Madhya Pradesh",
+      "department": "Tribal Affairs Department",
+      "official_website": "https://www.tribal.mp.gov.in/MPTAAS",
+      "scheme_status": "ACTIVE",
+      "launched_year": 2013,
+      "education_coverage": {
+        "education_level": [
+          "POST_GRADUATE_OR_GRADUATE_LEVEL_COACHING"
+        ],
+        "eligible_courses": [
+          "Coaching for UPSC Civil Services (IAS, IPS, IFS) Preliminary and Mains exam"
+        ],
+        "eligible_institutions": "Empanelled private coaching institutes in Delhi"
+      },
+      "benefit_details": {
+        "monetary": {
+          "scholarship_amount_description": "Coaching fee: up to ₹2,00,000 or actual (whichever is less), paid directly to coaching institute. Study material/books: ₹15,000 one-time grant (DBT). Monthly stipend: ₹12,500/month for up to 18 months based on attendance.",
+          "annual_amount": null,
+          "monthly_amount": 12500,
+          "one_time_grant": 15000,
+          "coaching_allowance": true,
+          "coaching_allowance_note": "Up to ₹2,00,000 coaching fee paid to institute + ₹15,000 books + ₹12,500/month stipend"
+        },
+        "non_monetary": {
+          "coaching": true,
+          "books": true
+        }
+      },
+      "eligibility": {
+        "demographic": {
+          "gender": "ALL",
+          "state_requirement": "Permanent resident of Madhya Pradesh",
+          "age_min": null,
+          "age_max": null,
+          "age_note": "Age as per UPSC eligibility for CSE in that year"
+        },
+        "economic": {
+          "income_threshold": 600000,
+          "family_income_limit": "Annual family income ≤ ₹6,00,000 from all sources"
+        },
+        "social_category": {
+          "st": true,
+          "note": "Scheduled Tribe students only"
+        },
+        "academic": {
+          "minimum_percentage": "Must be a graduate (any stream: Arts/Commerce/Science/Engineering/Medical)",
+          "course_restrictions": "Previous benefits of this scheme must not have been availed; preference to MPPSC Mains qualifiers from last 3 years"
+        }
+      },
+      "application_details": {
+        "application_mode": "OFFLINE (application form from Assistant Commissioner/District Coordinator, Tribal Welfare Department)",
+        "application_portal": "https://www.tribal.mp.gov.in/MPTAAS",
+        "application_frequency": "ANNUAL (one-time; cannot avail twice)",
+        "renewal_required": false,
+        "documents_required": [
+          "Passport-size Photograph",
+          "Aadhaar Card",
+          "Domicile Certificate",
+          "ST Caste Certificate",
+          "Class 10 Marksheet",
+          "Graduation Certificate/Degree",
+          "Samagra ID",
+          "Bank Account Details (Aadhaar-linked)"
+        ],
+        "aadhaar_required": true,
+        "domicile_required": true,
+        "income_certificate_required": true,
+        "caste_certificate_required": true
+      },
+      "benefit_delivery": {
+        "direct_benefit_transfer": true,
+        "institution_payment": true,
+        "payment_note": "Coaching fee direct to institute; ₹15,000 books grant + monthly stipend via DBT to student"
+      },
+      "source_documents": [
+        {
+          "source_type": "VERIFIED_AGGREGATOR",
+          "url": "https://www.egovtschemes.com/award-of-attendance-scholarship-to-girl-students-in-the-middle-stage-of-education/"
+        },
+        {
+          "source_type": "VERIFIED_AGGREGATOR",
+          "url": "https://spmiasacademy.com/upsc-scholarships-for-aspirants/"
+        },
+        {
+          "source_type": "OFFICIAL_PORTAL",
+          "url": "https://www.tribal.mp.gov.in/MPTAAS"
+        }
+      ],
+      "last_verified": "2026-06-07",
+      "confidence_score": 0.85,
+      "data_completeness_score": 0.82,
+      "notes": "Launched 12 September 2013. One-time benefit only; cannot avail again. Coaching in Delhi at empanelled private institutes. Preference to MPPSC Mains qualifiers from last 3 years."
+    },
+    {
+      "scheme_id": "MP-STATE-021",
+      "scheme_name": "Free Civil Services Coaching Scheme for SC Students (MP)",
+      "alternate_names": [
+        "SC UPSC Coaching MP",
+        "SC Civil Services Coaching Scheme"
+      ],
+      "category": "STATE",
+      "state": "Madhya Pradesh",
+      "implementing_authority": "Social Justice and Disability Welfare Department / SC Welfare Directorate, Government of Madhya Pradesh",
+      "department": "Social Justice and Disability Welfare Department",
+      "official_website": "https://socialjustice.mp.gov.in",
+      "scheme_status": "ACTIVE",
+      "education_coverage": {
+        "education_level": [
+          "POST_GRADUATE_OR_GRADUATE_LEVEL_COACHING"
+        ],
+        "eligible_courses": [
+          "UPSC Civil Services coaching for SC students and women of MP"
+        ]
+      },
+      "benefit_details": {
+        "monetary": {
+          "scholarship_amount_description": "Free UPSC coaching; exact coaching fee coverage and stipend amount to be verified from official source",
+          "coaching_allowance": true,
+          "coaching_allowance_note": "Free coaching for SC candidates and women of Madhya Pradesh; income ≤ ₹6 lakh"
+        },
+        "non_monetary": {
+          "coaching": true
+        }
+      },
+      "eligibility": {
+        "demographic": {
+          "gender": "ALL",
+          "state_requirement": "Permanent resident of Madhya Pradesh"
+        },
+        "economic": {
+          "income_threshold": 600000,
+          "family_income_limit": "Annual family income ≤ ₹6,00,000"
+        },
+        "social_category": {
+          "sc": true,
+          "note": "SC candidates and women of MP (women of all categories may be eligible - verify)"
+        },
+        "academic": {
+          "minimum_percentage": "Graduate from any stream",
+          "course_restrictions": "UPSC Civil Services Examination preparation"
+        }
+      },
+      "application_details": {
+        "application_mode": "ONLINE/OFFLINE via Social Justice Department",
+        "application_portal": "https://socialjustice.mp.gov.in",
+        "application_frequency": "ANNUAL",
+        "renewal_required": false,
+        "documents_required": [
+          "SC Caste Certificate",
+          "Domicile Certificate",
+          "Income Certificate",
+          "Graduation Certificate",
+          "Aadhaar Card",
+          "Bank Account Details"
+        ],
+        "aadhaar_required": true,
+        "domicile_required": true,
+        "income_certificate_required": true,
+        "caste_certificate_required": true
+      },
+      "benefit_delivery": {
+        "direct_benefit_transfer": true,
+        "institution_payment": true
+      },
+      "source_documents": [
+        {
+          "source_type": "VERIFIED_AGGREGATOR",
+          "url": "https://www.collegedekho.com/upsc-scholarships-ssp-20"
+        },
+        {
+          "source_type": "VERIFIED_AGGREGATOR",
+          "url": "https://www.pw.live/upsc/exams/scholarship-for-upsc-aspirants-2026"
+        }
+      ],
+      "last_verified": "2026-06-07",
+      "confidence_score": 0.7,
+      "data_completeness_score": 0.6,
+      "notes": "Exact benefit amounts and detailed eligibility require verification from official MP Social Justice Department portal. Multiple sources confirm scheme exists but official detailed guidelines not publicly available."
+    },
+    {
+      "scheme_id": "CENTRAL-NSP-013",
+      "scheme_name": "Central Sector Scheme of Free Coaching for SC and OBC Students",
+      "alternate_names": [
+        "Free Coaching Scheme SC OBC Central",
+        "MSJE Free Coaching SC OBC"
+      ],
+      "category": "CENTRAL",
+      "state": "ALL_INDIA (MP students eligible)",
+      "implementing_authority": "Ministry of Social Justice and Empowerment, Government of India",
+      "department": "Ministry of Social Justice and Empowerment",
+      "official_website": "https://grants-msje.gov.in",
+      "official_application_url": "https://scholarships.gov.in",
+      "scheme_status": "ACTIVE",
+      "education_coverage": {
+        "education_level": [
+          "UNDERGRADUATE",
+          "PROFESSIONAL",
+          "POSTGRADUATE"
+        ],
+        "eligible_courses": [
+          "Group A: Engineering (IIT-JEE, GATE), Medical (NEET), Management (CAT), Law (CLAT), IAS/IPS/IFS (UPSC CSE), NDA/CDS",
+          "Group B: SSC, RRB, state PSC exams",
+          "Group C: Bank PO, Insurance exams"
+        ],
+        "eligible_institutions": "Ministry-empanelled coaching institutes"
+      },
+      "benefit_details": {
+        "monetary": {
+          "scholarship_amount_description": "Coaching fee paid to empanelled institute (varies by exam type). Stipend: ₹3,000/month for non-hostellers; ₹2,500/month for hostellers (stipend provided separately)",
+          "monthly_amount": 3000,
+          "coaching_allowance": true,
+          "coaching_allowance_note": "Full coaching fee to empanelled institute + ₹3,000/month stipend"
+        },
+        "non_monetary": {
+          "coaching": true
+        }
+      },
+      "eligibility": {
+        "demographic": {
+          "gender": "ALL",
+          "state_requirement": "Resident of any state (MP students eligible)"
+        },
+        "economic": {
+          "income_threshold": 800000,
+          "family_income_limit": "Annual family income ≤ ₹8,00,000"
+        },
+        "social_category": {
+          "sc": true,
+          "obc": true,
+          "note": "SC and OBC students only"
+        },
+        "academic": {
+          "minimum_percentage": "Graduate or pursuing graduation (depending on exam category)",
+          "course_restrictions": "Coaching for specific competitive exams only (UPSC, IIT-JEE, NEET, GATE, CAT, CLAT, banking, SSC, etc.)"
+        }
+      },
+      "application_details": {
+        "application_mode": "ONLINE via NSP / Ministry portal",
+        "application_portal": "https://grants-msje.gov.in / https://scholarships.gov.in",
+        "application_frequency": "ANNUAL",
+        "renewal_required": false,
+        "documents_required": [
+          "OTR",
+          "Aadhaar Card",
+          "SC/OBC Caste Certificate",
+          "Income Certificate",
+          "Qualification Certificate",
+          "Bank Account Details"
+        ],
+        "aadhaar_required": true,
+        "domicile_required": false,
+        "income_certificate_required": true,
+        "caste_certificate_required": true
+      },
+      "benefit_delivery": {
+        "direct_benefit_transfer": true,
+        "institution_payment": true
+      },
+      "source_documents": [
+        {
+          "source_type": "OFFICIAL_PORTAL",
+          "url": "https://grants-msje.gov.in/fccguidelines"
+        },
+        {
+          "source_type": "OFFICIAL_PORTAL",
+          "url": "https://scholarships.gov.in"
+        }
+      ],
+      "last_verified": "2026-06-07",
+      "confidence_score": 0.85,
+      "data_completeness_score": 0.8,
+      "notes": "3,500 slots per year nationally. MP students can apply. Coaching at empanelled institutes across India. Stipend ₹3,000/month for those not in government hostel."
+    },
+    {
+      "scheme_id": "CENTRAL-NSP-014",
+      "scheme_name": "Merit-cum-Means Scholarship for Professional and Technical Courses – Minority (MCM)",
+      "alternate_names": [
+        "MCM Scholarship Minorities",
+        "Minority Merit Cum Means Scholarship"
+      ],
+      "category": "CENTRAL",
+      "state": "ALL_INDIA (MP students eligible)",
+      "implementing_authority": "Ministry of Minority Affairs, Government of India",
+      "department": "Ministry of Minority Affairs",
+      "official_website": "https://scholarships.gov.in",
+      "scheme_status": "ACTIVE",
+      "education_coverage": {
+        "education_level": [
+          "UNDERGRADUATE",
+          "PROFESSIONAL",
+          "POSTGRADUATE"
+        ],
+        "eligible_courses": [
+          "Technical and professional courses (B.Tech, MBBS, BDS, B.Arch, BPharma, MBA, MCA, etc.)"
+        ],
+        "eligible_institutions": "AICTE/MCI/UGC/statutory body approved institutions"
+      },
+      "benefit_details": {
+        "monetary": {
+          "scholarship_amount_description": "Course fee up to ₹20,000/year + living expenses ₹10,000/year = ₹30,000/year for hostellers. Day scholars: ₹5,000/year living expenses.",
+          "annual_amount": 30000,
+          "monthly_amount": null,
+          "tuition_coverage": true,
+          "hostel_coverage": true
+        }
+      },
+      "eligibility": {
+        "demographic": {
+          "gender": "ALL",
+          "state_requirement": "Resident of any state (MP students eligible)"
+        },
+        "economic": {
+          "income_threshold": 250000,
+          "family_income_limit": "Annual family income ≤ ₹2,50,000"
+        },
+        "social_category": {
+          "minority": true,
+          "note": "Muslim, Christian, Sikh, Buddhist, Zoroastrian, Jain communities"
+        },
+        "academic": {
+          "minimum_percentage": "50% marks in Class 12; admitted to professional/technical UG/PG course"
+        }
+      },
+      "application_details": {
+        "application_mode": "ONLINE via NSP",
+        "application_portal": "https://scholarships.gov.in",
+        "application_frequency": "ANNUAL",
+        "renewal_required": true,
+        "documents_required": [
+          "OTR",
+          "Aadhaar Card",
+          "Minority Certificate",
+          "Income Certificate",
+          "Class 12 Marksheet",
+          "Admission Proof",
+          "Bank Account Details"
+        ],
+        "aadhaar_required": true,
+        "income_certificate_required": true,
+        "caste_certificate_required": false
+      },
+      "benefit_delivery": {
+        "direct_benefit_transfer": true
+      },
+      "source_documents": [
+        {
+          "source_type": "OFFICIAL_PORTAL",
+          "url": "https://scholarships.gov.in"
+        }
+      ],
+      "last_verified": "2026-06-07",
+      "confidence_score": 0.85,
+      "data_completeness_score": 0.8
+    }
+  ],
+  "institutions": [
+    {
+      "institution_id": "INST-001",
+      "institution_name": "Jawahar Navodaya Vidyalayas (JNVs) — Madhya Pradesh",
+      "institution_type": "CENTRAL_GOVT_RESIDENTIAL",
+      "governing_body": "Navodaya Vidyalaya Samiti (NVS), Ministry of Education, Government of India",
+      "state": "Madhya Pradesh",
+      "district": "ALL (54 JNVs across 52 districts of MP; Ratlam has 2 JNVs as special case)",
+      "number_of_schools_in_mp": 54,
+      "official_website": "https://navodaya.gov.in",
+      "residential": true,
+      "non_residential": false,
+      "co_educational": true,
+      "fee_structure": {
+        "tuition_fee": "FREE (no tuition fee)",
+        "miscellaneous_fee": "Boys in Classes 9-12: ₹600/month; Girls, SC, ST students: FULLY FREE; BPL families: FREE",
+        "uniform_fee": "FREE",
+        "books_fee": "FREE",
+        "hostel_fee": "FREE (residential facility)",
+        "meals_fee": "FREE (meals provided)"
+      },
+      "scholarship_availability": true,
+      "scholarship_details": "Free education IS the benefit; students also eligible for NMMS, INSPIRE, and other merit scholarships separately",
+      "reservation_categories": {
+        "sc": "15% reservation",
+        "st": "7.5% reservation",
+        "obc": null,
+        "girls": "Minimum 1/3 seats for girls",
+        "rural": "75% seats for rural students (from rural primary schools)",
+        "other": "VH/HH/OH: at least one seat per category per school"
+      },
+      "admission_method": "JNVST (Jawahar Navodaya Vidyalaya Selection Test)",
+      "entrance_exam": "JNVST for Class 6 (primary admission); lateral entry for Class 9 and 11",
+      "admission_class": "Class 6 (primary); also Class 9 and 11 lateral entry",
+      "facilities": {
+        "hostel_availability": true,
+        "meals_provided": true,
+        "books_provided": true,
+        "uniform_provided": true,
+        "transport_provided": false,
+        "library": true,
+        "computer_lab": true,
+        "science_lab": true
+      },
+      "curriculum": "CBSE",
+      "classes_offered": "Class 6 to 12",
+      "eligibility_criteria": "Students from rural areas studying in Class 5 (government/government-aided schools); age 9-13 years for Class 6 admission; specific district quota (only 1 JNV per district, students must be from that district's rural schools)",
+      "key_facts": [
+        "MP has 54 JNVs – one of the highest numbers in India",
+        "All JNVs under Bhopal Region of NVS",
+        "Schools spread across all 52 districts (Ratlam has 2 JNVs)",
+        "Fully residential; students live on campus",
+        "Transfer facility available between JNVs for Class 9 (cultural exchange)",
+        "Quality education with science labs, libraries, computer centers"
+      ],
+      "source_documents": [
+        {
+          "source_type": "OFFICIAL_PORTAL",
+          "url": "https://navodaya.gov.in"
+        },
+        {
+          "source_type": "VERIFIED_AGGREGATOR",
+          "url": "https://testbook.com/navodaya-vidyalaya-samiti/school-list"
+        },
+        {
+          "source_type": "VERIFIED_AGGREGATOR",
+          "url": "https://grokipedia.com/page/List_of_Jawahar_Navodaya_Vidyalayas"
+        }
+      ],
+      "last_verified": "2026-06-07",
+      "confidence_score": 0.95
+    },
+    {
+      "institution_id": "INST-002",
+      "institution_name": "Eklavya Model Residential Schools (EMRS) — Madhya Pradesh",
+      "institution_type": "CENTRAL_GOVT_TRIBAL_RESIDENTIAL",
+      "governing_body": "National Education Society for Tribal Students (NESTS), Ministry of Tribal Affairs, Government of India",
+      "state": "Madhya Pradesh",
+      "district": "Tribal-dominated blocks/sub-districts with >50% ST population and >20,000 tribal persons",
+      "official_website": "https://emrs.tribal.gov.in / https://nests.tribal.gov.in",
+      "residential": true,
+      "non_residential": false,
+      "co_educational": true,
+      "fee_structure": {
+        "tuition_fee": "FREE",
+        "miscellaneous_fee": "FREE",
+        "uniform_fee": "FREE",
+        "books_fee": "FREE",
+        "hostel_fee": "FREE",
+        "meals_fee": "FREE (all basic amenities provided)"
+      },
+      "scholarship_availability": true,
+      "scholarship_details": "Free residential education; additional coaching for IIT-JEE and NEET (partner: PACE IIT & Medical); skill labs available",
+      "reservation_categories": {
+        "st": "Primary focus; 90% ST students",
+        "other": "Up to 10% non-ST students may be admitted"
+      },
+      "admission_method": "EMRS Selection Test (EMRSST) for Class 6; Lateral Entry Test (EMRSLT) for Class 7 and Class 11",
+      "entrance_exam": "EMRSST (Class 6 entry); EMRSLT (Class 7 and 11 lateral)",
+      "admission_class": "Class 6 (primary); Class 7 and Class 11 (lateral entry)",
+      "facilities": {
+        "hostel_availability": true,
+        "meals_provided": true,
+        "books_provided": true,
+        "uniform_provided": true,
+        "transport_provided": false,
+        "library": true,
+        "computer_lab": true,
+        "science_lab": true,
+        "skill_lab": true,
+        "sports": true
+      },
+      "curriculum": "CBSE",
+      "classes_offered": "Class 6 to 12",
+      "capacity_per_school": 480,
+      "eligibility_criteria": "Scheduled Tribe (ST) students from tribal-dominated blocks/districts; age 10-12 years for Class 6 admission; resident of the same block/district as the EMRS",
+      "key_facts": [
+        "Madhya Pradesh is among the top states by number of EMRS schools (exact MP count: ~89+ functional, including upgraded Article 275(1) schools)",
+        "Modeled on Navodaya Vidyalayas but with tribal cultural focus",
+        "Infrastructure: labs, hostels, staff quarters, playgrounds, cultural spaces",
+        "Special coaching for IIT-JEE and NEET (partnership with PACE-IIT & Medical)",
+        "Skill Labs in 400 labs across 200 EMRSs nationally",
+        "DTH channel by NCERT for remote learning",
+        "Regional language teachers for tribal cultural preservation",
+        "Sports Center of Excellence (CoE) for tribal sports talent"
+      ],
+      "source_documents": [
+        {
+          "source_type": "OFFICIAL_PORTAL",
+          "url": "https://nests.tribal.gov.in"
+        },
+        {
+          "source_type": "OFFICIAL_PORTAL",
+          "url": "https://tribal.nic.in/EMRS.aspx"
+        },
+        {
+          "source_type": "OFFICIAL_LIST",
+          "url": "https://tribal.nic.in/downloads/EMRS/ListofEMRSSchoolsinIndia31102025.pdf"
+        }
+      ],
+      "last_verified": "2026-06-07",
+      "confidence_score": 0.92
+    },
+    {
+      "institution_id": "INST-003",
+      "institution_name": "Kasturba Gandhi Balika Vidyalayas (KGBVs) — Madhya Pradesh",
+      "institution_type": "CENTRAL_STATE_GIRLS_RESIDENTIAL",
+      "governing_body": "Samagra Shiksha, Ministry of Education / State Education Department, Madhya Pradesh",
+      "state": "Madhya Pradesh",
+      "district": "Educationally Backward Blocks (EBBs) across MP",
+      "official_website": "https://samagra.education.gov.in/kgbv.html",
+      "residential": true,
+      "non_residential": false,
+      "co_educational": false,
+      "fee_structure": {
+        "tuition_fee": "FREE",
+        "miscellaneous_fee": "FREE",
+        "uniform_fee": "FREE",
+        "books_fee": "FREE",
+        "hostel_fee": "FREE",
+        "meals_fee": "FREE"
+      },
+      "scholarship_availability": true,
+      "scholarship_details": "Fully residential free education; part of Samagra Shiksha scheme",
+      "reservation_categories": {
+        "sc": "Minimum 75% combined (SC + ST + OBC + Minority)",
+        "st": "Part of 75% combined",
+        "obc": "Part of 75% combined",
+        "minority": "Part of 75% combined",
+        "bpl": "25% for BPL families",
+        "other": "Girls aged 10-18 years from disadvantaged groups"
+      },
+      "admission_method": "Apply at nearest KGBV or district education office",
+      "entrance_exam": "No competitive exam; admission based on eligibility",
+      "admission_class": "Class 6 to 12 (Type-I: Class 6-8; upgraded Type-IV: up to Class 12)",
+      "facilities": {
+        "hostel_availability": true,
+        "meals_provided": true,
+        "books_provided": true,
+        "uniform_provided": true,
+        "transport_provided": false
+      },
+      "curriculum": "State Board (MPBSE)",
+      "classes_offered": "Class 6 to 12 (expanded under Samagra Shiksha)",
+      "eligibility_criteria": "Girls aged 10-18 years from SC, ST, OBC, Minority, or BPL families in Educationally Backward Blocks; girls who dropped out or never enrolled",
+      "key_facts": [
+        "KGBV scheme launched August 2004 for disadvantaged girls in educationally backward areas",
+        "Under Samagra Shiksha (2018+), KGBVs expanded to senior secondary (Class 12) in convergence with Girls Hostel scheme",
+        "Madhya Pradesh had 746 KGBVs established in 2004-05",
+        "Priority to out-of-school and never-enrolled girls",
+        "CCTV, biometric face reader, boundary walls for safety",
+        "Women home guards/PRD personnel for security"
+      ],
+      "source_documents": [
+        {
+          "source_type": "OFFICIAL_PORTAL",
+          "url": "https://samagra.education.gov.in/kgbv.html"
+        },
+        {
+          "source_type": "VERIFIED_AGGREGATOR",
+          "url": "https://vajiramandravi.com/current-affairs/kasturba-gandhi-balika-vidyalayas-kgbv/"
+        },
+        {
+          "source_type": "VERIFIED_AGGREGATOR",
+          "url": "https://en.wikipedia.org/wiki/Kasturba_Gandhi_Balika_Vidyalaya"
+        }
+      ],
+      "last_verified": "2026-06-07",
+      "confidence_score": 0.9
+    },
+    {
+      "institution_id": "INST-004",
+      "institution_name": "Kendriya Vidyalayas (KVs) — Madhya Pradesh",
+      "institution_type": "CENTRAL_GOVT",
+      "governing_body": "Kendriya Vidyalaya Sangathan (KVS), Ministry of Education, Government of India",
+      "state": "Madhya Pradesh",
+      "district": "Multiple districts (Bhopal - 2 KVs, Chhindwara - 1 KV, Bhind - 1 KV, and more across MP)",
+      "official_website": "https://kvsangathan.nic.in",
+      "residential": false,
+      "non_residential": true,
+      "co_educational": true,
+      "fee_structure": {
+        "tuition_fee": "Very low (₹200-400/month for Classes 1-12; free for SC/ST/BPL/girls up to Class 12)",
+        "notes": "SC, ST students: free education. Girls: free up to Class 12. Admission fee: nominal. VVN (Vidyalaya Vikas Nidhi): ₹500/year approximately."
+      },
+      "scholarship_availability": true,
+      "scholarship_details": "Students eligible for NMMS, INSPIRE, CSS, and other national scholarships",
+      "reservation_categories": {
+        "sc": "15% in RTE category",
+        "st": "7.5% in RTE category",
+        "obc": "27% in OBC category",
+        "ews_bpl": "25% under RTE Act (EWS/DG)",
+        "other": "Sponsoring authority employees get priority"
+      },
+      "admission_method": "Online admission (kvsonlineadmission.kvs.gov.in); lottery-based for surplus applications",
+      "entrance_exam": "No entrance exam; lottery system",
+      "admission_class": "Class 1 (primary); Class 11 (merit-based)",
+      "facilities": {
+        "hostel_availability": false,
+        "meals_provided": false,
+        "books_provided": false,
+        "uniform_provided": false,
+        "transport_provided": false,
+        "library": true,
+        "computer_lab": true,
+        "science_lab": true
+      },
+      "curriculum": "CBSE",
+      "classes_offered": "Class 1 to 12",
+      "eligibility_criteria": "Priority to central government employees' children; RTE quota for EWS/SC/ST; general admission on first-come-first-served/lottery basis",
+      "key_facts": [
+        "Free education for SC, ST, and girls students up to Class 12",
+        "Very low fees for others (₹200-400/month)",
+        "CBSE curriculum; high academic standards",
+        "Present in all major cities/districts of MP",
+        "Online admission process at kvsonlineadmission.kvs.gov.in"
+      ],
+      "source_documents": [
+        {
+          "source_type": "OFFICIAL_PORTAL",
+          "url": "https://kvsangathan.nic.in"
+        },
+        {
+          "source_type": "REFERENCE_PDF",
+          "url": "https://aim.gov.in/list-484-atal-school.pdf"
+        }
+      ],
+      "last_verified": "2026-06-07",
+      "confidence_score": 0.9
+    },
+    {
+      "institution_id": "INST-005",
+      "institution_name": "Government Excellence Higher Secondary Schools (Govt. Excellence Schools) — Madhya Pradesh",
+      "institution_type": "STATE_GOVT",
+      "governing_body": "School Education Department, Government of Madhya Pradesh",
+      "state": "Madhya Pradesh",
+      "district": "Present in all 52 districts (1 per district typically; major cities may have more)",
+      "official_website": "https://shikshaportal.mp.gov.in",
+      "residential": false,
+      "non_residential": true,
+      "co_educational": true,
+      "fee_structure": {
+        "tuition_fee": "FREE or very nominal",
+        "miscellaneous_fee": "Nominal",
+        "notes": "Government schools; no tuition fee; some nominal charges for activities"
+      },
+      "scholarship_availability": true,
+      "scholarship_details": "Students eligible for all state and central scholarships including MMVY, NMMS, CSS, etc.",
+      "reservation_categories": {
+        "sc": "15%",
+        "st": "21% (MP tribal population)",
+        "obc": "27%",
+        "ews": "10%"
+      },
+      "admission_method": "Admission test or merit-based; varies by school",
+      "entrance_exam": "Some schools have merit-based entry for Classes 9 and 11",
+      "admission_class": "Class 6, 9, and 11",
+      "facilities": {
+        "hostel_availability": false,
+        "meals_provided": false,
+        "books_provided": true,
+        "uniform_provided": true,
+        "transport_provided": false,
+        "library": true,
+        "computer_lab": true
+      },
+      "curriculum": "MPBSE (Madhya Pradesh Board of Secondary Education)",
+      "classes_offered": "Class 6/9 to 12 (varies)",
+      "key_facts": [
+        "High-quality government schools with focus on excellence",
+        "Students from these schools often eligible for laptop scheme (85%+ marks in MPBSE)",
+        "No tuition fee; books and uniforms provided in many cases",
+        "Part of PM SHRI scheme upgradation in some districts"
+      ],
+      "source_documents": [
+        {
+          "source_type": "OFFICIAL_PORTAL",
+          "url": "https://shikshaportal.mp.gov.in"
+        },
+        {
+          "source_type": "REFERENCE_PDF",
+          "url": "https://aim.gov.in/list-484-atal-school.pdf"
+        }
+      ],
+      "last_verified": "2026-06-07",
+      "confidence_score": 0.82
+    },
+    {
+      "institution_id": "INST-006",
+      "institution_name": "Sainik School Rewa — Madhya Pradesh",
+      "institution_type": "CENTRAL_STATE_RESIDENTIAL",
+      "governing_body": "Sainik Schools Society, Ministry of Defence, Government of India",
+      "state": "Madhya Pradesh",
+      "district": "Rewa",
+      "official_website": "https://www.sainikschoolrewa.ac.in",
+      "residential": true,
+      "non_residential": false,
+      "co_educational": false,
+      "fee_structure": {
+        "tuition_fee": "Subsidized residential fee; varies by category",
+        "notes": "SC/ST students: heavily subsidized fees; all-India merit scholarships available; fees approximately ₹15,000-30,000/term (subject to change)"
+      },
+      "scholarship_availability": true,
+      "scholarship_details": "National scholarships; financial assistance for SC/ST students; merit-cum-means scholarships from Sainik Schools Society",
+      "reservation_categories": {
+        "sc": "15% reservation",
+        "st": "7.5% reservation",
+        "obc": "Provisions exist",
+        "defence": "25% for sons of defence/ex-service personnel"
+      },
+      "admission_method": "All India Sainik School Entrance Exam (AISSEE)",
+      "entrance_exam": "AISSEE (conducted by NTA)",
+      "admission_class": "Class 6 and Class 9",
+      "facilities": {
+        "hostel_availability": true,
+        "meals_provided": true,
+        "books_provided": true,
+        "uniform_provided": true,
+        "transport_provided": false,
+        "library": true,
+        "computer_lab": true,
+        "science_lab": true,
+        "sports": true,
+        "ncc": true
+      },
+      "curriculum": "CBSE",
+      "classes_offered": "Class 6 to 12",
+      "eligibility_criteria": "Boys only; age 10-12 for Class 6; 13-15 for Class 9; must qualify AISSEE; state quota: 15% seats for MP students",
+      "key_facts": [
+        "Prepares students for NDA and other defence services",
+        "Residential school with full facilities",
+        "SC/ST students get reduced fee",
+        "Located in Rewa, MP"
+      ],
+      "source_documents": [
+        {
+          "source_type": "OFFICIAL_PORTAL",
+          "url": "https://www.sainikschoolrewa.ac.in"
+        },
+        {
+          "source_type": "OFFICIAL_PORTAL",
+          "url": "https://aissee.nta.nic.in"
+        }
+      ],
+      "last_verified": "2026-06-07",
+      "confidence_score": 0.85
+    },
+    {
+      "institution_id": "INST-007",
+      "institution_name": "MP Tribal Ashram Schools (Ashramshala) — Madhya Pradesh",
+      "institution_type": "STATE_GOVT_TRIBAL_RESIDENTIAL",
+      "governing_body": "Tribal Welfare Department, Government of Madhya Pradesh",
+      "state": "Madhya Pradesh",
+      "district": "Tribal-dominated districts: Jhabua, Alirajpur, Barwani, Dindori, Mandla, Balaghat, Sheopur, Umaria, Anuppur, Seoni, Chhindwara and others",
+      "official_website": "https://www.tribal.mp.gov.in",
+      "residential": true,
+      "non_residential": false,
+      "co_educational": true,
+      "fee_structure": {
+        "tuition_fee": "FREE",
+        "miscellaneous_fee": "FREE",
+        "uniform_fee": "FREE",
+        "books_fee": "FREE",
+        "hostel_fee": "FREE",
+        "meals_fee": "FREE"
+      },
+      "scholarship_availability": true,
+      "scholarship_details": "Tribal welfare department scholarships; MPTAAS for post-matric students; additional stipends",
+      "reservation_categories": {
+        "st": "Primary focus for ST students from tribal areas"
+      },
+      "admission_method": "Admission through local tribal welfare department/collector office",
+      "entrance_exam": "No competitive exam",
+      "admission_class": "Class 1 to 10 (varies by school type)",
+      "facilities": {
+        "hostel_availability": true,
+        "meals_provided": true,
+        "books_provided": true,
+        "uniform_provided": true,
+        "transport_provided": false
+      },
+      "curriculum": "MPBSE",
+      "classes_offered": "Class 1 to 10 (some up to 12)",
+      "eligibility_criteria": "Scheduled Tribe (ST) students from tribal areas; resident of the relevant district/block",
+      "key_facts": [
+        "Hundreds of ashram schools across tribal districts of MP",
+        "Fully residential for ST students",
+        "Covers primary to secondary education",
+        "Managed by MP Tribal Welfare Department",
+        "Students eligible for MPTAAS after Class 10"
+      ],
+      "source_documents": [
+        {
+          "source_type": "OFFICIAL_PORTAL",
+          "url": "https://www.tribal.mp.gov.in"
+        }
+      ],
+      "last_verified": "2026-06-07",
+      "confidence_score": 0.8
+    },
+    {
+      "institution_id": "INST-008",
+      "institution_name": "Government ITI Colleges — Madhya Pradesh",
+      "institution_type": "STATE_GOVT_TECHNICAL",
+      "governing_body": "Directorate of Skill Development, Government of Madhya Pradesh",
+      "state": "Madhya Pradesh",
+      "district": "Present in all 52 districts",
+      "official_website": "https://www.mptesde.mp.gov.in",
+      "residential": false,
+      "non_residential": true,
+      "co_educational": true,
+      "fee_structure": {
+        "tuition_fee": "Very nominal (₹1,000-5,000/year for general; FREE or reduced for SC/ST)",
+        "notes": "SC/ST students often free; very low fee for OBC; nominal for general"
+      },
+      "scholarship_availability": true,
+      "scholarship_details": "MPTAAS scholarship for SC/ST students; MMJKY for Sambal card holders; Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
+      "reservation_categories": {
+        "sc": "15%",
+        "st": "21%",
+        "obc": "27%",
+        "ews": "10%"
+      },
+      "admission_method": "Online through MP ITI admission portal; merit-based (8th/10th pass marks)",
+      "entrance_exam": "No exam; merit-based admission",
+      "admission_class": "1-year and 2-year ITI trade programs",
+      "facilities": {
+        "hostel_availability": true,
+        "meals_provided": false,
+        "books_provided": false,
+        "uniform_provided": true,
+        "transport_provided": false
+      },
+      "curriculum": "NCVT / SCVT (State Council for Vocational Training)",
+      "classes_offered": "1-year and 2-year trade certificate programs",
+      "eligibility_criteria": "Passed Class 8 or Class 10 depending on trade; age 14-40 years",
+      "source_documents": [
+        {
+          "source_type": "OFFICIAL_PORTAL",
+          "url": "https://www.mptesde.mp.gov.in"
+        }
+      ],
+      "last_verified": "2026-06-07",
+      "confidence_score": 0.82
+    }
+  ],
+  "source_registry": [
+    {
+      "source_id": "SRC-001",
+      "source_name": "MP State Scholarship Portal 2.0",
+      "source_type": "OFFICIAL_PORTAL",
+      "url": "https://scholarshipportal.mp.nic.in",
+      "owner": "Government of Madhya Pradesh / NIC",
+      "coverage": "State scholarships for SC/ST/OBC/General/Girls/Minority students",
+      "schemes_covered": [
+        "MP-STATE-001",
+        "MP-STATE-002",
+        "MP-STATE-003",
+        "MP-STATE-004",
+        "MP-STATE-005",
+        "MP-STATE-006",
+        "MP-STATE-007",
+        "MP-STATE-008",
+        "MP-STATE-009"
+      ],
+      "access_status": "Robots-restricted for automated access; use manually",
+      "last_checked": "2026-06-07"
+    },
+    {
+      "source_id": "SRC-002",
+      "source_name": "MPTAAS Portal (Tribal Welfare Department MP)",
+      "source_type": "OFFICIAL_PORTAL",
+      "url": "https://www.tribal.mp.gov.in/MPTAAS",
+      "owner": "Tribal Welfare Department, Government of Madhya Pradesh",
+      "coverage": "Post-matric scholarships for SC/ST/OBC; upgraded to MPTAAS 2.0 July 2025",
+      "schemes_covered": [
+        "MP-STATE-004",
+        "MP-STATE-009"
+      ],
+      "last_checked": "2026-06-07"
+    },
+    {
+      "source_id": "SRC-003",
+      "source_name": "MP Higher Education Scholarship Portal",
+      "source_type": "OFFICIAL_PORTAL",
+      "url": "https://hescholarship.mp.gov.in",
+      "owner": "Higher Education Department, Government of Madhya Pradesh",
+      "coverage": "Higher education scholarships for SC/ST/OBC/Minority/Girls",
+      "schemes_covered": [
+        "MP-STATE-003",
+        "MP-STATE-004",
+        "MP-STATE-005",
+        "MP-STATE-006",
+        "MP-STATE-007",
+        "MP-STATE-008"
+      ],
+      "access_status": "Robots-restricted for automated access; use manually",
+      "last_checked": "2026-06-07"
+    },
+    {
+      "source_id": "SRC-004",
+      "source_name": "National Scholarship Portal (NSP)",
+      "source_type": "OFFICIAL_PORTAL",
+      "url": "https://scholarships.gov.in",
+      "owner": "Ministry of Electronics and Information Technology / NIC, Government of India",
+      "coverage": "All central government scholarships; pre-matric and post-matric for SC/ST/OBC/Minority/PwD; NMMS; CSSS",
+      "schemes_covered": [
+        "CENTRAL-NSP-001",
+        "CENTRAL-NSP-002",
+        "CENTRAL-NSP-003",
+        "CENTRAL-NSP-004",
+        "CENTRAL-NSP-005",
+        "CENTRAL-NSP-006",
+        "CENTRAL-NSP-007",
+        "CENTRAL-NSP-008",
+        "CENTRAL-NSP-009",
+        "CENTRAL-NSP-010",
+        "CENTRAL-NSP-011",
+        "CENTRAL-NSP-012"
+      ],
+      "last_checked": "2026-06-07"
+    },
+    {
+      "source_id": "SRC-005",
+      "source_name": "MP Shiksha Portal (School Education)",
+      "source_type": "OFFICIAL_PORTAL",
+      "url": "https://shikshaportal.mp.gov.in",
+      "owner": "School Education Department, Government of Madhya Pradesh",
+      "coverage": "Laptop Yojana, school schemes, student benefits",
+      "schemes_covered": [
+        "MP-STATE-011"
+      ],
+      "last_checked": "2026-06-07"
+    },
+    {
+      "source_id": "SRC-006",
+      "source_name": "Department of Technical Education, Skill Development & Employment MP",
+      "source_type": "OFFICIAL_DEPT",
+      "url": "https://www.mptesde.mp.gov.in",
+      "owner": "Government of Madhya Pradesh",
+      "coverage": "MMVY, MMJKY schemes; technical education scholarships",
+      "schemes_covered": [
+        "MP-STATE-001",
+        "MP-STATE-002"
+      ],
+      "last_checked": "2026-06-07"
+    },
+    {
+      "source_id": "SRC-007",
+      "source_name": "AICTE Pragati Scholarship Portal",
+      "source_type": "OFFICIAL_PORTAL",
+      "url": "https://www.aicte-india.org/schemes/students-development-schemes/Pragati",
+      "owner": "All India Council for Technical Education (AICTE), Government of India",
+      "coverage": "Pragati and Saksham scholarships for girls and PwD in technical education",
+      "schemes_covered": [
+        "CENTRAL-AICTE-001",
+        "CENTRAL-AICTE-002"
+      ],
+      "last_checked": "2026-06-07"
+    },
+    {
+      "source_id": "SRC-008",
+      "source_name": "INSPIRE Programme Portal (DST)",
+      "source_type": "OFFICIAL_PORTAL",
+      "url": "https://online-inspire.gov.in",
+      "owner": "Department of Science and Technology (DST), Government of India",
+      "coverage": "INSPIRE Scholarship for Higher Education (SHE); INSPIRE Fellowship",
+      "schemes_covered": [
+        "CENTRAL-DST-001"
+      ],
+      "last_checked": "2026-06-07"
+    },
+    {
+      "source_id": "SRC-009",
+      "source_name": "Navodaya Vidyalaya Samiti",
+      "source_type": "OFFICIAL_PORTAL",
+      "url": "https://navodaya.gov.in",
+      "owner": "NVS, Ministry of Education, Government of India",
+      "coverage": "Jawahar Navodaya Vidyalayas; free residential education Class 6-12",
+      "schemes_covered": [],
+      "institutions_covered": [
+        "INST-001"
+      ],
+      "last_checked": "2026-06-07"
+    },
+    {
+      "source_id": "SRC-010",
+      "source_name": "NESTS (National Education Society for Tribal Students)",
+      "source_type": "OFFICIAL_PORTAL",
+      "url": "https://nests.tribal.gov.in",
+      "owner": "Ministry of Tribal Affairs, Government of India",
+      "coverage": "Eklavya Model Residential Schools (EMRS)",
+      "institutions_covered": [
+        "INST-002"
+      ],
+      "last_checked": "2026-06-07"
+    },
+    {
+      "source_id": "SRC-011",
+      "source_name": "Samagra Shiksha (KGBV)",
+      "source_type": "OFFICIAL_PORTAL",
+      "url": "https://samagra.education.gov.in/kgbv.html",
+      "owner": "Ministry of Education, Government of India",
+      "coverage": "Kasturba Gandhi Balika Vidyalayas",
+      "institutions_covered": [
+        "INST-003"
+      ],
+      "last_checked": "2026-06-07"
+    },
+    {
+      "source_id": "SRC-012",
+      "source_name": "IIIT Bhopal Scholarship Reference Document",
+      "source_type": "PDF_REFERENCE",
+      "url": "https://iiitbhopal.ac.in/Document/Academic/Affiliated%20Scholarship%20Schemes%20at%20IIIT%20Bhopal.pdf",
+      "owner": "IIIT Bhopal (Government Institution)",
+      "coverage": "Comprehensive list of MP state and central scholarships with eligibility",
+      "schemes_covered": [
+        "MP-STATE-003",
+        "MP-STATE-004",
+        "MP-STATE-005",
+        "MP-STATE-006",
+        "MP-STATE-007",
+        "MP-STATE-008",
+        "MP-STATE-009",
+        "MP-STATE-010"
+      ],
+      "last_checked": "2026-06-07"
+    }
+  ]
+}

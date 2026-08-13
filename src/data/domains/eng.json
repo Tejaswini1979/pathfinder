@@ -1,0 +1,951 @@
+{
+  "id": "eng",
+  "title": "Engineering & Technology",
+  "tagline": "From CSE to Marine to Petroleum to Robotics — the broadest engineering landscape, with major specialisations far beyond the famous four branches.",
+  "color": "#3a5a7a",
+  "overview": "Engineering remains the largest post-12th funnel in India, absorbing nearly 1.5M+ students annually across 6,000+ institutes. The 2026 reality is bifurcated: CS/IT and Electronics dominate placements and brand prestige (IIT/NIT/IIIT median packages 15-30 LPA), while core branches (Civil, Mech, Chemical, Metallurgy) offer steadier, less hype-driven careers and are increasingly underrated. Niche fields like Marine, Petroleum, Naval Architecture, Mining, and Aerospace pay extraordinarily well but have narrow recruiter pools and demanding work environments. The single biggest mistake students make is treating CS as the only worthwhile branch — many core engineering roles in PSUs, oil/gas, and defence pay 15-25 LPA+ without coding pressure.",
+  "key_insights": [
+    "Marine Engineering pays 1.5-2 lakh/month within 1-2 years of graduation but only ~3,000 students enter it nationally per year — vastly under-applied vs CS.",
+    "PSU recruitment via GATE (ONGC, IOCL, NTPC, BHEL, GAIL) gives core-branch B.Techs 12-18 LPA starting packages with central govt job security — better than tier-1 TCS placement.",
+    "Petroleum, Mining, and Metallurgy have the highest core-branch salaries in India but suffer 'image problem' from urban students; placement rates at IIT-ISM Dhanbad are 90%+ for these branches.",
+    "Naval Architecture is the only engineering branch in India where the supply of qualified graduates is genuinely below industry demand — IIT Madras/IMU graduates routinely get multiple offers.",
+    "Genetic, Biomedical, and Mechatronics engineering have interesting career arcs but weak undergrad placement in India; treat them as pre-MS pathways, not direct-to-job degrees."
+  ],
+  "sub_paths": [
+    {
+      "id": "ENG-01",
+      "name": "Computer Science Engineering (CSE)",
+      "description": "Software development, AI/ML, systems, web/mobile, data engineering — India's most-demanded branch with deepest hiring funnel.",
+      "streams": [
+        "Maths"
+      ],
+      "min_12th_percent": "75% for IITs/NITs (JEE-based, board cutoff applies); 60% for most private colleges",
+      "entry_route": "Degree",
+      "qualification": "B.Tech / B.E. CSE",
+      "duration": [
+        "4 years"
+      ],
+      "entrance_exam": "JEE Main, JEE Advanced (IITs), state CETs, BITSAT, VITEEE, COMEDK",
+      "govt_fees": "IITs 8-13 lakh total; NITs 5-8 lakh total; IIITs 10-15 lakh total",
+      "private_fees": "4 lakh (tier-3) to 25 lakh (BITS, VIT, SRM, Manipal, Ashoka)",
+      "top_institutions": [
+        "IIT Bombay (govt)",
+        "IIT Delhi (govt)",
+        "IIT Madras (govt)",
+        "IIIT Hyderabad (semi-govt)",
+        "BITS Pilani (private)",
+        "NIT Trichy (govt)"
+      ],
+      "scholarships": [
+        "INSPIRE",
+        "Merit-cum-Means (IITs)",
+        "Reliance Foundation UG",
+        "Tata Trusts",
+        "AICTE Pragati/Saksham"
+      ],
+      "abroad_pathways": "MS in CS — USA (CMU, Stanford, GaTech 40-80 lakh), Canada (Waterloo, UBC 25-40 lakh), Germany (TUM, RWTH 5-15 lakh public unis), Singapore (NUS, NTU 25-40 lakh)",
+      "day_in_life": "Coding, code reviews, sprint planning, on-call rotations; product or platform teams; remote/hybrid common; 9-10 hr days at startups, 8-9 at MNCs.",
+      "growth_path": "SDE-1 to SDE-2 to Senior to Staff to Principal; or IC to EM to Director. Pivot to PM, founding engineer, or MS abroad common.",
+      "underrated": false,
+      "low_budget": false,
+      "low_percent": false,
+      "salary_bands": "Fresher: 6-30 LPA / Mid (4-7 yr): 15-50 LPA / Senior (10+ yr): 40-150+ LPA. Note: Tier-1 IIT CS medians 25-30L; tier-2/3 college median 4-7L. Source: AmbitionBox, IIT placement reports 2024-25.",
+      "confidence": "high",
+      "domainId": "eng",
+      "domainTitle": "Engineering & Technology",
+      "streamIds": [
+        "maths"
+      ]
+    },
+    {
+      "id": "ENG-02",
+      "name": "Electronics & Communication Engineering (ECE)",
+      "description": "Semiconductors, VLSI, embedded systems, telecom, signal processing — core electronics with strong VLSI revival in India.",
+      "streams": [
+        "Maths"
+      ],
+      "min_12th_percent": "75% for IITs/NITs; 60% private",
+      "entry_route": "Degree",
+      "qualification": "B.Tech ECE",
+      "duration": [
+        "4 years"
+      ],
+      "entrance_exam": "JEE Main/Advanced, state CETs, BITSAT",
+      "govt_fees": "IITs 8-13 lakh; NITs 5-8 lakh",
+      "private_fees": "4-22 lakh",
+      "top_institutions": [
+        "IIT Madras (govt)",
+        "IIT Delhi (govt)",
+        "IIT Kanpur (govt)",
+        "NIT Trichy (govt)",
+        "BITS Pilani (private)",
+        "DTU Delhi (govt)"
+      ],
+      "scholarships": [
+        "MCM IIT",
+        "INSPIRE",
+        "Qualcomm Innovation",
+        "Texas Instruments India"
+      ],
+      "abroad_pathways": "MS in ECE/EE/VLSI — USA (UIUC, Purdue, Stanford 40-70 lakh), Germany (TUM 3-10 lakh), Singapore NUS 25-40 lakh. Strong demand for VLSI grads in Taiwan and US.",
+      "day_in_life": "PCB design, simulation work (Cadence, Synopsys), chip-level coding for VLSI, lab time on hardware. Slower iteration than software.",
+      "growth_path": "Design Engineer to Senior to Lead to Architect; India Semiconductor Mission creating ~85K new jobs by 2026-30.",
+      "underrated": false,
+      "low_budget": false,
+      "low_percent": false,
+      "salary_bands": "Fresher: 4-18 LPA / Mid: 12-35 LPA / Senior: 30-80 LPA. Note: VLSI/chip design at Qualcomm, Intel, NVIDIA pays at higher end; embedded firmware lower. Source: Glassdoor India, AmbitionBox.",
+      "confidence": "high",
+      "domainId": "eng",
+      "domainTitle": "Engineering & Technology",
+      "streamIds": [
+        "maths"
+      ]
+    },
+    {
+      "id": "ENG-03",
+      "name": "Mechanical Engineering",
+      "description": "Design, manufacturing, thermal, automotive, robotics, aerospace adjacency — the broadest core branch with widest exit options.",
+      "streams": [
+        "Maths"
+      ],
+      "min_12th_percent": "75% IIT/NIT; 50-60% private",
+      "entry_route": "Degree",
+      "qualification": "B.Tech Mechanical",
+      "duration": [
+        "4 years"
+      ],
+      "entrance_exam": "JEE Main/Advanced, state CETs",
+      "govt_fees": "IITs 8-13 lakh; NITs 5-8 lakh; state govt 1-3 lakh",
+      "private_fees": "3-15 lakh",
+      "top_institutions": [
+        "IIT Bombay (govt)",
+        "IIT Madras (govt)",
+        "IIT Kanpur (govt)",
+        "NIT Trichy (govt)",
+        "VJTI Mumbai (govt)",
+        "BITS Pilani (private)"
+      ],
+      "scholarships": [
+        "MCM IIT",
+        "INSPIRE",
+        "L&T Build India",
+        "Tata Steel scholars"
+      ],
+      "abroad_pathways": "MS — USA (Michigan, Purdue 40-60 lakh), Germany (TUM, KIT 3-8 lakh public), Canada (Waterloo, UofT 20-35 lakh). Strong manufacturing/auto pathway in Germany.",
+      "day_in_life": "CAD/CAE work (SolidWorks, ANSYS), shopfloor visits, design reviews, vendor coordination. PSU roles structured 9-5; private auto/manufacturing 9-10 hr.",
+      "growth_path": "Design/Production Engineer to Senior to Manager to Plant Head/CTO. PSU growth via GATE-based recruitment slow but steady.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": false,
+      "salary_bands": "Fresher: 3.5-15 LPA / Mid: 10-25 LPA / Senior: 25-60 LPA. Note: PSU (ONGC, BHEL) 12-15L start via GATE; private core 3-6L; IIT placements 15-25L. Source: AmbitionBox, PSU notifications.",
+      "confidence": "high",
+      "domainId": "eng",
+      "domainTitle": "Engineering & Technology",
+      "streamIds": [
+        "maths"
+      ]
+    },
+    {
+      "id": "ENG-04",
+      "name": "Civil Engineering",
+      "description": "Structures, transportation, water resources, geotech, construction management — backbone of India's infrastructure push.",
+      "streams": [
+        "Maths"
+      ],
+      "min_12th_percent": "75% IIT/NIT; 50% private; many state colleges accept 50-55%",
+      "entry_route": "Degree",
+      "qualification": "B.Tech / B.E. Civil",
+      "duration": [
+        "4 years"
+      ],
+      "entrance_exam": "JEE Main/Advanced, state CETs",
+      "govt_fees": "IITs 8-13 lakh; NITs 5-8 lakh; state 1-3 lakh",
+      "private_fees": "3-12 lakh",
+      "top_institutions": [
+        "IIT Roorkee (govt)",
+        "IIT Madras (govt)",
+        "IIT Bombay (govt)",
+        "NIT Trichy (govt)",
+        "VJTI Mumbai (govt)",
+        "BITS Pilani (private)"
+      ],
+      "scholarships": [
+        "MCM IIT",
+        "L&T scholarship",
+        "ICI student awards",
+        "INSPIRE"
+      ],
+      "abroad_pathways": "MS — USA (Berkeley, UIUC, Texas 35-60 lakh), UK (Imperial, ICL 35-50 lakh), Australia (UNSW, Melbourne 30-50 lakh), Singapore NUS 25-40 lakh. Strong route to PE licensure abroad.",
+      "day_in_life": "Site visits, design office, AutoCAD/STAAD/Revit work, coordination with contractors and architects. Site engineers travel; design office is 9-6.",
+      "growth_path": "Site/Design Engineer to Project Engineer to PM to Senior PM/Director. PSU route via GATE (NTPC, IRCON, NHAI) gives 12-15L start. UPSC IES is a major exit.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 3-12 LPA / Mid: 8-20 LPA / Senior: 20-50 LPA. Note: Pvt construction 3-5L; PSU 12-15L; Gulf consulting 15-30L. Source: NCS, AmbitionBox.",
+      "confidence": "high",
+      "domainId": "eng",
+      "domainTitle": "Engineering & Technology",
+      "streamIds": [
+        "maths"
+      ]
+    },
+    {
+      "id": "ENG-05",
+      "name": "Electrical Engineering",
+      "description": "Power systems, electric machines, control, renewable energy, EVs — central to India's energy transition.",
+      "streams": [
+        "Maths"
+      ],
+      "min_12th_percent": "75% IIT/NIT; 50-60% private",
+      "entry_route": "Degree",
+      "qualification": "B.Tech / B.E. Electrical / EEE",
+      "duration": [
+        "4 years"
+      ],
+      "entrance_exam": "JEE Main/Advanced, state CETs",
+      "govt_fees": "IITs 8-13 lakh; NITs 5-8 lakh",
+      "private_fees": "3-15 lakh",
+      "top_institutions": [
+        "IIT Bombay (govt)",
+        "IIT Madras (govt)",
+        "IIT Delhi (govt)",
+        "IIT Kanpur (govt)",
+        "NIT Trichy (govt)",
+        "DTU Delhi (govt)"
+      ],
+      "scholarships": [
+        "MCM IIT",
+        "INSPIRE",
+        "GE Foundation",
+        "Power Grid scholarship"
+      ],
+      "abroad_pathways": "MS in EE/Power Systems — USA (Texas A&M, Georgia Tech 35-60 lakh), Germany (TUM 3-8 lakh), Canada (UofT, Waterloo 20-40 lakh). EV/battery research booming in EU.",
+      "day_in_life": "Mix of design, simulation (MATLAB, ETAP), substation/site work for power-sector roles. Software-heavy in EVs and grid analytics.",
+      "growth_path": "Engineer to Senior to Manager to DGM/CGM in PSUs. Strong UPSC IES, PSU GATE recruitment. EV startup boom creating new roles.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": false,
+      "salary_bands": "Fresher: 4-15 LPA / Mid: 10-25 LPA / Senior: 25-60 LPA. Note: PSU (Power Grid, NTPC) 12-16L start; EV startups 6-12L; IIT EE placements 15-25L. Source: PSU notifications, AmbitionBox.",
+      "confidence": "high",
+      "domainId": "eng",
+      "domainTitle": "Engineering & Technology",
+      "streamIds": [
+        "maths"
+      ]
+    },
+    {
+      "id": "ENG-06",
+      "name": "Petroleum Engineering",
+      "description": "Upstream oil and gas — drilling, reservoir, production engineering. Highest core-branch starting pay in India.",
+      "streams": [
+        "Maths"
+      ],
+      "min_12th_percent": "75% IIT/NIT; ~60% UPES, IIT-ISM",
+      "entry_route": "Degree",
+      "qualification": "B.Tech Petroleum Engineering",
+      "duration": [
+        "4 years"
+      ],
+      "entrance_exam": "JEE Main/Advanced; UPESEAT for UPES Dehradun",
+      "govt_fees": "IIT-ISM Dhanbad 9-10 lakh total; Pondicherry Univ 2-3 lakh",
+      "private_fees": "UPES Dehradun 13-17 lakh; PDPU Gandhinagar 10-14 lakh",
+      "top_institutions": [
+        "IIT-ISM Dhanbad (govt)",
+        "IIT Madras (govt)",
+        "PDPU Gandhinagar (semi-govt)",
+        "UPES Dehradun (private)",
+        "Anna University (govt)",
+        "Pondicherry University (govt)"
+      ],
+      "scholarships": [
+        "ONGC merit",
+        "Reliance Foundation",
+        "Schlumberger Faculty",
+        "IIT-ISM tuition waiver"
+      ],
+      "abroad_pathways": "MS — USA (Texas A&M, UT Austin, Colorado School of Mines 35-60 lakh), UK (Imperial, Heriot-Watt 35-50 lakh). Direct hiring by Saudi Aramco, ADNOC for top grads.",
+      "day_in_life": "Rig site rotations (2-on-2-off offshore), simulation/modelling in office (Petrel, Eclipse). Hard physical conditions early career.",
+      "growth_path": "Field Engineer to Reservoir/Drilling Engineer to Asset Manager to VP. ONGC/OIL via GATE; Schlumberger, Halliburton hire on campus.",
+      "underrated": true,
+      "low_budget": false,
+      "low_percent": false,
+      "salary_bands": "Fresher: 6-25 LPA / Mid: 20-60 LPA / Senior: 50 LPA-2 Cr. Note: ONGC 14-16L start; Schlumberger 15-25L start; Gulf packages much higher. Source: IIT-ISM placement reports, company disclosures.",
+      "confidence": "high",
+      "domainId": "eng",
+      "domainTitle": "Engineering & Technology",
+      "streamIds": [
+        "maths"
+      ]
+    },
+    {
+      "id": "ENG-07",
+      "name": "Marine Engineering",
+      "description": "Operating and maintaining ship engines, propulsion, electrical systems on cargo, tanker, container vessels.",
+      "streams": [
+        "Maths"
+      ],
+      "min_12th_percent": "60% in PCM and 50% in English",
+      "entry_route": "Degree (DGS-approved)",
+      "qualification": "B.Tech Marine Engineering + MEO Class 4 license",
+      "duration": [
+        "4 years + sea time"
+      ],
+      "entrance_exam": "IMU CET, JEE Main (some institutes), institute-specific tests",
+      "govt_fees": "IMU campuses (MERI Kolkata, Mumbai) 9-11 lakh total",
+      "private_fees": "Tolani Maritime, AMET 12-20 lakh total",
+      "top_institutions": [
+        "MERI Kolkata - IMU (govt)",
+        "MERI Mumbai - IMU (govt)",
+        "Tolani Maritime Institute Pune (private)",
+        "AMET University Chennai (private)",
+        "MANET Pune (private)",
+        "IMU Visakhapatnam (govt)"
+      ],
+      "scholarships": [
+        "IMU performance scholarship",
+        "Anglo-Eastern, Maersk cadet sponsorships",
+        "shipping company tied-up programs"
+      ],
+      "abroad_pathways": "Career itself is global — sail under any flag once licensed. Higher studies via MEO Class 1, Naval Arch MS at SMU Singapore, Newcastle UK, NTNU Norway.",
+      "day_in_life": "6-9 months at sea, 2-4 months leave; engine room watches 4 hrs on/8 off; remote internet, no family. Land-based shore jobs after 8-10 years.",
+      "growth_path": "Trainee Marine Engineer to 4th to 3rd to 2nd to Chief Engineer (15-25L/month at sea); or shift to shore management, marine consultancy.",
+      "underrated": true,
+      "low_budget": false,
+      "low_percent": true,
+      "salary_bands": "Fresher: 4-7 LPA (cadet stipend $300-1000/mo) / Mid: 15-40 LPA / Senior: 50-2 Cr (Chief Engineer). Note: salary tax-free for NRI seafarers (>183 days). Source: shipping industry data, IMU placement disclosures.",
+      "confidence": "high",
+      "domainId": "eng",
+      "domainTitle": "Engineering & Technology",
+      "streamIds": [
+        "maths"
+      ]
+    },
+    {
+      "id": "ENG-08",
+      "name": "Mining Engineering",
+      "description": "Underground and open-cast mineral extraction, mine planning, safety, mineral processing.",
+      "streams": [
+        "Maths"
+      ],
+      "min_12th_percent": "75% IIT/NIT; 60% NIT Surathkal, IIT-ISM",
+      "entry_route": "Degree",
+      "qualification": "B.Tech Mining Engineering",
+      "duration": [
+        "4 years"
+      ],
+      "entrance_exam": "JEE Main/Advanced",
+      "govt_fees": "IIT-ISM 9-10 lakh; NIT Raipur 5-7 lakh",
+      "private_fees": "Limited private offerings; 6-12 lakh if available",
+      "top_institutions": [
+        "IIT-ISM Dhanbad (govt)",
+        "IIT Kharagpur (govt)",
+        "IIT BHU (govt)",
+        "NIT Raipur (govt)",
+        "VNIT Nagpur (govt)",
+        "Anna University (govt)"
+      ],
+      "scholarships": [
+        "Coal India scholarship",
+        "MCM IIT",
+        "JSW Foundation",
+        "Vedanta cadet program"
+      ],
+      "abroad_pathways": "MS — Australia (UNSW, Curtin, Queensland 25-50 lakh) preferred for Australian mining careers. Canada (UBC, McGill 20-40 lakh). Strong post-MS jobs in Australia/Canada.",
+      "day_in_life": "Mine sites in remote locations (Jharkhand, Chhattisgarh, Odisha), shift work, safety rounds. Some office-based planning roles.",
+      "growth_path": "Junior Engineer to Asst Manager to Manager to GM. Coal India, NMDC, Vedanta, Hindustan Zinc are top employers. Mining first-class certificate of competency adds career value.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": false,
+      "salary_bands": "Fresher: 6-15 LPA / Mid: 15-30 LPA / Senior: 30-80 LPA. Note: Coal India 14-16L start via GATE; private mining higher. IIT-ISM Mining 100% placement at 15-20L median. Source: IIT-ISM 2024 placement report, PSU notifications.",
+      "confidence": "high",
+      "domainId": "eng",
+      "domainTitle": "Engineering & Technology",
+      "streamIds": [
+        "maths"
+      ]
+    },
+    {
+      "id": "ENG-09",
+      "name": "Aerospace / Aeronautical Engineering",
+      "description": "Design, analysis, manufacturing of aircraft, spacecraft, propulsion. India's space and defence aerospace sectors growing fast.",
+      "streams": [
+        "Maths"
+      ],
+      "min_12th_percent": "75% IIT/NIT; 60% private",
+      "entry_route": "Degree",
+      "qualification": "B.Tech Aerospace / Aeronautical",
+      "duration": [
+        "4 years"
+      ],
+      "entrance_exam": "JEE Main/Advanced",
+      "govt_fees": "IITs 8-13 lakh; MIT Manipal 15-18 lakh",
+      "private_fees": "10-22 lakh (HITS, SRM, Hindustan Univ)",
+      "top_institutions": [
+        "IIT Bombay (govt)",
+        "IIT Madras (govt)",
+        "IIT Kharagpur (govt)",
+        "IIST Trivandrum (govt)",
+        "MIT Manipal (private)",
+        "PEC Chandigarh (govt)"
+      ],
+      "scholarships": [
+        "IIST tuition free for top JEE Adv ranks",
+        "ISRO research fellowship",
+        "MCM IIT",
+        "GE Aviation scholarship"
+      ],
+      "abroad_pathways": "MS — USA (Georgia Tech, Michigan, Stanford 40-70 lakh), UK (Cranfield, Imperial 35-55 lakh), Germany (TUM, RWTH 3-10 lakh). Strong Boeing/Airbus/Lockheed pathways.",
+      "day_in_life": "Heavy CAD/CFD simulation work, wind tunnel tests, design reviews. ISRO/HAL roles structured govt; private (GE Aerospace, Honeywell India) more dynamic.",
+      "growth_path": "Design Engineer to Senior to Lead to Chief Engineer. ISRO (via ICRB, IIST direct intake), HAL, DRDO, Boeing India, Honeywell are top employers.",
+      "underrated": true,
+      "low_budget": false,
+      "low_percent": false,
+      "salary_bands": "Fresher: 5-15 LPA / Mid: 12-30 LPA / Senior: 30-80 LPA. Note: ISRO/HAL 12-15L; private aerospace MNCs 15-25L. IIST guarantees ISRO placement. Source: IIST/ISRO disclosures, AmbitionBox.",
+      "confidence": "high",
+      "domainId": "eng",
+      "domainTitle": "Engineering & Technology",
+      "streamIds": [
+        "maths"
+      ]
+    },
+    {
+      "id": "ENG-10",
+      "name": "Naval Architecture & Ocean Engineering",
+      "description": "Ship design, hydrodynamics, offshore platform engineering, marine structures — India's lowest-supply engineering branch.",
+      "streams": [
+        "Maths"
+      ],
+      "min_12th_percent": "75% IIT; 60% IMU",
+      "entry_route": "Degree",
+      "qualification": "B.Tech Naval Architecture / Ocean Engineering",
+      "duration": [
+        "4 years"
+      ],
+      "entrance_exam": "JEE Advanced (IIT), IMU CET",
+      "govt_fees": "IIT Madras/Kharagpur 8-13 lakh; IMU Visakhapatnam 9-11 lakh; CUSAT 2-3 lakh",
+      "private_fees": "AMET 10-15 lakh",
+      "top_institutions": [
+        "IIT Madras (govt)",
+        "IIT Kharagpur (govt)",
+        "IMU Visakhapatnam (govt)",
+        "CUSAT Kochi (govt)",
+        "Andhra University Visakhapatnam (govt)",
+        "AMET Chennai (private)"
+      ],
+      "scholarships": [
+        "MCM IIT",
+        "Mazagon Dock cadet",
+        "L&T Shipbuilding scholar",
+        "Cochin Shipyard awards"
+      ],
+      "abroad_pathways": "MS — Singapore (NUS, NTU 25-40 lakh), Norway (NTNU 3-8 lakh public), UK (Newcastle, Strathclyde 35-50 lakh), Netherlands (TU Delft 15-25 lakh). High demand globally.",
+      "day_in_life": "CFD/FEA simulation, hull design, classification society compliance work. Shipyard visits at Mazagon, Cochin, GRSE. Mostly office-based.",
+      "growth_path": "Naval Architect to Senior to Lead Designer to Principal. Indian Navy, Mazagon Dock, GRSE, L&T Shipbuilding, classification societies (Lloyd's, IRS, ABS) hire heavily.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": false,
+      "salary_bands": "Fresher: 5-15 LPA / Mid: 15-30 LPA / Senior: 30-70 LPA. Note: IIT NA placements 15-22L; offshore consulting 20-30L. Genuine demand-supply gap. Source: IIT placement reports, IMU disclosures.",
+      "confidence": "high",
+      "domainId": "eng",
+      "domainTitle": "Engineering & Technology",
+      "streamIds": [
+        "maths"
+      ]
+    },
+    {
+      "id": "ENG-11",
+      "name": "Metallurgical & Materials Engineering",
+      "description": "Metals processing, materials science, alloy design, semiconductor materials, corrosion engineering.",
+      "streams": [
+        "Maths"
+      ],
+      "min_12th_percent": "75% IIT/NIT; 60% private",
+      "entry_route": "Degree",
+      "qualification": "B.Tech Metallurgical / Materials Engineering",
+      "duration": [
+        "4 years"
+      ],
+      "entrance_exam": "JEE Main/Advanced",
+      "govt_fees": "IITs 8-13 lakh; NITs 5-7 lakh; IIT-ISM 9-10 lakh",
+      "private_fees": "Limited; 6-10 lakh if available",
+      "top_institutions": [
+        "IIT Bombay (govt)",
+        "IIT Kanpur (govt)",
+        "IIT-BHU (govt)",
+        "IIT Madras (govt)",
+        "NIT Trichy (govt)",
+        "IIT-ISM Dhanbad (govt)"
+      ],
+      "scholarships": [
+        "MCM IIT",
+        "Tata Steel scholar",
+        "JSW scholarship",
+        "Vedanta merit"
+      ],
+      "abroad_pathways": "MS — USA (Carnegie Mellon, Northwestern, MIT 40-60 lakh), Germany (RWTH, MPI 3-8 lakh), UK (Cambridge, Imperial 35-50 lakh). Strong PhD pathway.",
+      "day_in_life": "Lab-heavy with microscopy, mechanical testing. Steel plant roles (Tata, JSW, SAIL) involve shopfloor and process engineering.",
+      "growth_path": "Process/Quality Engineer to Senior to Manager to Plant Head. SAIL, Tata Steel, JSW, Hindalco, ISRO, BARC top employers.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": false,
+      "salary_bands": "Fresher: 4-15 LPA / Mid: 12-25 LPA / Senior: 25-60 LPA. Note: SAIL/Tata Steel 12-16L; semiconductor materials roles 15-25L. Source: IIT placement reports, AmbitionBox.",
+      "confidence": "high",
+      "domainId": "eng",
+      "domainTitle": "Engineering & Technology",
+      "streamIds": [
+        "maths"
+      ]
+    },
+    {
+      "id": "ENG-12",
+      "name": "Chemical Engineering",
+      "description": "Process design for refineries, petrochemicals, pharma, FMCG manufacturing, fertilizers.",
+      "streams": [
+        "Maths"
+      ],
+      "min_12th_percent": "75% IIT/NIT; 50-60% private/state",
+      "entry_route": "Degree",
+      "qualification": "B.Tech Chemical Engineering",
+      "duration": [
+        "4 years"
+      ],
+      "entrance_exam": "JEE Main/Advanced, state CETs",
+      "govt_fees": "IITs 8-13 lakh; ICT Mumbai 3-5 lakh; NITs 5-7 lakh",
+      "private_fees": "4-15 lakh (BITS, Manipal, VIT)",
+      "top_institutions": [
+        "IIT Bombay (govt)",
+        "IIT Madras (govt)",
+        "IIT Delhi (govt)",
+        "ICT Mumbai (govt)",
+        "NIT Trichy (govt)",
+        "BITS Pilani (private)"
+      ],
+      "scholarships": [
+        "MCM IIT",
+        "Reliance Foundation",
+        "BPCL/IOCL merit",
+        "ICT scholarship"
+      ],
+      "abroad_pathways": "MS — USA (MIT, Berkeley, Wisconsin 40-60 lakh), UK (Cambridge, Imperial 35-50 lakh), Germany (TUM 3-8 lakh). MS Chem-E + MBA common path.",
+      "day_in_life": "Plant operations (rotational shift), process design (Aspen, HYSYS), commissioning. Refineries are remote postings; Pharma is metro-based.",
+      "growth_path": "Process Engineer to Senior to Manager to Plant Head/CTO. IOCL, BPCL, HPCL, Reliance, Lupin, Sun Pharma, Unilever top employers.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": false,
+      "salary_bands": "Fresher: 5-18 LPA / Mid: 15-35 LPA / Senior: 30-80 LPA. Note: PSU oil cos 14-18L; private refining (Reliance) 12-20L; FMCG 15-22L. Source: IIT placement reports, PSU.",
+      "confidence": "high",
+      "domainId": "eng",
+      "domainTitle": "Engineering & Technology",
+      "streamIds": [
+        "maths"
+      ]
+    },
+    {
+      "id": "ENG-13",
+      "name": "Biomedical Engineering",
+      "description": "Medical devices, diagnostic equipment, prosthetics, biomechanics, hospital instrumentation.",
+      "streams": [
+        "Maths"
+      ],
+      "min_12th_percent": "75% IIT; 60% IIIT, NIT; 50% private",
+      "entry_route": "Degree",
+      "qualification": "B.Tech Biomedical Engineering",
+      "duration": [
+        "4 years"
+      ],
+      "entrance_exam": "JEE Main/Advanced, state CETs",
+      "govt_fees": "IIT Hyderabad/Madras 8-13 lakh; NITs 5-7 lakh; Anna Univ 2-3 lakh",
+      "private_fees": "5-15 lakh (VIT, Manipal, SRM)",
+      "top_institutions": [
+        "IIT Madras (govt)",
+        "IIT Hyderabad (govt)",
+        "Manipal Institute of Tech (private)",
+        "VIT Vellore (private)",
+        "NIT Rourkela (govt)",
+        "Anna University (govt)"
+      ],
+      "scholarships": [
+        "MCM IIT",
+        "DBT-BIRAC fellowship",
+        "GE Healthcare scholar",
+        "Wadhwani Foundation"
+      ],
+      "abroad_pathways": "MS — USA (Johns Hopkins, Duke, Stanford 45-70 lakh) is strong pathway; Germany (TUM, KIT 3-8 lakh), Singapore NUS 25-40 lakh. Often used as pre-PhD.",
+      "day_in_life": "Mix of lab work, device prototyping, clinical hospital interaction. Roles at GE Healthcare, Siemens, Philips, hospital clinical engineering.",
+      "growth_path": "R&D Engineer to Senior to Lead to Principal. India's medtech industry growing 15%+ annually. Start-up pathway active in Bangalore.",
+      "underrated": true,
+      "low_budget": false,
+      "low_percent": false,
+      "salary_bands": "Fresher: 3.5-10 LPA / Mid: 8-20 LPA / Senior: 20-50 LPA. Note: India BME pay weak at undergrad; treat as MS pathway. US BME starting $75-95K. Source: AmbitionBox, Glassdoor.",
+      "confidence": "medium",
+      "domainId": "eng",
+      "domainTitle": "Engineering & Technology",
+      "streamIds": [
+        "maths"
+      ]
+    },
+    {
+      "id": "ENG-14",
+      "name": "Robotics & Mechatronics Engineering",
+      "description": "Hybrid mechanical + electronics + control + software for autonomous systems, industrial robots, drones.",
+      "streams": [
+        "Maths"
+      ],
+      "min_12th_percent": "75% IIT/NIT; 60% private",
+      "entry_route": "Degree",
+      "qualification": "B.Tech Mechatronics / Robotics",
+      "duration": [
+        "4 years"
+      ],
+      "entrance_exam": "JEE Main/Advanced, state CETs",
+      "govt_fees": "IITs 8-13 lakh (specialized degrees newly added); NITs 5-7 lakh",
+      "private_fees": "6-18 lakh (SRM, Manipal, VIT)",
+      "top_institutions": [
+        "IIT Madras (govt, Robotics M.Tech preferred)",
+        "IIT Delhi (govt)",
+        "Manipal Institute of Technology (private)",
+        "SRM Chennai (private)",
+        "VIT Vellore (private)",
+        "PSG Tech Coimbatore (semi-govt)"
+      ],
+      "scholarships": [
+        "MCM IIT",
+        "DST-INSPIRE",
+        "ABB India scholar",
+        "Bosch foundation"
+      ],
+      "abroad_pathways": "MS in Robotics — USA (CMU, Michigan, GaTech 40-70 lakh), Germany (TUM 3-8 lakh), Switzerland ETH 15-25 lakh. CMU MSR is gold-standard.",
+      "day_in_life": "Robot programming (ROS), CAD design, electronics integration, lab testing. Strong overlap with AI/ML for autonomy.",
+      "growth_path": "Robotics Engineer to Senior to Lead to Principal/CTO. Tata Elxsi, ABB, KUKA, Bosch, Indian startups (Ati Motors, GreyOrange) are top hires.",
+      "underrated": true,
+      "low_budget": false,
+      "low_percent": false,
+      "salary_bands": "Fresher: 4-15 LPA / Mid: 12-30 LPA / Senior: 25-70 LPA. Note: Robotics startups paying 8-18L for fresh grads with strong portfolios. Source: AmbitionBox, LinkedIn Salary.",
+      "confidence": "medium",
+      "domainId": "eng",
+      "domainTitle": "Engineering & Technology",
+      "streamIds": [
+        "maths"
+      ]
+    },
+    {
+      "id": "ENG-15",
+      "name": "Production / Industrial Engineering",
+      "description": "Manufacturing systems, supply chain, operations research, industrial automation, lean.",
+      "streams": [
+        "Maths"
+      ],
+      "min_12th_percent": "75% IIT/NIT; 50-60% private",
+      "entry_route": "Degree",
+      "qualification": "B.Tech Production / Industrial Engineering",
+      "duration": [
+        "4 years"
+      ],
+      "entrance_exam": "JEE Main/Advanced, state CETs",
+      "govt_fees": "IITs 8-13 lakh; NITs 5-7 lakh",
+      "private_fees": "4-12 lakh",
+      "top_institutions": [
+        "IIT Delhi (govt)",
+        "IIT Kharagpur (govt)",
+        "IIT Bombay (govt)",
+        "NIT Calicut (govt)",
+        "NITIE Mumbai (govt, PG)",
+        "PSG Tech (semi-govt)"
+      ],
+      "scholarships": [
+        "MCM IIT",
+        "Mahindra cadet",
+        "Tata Motors scholar"
+      ],
+      "abroad_pathways": "MS in Industrial Eng / Operations Research — USA (GaTech, Michigan, Purdue 35-60 lakh), Singapore NUS, Germany TUM. Pre-MBA or pre-consulting common.",
+      "day_in_life": "Plant floor optimization, supply chain analytics, simulation modelling. Work for auto OEMs, FMCG manufacturing, e-commerce ops.",
+      "growth_path": "Industrial Engineer to Operations Manager to Plant Head to COO. Major exit to MBA/consulting. NITIE PGDIE is the standard PG.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": false,
+      "salary_bands": "Fresher: 4-14 LPA / Mid: 10-25 LPA / Senior: 25-60 LPA. Note: Strong tilt toward consulting (BCG, McKinsey, ZS) for IIT IE grads. Source: IIT placement reports, AmbitionBox.",
+      "confidence": "high",
+      "domainId": "eng",
+      "domainTitle": "Engineering & Technology",
+      "streamIds": [
+        "maths"
+      ]
+    },
+    {
+      "id": "ENG-16",
+      "name": "Instrumentation & Control Engineering",
+      "description": "Sensors, control systems, process automation, SCADA, factory and plant automation.",
+      "streams": [
+        "Maths"
+      ],
+      "min_12th_percent": "75% IIT/NIT; 50-60% private",
+      "entry_route": "Degree",
+      "qualification": "B.Tech Instrumentation / I&C Engineering",
+      "duration": [
+        "4 years"
+      ],
+      "entrance_exam": "JEE Main/Advanced, state CETs",
+      "govt_fees": "IITs 8-13 lakh; NITs 5-7 lakh",
+      "private_fees": "4-12 lakh",
+      "top_institutions": [
+        "IIT Kharagpur (govt)",
+        "NIT Trichy (govt)",
+        "NIT Jalandhar (govt)",
+        "MIT Manipal (private)",
+        "BITS Pilani (private)",
+        "PSG Tech (semi-govt)"
+      ],
+      "scholarships": [
+        "MCM IIT",
+        "ABB India scholar",
+        "Honeywell scholarship",
+        "Siemens technical scholar"
+      ],
+      "abroad_pathways": "MS — USA (Texas, Penn State 35-55 lakh), Germany (TUM 3-8 lakh). Strong process-control roles in Gulf, SE Asia oil/gas.",
+      "day_in_life": "Plant commissioning, control room work, instrumentation calibration, software for DCS/SCADA. Refineries, power plants, FMCG.",
+      "growth_path": "Instrumentation Engineer to Senior to Manager to Plant Automation Head. IOCL, BPCL, Reliance, ABB, Siemens, Yokogawa hire heavily.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": false,
+      "salary_bands": "Fresher: 4-12 LPA / Mid: 10-22 LPA / Senior: 22-50 LPA. Note: PSU (oil, power) 13-15L; Honeywell/ABB/Yokogawa 6-15L. Source: AmbitionBox, PSU notifications.",
+      "confidence": "high",
+      "domainId": "eng",
+      "domainTitle": "Engineering & Technology",
+      "streamIds": [
+        "maths"
+      ]
+    },
+    {
+      "id": "ENG-17",
+      "name": "Environmental Engineering",
+      "description": "Water/wastewater treatment, air pollution control, solid waste management, environmental impact assessment.",
+      "streams": [
+        "Maths"
+      ],
+      "min_12th_percent": "75% IIT/NIT; 50-60% private",
+      "entry_route": "Degree",
+      "qualification": "B.Tech / B.E. Environmental Engineering",
+      "duration": [
+        "4 years"
+      ],
+      "entrance_exam": "JEE Main/Advanced, state CETs",
+      "govt_fees": "IITs 8-13 lakh (PG mostly); NITs 5-7 lakh; Delhi Tech 2-4 lakh",
+      "private_fees": "4-12 lakh",
+      "top_institutions": [
+        "IIT Bombay (govt, mostly PG)",
+        "IIT Madras (govt)",
+        "IIT Roorkee (govt)",
+        "DTU Delhi (govt)",
+        "Anna University (govt)",
+        "VJTI Mumbai (govt)"
+      ],
+      "scholarships": [
+        "DST-INSPIRE",
+        "MCM IIT",
+        "WWF India scholarship",
+        "TERI scholar"
+      ],
+      "abroad_pathways": "MS — USA (Stanford, Berkeley, Michigan 40-60 lakh), Netherlands (TU Delft, Wageningen 15-25 lakh), UK (Imperial 35-50 lakh). Strong policy/consulting routes.",
+      "day_in_life": "EIA fieldwork, lab analysis (water/air quality), CPCB/SPCB compliance, design of treatment plants. Govt + consulting mix.",
+      "growth_path": "Project Engineer to EIA Consultant to Senior to Director. CPCB, NEERI, state PCBs, environmental consultancies (ERM, AECOM) top employers.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 3.5-10 LPA / Mid: 8-18 LPA / Senior: 18-40 LPA. Note: Govt research (CPCB) 8-12L start; ERM/AECOM/WSP consulting 6-12L. Climate-tech startups paying more. Source: AmbitionBox, NCS.",
+      "confidence": "medium",
+      "domainId": "eng",
+      "domainTitle": "Engineering & Technology",
+      "streamIds": [
+        "maths"
+      ]
+    },
+    {
+      "id": "ENG-18",
+      "name": "Agricultural Engineering",
+      "description": "Farm machinery, irrigation, food processing engineering, soil/water conservation, ag-tech automation.",
+      "streams": [
+        "Maths",
+        "Bio"
+      ],
+      "min_12th_percent": "50-60% (state agri univs); 75% IIT Kharagpur",
+      "entry_route": "Degree",
+      "qualification": "B.Tech Agricultural Engineering",
+      "duration": [
+        "4 years"
+      ],
+      "entrance_exam": "JEE Main, ICAR AIEEA UG, state agri-univ exams",
+      "govt_fees": "IIT Kharagpur 8-10 lakh; PAU Ludhiana, TNAU Coimbatore 1-3 lakh",
+      "private_fees": "Limited; 4-10 lakh",
+      "top_institutions": [
+        "IIT Kharagpur (govt)",
+        "PAU Ludhiana (govt)",
+        "TNAU Coimbatore (govt)",
+        "GBPUAT Pantnagar (govt)",
+        "ANGRAU Hyderabad (govt)",
+        "IARI Delhi (govt, PG)"
+      ],
+      "scholarships": [
+        "ICAR Junior Fellowship",
+        "MCM IIT",
+        "Mahyco scholar",
+        "Bayer foundation"
+      ],
+      "abroad_pathways": "MS — USA (UC Davis, Texas A&M, Cornell 35-55 lakh), Netherlands (Wageningen 15-25 lakh), Australia (UWA 25-40 lakh). Strong ag-tech hiring in EU.",
+      "day_in_life": "Field-based for farm equipment testing, design office for tractor/implement R&D, food processing plants. ICAR research labs are slower-paced.",
+      "growth_path": "Junior Engineer to Asst Engineer (govt) / Design Engineer to Senior. Mahindra Farm Equipment, Escorts, John Deere, ITC, NABARD top employers.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 3-9 LPA / Mid: 8-18 LPA / Senior: 18-40 LPA. Note: Mahindra/Escorts 6-9L start; agri-tech startups (DeHaat, Ninjacart) 6-12L; NABARD via exam 15L+. Source: NCS, AmbitionBox.",
+      "confidence": "medium",
+      "domainId": "eng",
+      "domainTitle": "Engineering & Technology",
+      "streamIds": [
+        "maths",
+        "bio"
+      ]
+    },
+    {
+      "id": "ENG-19",
+      "name": "Textile Engineering",
+      "description": "Fibre science, fabric production, garment technology, textile chemicals, technical textiles.",
+      "streams": [
+        "Maths"
+      ],
+      "min_12th_percent": "75% IIT; 50% NIT; 45-50% private",
+      "entry_route": "Degree",
+      "qualification": "B.Tech Textile Engineering / Tech",
+      "duration": [
+        "4 years"
+      ],
+      "entrance_exam": "JEE Main/Advanced, state CETs",
+      "govt_fees": "IIT Delhi 8-13 lakh; ICT Mumbai 3-5 lakh; NIT Jalandhar 5-7 lakh",
+      "private_fees": "4-10 lakh",
+      "top_institutions": [
+        "IIT Delhi (govt)",
+        "ICT Mumbai (govt)",
+        "NIT Jalandhar (govt)",
+        "VJTI Mumbai (govt)",
+        "Anna University (govt)",
+        "DKTE Ichalkaranji (private)"
+      ],
+      "scholarships": [
+        "MCM IIT",
+        "Aditya Birla scholar",
+        "Welspun foundation",
+        "Reliance Industries textile"
+      ],
+      "abroad_pathways": "MS — USA (NC State, Cornell 30-50 lakh), UK (Leeds, Manchester 30-45 lakh). Strong technical textiles hiring in Germany, Italy.",
+      "day_in_life": "Mill floor in spinning/weaving units, lab testing, R&D for technical textiles. Heritage industry undergoing tech reset.",
+      "growth_path": "Production Engineer to Senior to Manager to Mill Head. Aditya Birla, Welspun, Arvind, Raymond, Vardhman top employers. Technical textiles segment growing.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 3-10 LPA / Mid: 8-18 LPA / Senior: 18-40 LPA. Note: ICT/IIT Delhi placements 8-15L; mid-tier mill jobs 3-5L. Source: AmbitionBox, ICT placement disclosures.",
+      "confidence": "medium",
+      "domainId": "eng",
+      "domainTitle": "Engineering & Technology",
+      "streamIds": [
+        "maths"
+      ]
+    },
+    {
+      "id": "ENG-20",
+      "name": "Food Technology / Engineering",
+      "description": "Food processing, preservation, packaging, food safety, fermentation, dairy and grain technology.",
+      "streams": [
+        "Maths",
+        "Bio"
+      ],
+      "min_12th_percent": "75% IIT; 50-60% NIFTEM, CFTRI; 45-50% private",
+      "entry_route": "Degree",
+      "qualification": "B.Tech Food Technology / Engineering",
+      "duration": [
+        "4 years"
+      ],
+      "entrance_exam": "JEE Main, NIFTEM entrance, state CETs",
+      "govt_fees": "NIFTEM Kundli 6-8 lakh; IIT Kharagpur 8-10 lakh; CFTRI Mysore 2-4 lakh",
+      "private_fees": "4-12 lakh (Amity, LPU, Mangalayatan)",
+      "top_institutions": [
+        "IIT Kharagpur (govt)",
+        "NIFTEM Kundli (govt)",
+        "CFTRI Mysore (govt, PG)",
+        "ICT Mumbai (govt)",
+        "Anna University (govt)",
+        "Amity Noida (private)"
+      ],
+      "scholarships": [
+        "NIFTEM merit",
+        "ICAR fellowship",
+        "Britannia, Nestle internships",
+        "FSSAI research"
+      ],
+      "abroad_pathways": "MS — USA (UC Davis, Cornell, Wisconsin 35-55 lakh), UK (Reading, Nottingham 30-45 lakh), Netherlands (Wageningen 15-25 lakh), Singapore NUS 25-40 lakh.",
+      "day_in_life": "QA/QC in food plants, R&D labs (formulation work), regulatory roles at FSSAI. ITC, Britannia, Nestle, Amul, Mother Dairy hire heavily.",
+      "growth_path": "QA/Production Engineer to Senior to Manager to Plant Head. Strong PSU/coop route via Amul, NDDB. FSSAI Tech Officer via UPSC FRO.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 3-10 LPA / Mid: 8-18 LPA / Senior: 18-40 LPA. Note: ITC/Nestle/Britannia 6-10L; FSSAI 10-15L; agri-coop sector 4-8L. Source: NIFTEM placement, AmbitionBox.",
+      "confidence": "medium",
+      "domainId": "eng",
+      "domainTitle": "Engineering & Technology",
+      "streamIds": [
+        "maths",
+        "bio"
+      ]
+    },
+    {
+      "id": "ENG-21",
+      "name": "Genetic / Biotechnology Engineering",
+      "description": "Genetic engineering, molecular biology, bioprocess engineering, bioinformatics, synthetic biology.",
+      "streams": [
+        "Bio",
+        "Maths"
+      ],
+      "min_12th_percent": "75% IIT; 50-60% private; 50% state univs",
+      "entry_route": "Degree",
+      "qualification": "B.Tech Biotechnology / Genetic Engineering",
+      "duration": [
+        "4 years"
+      ],
+      "entrance_exam": "JEE Main/Advanced, GAT-B (DBT), state CETs",
+      "govt_fees": "IITs 8-13 lakh; ICT Mumbai 3-5 lakh; NITs 5-7 lakh",
+      "private_fees": "6-18 lakh (SRM, VIT, Manipal)",
+      "top_institutions": [
+        "IIT Madras (govt)",
+        "IIT Bombay (govt)",
+        "IIT Kharagpur (govt)",
+        "ICT Mumbai (govt)",
+        "Anna University CEG (govt)",
+        "Amity Biotech (private)"
+      ],
+      "scholarships": [
+        "DBT-JRF",
+        "MCM IIT",
+        "Wellcome Trust DBT alliance",
+        "ICMR scholarship"
+      ],
+      "abroad_pathways": "MS — USA (Johns Hopkins, MIT, UCLA 45-70 lakh) is the dominant exit; Germany (Heidelberg, MPI 3-8 lakh), Singapore A*STAR-NUS 25-40 lakh. Strong PhD pathway.",
+      "day_in_life": "Wet lab — PCR, cell culture, sequencing — or computational (bioinformatics, drug discovery). Pharma R&D at Biocon, Dr. Reddy's, Sun Pharma.",
+      "growth_path": "Research Associate to Scientist to Senior Scientist to Director. India undergrad pay weak; treat as pre-MS/PhD pathway. Genomics/diagnostics startups (MapmyGenome, Strand) hiring.",
+      "underrated": true,
+      "low_budget": false,
+      "low_percent": false,
+      "salary_bands": "Fresher: 3-9 LPA / Mid: 8-20 LPA / Senior: 20-60 LPA. Note: India undergrad biotech pay weak 3-6L; salary unlocks after MS or PhD. Source: AmbitionBox, Glassdoor, BiotechFront.",
+      "confidence": "medium",
+      "domainId": "eng",
+      "domainTitle": "Engineering & Technology",
+      "streamIds": [
+        "bio",
+        "maths"
+      ]
+    }
+  ],
+  "confidence_notes": [
+    "Salary ranges for niche fields (Naval Architecture, Mining, Petroleum) cross-verified with IIT-ISM 2024 placement report and IIT placement disclosures.",
+    "Marine Engineering salary verified via shipping industry data; varies hugely with company and vessel type.",
+    "Biomedical, Genetic, Food Tech undergrad salaries flagged as 'medium confidence' — Indian undergrad market for these is thin; data is reliable but the path itself often requires PG to monetize.",
+    "Robotics/Mechatronics is a very new branch in many colleges; placement track record short — confidence medium."
+  ]
+}

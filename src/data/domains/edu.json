@@ -1,0 +1,662 @@
+{
+  "id": "edu",
+  "title": "Teaching & Education",
+  "tagline": "Beyond school teachers: special education, EdTech, IB schools, college lecturer track via UGC NET, academic admin.",
+  "color": "#b14e2f",
+  "overview": "Teaching in India is widely undervalued by 12th-graders chasing engineering or medicine, but the 2026 reality is striking — KVS recruitment alone announced 9,126 vacancies; combined KVS-NVS opened 5,841 more posts. Central govt teachers (KVS, NVS) earn ₹35K-1.4L/month with full govt benefits, lifetime pension, and one of the most stable career arcs in India. State TET-cleared teachers in Delhi, Maharashtra, Karnataka, Tamil Nadu earn ₹40-70K/month at govt schools. The newer growth segments are Special Education (severe national shortage, RCI-mandated qualification), International School teaching (IB/Cambridge curricula paying ₹70K-2L/month), and EdTech (post-2023 stabilization, Vedantu/PhysicsWallah/Unacademy hiring at ₹15-50L for top teachers). The hidden gem is Higher Education via UGC NET — Assistant Professor at central university starts ₹57K and the role offers extraordinary autonomy.",
+  "key_insights": [
+    "KVS PGT salary (Level 7, ₹44,900-1,42,400) is comparable to a private engineer's salary at TCS/Infosys but with central govt job security, summer/winter vacations, and pension benefits.",
+    "Special Educators (RCI-registered) face a national shortage — 26.8M Indians have disabilities; supply of trained special educators is under 50,000. Govt special educator pay ₹7.2 LPA avg — strong unmet demand.",
+    "International school teachers (IB Diploma, Cambridge IGCSE, Edexcel) at premium schools (Dhirubhai Ambani International, Pathways, Ecole Mondiale) earn ₹70K-2L/month with international placement opportunities.",
+    "EdTech crashed in 2023-24 (BYJU's collapse, Unacademy layoffs) but stabilized — top math/physics/chemistry teachers at PhysicsWallah, Vedantu earn ₹15-50 LPA on permanent rolls; star teachers ₹1 Cr+.",
+    "UGC NET-qualified Assistant Professor at central university starts ₹57,700 (Level 10) — same scale as IAS at entry — but most students never consider this stable, autonomous career."
+  ],
+  "sub_paths": [
+    {
+      "id": "EDU-01",
+      "name": "B.Ed (General Teacher Preparation)",
+      "description": "2-year Bachelor of Education — the standard professional teacher training degree. Mandatory for govt/most private school teaching.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "Indirect; need any UG with 50%+ for B.Ed (45% reserved)",
+      "entry_route": "Degree (post-graduation)",
+      "qualification": "Bachelor of Education (B.Ed) — 2 years",
+      "duration": [
+        "2 years"
+      ],
+      "entrance_exam": "State B.Ed entrance (UP B.Ed JEE, MAH B.Ed CET, AP EdCET, JMI EE), CUET PG (some), university tests",
+      "govt_fees": "₹20,000-60,000/year at govt B.Ed colleges",
+      "private_fees": "₹60,000-1.5 lakh/year private colleges",
+      "top_institutions": [
+        "Regional Institute of Education (RIE) - 5 campuses (govt)",
+        "Lady Irwin College Delhi (govt)",
+        "Jamia Millia Islamia Delhi (govt)",
+        "Banaras Hindu University B.Ed (govt)",
+        "Tata Institute of Social Sciences Mumbai (govt)",
+        "Delhi University CIE (govt)"
+      ],
+      "scholarships": [
+        "Central Sector Scholarship",
+        "PM-USP National Means",
+        "AICTE Pragati for girls",
+        "state govt B.Ed waivers"
+      ],
+      "abroad_pathways": "MA in Education / M.Ed at Harvard GSE, Stanford GSE, Cambridge, IOE London, OISE Toronto. Strong demand for Indian teachers in UAE, Singapore, UK schools.",
+      "day_in_life": "Year 1: theory of education, child psychology, pedagogy. Year 2: 16+ weeks teaching practicum at partner schools. Significant micro-teaching, lesson planning.",
+      "growth_path": "B.Ed → State TET / CTET → Govt school teacher (PRT/TGT/PGT) or private school. Mid-career M.Ed for academic/admin roles.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher (private school): 2.5-5 LPA / Govt school post-TET: 4-9 LPA / Mid: 8-18 LPA / Senior: 15-30 LPA. Note: Pay depends entirely on next-stage exam (CTET/TET/KVS) and school type. Source: NCS, Govt teaching scale.",
+      "confidence": "high",
+      "domainId": "edu",
+      "domainTitle": "Teaching & Education",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "EDU-02",
+      "name": "CTET (Central Teacher Eligibility Test)",
+      "description": "CBSE-conducted national TET exam. Mandatory qualifier for KVS, NVS, central govt schools, many private schools.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "Indirect; need 12th + relevant qualification",
+      "entry_route": "Govt exam (CTET)",
+      "qualification": "Paper I (Class 1-5): 12th + 2-yr D.El.Ed/B.El.Ed/B.Ed; Paper II (Class 6-8): UG + B.Ed",
+      "duration": [
+        "Twice yearly cycle (~6 months)",
+        "certificate valid lifetime since 2021"
+      ],
+      "entrance_exam": "CTET (CBSE)",
+      "govt_fees": "₹1,000 (one paper); ₹1,200 (both); ₹500/600 reserved",
+      "private_fees": "Coaching ₹10K-30K (Adda247, Career Power, Toppr)",
+      "top_institutions": [
+        "CBSE (conducting body, govt)",
+        "Adda247 (private coaching)",
+        "Career Power (private)",
+        "Gradeup/BYJU's Exam Prep (private)",
+        "Self-prep with NCERT books",
+        "DIET (District Institute of Education and Training) free coaching at some centres"
+      ],
+      "scholarships": [
+        "State free coaching for SC/ST/EWS via DIETs and TET cells"
+      ],
+      "abroad_pathways": "Not directly used abroad; CTET cert is India-specific.",
+      "day_in_life": "Test of pedagogy, child psychology, language, math/science/social science. Two papers — primary or upper-primary level.",
+      "growth_path": "CTET cert → KVS/NVS apply → state DSSSB/TGT/PRT exams → Central or state govt teacher post.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Post-CTET hiring: PRT ₹29,200-92,300 (Level 5); TGT ₹35,400-1,12,400 (Level 6); PGT ₹44,900-1,42,400 (Level 7). Note: CTET itself is qualifier, not job; pay comes from KVS/NVS recruitment. Source: KVS, 7th Pay.",
+      "confidence": "high",
+      "domainId": "edu",
+      "domainTitle": "Teaching & Education",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "EDU-03",
+      "name": "KVS / NVS Recruitment (Central Govt Teaching)",
+      "description": "Kendriya Vidyalaya / Navodaya Vidyalaya — central govt school teachers (PRT, TGT, PGT) with central pay scales and lifetime benefits.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "12th 50% (PRT); UG (TGT); PG (PGT) with B.Ed + CTET",
+      "entry_route": "Govt exam (CBSE-conducted KVS-NVS Common Recruitment)",
+      "qualification": "PRT: 12th + D.El.Ed + CTET I; TGT: UG + B.Ed + CTET II; PGT: PG + B.Ed",
+      "duration": [
+        "Annual exam cycle ~9-10 months",
+        "service training in Mussoorie/regional"
+      ],
+      "entrance_exam": "KVS-NVS Common Recruitment Exam (CBSE) — 9,126 KVS vacancies; 5,841 KVS-NVS combined for 2026",
+      "govt_fees": "Application ₹1,500-2,000",
+      "private_fees": "Coaching ₹15K-50K",
+      "top_institutions": [
+        "Kendriya Vidyalaya Sangathan (recruiter, govt)",
+        "Navodaya Vidyalaya Samiti (recruiter, govt)",
+        "Adda247 KVS (private)",
+        "Career Power (private)",
+        "Gradeup KVS-NVS (private)",
+        "Free DIET-affiliated coaching at some centres"
+      ],
+      "scholarships": [
+        "State DIET free schemes",
+        "AISECT KVS coaching for rural aspirants"
+      ],
+      "abroad_pathways": "KVS/NVS run schools in some Embassy locations (Moscow, Tehran, Kathmandu). Direct foreign deputation rare.",
+      "day_in_life": "Class teaching, lesson planning, exam evaluation, student counselling, school admin. KV/NV schools well-equipped; postings rotate every 5-7 yrs.",
+      "growth_path": "PRT → senior PRT → Vice Principal → Principal. TGT/PGT similar ladder. Departmental promotion exams accelerate. Lifetime pension.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "PRT (Level 5): 5-8 LPA gross / TGT (Level 6): 7-11 LPA / PGT (Level 7): 8-14 LPA. Mid-career (10-15 yr): 12-22 LPA. Principal (Level 12): 18-30 LPA. Note: Vacations + pension + housing make total comp 30-50% above stated cash. Source: KVS, 7th Pay 2025-26.",
+      "confidence": "high",
+      "domainId": "edu",
+      "domainTitle": "Teaching & Education",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "EDU-04",
+      "name": "State TETs / State Govt Teaching",
+      "description": "State Teacher Eligibility Tests — UPTET, Maharashtra TAIT, MPTET, Bihar TET etc. — for state govt school teaching jobs.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "12th 50%; UG/B.Ed for upper levels",
+      "entry_route": "Govt exam (state TET + recruitment)",
+      "qualification": "12th/UG + D.El.Ed/B.Ed + state TET",
+      "duration": [
+        "Annual",
+        "varies by state"
+      ],
+      "entrance_exam": "UPTET, BiETET, MPTET, MAHA TAIT, REET (Rajasthan), KARTET, TNTET, APTET",
+      "govt_fees": "₹500-1,000",
+      "private_fees": "Coaching ₹10K-30K (state-specific institutes)",
+      "top_institutions": [
+        "State Education Boards (recruiters, govt)",
+        "Adda247 state TET (private)",
+        "Career Power (private)",
+        "Examly (private)",
+        "Gradeup state TET (private)",
+        "Free state govt SC/ST coaching schemes via DIETs"
+      ],
+      "scholarships": [
+        "State DIET free coaching schemes for reserved categories"
+      ],
+      "abroad_pathways": "Not direct; state-cert teachers can move to international schools after CIDTT/CELTA certifications.",
+      "day_in_life": "State govt school class teaching; postings often rural/semi-urban early career; transfers hard. Full state govt benefits.",
+      "growth_path": "Asst Teacher → Senior → Headmaster → BEO/DIO admin roles. State Pay Level 6-10 depending on state.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 4-7 LPA / Mid: 7-14 LPA / Senior: 12-25 LPA. Note: Maharashtra/Karnataka pay slightly above UP/Bihar; metro postings (Delhi DSSSB) higher. Source: state pay commissions, 7th Pay.",
+      "confidence": "high",
+      "domainId": "edu",
+      "domainTitle": "Teaching & Education",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "EDU-05",
+      "name": "UGC NET (College/University Lecturer)",
+      "description": "UGC NET qualifies for Assistant Professor at universities/colleges and JRF for PhD funding. Path to academic career.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "Indirect; need PG with 55%+ (50% reserved)",
+      "entry_route": "Govt exam (UGC NET)",
+      "qualification": "PG (any subject) with 55%; UGC NET clear",
+      "duration": [
+        "Twice yearly cycle (June",
+        "December)"
+      ],
+      "entrance_exam": "UGC NET (NTA-conducted)",
+      "govt_fees": "₹1,150 (Gen); ₹600 (OBC); ₹325 (SC/ST/PwD)",
+      "private_fees": "Coaching ₹15K-50K (Plutus IAS NET, Eduncle, KVS Madaan)",
+      "top_institutions": [
+        "Universities recruiting via UGC NET (govt)",
+        "Plutus Academy NET (private)",
+        "Eduncle (private)",
+        "Unacademy NET track (private)",
+        "Self-prep with NTA syllabus",
+        "Free state-funded UGC coaching at minority universities"
+      ],
+      "scholarships": [
+        "UGC NET-JRF stipend ₹37K/month for 2 yrs + ₹42K next 3 yrs",
+        "INSPIRE for science PhDs",
+        "ICSSR fellowships for social sciences",
+        "DBT JRF for biology"
+      ],
+      "abroad_pathways": "PhD programs abroad — Cambridge, Oxford, top US universities. Indian academics with UGC-NET + PhD often shift to UAE, Singapore universities mid-career.",
+      "day_in_life": "Asst Professor: teaching ~6-9 hrs/week + research + admin. Strong autonomy; long vacations. PhD route: 4-6 yrs of research + dissertation.",
+      "growth_path": "Asst Prof (Level 10, ₹57,700) → Asso Prof (Level 13A, ₹1,31,400) → Professor (Level 14, ₹1,44,200). Central univ + IIT/IISER faculty get research grants too.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher (Asst Prof): 8-13 LPA / Mid (Asso Prof): 18-30 LPA / Senior (Professor): 25-50 LPA. Note: Same scale at central univs, IITs, IIMs. Plus consultancy, summer school stipends. Source: 7th Pay UGC scale, AICTE.",
+      "confidence": "high",
+      "domainId": "edu",
+      "domainTitle": "Teaching & Education",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "EDU-06",
+      "name": "Special Education (B.Ed Special Education / RCI)",
+      "description": "RCI-regulated B.Ed Special Education — train to teach children with disabilities (autism, dyslexia, hearing/visual impairment). Massive shortage in India.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "Indirect; need UG with 50%+ for B.Ed Special Ed",
+      "entry_route": "Degree (RCI-recognized)",
+      "qualification": "B.Ed Special Education (2 yr) + RCI registration (CRR number)",
+      "duration": [
+        "2 years"
+      ],
+      "entrance_exam": "CUCET, IGNOU OPENMAT, JMI EE, state B.Ed JEE; institute entrance",
+      "govt_fees": "₹40,000-1 lakh total (NIEPMD, NILD, IGNOU)",
+      "private_fees": "₹50,000-2 lakh total",
+      "top_institutions": [
+        "NIEPMD Chennai (govt)",
+        "NIEPID Secunderabad (govt)",
+        "NILD Kolkata (govt)",
+        "AYJNISHD Mumbai (govt)",
+        "Jamia Millia Islamia Delhi B.Ed Special (govt)",
+        "IGNOU Special B.Ed (govt, distance)"
+      ],
+      "scholarships": [
+        "RCI scholarships for SC/ST/PwD",
+        "Disability empowerment schemes",
+        "Sarva Shiksha Abhiyan special-edu fellowships"
+      ],
+      "abroad_pathways": "USA (BCBA certification for Applied Behavior Analysis), UK (PG Cert in SEN at Cambridge, Oxford), Australia (AHPRA for psychology-adjacent roles). Strong demand.",
+      "day_in_life": "Individualized Education Plans (IEPs), one-on-one therapy, classroom shadowing in inclusive schools, parent collaboration. Demanding but high impact.",
+      "growth_path": "Special Educator → Senior → SEN Coordinator → Inclusion Director. Govt route via DSSSB, KVS Special Educator posts, state recruitments. Private clinics, NGOs (NIPCCD, Prerna).",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 2.5-5 LPA (private) / 6-8 LPA (govt) / Mid: 6-12 LPA / Senior: 12-25 LPA. Note: Govt special educator avg ₹7.2 LPA; ABA therapists at private centres ₹4-8L; abroad $50-75K. Source: getmyuni, RCI registry.",
+      "confidence": "high",
+      "domainId": "edu",
+      "domainTitle": "Teaching & Education",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "EDU-07",
+      "name": "EdTech Teaching Career",
+      "description": "Online teaching at PhysicsWallah, Vedantu, Unacademy, Adda247, Khan Academy India. Sector stabilized post-2024 crash; star teachers earn premiums.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "Indirect; need subject expertise + UG; B.Ed not always required",
+      "entry_route": "Skill-first / Degree",
+      "qualification": "Subject mastery (UG/PG); demo class clearance with platform",
+      "duration": [
+        "Varies",
+        "many top EdTech teachers self-trained or coaching-industry veterans"
+      ],
+      "entrance_exam": "Platform-specific demo + interview process",
+      "govt_fees": "Self-paced; no formal fees",
+      "private_fees": "Optional content creation/teaching certifications ₹10K-50K",
+      "top_institutions": [
+        "PhysicsWallah Vidyapeeth (private platform)",
+        "Vedantu (private)",
+        "Unacademy (private)",
+        "Adda247 (private)",
+        "BYJU's (private; reduced post-2024)",
+        "Khan Academy India (NGO)"
+      ],
+      "scholarships": [
+        "Most EdTech offers free intro courses; Khan Academy fully free"
+      ],
+      "abroad_pathways": "Cross-border online teaching at Nearpod, Outschool, Cambly, Preply. UAE/Saudi/SE Asia online tutoring market growing.",
+      "day_in_life": "Recording/streaming live classes (1-3 hrs/day), doubt-solving sessions, content creation (notes, MCQs), social-media engagement.",
+      "growth_path": "Educator → Senior Educator → Star Teacher → Subject Lead. Top math/physics teachers (Alakh Pandey style) earn ₹1-5 Cr+ via revenue share + ESOPs.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 4-12 LPA / Mid: 12-35 LPA / Senior (star): 50 LPA-2 Cr+. Note: Pay highly variable; permanent salaries lower than star/freelance teachers; PhysicsWallah top earners ₹50L-1Cr+. Source: AmbitionBox, founder disclosures.",
+      "confidence": "medium",
+      "domainId": "edu",
+      "domainTitle": "Teaching & Education",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "EDU-08",
+      "name": "International School Teaching (IB / Cambridge / Edexcel)",
+      "description": "Teaching IB Diploma, IGCSE, Cambridge A-Levels, Edexcel curricula at premium international schools.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "Indirect; need UG/PG + IB/Cambridge teacher certification",
+      "entry_route": "Degree + Specialty Cert",
+      "qualification": "UG + B.Ed + IB workshop / Cambridge IGCSE training / PGCEi",
+      "duration": [
+        "B.Ed 2 yr + IB workshop 3-6 months"
+      ],
+      "entrance_exam": "School-specific demo + subject-area assessment",
+      "govt_fees": "B.Ed govt fees as per state",
+      "private_fees": "PGCEi ₹2-5 lakh; IB workshop $300-1,500/module",
+      "top_institutions": [
+        "Dhirubhai Ambani International School Mumbai (private)",
+        "Pathways Schools (private)",
+        "Ecole Mondiale World School Mumbai (private)",
+        "Oberoi International School Mumbai (private)",
+        "Aditya Birla World Academy Mumbai (private)",
+        "International School of Hyderabad (private)"
+      ],
+      "scholarships": [
+        "Limited; some schools sponsor IB workshops for hired teachers",
+        "PGCEi at IOE London Chevening-funded"
+      ],
+      "abroad_pathways": "Strong direct route — IB-certified teachers in demand at international schools globally (UAE, Singapore, Bangkok, Hong Kong, Dubai). Pay 2-3x India.",
+      "day_in_life": "Class teaching with smaller batches (15-20 students), assessment-driven curriculum, parent meetings, IB MYP/DP curriculum planning. Strong work-life balance.",
+      "growth_path": "Subject Teacher → Coordinator (IB DP/MYP) → Head of Department → Principal/Head. International school principal in UAE/Singapore ₹1-3 Cr+.",
+      "underrated": true,
+      "low_budget": false,
+      "low_percent": false,
+      "salary_bands": "Fresher: 8-15 LPA / Mid: 15-30 LPA / Senior (HoD/Principal): 25-80 LPA. Note: Top Mumbai/Delhi int'l schools ₹70K-2L/month; UAE/Singapore int'l 30-80L. Source: int'l school disclosures, AmbitionBox.",
+      "confidence": "high",
+      "domainId": "edu",
+      "domainTitle": "Teaching & Education",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "EDU-09",
+      "name": "Educational Counselling / Career Counsellor",
+      "description": "Career counselling for students — admissions guidance, study abroad, mental health support. Growing post-NEP 2020.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "Indirect; need UG + counselling cert (Psychology UG/PG strongly preferred)",
+      "entry_route": "Degree + Certification",
+      "qualification": "BA/MA Psychology + Career Counselling cert; or B.Ed + counselling specialty",
+      "duration": [
+        "UG 3 yr + cert 6 mo - 1 yr"
+      ],
+      "entrance_exam": "Univ entrances; CUET; private institute exams",
+      "govt_fees": "Govt psychology UG ₹15K-50K; cert ₹20K-1 lakh",
+      "private_fees": "Career counselling cert (NCERT/UCanCare/Mindler) ₹30K-2 lakh",
+      "top_institutions": [
+        "Jamia Millia Islamia Counselling Psychology (govt)",
+        "TISS Mumbai School of Education (govt)",
+        "NCERT Career Counselling cert (govt)",
+        "UCanCare (private cert provider)",
+        "Mindler (private edtech, also hiring)",
+        "iDream Career (private)"
+      ],
+      "scholarships": [
+        "TISS need-based aid",
+        "JMI scholarships for SC/ST"
+      ],
+      "abroad_pathways": "MA Counselling Psychology in USA (Columbia TC, NYU, UPenn), UK (UCL IOE), Australia (Melbourne) — ₹30-60L. Direct school counsellor roles in UAE/Singapore.",
+      "day_in_life": "1:1 counselling sessions, school visits, study-abroad guidance, career assessments. Mix of in-person and online. NEP 2020 has mandated career counsellors in schools.",
+      "growth_path": "Counsellor → Senior → Head of Counselling → Director. Private practice viable; study-abroad consultants (Edwise, Yocket) hire heavily.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 3-7 LPA / Mid: 7-15 LPA / Senior: 15-35 LPA. Note: Top study-abroad consultants 8-15L; school counsellors 4-8L; private practice variable. Source: AmbitionBox, NCS.",
+      "confidence": "medium",
+      "domainId": "edu",
+      "domainTitle": "Teaching & Education",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "EDU-10",
+      "name": "Academic Administration / Principal Track",
+      "description": "School/college administration — Vice-Principal, Principal, Director, Dean. Combines teaching experience with management.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "Indirect; UG + B.Ed/M.Ed/PhD",
+      "entry_route": "Degree + Experience",
+      "qualification": "M.Ed / MA Education + 10-15 yr teaching experience; PGDM Education for HE admin",
+      "duration": [
+        "Career path",
+        "not a single degree"
+      ],
+      "entrance_exam": "School-board / private school direct hire; UPSC for KV/NV Principals",
+      "govt_fees": "M.Ed govt ₹20K-50K/year",
+      "private_fees": "PGDM Education ₹3-15 lakh (TISS, IIM-A FPM, Ahmedabad Univ)",
+      "top_institutions": [
+        "TISS Mumbai School of Education (govt, MA Education leadership)",
+        "Azim Premji University Bangalore (private)",
+        "Ambedkar University Delhi MA Education (govt)",
+        "IIM-Ahmedabad School of Education (govt, FPM)",
+        "Ashoka University Education Studies (private)",
+        "Krea University Education (private)"
+      ],
+      "scholarships": [
+        "TISS need-based aid",
+        "Azim Premji Foundation fellowships",
+        "IIM scholarships"
+      ],
+      "abroad_pathways": "EdD or M.Ed Educational Leadership at Harvard, Stanford, IOE London, Toronto. Strong demand for international school principals globally.",
+      "day_in_life": "School admin, staff hiring, student discipline, parent liaison, board interaction, financial planning. Strategic + people-heavy.",
+      "growth_path": "Senior Teacher → Head of Department → Vice Principal → Principal → Director/Dean. Private school principal salaries vary by tier.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": false,
+      "salary_bands": "Vice Principal: 8-18 LPA / Principal (mid-tier): 12-30 LPA / Principal (top private): 30-80 LPA. Note: KVS/NVS Principal Level 12 ₹78,800-2,09,200; top international school principals ₹50L-1.5 Cr. Source: 7th Pay, AmbitionBox.",
+      "confidence": "high",
+      "domainId": "edu",
+      "domainTitle": "Teaching & Education",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "EDU-11",
+      "name": "Teacher Training College Faculty / Education Research",
+      "description": "Lecturers/professors at teacher-education colleges (DIETs, B.Ed colleges, RIE, NCERT). Research at education think tanks.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "Indirect; need M.Ed + UGC NET + PhD often",
+      "entry_route": "Degree → Govt exam (UGC NET / state exams)",
+      "qualification": "M.Ed + UGC NET / NCTE faculty norms; PhD for senior posts",
+      "duration": [
+        "B.Ed 2 yr + M.Ed 2 yr + PhD 4-6 yr"
+      ],
+      "entrance_exam": "UGC NET (Education); state-specific lecturer recruitment (UPLRT, Bihar STET)",
+      "govt_fees": "B.Ed + M.Ed govt fees ₹50K-1.5 lakh total",
+      "private_fees": "Private M.Ed ₹2-5 lakh",
+      "top_institutions": [
+        "NCERT Delhi (govt research/faculty)",
+        "NIEPA Delhi (govt education policy)",
+        "Regional Institute of Education (RIE) - 5 campuses (govt)",
+        "Tata Institute of Social Sciences Mumbai (govt)",
+        "Azim Premji University (private)",
+        "Ambedkar University Delhi School of Education (govt)"
+      ],
+      "scholarships": [
+        "UGC NET-JRF stipend",
+        "ICSSR doctoral fellowship",
+        "Azim Premji PhD fellowship",
+        "INSPIRE for science education"
+      ],
+      "abroad_pathways": "PhD Education at Harvard GSE, Stanford GSE, IOE London, OISE Toronto. Visiting fellowships at Brookings, RAND education research.",
+      "day_in_life": "Mix of teaching pre-service teachers, research, NCERT textbook writing, policy briefs. Slower-paced than school teaching; deep autonomy.",
+      "growth_path": "Asst Professor → Asso Professor → Professor → Director. NCERT/NIEPA director-level roles ₹2-3L/month plus admin posts.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Asst Prof (UGC scale Level 10): 8-13 LPA / Asso Prof: 18-28 LPA / Prof: 25-45 LPA. Note: Same UGC pay as central university; research grants add. Source: UGC pay scale, NCERT.",
+      "confidence": "high",
+      "domainId": "edu",
+      "domainTitle": "Teaching & Education",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "EDU-12",
+      "name": "Early Childhood Care & Education (ECCE)",
+      "description": "Pre-primary teaching (NTT, NCC, Montessori, Reggio Emilia). Growing rapidly under NEP 2020 foundational learning push.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "12th 50% for NTT/Diploma; UG for higher pre-primary",
+      "entry_route": "Diploma / Degree",
+      "qualification": "Nursery Teacher Training (NTT) 1 yr / Diploma in ECCE 2 yr / B.El.Ed 4 yr",
+      "duration": [
+        "1-4 years"
+      ],
+      "entrance_exam": "Institute-specific entrance; CUET for B.El.Ed",
+      "govt_fees": "₹15K-50K total",
+      "private_fees": "₹50K-2 lakh total (Indus Tree Crafts, KIIT, Montessori India)",
+      "top_institutions": [
+        "Lady Irwin College Delhi (govt, B.El.Ed)",
+        "Mata Sundri College Delhi (govt)",
+        "Montessori Training Centre Hyderabad (private, Montessori cert)",
+        "Indian Montessori Centre Bangalore (private)",
+        "Tagore International College of ECCE (private)",
+        "NCERT ECCE programs (govt)"
+      ],
+      "scholarships": [
+        "Lady Irwin SC/ST aid",
+        "AICTE Pragati for girls"
+      ],
+      "abroad_pathways": "Montessori AMI/AMS certification globally recognized. Strong demand at Singapore, UAE, Hong Kong international preschools.",
+      "day_in_life": "Pre-primary classes, play-based learning, parent communication, child development tracking. Lower stress than primary; high physical engagement.",
+      "growth_path": "Nursery Teacher → Senior Pre-K → Coordinator → Pre-Primary Director / School Principal. International Montessori network for global movement.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 2-4 LPA / Mid: 4-10 LPA / Senior (Director): 10-25 LPA. Note: Premium Montessori chains (Bachpan, Kidzee, Eurokids) Director roles 12-25L; UAE pre-K teachers ₹15-30L. Source: AmbitionBox, NCS.",
+      "confidence": "medium",
+      "domainId": "edu",
+      "domainTitle": "Teaching & Education",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "EDU-13",
+      "name": "PhD / Research Track (Pre-Faculty)",
+      "description": "Direct path to academic research career — IIT/IISER/IIM/central university PhDs as pre-faculty pipeline.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "Indirect; need PG with 55%+",
+      "entry_route": "Govt exam (UGC NET-JRF, GATE for IIT, JEST, etc.)",
+      "qualification": "PG with 55%; PhD admission via JRF/GATE/institute entrance + interview",
+      "duration": [
+        "PhD 4-6 years",
+        "sometimes Integrated MS-PhD 5 yrs"
+      ],
+      "entrance_exam": "UGC NET-JRF, GATE, CSIR NET, JEST, IIT JAM (for MSc → PhD), institute-specific",
+      "govt_fees": "IIT/IIM/IISc/IISER PhD nearly free + ₹37K-42K stipend",
+      "private_fees": "Limited private PhD; OPJU, Symbiosis, Manipal ₹1-3 lakh/yr",
+      "top_institutions": [
+        "IISc Bangalore (govt)",
+        "IITs Bombay/Madras/Delhi (govt)",
+        "IISER Pune/Kolkata/Mohali (govt)",
+        "TIFR Mumbai (govt)",
+        "Indian Institute of Management Ahmedabad/Bangalore FPM (govt)",
+        "Central universities — JNU, DU, BHU (govt)"
+      ],
+      "scholarships": [
+        "UGC NET-JRF (₹37-42K/month)",
+        "DBT JRF (Bio)",
+        "INSPIRE Faculty (post-PhD)",
+        "Wellcome-DBT alliance",
+        "PMRF (PM Research Fellowship)"
+      ],
+      "abroad_pathways": "Direct PhD abroad — funded at MIT, Stanford, Harvard, Cambridge, ETH, Max Planck. Postdoc routes after Indian PhD common.",
+      "day_in_life": "Research lab work, paper writing, conference presentations, teaching assistant duties. Long hours but flexible; PhD years are formative for academic career.",
+      "growth_path": "PhD → Postdoc (1-3 yr) → Asst Prof → Asso Prof → Prof. INSPIRE Faculty Award post-PhD gives 5 yrs ₹35K stipend + ₹35L research grant. Strong industry exits to R&D roles.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "PhD stipend: 4-5 LPA / Postdoc: 6-12 LPA / Asst Prof (post-PhD): 8-13 LPA / Mid (Asso Prof): 18-30 LPA / Senior (Prof): 25-50 LPA. Note: Industry R&D scientist 15-30L; data science exit even higher. Source: UGC, CSIR.",
+      "confidence": "high",
+      "domainId": "edu",
+      "domainTitle": "Teaching & Education",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    }
+  ],
+  "confidence_notes": [
+    "KVS 9,126 vacancies and KVS-NVS 5,841 combined verified for 2026; salary scales (Level 5/6/7) verified from 7th Pay Commission and KVS 2026 notification.",
+    "CTET cert is now lifetime-valid since 2021; UGC NET-JRF stipend ₹37-42K confirmed.",
+    "EdTech salaries flagged 'medium' confidence — sector volatility post-2024 BYJU's collapse means data is rapidly changing; star teacher comp varies hugely by platform and revenue-share deals.",
+    "Special Education salaries verified via getmyuni, RCI registry, and HPRCA 2025-26 recruitment notification (270 special-educator vacancies).",
+    "ECCE/Pre-primary salaries are relatively undocumented; ranges based on Bachpan/Kidzee/Eurokids public salary disclosures + AmbitionBox."
+  ]
+}

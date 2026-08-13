@@ -1,0 +1,914 @@
+{
+  "id": "des",
+  "title": "Design",
+  "tagline": "Beyond graphic and UX: industrial, jewellery, automotive, footwear, leather, ceramic — 18 distinct design specialisations.",
+  "color": "#9a4d3a",
+  "overview": "Design education in India runs on three competitive pillars — NID DAT (Dec 21 2025 prelims for 2026 admissions; ~425 B.Des seats nationally), NIFT Entrance Exam (NIFTEE, Feb 8 2026; 18 NIFT campuses), and UCEED for IIT Bombay/Guwahati/Hyderabad/Delhi B.Des — supplemented by strong private/semi-govt routes (CEPT Ahmedabad, Srishti Bangalore, MIT-ID Pune, Pearl Academy, Symbiosis SID). The 2026 reality: UX/UI and product design dominate the high-pay end (₹15-50 LPA at MAANG India), while industrial, transportation, jewellery, and footwear design are severely undersupplied niches with strong abroad pathways. NID Ahmedabad B.Des total programme cost is around ₹19.29 lakh — high for a design degree, but placement medians at top studios (Microsoft, Google, Tata Elxsi, Mahindra Auto Design, Titan) make ROI strong. CEED is the entrance for M.Des at IITs — a strong B.Tech-to-design pivot.",
+  "key_insights": [
+    "UX/UI design at MAANG India offers the highest design fresher salaries (₹15-30 LPA at Google/Microsoft/Adobe India) — outpacing most non-CS engineering roles.",
+    "Transportation/automotive design is severely undersupplied — Mahindra, Tata Motors, Maruti, M&M, Bajaj hire NID/Pforzheim grads at premium; foreign automotive houses (BMW DesignWorks, Pininfarina) recruit Indian talent.",
+    "Jewellery design (NIFT, GIA, JD Institute) is a high-margin self-employment-friendly path; Indian craftsmanship plus global certifications (GIA Graduate Gemologist) commands premium.",
+    "Animation and game design industry has stabilised post-2024; core demand from Mumbai-based studios (Reliance Entertainment, Toonz, Tata Elxsi), and AAA Indian studios (Studio Sirah, GameEon, Rovio Bangalore) is growing.",
+    "Footwear design (FDDI Noida, NIFT Accessory Design) is one of India's most under-applied design niches — Adidas/Nike/Bata India hire fresher footwear designers at ₹6-12 LPA."
+  ],
+  "sub_paths": [
+    {
+      "id": "DES-01",
+      "name": "Product Design (B.Des)",
+      "description": "User-centered design of physical and digital products — ergonomics, materials, prototyping. Core NID/CEED specialty.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "12th pass; NID DAT/UCEED cutoff dominant",
+      "entry_route": "Degree",
+      "qualification": "B.Des Product Design / Industrial Design",
+      "duration": [
+        "4 years"
+      ],
+      "entrance_exam": "NID DAT (Prelims Dec 21 2025), UCEED 2026, CEED (PG), NIFT (limited product), MIT-ID DAT, Pearl Academy entrance",
+      "govt_fees": "NID Ahmedabad/Bengaluru ~19 lakh total; IIT Bombay IDC B.Des ~10-13 lakh; UCEED IIT route similar",
+      "private_fees": "MIT-ID Pune 16-22 lakh; Srishti Bangalore 16-25 lakh; Pearl Academy 12-18 lakh; Symbiosis Institute of Design 14-20 lakh",
+      "top_institutions": [
+        "NID Ahmedabad (govt)",
+        "NID Bengaluru / Gandhinagar (govt)",
+        "IIT Bombay IDC School of Design (govt)",
+        "IIT Guwahati Dept of Design (govt)",
+        "MIT Institute of Design Pune (private)",
+        "Srishti Manipal Institute of Art Design Tech Bengaluru (private)"
+      ],
+      "scholarships": [
+        "NID merit-cum-means",
+        "UCEED-IIT MCM",
+        "Citi-NID scholarships",
+        "Inlaks (PG abroad)",
+        "INSPIRE for design research"
+      ],
+      "abroad_pathways": "M.Des at RCA London, Pratt NYC, Politecnico Milano, Delft TU, NUS Singapore. Direct industrial-design jobs at Apple, Google, Microsoft, Samsung Design hubs.",
+      "day_in_life": "Sketching/CAD work (Rhino, Solidworks, Fusion 360), prototyping in studio, user research, design reviews. Mix of digital and physical making.",
+      "growth_path": "Junior Designer → Senior → Lead → Design Director / Studio Owner. Mahindra, Tata Elxsi, Titan, Wipro Design, Microsoft Design hire heavily.",
+      "underrated": false,
+      "low_budget": false,
+      "low_percent": true,
+      "salary_bands": "Fresher: 6-15 LPA / Mid: 14-30 LPA / Senior: 30-80 LPA. Note: NID/IIT placements ₹10-20L median; private studios 5-10L; MAANG India product designer 15-30L. Source: NID/IIT placement reports.",
+      "confidence": "high",
+      "domainId": "des",
+      "domainTitle": "Design",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "DES-02",
+      "name": "UX / UI Design",
+      "description": "User-experience and interface design for digital products — research, wireframes, visual design, prototyping. Highest-paying design specialty in India.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "12th pass; portfolio more important than %",
+      "entry_route": "Degree / Certification / Skill-first",
+      "qualification": "B.Des UX/UI / B.A in Design / Self-taught + bootcamp portfolio",
+      "duration": [
+        "4 yrs (B.Des) / 6-12 mo (bootcamp)"
+      ],
+      "entrance_exam": "NID DAT, UCEED, NIFT, ID&A entrance, bootcamp portfolio review",
+      "govt_fees": "NID/IIT routes 10-19 lakh; CUET-supported BA Design ₹50K-2L",
+      "private_fees": "Srishti/MIT-ID 16-25 lakh; Designboat Mumbai 1-3 lakh; Coursera Google UX cert ~₹3-5K",
+      "top_institutions": [
+        "NID Ahmedabad - New Media Design (govt)",
+        "IIT Bombay IDC (govt)",
+        "Srishti Manipal (private)",
+        "MIT Institute of Design Pune (private)",
+        "DesignBoat UI/UX School Mumbai (private)",
+        "Internshala / Coursera / Google UX Cert (private MOOCs)"
+      ],
+      "scholarships": [
+        "NID MCM",
+        "Google UX cert financial aid",
+        "Internshala scholarships"
+      ],
+      "abroad_pathways": "MS HCI at CMU, Georgia Tech, UW Seattle, KAIST. Direct UX jobs at Google, Apple, Meta abroad with India-trained portfolios.",
+      "day_in_life": "User research, wireframing in Figma, prototyping, design reviews, dev handoff. Very screen-heavy; collaboration with PMs and engineers.",
+      "growth_path": "UX Designer → Senior → Lead → Design Director / Head of Design. Strong founder track; UX-design consultancies (FoundingMinds, Lollypop) hire heavily.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 6-15 LPA / Mid: 15-35 LPA / Senior: 30-1 Cr+. Note: MAANG India UX 15-30L start; product startups 8-18L; design agencies 5-12L. Source: AmbitionBox, LinkedIn Salary.",
+      "confidence": "high",
+      "domainId": "des",
+      "domainTitle": "Design",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "DES-03",
+      "name": "Graphic / Communication Design",
+      "description": "Visual identity, branding, print, digital communication design. Mainstream design career with broad employer base.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "12th pass; portfolio strength matters most",
+      "entry_route": "Degree / Diploma",
+      "qualification": "B.Des Communication Design / BFA Applied Arts / Diploma in Graphic Design",
+      "duration": [
+        "4 yrs (B.Des/BFA) / 1-2 yrs (Diploma)"
+      ],
+      "entrance_exam": "NID DAT, NIFT, UCEED, Sir JJ entrance, university tests",
+      "govt_fees": "NID 19 lakh; Sir JJ Mumbai ~50,000 total; College of Art Delhi 50K-1 lakh",
+      "private_fees": "Pearl Academy/Srishti/MIT-ID 12-22 lakh; Whistling Woods 8-15 lakh",
+      "top_institutions": [
+        "NID Ahmedabad - Communication Design (govt)",
+        "Sir J.J. Institute of Applied Art Mumbai (govt)",
+        "College of Art New Delhi (govt)",
+        "Pearl Academy Delhi/Mumbai (private)",
+        "Srishti Manipal (private)",
+        "Whistling Woods School of Visual Communication Mumbai (private)"
+      ],
+      "scholarships": [
+        "NID MCM",
+        "Sir JJ merit",
+        "Pearl Academy bursary",
+        "Whistling Woods scholarships"
+      ],
+      "abroad_pathways": "M.Des / MA at RCA, Parsons, RISD, ArtCenter Pasadena, Konstfack Stockholm. Branding/agency hiring globally.",
+      "day_in_life": "Logo/brand-identity work, layout design, print production, social-media/digital assets. Adobe Suite + Figma daily.",
+      "growth_path": "Junior Designer → Senior → Art Director → Creative Director. Agencies (Ogilvy, Wieden+Kennedy India, Leo Burnett) and design studios (Codesign, Lopez Design, Elephant).",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 3.5-8 LPA / Mid: 8-18 LPA / Senior: 18-50 LPA. Note: Top agencies 6-12L start; brand-design studios 5-10L; senior creative directors 25-60L. Source: AmbitionBox, agency disclosures.",
+      "confidence": "high",
+      "domainId": "des",
+      "domainTitle": "Design",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "DES-04",
+      "name": "Fashion Design (NIFT route)",
+      "description": "Apparel design, textiles, fashion merchandising — primary route via NIFT 18-campus network.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "12th pass; NIFT entrance cutoff dominant",
+      "entry_route": "Degree",
+      "qualification": "B.Des Fashion / B.F.Tech Apparel / B.Des Knitwear",
+      "duration": [
+        "4 years"
+      ],
+      "entrance_exam": "NIFT Entrance Exam (NIFTEE, Feb 8 2026); CEED for PG; NID DAT (some)",
+      "govt_fees": "NIFT (govt-aided) 12-15 lakh total across 4 yrs",
+      "private_fees": "Pearl Academy/JD Institute/INIFD/IIFT 10-18 lakh",
+      "top_institutions": [
+        "NIFT Delhi (govt)",
+        "NIFT Mumbai (govt)",
+        "NIFT Bangalore (govt)",
+        "NIFT Hyderabad (govt)",
+        "Pearl Academy Delhi (private)",
+        "JD Institute of Fashion Technology (private)"
+      ],
+      "scholarships": [
+        "NIFT means-cum-merit",
+        "AICTE Pragati for girls",
+        "GoI textile-ministry scholarships",
+        "private CSR (Reliance Foundation)"
+      ],
+      "abroad_pathways": "MA at Central Saint Martins London, Parsons NYC, Bunka Tokyo, Polimoda Florence, Marangoni Milan. Direct hiring at H&M, Zara, Adidas design teams.",
+      "day_in_life": "Trend research, sketching collections, sourcing fabrics, sample fittings, fashion shows. Mix of studio and field work; fashion-week busy seasons.",
+      "growth_path": "Junior Designer → Senior → Fashion Designer → Creative Director / Independent Label. Labels — FabIndia, Anita Dongre, Sabyasachi, Ritu Kumar — and brand-design teams at Myntra, Zara, H&M.",
+      "underrated": false,
+      "low_budget": false,
+      "low_percent": true,
+      "salary_bands": "Fresher: 3-8 LPA / Mid: 7-18 LPA / Senior: 18-50 LPA. Note: NIFT placement medians 5-9L; designer-label hiring 4-10L; corporate fashion (Myntra, Reliance Trends) 6-15L. Source: NIFT placement reports.",
+      "confidence": "high",
+      "domainId": "des",
+      "domainTitle": "Design",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "DES-05",
+      "name": "Interior Design",
+      "description": "Residential, commercial, hospitality interior design — space planning, materials, lighting, furniture specification.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "12th pass; portfolio + entrance test",
+      "entry_route": "Degree / Diploma",
+      "qualification": "B.Des Interior / B.A. Interior Design / 1-2 yr Diploma",
+      "duration": [
+        "4 yrs (B.Des) / 1-2 yrs (Diploma)"
+      ],
+      "entrance_exam": "NID DAT, NIFT, IIAD entrance, Pearl Academy, university tests",
+      "govt_fees": "Sir JJ School of Art ~50,000 total; CEPT (semi-govt) 15-22 lakh",
+      "private_fees": "IIAD Delhi/Pearl/Symbiosis 12-22 lakh; INIFD 4-10 lakh",
+      "top_institutions": [
+        "CEPT University Ahmedabad (semi-govt)",
+        "Sir J.J. School of Art Mumbai (govt)",
+        "School of Planning & Architecture Delhi/Bhopal/Vijayawada (govt)",
+        "Indian Institute of Art and Design Delhi (private)",
+        "Pearl Academy Delhi/Mumbai (private)",
+        "Symbiosis Institute of Design (private)"
+      ],
+      "scholarships": [
+        "CEPT need-based aid",
+        "Pearl Academy merit",
+        "Sir JJ scholarships",
+        "INTACH heritage internships"
+      ],
+      "abroad_pathways": "M.Des at Pratt, RISD, Politecnico Milano, RMIT Australia. Strong UAE/Singapore/UK hospitality-design hiring.",
+      "day_in_life": "Site visits, AutoCAD/SketchUp/Revit work, mood boards, vendor coordination, client presentations. Mix of studio and on-site.",
+      "growth_path": "Junior Designer → Senior → Design Lead → Studio Owner. Major studios (Studio Lotus, Hirsch Bedner, Rajesh Renganathan, RKHS) and hospitality firms (Taj, Oberoi, Marriott design teams).",
+      "underrated": false,
+      "low_budget": false,
+      "low_percent": true,
+      "salary_bands": "Fresher: 3-8 LPA / Mid: 8-18 LPA / Senior: 18-50 LPA. Note: Top studios 5-10L start; self-employed studio founders highly variable; hospitality-design specialists 10-25L. Source: AmbitionBox, CEPT placement.",
+      "confidence": "high",
+      "domainId": "des",
+      "domainTitle": "Design",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "DES-06",
+      "name": "Animation & VFX",
+      "description": "2D/3D animation, character design, VFX compositing, motion graphics. Mumbai/Hyderabad studio sector growing.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "12th pass; demo reel + portfolio matters most",
+      "entry_route": "Degree / Diploma",
+      "qualification": "B.Des Animation / B.Sc Animation & VFX / 1-2 yr Diploma",
+      "duration": [
+        "3-4 yrs (B.Sc/B.Des) / 1-2 yrs (Diploma)"
+      ],
+      "entrance_exam": "NID DAT (Animation), NIFT, MIT-ID, FTII Pune entrance, institute tests",
+      "govt_fees": "NID/FTII 10-19 lakh; Whistling Woods (private) 12-20 lakh",
+      "private_fees": "Arena/MAAC/Picasso Animation 1-5 lakh; Whistling Woods/IIFA Bangalore 12-18 lakh",
+      "top_institutions": [
+        "NID Ahmedabad - Animation Film Design (govt)",
+        "Film and Television Institute of India (FTII) Pune (govt)",
+        "Whistling Woods International Mumbai (private)",
+        "Arena Animation (private, India network)",
+        "MAAC Mumbai/Bangalore (private)",
+        "ICAT Design Media College Hyderabad (private)"
+      ],
+      "scholarships": [
+        "NID MCM",
+        "FTII fellowships",
+        "Whistling Woods scholarships",
+        "Arena merit"
+      ],
+      "abroad_pathways": "M.Des/MA at CalArts, USC SCA, Sheridan Toronto, Gobelins Paris, Vancouver Film School. Pixar, DreamWorks, ILM hiring abroad.",
+      "day_in_life": "Storyboarding, modeling, rigging, animation, lighting, comping. Long hours during render crunches. Studios run on production deadlines.",
+      "growth_path": "Junior Animator → Senior → Lead → Director / Producer. Studios — Reliance Animation, Toonz Trivandrum, DNEG India, Tata Elxsi VFX, Studio Eeksaurus.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 2.5-7 LPA / Mid: 7-18 LPA / Senior: 18-60 LPA. Note: DNEG India / Technicolor 5-12L mid; Reliance Animation 4-10L; senior VFX supervisors 30-60L+. Source: AmbitionBox.",
+      "confidence": "medium",
+      "domainId": "des",
+      "domainTitle": "Design",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "DES-07",
+      "name": "Game Design",
+      "description": "Game design, level design, narrative design, gameplay programming. Indian gaming industry growing post-Krafton/Tencent investments.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "12th pass; portfolio dominant",
+      "entry_route": "Degree / Diploma",
+      "qualification": "B.Des Game Design / B.Sc Game Design / 1-2 yr Diploma",
+      "duration": [
+        "3-4 yrs"
+      ],
+      "entrance_exam": "NID DAT (limited Game Design), NIFT, institute-specific tests",
+      "govt_fees": "NID 19 lakh; IIIT-D Game Design 10-15 lakh",
+      "private_fees": "ICAT/Backstage Pass Hyderabad/IIDE Mumbai 4-12 lakh",
+      "top_institutions": [
+        "Backstage Pass Institute of Gaming Hyderabad (private)",
+        "ICAT Design Media College Hyderabad/Bengaluru (private)",
+        "MIT Institute of Design Pune - Game Design (private)",
+        "DSK Supinfocom International Pune (private, AAA-focused)",
+        "IIIT Delhi (govt, game research crossover)",
+        "Whistling Woods Game Design Mumbai (private)"
+      ],
+      "scholarships": [
+        "DSK Supinfocom merit",
+        "Backstage Pass scholarships",
+        "Krafton India cadet/fellowship",
+        "private studio internships"
+      ],
+      "abroad_pathways": "MS at USC Interactive Media, NYU Game Center, Carnegie Mellon ETC, Abertay UK (Dundee). AAA game-studio hiring abroad.",
+      "day_in_life": "Game-mechanics prototyping, Unity/Unreal work, narrative design, playtesting, post-launch updates. Crunch periods around launches.",
+      "growth_path": "Junior Game Designer → Senior → Lead → Game Director. Indian studios — Studio Sirah, GameEon, Rovio Bangalore, Krafton India, NodWin Gaming, ZeptoLab.",
+      "underrated": true,
+      "low_budget": false,
+      "low_percent": true,
+      "salary_bands": "Fresher: 4-10 LPA / Mid: 10-22 LPA / Senior: 22-60 LPA. Note: Indian indie studios 4-8L start; Krafton/Riot India type roles 12-25L; senior designers at established studios 25-50L. Source: AmbitionBox.",
+      "confidence": "medium",
+      "domainId": "des",
+      "domainTitle": "Design",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "DES-08",
+      "name": "Industrial Design",
+      "description": "Mass-manufactured product design — appliances, consumer electronics, automotive components, medical devices.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "12th pass; NID DAT/UCEED cutoff dominant",
+      "entry_route": "Degree",
+      "qualification": "B.Des / M.Des Industrial Design",
+      "duration": [
+        "B.Des 4 yrs / M.Des 2.5 yrs"
+      ],
+      "entrance_exam": "NID DAT, UCEED, CEED",
+      "govt_fees": "NID 19 lakh; IIT IDC 10-13 lakh",
+      "private_fees": "MIT-ID Pune 16-22 lakh; Srishti 16-25 lakh",
+      "top_institutions": [
+        "NID Ahmedabad (govt)",
+        "IIT Bombay IDC (govt)",
+        "IIT Guwahati Dept of Design (govt)",
+        "IIT Delhi Design (govt)",
+        "MIT Institute of Design Pune (private)",
+        "Srishti Manipal Bengaluru (private)"
+      ],
+      "scholarships": [
+        "NID/IIT MCM",
+        "INSPIRE design",
+        "Citi-NID",
+        "Inlaks for PG abroad"
+      ],
+      "abroad_pathways": "M.Des at RCA, Pratt, ArtCenter Pasadena, Politecnico Milano, Delft, Umeå Sweden. Strong Apple/Dyson/IDEO hiring abroad.",
+      "day_in_life": "CAD modelling (Rhino, Solidworks), prototyping, materials research, manufacturing handoff. Mix of studio and factory floor.",
+      "growth_path": "Junior Designer → Senior → Design Lead → Studio Director. Tata Elxsi, Wipro Design, Onio (in-house at Eureka Forbes/Bajaj), Mahindra Auto Design, Titan.",
+      "underrated": true,
+      "low_budget": false,
+      "low_percent": true,
+      "salary_bands": "Fresher: 5-12 LPA / Mid: 12-25 LPA / Senior: 25-70 LPA. Note: Tata Elxsi 6-12L; Wipro Design 8-15L; senior at OEMs 25-50L. Source: NID/IIT placements, AmbitionBox.",
+      "confidence": "high",
+      "domainId": "des",
+      "domainTitle": "Design",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "DES-09",
+      "name": "Textile Design",
+      "description": "Fabric and surface design — weave, print, knit. Strong link to Indian textile heritage industry.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "12th pass; NID DAT / NIFT cutoff",
+      "entry_route": "Degree",
+      "qualification": "B.Des Textile Design",
+      "duration": [
+        "4 years"
+      ],
+      "entrance_exam": "NID DAT, NIFT Entrance",
+      "govt_fees": "NID 19 lakh; NIFT 12-15 lakh",
+      "private_fees": "Pearl Academy 12-18 lakh; Symbiosis SID 14-20 lakh",
+      "top_institutions": [
+        "NID Ahmedabad - Textile Design (govt)",
+        "NIFT Delhi/Mumbai/Bengaluru (govt)",
+        "Sir J.J. Institute of Applied Art (govt)",
+        "Banaras Hindu University - Textile (govt)",
+        "Pearl Academy (private)",
+        "Symbiosis Institute of Design (private)"
+      ],
+      "scholarships": [
+        "NID MCM",
+        "NIFT means-cum-merit",
+        "AICTE Pragati",
+        "Reliance Foundation textile scholarships"
+      ],
+      "abroad_pathways": "MA at Royal College of Art London, Chelsea, Politecnico Milano. Strong India craft-revival movement also brings UNESCO consultancy openings.",
+      "day_in_life": "Loom/print studio work, surface-pattern design (Photoshop, dedicated tools), weaver/printer collaboration, mill visits.",
+      "growth_path": "Junior Textile Designer → Senior → Studio Lead. FabIndia, Good Earth, Welspun, Raymond, ITC Mangaldeep, Anokhi top employers; craft-revival NGOs (Dastkari Haat) for those interested.",
+      "underrated": true,
+      "low_budget": false,
+      "low_percent": true,
+      "salary_bands": "Fresher: 3-7 LPA / Mid: 7-15 LPA / Senior: 15-35 LPA. Note: FabIndia/Good Earth 4-8L; Welspun corporate 6-12L; designer-label work variable. Source: AmbitionBox, NID/NIFT placements.",
+      "confidence": "medium",
+      "domainId": "des",
+      "domainTitle": "Design",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "DES-10",
+      "name": "Jewellery Design",
+      "description": "Fine jewellery and gemstone design — combining traditional Indian craftsmanship with contemporary techniques. Strong export industry.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "12th pass; entrance/portfolio",
+      "entry_route": "Degree / Diploma",
+      "qualification": "B.Des Jewellery / Diploma in Jewellery Design + GIA Graduate Gemologist",
+      "duration": [
+        "4 yrs (B.Des) / 1-2 yrs (Diploma)"
+      ],
+      "entrance_exam": "NIFT, IIGJ entrance, JD Institute, GIA institute test",
+      "govt_fees": "NIFT Accessory Design 12-15 lakh; IIGJ Mumbai (semi-govt) 1-3 lakh",
+      "private_fees": "GIA India Mumbai 5-15 lakh (incl. GG cert); Pearl Academy 12-18 lakh; JD Institute 4-10 lakh",
+      "top_institutions": [
+        "Indian Institute of Gem & Jewellery (IIGJ) Mumbai (semi-govt, GJEPC)",
+        "NIFT Accessory Design - Delhi/Mumbai/Hyderabad (govt)",
+        "Gemological Institute of America (GIA) Mumbai (private)",
+        "JD Institute of Fashion Technology (private)",
+        "Symbiosis Institute of Design (private)",
+        "Indian Diamond Institute Surat (semi-govt)"
+      ],
+      "scholarships": [
+        "GJEPC IIGJ scholarship",
+        "GIA need-based",
+        "AICTE Pragati"
+      ],
+      "abroad_pathways": "MA at Central Saint Martins London, RCA, FIT NYC, HRD Antwerp. Antwerp/Hong Kong/Tel Aviv jewellery trade major hubs.",
+      "day_in_life": "CAD jewellery design (Matrix, Rhino), gem grading lab work, prototyping (3D printing, casting), bench work with karigars (artisans).",
+      "growth_path": "Junior Designer → Senior → Design Head → Independent Label / Atelier. Tanishq/Kalyan/Joyalukkas/PCJ/Nirav Modi-style designer ateliers, plus export houses.",
+      "underrated": true,
+      "low_budget": false,
+      "low_percent": true,
+      "salary_bands": "Fresher: 3-8 LPA / Mid: 8-18 LPA / Senior (designer-label): 15-50 LPA. Note: Tanishq/Kalyan 4-7L; export houses 5-12L; independent designer-jewellers earn variable but high-margin. Source: AmbitionBox, GJEPC.",
+      "confidence": "medium",
+      "domainId": "des",
+      "domainTitle": "Design",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "DES-11",
+      "name": "Transportation / Automotive Design",
+      "description": "Car, motorcycle, aircraft, EV vehicle design. Severely undersupplied niche; OEMs and design houses prize NID/Pforzheim grads.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "12th pass; NID DAT/UCEED entry",
+      "entry_route": "Degree",
+      "qualification": "B.Des Mobility/Transportation Design / M.Des",
+      "duration": [
+        "B.Des 4 yrs / M.Des 2.5 yrs"
+      ],
+      "entrance_exam": "NID DAT, UCEED, CEED, DSK Supinfocom entrance",
+      "govt_fees": "NID 19 lakh; IIT IDC 10-13 lakh",
+      "private_fees": "DSK Supinfocom Pune 18-25 lakh; ISDI Mumbai 18-25 lakh",
+      "top_institutions": [
+        "NID Ahmedabad - Transportation Design (govt)",
+        "DSK International School of Design (DSK ISD) Pune (private)",
+        "ISDI School of Design Mumbai (private)",
+        "MIT Institute of Design Pune (private)",
+        "IIT Bombay IDC - Mobility (govt)",
+        "Mahindra Design Studio (firm in-house mentorship)"
+      ],
+      "scholarships": [
+        "NID MCM",
+        "DSK Supinfocom merit",
+        "Mahindra/Tata Motors design fellowships"
+      ],
+      "abroad_pathways": "M.Des at Pforzheim Germany, ArtCenter Pasadena, RCA, Politecnico Milano. Direct hiring at BMW DesignWorks, Pininfarina, Studio F.A. Porsche, Mercedes-Benz.",
+      "day_in_life": "Sketching (Wacom/iPad), Alias modelling, clay modelling, design studio reviews. Long-cycle projects (3-5 yr concept-to-production).",
+      "growth_path": "Junior Designer → Senior → Studio Lead → Design Director / VP Design. Mahindra Auto Design (Mumbai/Pininfarina), Tata Motors Design (Pune/UK), Maruti Suzuki Design (Gurugram), Royal Enfield Design.",
+      "underrated": true,
+      "low_budget": false,
+      "low_percent": true,
+      "salary_bands": "Fresher: 6-15 LPA / Mid: 15-35 LPA / Senior: 35-1.5 Cr. Note: Mahindra/Tata/Maruti design 8-15L start; international design houses 25-60L; Studio F.A. Porsche India / BMW DesignWorks Mumbai pay premium. Source: NID placements, OEM disclosures.",
+      "confidence": "medium",
+      "domainId": "des",
+      "domainTitle": "Design",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "DES-12",
+      "name": "Communication / Visual Design (M.Des / Editorial)",
+      "description": "Editorial/publication design, motion design, information design. Distinct from generalist graphic design with stronger conceptual depth.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "12th pass; NID/UCEED-CEED route",
+      "entry_route": "Degree",
+      "qualification": "B.Des Communication Design / M.Des Visual Communication",
+      "duration": [
+        "B.Des 4 yrs / M.Des 2.5 yrs"
+      ],
+      "entrance_exam": "NID DAT, UCEED, CEED",
+      "govt_fees": "NID 19 lakh; IIT IDC 10-13 lakh",
+      "private_fees": "Srishti/MIT-ID/Pearl 16-22 lakh",
+      "top_institutions": [
+        "NID Ahmedabad - Graphic Design (govt)",
+        "IIT Bombay IDC - Visual Communication (govt)",
+        "IIT Guwahati Dept of Design (govt)",
+        "Srishti Manipal (private)",
+        "MIT-ID Pune (private)",
+        "Sir J.J. Institute of Applied Art (govt)"
+      ],
+      "scholarships": [
+        "NID MCM",
+        "IIT IDC MCM",
+        "Inlaks (PG abroad)"
+      ],
+      "abroad_pathways": "M.Des at RCA, RISD, Yale Graphic Design, Konstfack, Werkplaats Typografie Netherlands.",
+      "day_in_life": "Editorial design for magazines/books, motion-design for screen, infographics, system design. Heavy collaboration with editors and content teams.",
+      "growth_path": "Junior Visual Designer → Senior → Art Director → Creative Director. Editorial roles at Penguin India, HarperCollins, magazine editorial design, motion-graphics studios.",
+      "underrated": true,
+      "low_budget": false,
+      "low_percent": true,
+      "salary_bands": "Fresher: 4-9 LPA / Mid: 9-20 LPA / Senior: 20-50 LPA. Note: Editorial design at major publishers 5-10L; motion design at boutiques 6-15L; senior creative directors 25-50L. Source: AmbitionBox.",
+      "confidence": "medium",
+      "domainId": "des",
+      "domainTitle": "Design",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "DES-13",
+      "name": "Exhibition / Spatial / Retail Design",
+      "description": "Trade show, museum exhibits, retail-store, brand-experience design. Combines architecture-adjacency with graphic + interactive.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "12th pass; NID/CEPT entrance",
+      "entry_route": "Degree",
+      "qualification": "B.Des Exhibition / M.Des Exhibition / Spatial Design",
+      "duration": [
+        "B.Des 4 yrs / M.Des 2.5 yrs"
+      ],
+      "entrance_exam": "NID DAT, UCEED, CEED, CEPT entrance",
+      "govt_fees": "NID 19 lakh; CEPT 18-22 lakh; SPA Delhi 4-8 lakh",
+      "private_fees": "MIT-ID/Srishti 16-25 lakh",
+      "top_institutions": [
+        "NID Ahmedabad - Exhibition Design (govt)",
+        "CEPT University Ahmedabad (semi-govt)",
+        "School of Planning & Architecture Delhi (govt)",
+        "MIT-ID Pune (private)",
+        "Srishti Manipal (private)",
+        "ISDI Mumbai (private)"
+      ],
+      "scholarships": [
+        "NID MCM",
+        "CEPT need-based"
+      ],
+      "abroad_pathways": "M.Des at RCA, Bartlett UCL, Pratt Spatial Design, ETH Zurich.",
+      "day_in_life": "3D modelling spaces, fabrication coordination, on-site installation. Strong project-based work; trade shows and museum projects.",
+      "growth_path": "Junior Designer → Senior → Project Lead → Studio Director. Studios — Phenomena Design Mumbai, FRDC, Chrome Pictures, Reliance brand-experience teams.",
+      "underrated": true,
+      "low_budget": false,
+      "low_percent": true,
+      "salary_bands": "Fresher: 3.5-8 LPA / Mid: 8-18 LPA / Senior: 18-45 LPA. Note: Trade-show/exhibition firms 4-8L start; museum/heritage exhibition higher; brand-experience studios 6-15L. Source: AmbitionBox.",
+      "confidence": "low",
+      "domainId": "des",
+      "domainTitle": "Design",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "DES-14",
+      "name": "Ceramic / Glass Design",
+      "description": "Functional and sculptural ceramics, glassware design — manufacturing, studio practice, craft-revival.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "12th pass; NID DAT entry",
+      "entry_route": "Degree",
+      "qualification": "B.Des Ceramic & Glass Design",
+      "duration": [
+        "4 years"
+      ],
+      "entrance_exam": "NID DAT (Ceramic & Glass Design)",
+      "govt_fees": "NID 19 lakh",
+      "private_fees": "Limited; mostly NID/IIT route. Pearl/Srishti electives 12-22 lakh",
+      "top_institutions": [
+        "NID Ahmedabad - Ceramic & Glass Design (govt)",
+        "IIT Bombay IDC (govt, allied)",
+        "MS University Vadodara - Faculty of Fine Arts (govt)",
+        "Govt College of Fine Arts Chennai (govt)",
+        "Andretta Pottery Himachal (NGO craft-revival)",
+        "Sanskriti Foundation Delhi (NGO)"
+      ],
+      "scholarships": [
+        "NID MCM",
+        "Sanskriti Awards",
+        "Charles Wallace India Trust crafts"
+      ],
+      "abroad_pathways": "M.Des/MA at RCA, Cranbrook USA, ENSCI Paris. Specialty crafts pathway via residencies (Skagaströnd Iceland, Hospitalfield Scotland).",
+      "day_in_life": "Studio work — wheel throwing/handbuilding, kiln firing, glaze chemistry. Slow-paced craft/design hybrid; studio-practice founders run own kilns.",
+      "growth_path": "Junior Designer → Senior → Studio Owner. Industry employers — Cera Sanitaryware, Orient Bell, Nitco; studio-practice route via Andretta, Auroville, Khurja.",
+      "underrated": true,
+      "low_budget": false,
+      "low_percent": true,
+      "salary_bands": "Fresher: 3-7 LPA / Mid: 7-15 LPA / Senior (studio owner): 8-25 LPA. Note: Ceramic studio work generally lower-pay than digital design; Cera/Orient industrial 4-8L; studio-practice income variable. Source: AmbitionBox, NID placements.",
+      "confidence": "low",
+      "domainId": "des",
+      "domainTitle": "Design",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "DES-15",
+      "name": "Leather Design (FDDI / NIFT)",
+      "description": "Leather goods, footwear, accessories design — FDDI Noida is the central national institute. Niche with strong export pathway.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "12th pass; FDDI AIST or NIFT entrance",
+      "entry_route": "Degree",
+      "qualification": "B.Des Leather/Footwear / B.F.Tech Leather",
+      "duration": [
+        "4 years"
+      ],
+      "entrance_exam": "FDDI AIST (All India Selection Test), NIFT Entrance",
+      "govt_fees": "FDDI Noida (govt-aided) 5-10 lakh total; CLRI Chennai (govt) much lower",
+      "private_fees": "Pearl Academy/JD Institute leather electives 10-18 lakh",
+      "top_institutions": [
+        "Footwear Design and Development Institute (FDDI) Noida + 11 other campuses (govt)",
+        "Central Leather Research Institute (CLRI) Chennai (govt)",
+        "NIFT Accessory Design (govt)",
+        "CFTI Chennai (Central Footwear Training Institute) (govt)",
+        "MSME Footwear Tech Centre Agra (govt)",
+        "Indian Leather Industry Foundation (semi-govt, ILIFO)"
+      ],
+      "scholarships": [
+        "FDDI merit-cum-need",
+        "Council for Leather Exports (CLE) scholarships",
+        "AICTE Pragati"
+      ],
+      "abroad_pathways": "MA at London College of Fashion, Polimoda Florence, Cordwainers London. Leather sector hubs: Italy, Spain, Vietnam.",
+      "day_in_life": "Leather selection, pattern making, prototyping, manufacturing trial runs. Mix of studio and factory floor.",
+      "growth_path": "Junior Designer → Senior → Design Head → Independent Brand. Bata, Adidas India, Reebok India, Hidesign, Tata-owned Westside hire heavily; export houses (Mirza International, Farida Group) major employers.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 3-7 LPA / Mid: 7-15 LPA / Senior: 15-35 LPA. Note: Bata/Adidas India 5-10L; Hidesign 4-8L; export-house designers 6-12L. Source: FDDI placements, AmbitionBox.",
+      "confidence": "medium",
+      "domainId": "des",
+      "domainTitle": "Design",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "DES-16",
+      "name": "Accessory Design (NIFT)",
+      "description": "Bags, belts, eyewear, watches, fashion accessories design. NIFT B.Des Accessory Design is the main route.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "12th pass; NIFT cutoff",
+      "entry_route": "Degree",
+      "qualification": "B.Des Accessory Design",
+      "duration": [
+        "4 years"
+      ],
+      "entrance_exam": "NIFT Entrance (NIFTEE)",
+      "govt_fees": "NIFT 12-15 lakh total",
+      "private_fees": "Pearl Academy/JD Institute 12-18 lakh",
+      "top_institutions": [
+        "NIFT Delhi (govt)",
+        "NIFT Mumbai (govt)",
+        "NIFT Bangalore (govt)",
+        "NIFT Hyderabad (govt)",
+        "Pearl Academy (private)",
+        "Symbiosis Institute of Design (private)"
+      ],
+      "scholarships": [
+        "NIFT means-cum-merit",
+        "AICTE Pragati",
+        "private brand scholarships"
+      ],
+      "abroad_pathways": "MA at Central Saint Martins London, Polimoda Florence, IED Milan. Direct hiring at Hermès, LVMH, Kering accessories teams.",
+      "day_in_life": "Sketching collections, materials research, sample-making, factory liaison. Mix of design studio and visits to manufacturers.",
+      "growth_path": "Junior Designer → Senior → Design Head → Brand Director. Hidesign, Titan Eye+, Fastrack, Hermes India, Allen Solly, Louis Phillipe.",
+      "underrated": true,
+      "low_budget": false,
+      "low_percent": true,
+      "salary_bands": "Fresher: 3-7 LPA / Mid: 7-15 LPA / Senior: 15-35 LPA. Note: Titan/Fastrack 4-8L; international brand offices 6-12L. Source: NIFT placements, AmbitionBox.",
+      "confidence": "low",
+      "domainId": "des",
+      "domainTitle": "Design",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "DES-17",
+      "name": "Furniture Design",
+      "description": "Furniture and home-decor design — modular, contract, residential. Strong export industry, growing modular kitchen segment.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "12th pass; NID DAT/CEPT entrance",
+      "entry_route": "Degree",
+      "qualification": "B.Des Furniture / M.Des Furniture & Interior Products",
+      "duration": [
+        "B.Des 4 yrs / M.Des 2.5 yrs"
+      ],
+      "entrance_exam": "NID DAT, UCEED, CEED, CEPT entrance",
+      "govt_fees": "NID 19 lakh; CEPT 18-22 lakh",
+      "private_fees": "Srishti/MIT-ID/Pearl 16-22 lakh",
+      "top_institutions": [
+        "NID Ahmedabad - Furniture Design (govt)",
+        "CEPT University - Faculty of Design (semi-govt)",
+        "IIT Bombay IDC (govt)",
+        "MIT-ID Pune (private)",
+        "Srishti Manipal (private)",
+        "Pearl Academy (private)"
+      ],
+      "scholarships": [
+        "NID MCM",
+        "CEPT need-based",
+        "Godrej Interio merit"
+      ],
+      "abroad_pathways": "M.Des at RCA, Politecnico Milano, Domus Academy, Kingston London. Italian furniture industry (B&B Italia, Cassina) hires Indian designers.",
+      "day_in_life": "Sketching, prototyping (often in shop), CMF (color/material/finish), client/factory presentations. Half-studio, half-workshop work.",
+      "growth_path": "Junior Designer → Senior → Studio Lead → Independent Label. Godrej Interio, IKEA India, Featherlite, Fabindia Home, Pepperfry, Urban Ladder hire; designer-furniture brands (Phantom Hands, Studio Sequel) for craft route.",
+      "underrated": true,
+      "low_budget": false,
+      "low_percent": true,
+      "salary_bands": "Fresher: 4-8 LPA / Mid: 8-18 LPA / Senior: 18-40 LPA. Note: Godrej Interio/Urban Ladder 4-9L; designer-furniture studios 5-15L; senior at top studios 25-40L. Source: AmbitionBox, CEPT placements.",
+      "confidence": "medium",
+      "domainId": "des",
+      "domainTitle": "Design",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "DES-18",
+      "name": "Footwear Design (FDDI)",
+      "description": "Sport, formal, casual, fashion footwear design — FDDI Noida specializes. Strong export industry with Bata, Adidas, Nike Indian operations.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "12th pass; FDDI AIST cutoff",
+      "entry_route": "Degree",
+      "qualification": "B.Des Footwear Design / B.F.Tech Footwear Tech",
+      "duration": [
+        "4 years"
+      ],
+      "entrance_exam": "FDDI AIST",
+      "govt_fees": "FDDI Noida (govt-aided) 5-10 lakh total",
+      "private_fees": "Pearl Academy / JD Institute footwear electives 10-18 lakh",
+      "top_institutions": [
+        "Footwear Design and Development Institute (FDDI) Noida + 11 campuses (govt)",
+        "Central Footwear Training Institute (CFTI) Chennai (govt)",
+        "Central Leather Research Institute (CLRI) Chennai (govt, R&D)",
+        "Pearl Academy (private)",
+        "MSME Footwear Tech Centre Agra (govt)",
+        "AAFT Noida (private)"
+      ],
+      "scholarships": [
+        "FDDI merit-cum-need",
+        "CLE scholarships",
+        "Adidas/Bata cadet programs"
+      ],
+      "abroad_pathways": "MA at London College of Fashion (Cordwainers), Pensole Footwear Design Academy, Polimoda. Nike/Adidas/Puma global design teams hire Indian-trained designers.",
+      "day_in_life": "Sketching, last-shaping, prototyping at shoe factories, materials sourcing. Heavy factory-floor time.",
+      "growth_path": "Junior Designer → Senior → Lead Designer → Brand Design Head. Bata India, Adidas India, Nike India, Puma India, Hidesign hire fresher designers; export houses (Farida Group, Mirza Tannery) volume hiring.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 3.5-7 LPA / Mid: 7-15 LPA / Senior: 15-30 LPA. Note: Bata 4-7L; Adidas India 6-12L; Nike India design 8-15L; export-house designers 4-9L. Source: FDDI placements, AmbitionBox.",
+      "confidence": "low",
+      "domainId": "des",
+      "domainTitle": "Design",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    }
+  ],
+  "confidence_notes": [
+    "NID DAT 2026 cycle (prelims Dec 21 2025; mains result expected May 2026) verified via shiksha.com and NID admissions portal.",
+    "NID Ahmedabad B.Des total fees ₹19.29 lakh confirmed from collegedunia/NID 2026-27 fee structure.",
+    "NIFT Entrance Exam 2026 (Stage 1 Feb 8 2026) verified via NIFT/NTA notifications.",
+    "UX/UI/Product/Industrial Design salary bands align with NID/IIT placement reports for the last 3 years; MAANG India fresher offers verified via LinkedIn salary disclosures.",
+    "Niche fields (Ceramic/Glass, Leather, Accessory, Footwear, Exhibition, Furniture) flagged 'low/medium' confidence — Indian salary data is anecdotal and varies considerably; ranges should be treated as central tendency.",
+    "Game design industry data is volatile post-Krafton/Tencent investment cycles; figures based on 2024-25 disclosures and may shift with platform/regulatory changes."
+  ]
+}

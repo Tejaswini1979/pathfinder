@@ -1,0 +1,106 @@
+{
+  "streams": [
+    {"id": "maths", "title": "Maths", "sub": "PCM"},
+    {"id": "bio", "title": "Bio", "sub": "PCB"},
+    {"id": "commerce", "title": "Commerce", "sub": "Acct/Eco/Bus"},
+    {"id": "arts", "title": "Arts", "sub": "Humanities"}
+  ],
+  "interests": [
+    {"id": "analyze", "title": "Analyzing", "sub": "Numbers, systems, logic"},
+    {"id": "create",  "title": "Creating",  "sub": "Brands, content, ventures"},
+    {"id": "help",    "title": "Helping",   "sub": "People, communities, causes"},
+    {"id": "lead",    "title": "Leading",   "sub": "Teams, operations, strategy"}
+  ],
+  "domains": [
+    {
+      "id": "eng",
+      "title": "Engineering & Technology",
+      "tagline": "From CSE to Marine to Petroleum to Robotics — the broadest engineering landscape, with major specialisations far beyond the famous four branches.",
+      "color": "#3a5a7a"
+    },
+    {
+      "id": "med",
+      "title": "Medicine & Healthcare",
+      "tagline": "MBBS, BDS, AYUSH, Physiotherapy, Audiology, Optometry — over 20 distinct medical careers most students never hear about.",
+      "color": "#a85673"
+    },
+    {
+      "id": "civ",
+      "title": "Civil Services & Public Administration",
+      "tagline": "IAS, IPS, IFS — and 10 other lesser-known central and state services with similar prestige and stability.",
+      "color": "#5a4d7a"
+    },
+    {
+      "id": "law",
+      "title": "Law",
+      "tagline": "Beyond NLU and litigation: corporate law, IP, sports & entertainment, environmental, international arbitration, judicial services.",
+      "color": "#4a6b3a"
+    },
+    {
+      "id": "edu",
+      "title": "Teaching & Education",
+      "tagline": "Beyond school teachers: special education, EdTech, IB schools, college lecturer track via UGC NET, academic admin.",
+      "color": "#b14e2f"
+    },
+    {
+      "id": "lng",
+      "title": "Languages & Translation",
+      "tagline": "Foreign languages, conference interpretation, sign language, indology, subtitling — most invisible-and-lucrative category in India.",
+      "color": "#8a5a3c"
+    },
+    {
+      "id": "trd",
+      "title": "Skilled Trades & Vocational",
+      "tagline": "ITI and NSDC certifications: electrician, AC tech, CNC operator, solar PV, beautician — accessible, well-paying, often overlooked.",
+      "color": "#3c6a5a"
+    },
+    {
+      "id": "hum",
+      "title": "Liberal Arts & Humanities",
+      "tagline": "Archaeology, linguistics, museum studies, philosophy, IR — careers your school counsellor probably never mentioned.",
+      "color": "#7a4d6a"
+    },
+    {
+      "id": "des",
+      "title": "Design",
+      "tagline": "Beyond graphic and UX: industrial, jewellery, automotive, footwear, leather, ceramic — 18 distinct design specialisations.",
+      "color": "#9a4d3a"
+    },
+    {
+      "id": "bwp",
+      "title": "Beauty, Wellness & Personal Care",
+      "tagline": "Cosmetology, nutrition, AYUSH, naturopathy, Siddha, aromatherapy — accessibility-first careers with strong entrepreneurship potential.",
+      "color": "#9a4d6a"
+    },
+    {
+      "id": "bm",
+      "title": "Business & Management",
+      "tagline": "From CA to luxury brand management — the broadest professional category in India.",
+      "color": "#b14e2f"
+    },
+    {
+      "id": "def",
+      "title": "Defence Forces",
+      "tagline": "Officer and soldier paths across Army, Navy, Air Force, Coast Guard — plus DRDO, BRO, MNS and the technical entries most students never hear about.",
+      "color": "#4a5d3a"
+    },
+    {
+      "id": "psy",
+      "title": "Psychology",
+      "tagline": "From clinical practice to UX research, sport psychology to forensic work — the applied science of how people think and feel.",
+      "color": "#6a5a8a"
+    },
+    {
+      "id": "arc",
+      "title": "Architecture & Built Environment",
+      "tagline": "Buildings, cities, ships, gardens, sets, conservation — design at every scale of the world we inhabit.",
+      "color": "#a87545"
+    },
+    {
+      "id": "hos",
+      "title": "Hospitality",
+      "tagline": "Hotels, kitchens, cabins, cruises, spas — the trades of welcome, often underestimated and globally portable.",
+      "color": "#c97e6e"
+    }
+  ]
+}

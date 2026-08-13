@@ -1,0 +1,632 @@
+{
+  "id": "bwp",
+  "title": "Beauty, Wellness & Personal Care",
+  "tagline": "Cosmetology, nutrition, AYUSH, naturopathy, Siddha, aromatherapy — accessibility-first careers with strong entrepreneurship potential.",
+  "color": "#9a4d6a",
+  "overview": "India's beauty, wellness, and AYUSH ecosystem is a quietly massive employer — VLCC, Lakmé, and Shahnaz Husain academies plus thousands of NSDC Beauty & Wellness Sector Skill Council (B&WSSC) centres train tens of thousands annually, while AYUSH ministry funding has expanded BAMS, BHMS, BUMS, Siddha, and BNYS seats across 700+ colleges. The 2026 reality: yoga teacher certification (RYT-200, QCI Level 2) is a low-cost (₹15K-50K) skill-first credential with strong overseas demand; nutrition & dietetics (₹50K-3L for BSc) opens hospital, sports, corporate-wellness pathways at ₹3-8 LPA fresh; personal-trainer ACE/NASM/ISSA certs (₹15-50K) lead to gym-chain jobs at Cult.fit/Talwarkars at ₹2.5-6 LPA. The hidden gem: govt cosmetology certs under PMKVY are free for eligible candidates and lead to salon employment within 3-6 months. Note: BAMS, BHMS, BUMS appear in the Medicine domain (Run 1) as clinical AYUSH paths; here they are reframed from a wellness/preventive-care angle for completeness.",
+  "key_insights": [
+    "Yoga teacher certification (RYT-200 via Yoga Alliance, or QCI Level 2 under Govt of India) costs ₹15K-50K and opens international wellness-tourism work in UAE, USA, Europe paying $40-100/hr.",
+    "Nutrition & dietetics is one of the fastest-growing wellness careers — corporate wellness (Cult.fit, HealthifyMe), hospital dietetics, sports nutrition, all hiring fresher BSc grads at ₹3-8 LPA.",
+    "VLCC and Lakmé Academy graduates regularly find Gulf salon employment paying ₹50K-1L/month — a serious migration path almost no middle-class family considers.",
+    "BNYS (Bachelor of Naturopathy & Yogic Sciences) is a 5.5-year AYUSH degree at govt fees ₹20K-2L total, opening preventive-medicine and wellness-resort medical-officer paths at ₹3-6 LPA fresh.",
+    "Personal training (ACE/NASM-certified) at Indian gym chains starts at ₹2.5-6 LPA but tier-1 city personal trainers at premium gyms (Anytime Fitness, Snap Fitness, Talwarkars) can clear ₹50K-1L/month with private clients."
+  ],
+  "sub_paths": [
+    {
+      "id": "BWP-01",
+      "name": "Cosmetology / Salon Professional",
+      "description": "Hair, skin, nails, makeup services — VLCC/Lakmé/Shahnaz Husain academy or NSDC B&WSSC route. Salon employment or self-employment.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "8th-10th pass; many programs have no academic cutoff",
+      "entry_route": "Certification (NSDC) / Diploma",
+      "qualification": "VLCC/Lakmé/Shahnaz Husain Diploma in Cosmetology OR NSDC B&WSSC certification",
+      "duration": [
+        "3 months to 1 year"
+      ],
+      "entrance_exam": "Direct enrollment at academies; PMKVY enrollment at NSDC centres",
+      "govt_fees": "Free under PMKVY for eligible candidates; govt ITI Beauty Care trade ₹5K-20K",
+      "private_fees": "VLCC/Lakmé/Shahnaz Husain ₹30,000-2 lakh; Jawed Habib Academy ₹40K-1.5L",
+      "top_institutions": [
+        "VLCC Institute of Beauty & Nutrition (private, India network)",
+        "Lakmé Academy (firm, India network)",
+        "Shahnaz Husain Beauty Academy (firm)",
+        "Beauty & Wellness Sector Skill Council (semi-govt, NSDC SSC)",
+        "Jawed Habib Academy (firm)",
+        "Govt ITIs - Beauty & Hair Care trade (govt)"
+      ],
+      "scholarships": [
+        "PMKVY full-fee + stipend ₹500-1,500/month",
+        "DDU-GKY rural youth ₹3,000-9,000/month",
+        "Mahila Samakhya for women",
+        "VLCC merit waivers"
+      ],
+      "abroad_pathways": "Gulf salon industry hires Indian beauticians at ₹50-80K/month + tips. Spa/cruise-line industry global; UAE/Saudi salons consistently hiring.",
+      "day_in_life": "Salon-based hair styling, facials, waxing, threading, makeup; long standing hours; busy weekends and bridal season. Self-employed beauticians do home visits.",
+      "growth_path": "Trainee → Beautician → Senior Stylist → Salon Manager → Salon Owner / Bridal Specialist. Bridal makeup artists in metros earn ₹15K-1L per assignment.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 1.2-3 LPA / Mid (4-7 yr): 3-7 LPA / Senior (salon owner / bridal artist): 6-25 LPA. Note: Chain salons (Lakmé Salon, Naturals, Jawed Habib) 2-4L start; Gulf placements 6-12L; senior bridal artists in tier-1 cities premium. Source: NSDC B&WSSC, AmbitionBox.",
+      "confidence": "high",
+      "domainId": "bwp",
+      "domainTitle": "Beauty, Wellness & Personal Care",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "BWP-02",
+      "name": "Hair Styling Specialist",
+      "description": "Specialist in cutting, colouring, chemical treatments, extensions — premium salon work and celebrity styling.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "8th-10th pass; portfolio matters more",
+      "entry_route": "Certification / Diploma",
+      "qualification": "Diploma in Hair Styling (Lakmé/Toni&Guy/Jawed Habib) OR NSDC Hair Stylist cert",
+      "duration": [
+        "3-12 months"
+      ],
+      "entrance_exam": "Direct enrollment",
+      "govt_fees": "Free under PMKVY for eligible; govt ITI ₹5K-20K",
+      "private_fees": "Toni & Guy Academy 1-3 lakh; Jean-Claude Biguine Academy 80K-2 lakh; Lakmé Hair School 50K-1.5 lakh",
+      "top_institutions": [
+        "Toni & Guy Academy India (firm)",
+        "Jean-Claude Biguine Academy Mumbai (firm)",
+        "Lakmé Academy Hair School (firm)",
+        "Jawed Habib Academy (firm)",
+        "B&WSSC (semi-govt, NSDC SSC)",
+        "BBlunt Academy Mumbai (firm)"
+      ],
+      "scholarships": [
+        "PMKVY",
+        "DDU-GKY",
+        "Lakmé/Toni&Guy merit waivers"
+      ],
+      "abroad_pathways": "Gulf salons + cruise lines actively hire Indian-trained hair stylists. UK/Australia hairdresser pathway via NVQ Level 2/3 bridge certifications.",
+      "day_in_life": "Salon floor work — consultations, cuts, colours (3-4 hr appointments common), chemical services, blow-drying. Standing 8-10 hrs typical. Strong tip culture.",
+      "growth_path": "Junior Stylist → Senior Stylist → Master Stylist / Educator → Salon Owner. Celebrity hair stylists (Aalim Hakim, Adhuna Bhabani) command premium.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 1.5-3 LPA / Mid: 3-8 LPA / Senior (master stylist / salon owner): 8-30 LPA. Note: Toni & Guy/BBlunt 2.5-5L start; celebrity stylists/independents earn ₹50K-3L/month variably; Gulf placements premium. Source: AmbitionBox.",
+      "confidence": "medium",
+      "domainId": "bwp",
+      "domainTitle": "Beauty, Wellness & Personal Care",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "BWP-03",
+      "name": "Dermal Esthetics / Advanced Skincare",
+      "description": "Medical-grade facials, chemical peels, microdermabrasion, laser treatments at dermatology clinics and medi-spas.",
+      "streams": [
+        "Arts",
+        "Bio",
+        "Commerce",
+        "Maths"
+      ],
+      "min_12th_percent": "12th pass; some programs prefer Bio stream",
+      "entry_route": "Diploma / Certification",
+      "qualification": "Advanced Diploma in Dermal Esthetics / CIDESCO certification / VLCC Medical Cosmetology",
+      "duration": [
+        "6 months to 1.5 years"
+      ],
+      "entrance_exam": "Direct enrollment at academies",
+      "govt_fees": "Limited govt route; AIIMS/PGI hospital-based dermal-tech training nominal",
+      "private_fees": "VLCC Medical Cosmetology 80K-2 lakh; CIDESCO India programs 1-3 lakh; Pivot Point International 1-2 lakh",
+      "top_institutions": [
+        "VLCC Institute - Medical Cosmetology (private)",
+        "CIDESCO India (private, international body)",
+        "Pivot Point International India (private)",
+        "Kaya Skin Clinic Training Academy (firm)",
+        "Olivia / Skin Ranch / Oliva Academies (firm/private)",
+        "Hospital-based clinical-trainee programs at major dermatology chains (private)"
+      ],
+      "scholarships": [
+        "Limited; CIDESCO partial scholarships",
+        "VLCC merit waivers"
+      ],
+      "abroad_pathways": "CIDESCO certification globally recognized — UAE/UK/Singapore medi-spas hire actively. USA NCEA / Aesthetician License via state board for Indian-trained candidates.",
+      "day_in_life": "Clinic-based work alongside dermatologists — consultations, machine-assisted treatments, post-treatment care, retail product recommendations. Cleaner clinical environment than salon.",
+      "growth_path": "Junior Aesthetician → Senior → Lead Therapist → Clinic Manager / Owner. Kaya, Oliva, VLCC clinics, dermatologist private practices hire heavily.",
+      "underrated": true,
+      "low_budget": false,
+      "low_percent": true,
+      "salary_bands": "Fresher: 2.5-5 LPA / Mid: 5-12 LPA / Senior: 10-25 LPA. Note: Kaya/Oliva 3-5L start; VLCC clinic 3-6L; Gulf medi-spas 6-12L; senior CIDESCO trainers higher. Source: AmbitionBox.",
+      "confidence": "medium",
+      "domainId": "bwp",
+      "domainTitle": "Beauty, Wellness & Personal Care",
+      "streamIds": [
+        "arts",
+        "bio",
+        "commerce",
+        "maths"
+      ]
+    },
+    {
+      "id": "BWP-04",
+      "name": "Nutrition & Dietetics (BSc / MSc)",
+      "description": "BSc/MSc in Nutrition & Dietetics — hospital dietitian, sports nutrition, corporate wellness, food-product development.",
+      "streams": [
+        "Bio",
+        "Maths",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "50% (Bio strongly preferred); 55% for top govt colleges",
+      "entry_route": "Degree",
+      "qualification": "BSc Nutrition & Dietetics (3 yrs) + MSc (2 yrs) + RD (Registered Dietitian)",
+      "duration": [
+        "BSc 3 yrs + MSc 2 yrs + RD internship 6 mo"
+      ],
+      "entrance_exam": "CUET-UG/PG, Lady Irwin College entrance, university tests",
+      "govt_fees": "Lady Irwin Delhi/IHE Delhi/SNDT Mumbai 50K-3 lakh total",
+      "private_fees": "Symbiosis/Manipal/Christ ₹3-8 lakh BSc; ₹5-12 lakh MSc combo",
+      "top_institutions": [
+        "Lady Irwin College Delhi (govt) - top-ranked",
+        "Institute of Home Economics Delhi (govt)",
+        "SNDT Women's University Mumbai (govt)",
+        "All India Institute of Medical Sciences AIIMS - PG Dietetics (govt)",
+        "Symbiosis School of Biological Sciences Pune (private)",
+        "Manipal University Nutrition (private)"
+      ],
+      "scholarships": [
+        "Central Sector Scholarship",
+        "AICTE Pragati for girls",
+        "ICMR-RGNF for research",
+        "Lady Irwin/SNDT merit waivers"
+      ],
+      "abroad_pathways": "MSc / Registered Dietitian (RD) credentials in USA (CDR-accredited), UK (BDA), Australia (DAA). Strong UAE/Saudi/Singapore hospital dietitian roles.",
+      "day_in_life": "Hospital ward rounds with doctors, diet planning for inpatients, outpatient counselling, kitchen liaison; or corporate-wellness 1:1 client sessions and group programs.",
+      "growth_path": "Junior Dietitian → Senior Dietitian → Chief Dietitian / Sports Nutritionist / Corporate Wellness Lead. Apollo, Fortis, AIIMS, Cult.fit, HealthifyMe, Sports Authority of India hire heavily.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 3-6 LPA / Mid (4-7 yr): 6-14 LPA / Senior (10+ yr): 12-30 LPA. Note: Hospital dietitian 3-5L; HealthifyMe/Cult.fit 4-8L; sports nutrition (BCCI / IPL franchises) premium; Gulf hospital 8-15L. Source: AmbitionBox, IDA.",
+      "confidence": "high",
+      "domainId": "bwp",
+      "domainTitle": "Beauty, Wellness & Personal Care",
+      "streamIds": [
+        "bio",
+        "maths",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "BWP-05",
+      "name": "Yoga Teacher Certification (RYT-200 / QCI)",
+      "description": "Yoga Alliance RYT-200 or Govt of India QCI-certified yoga teacher — schools, studios, wellness resorts, international online classes.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "10th-12th pass; some programs no formal academic cutoff",
+      "entry_route": "Certification",
+      "qualification": "RYT-200 / RYT-500 (Yoga Alliance) OR QCI Level 1-4 (Govt of India)",
+      "duration": [
+        "1-12 months depending on level (200-hr course often 4-6 weeks intensive)"
+      ],
+      "entrance_exam": "Direct enrollment; QCI Level certification exam",
+      "govt_fees": "QCI certification fee ₹2,500-10,000; govt-affiliated S-VYASA short courses ₹15K-50K",
+      "private_fees": "Sivananda/Ashtanga/Iyengar institutes ₹30K-2 lakh; Rishikesh schools ₹40K-2L; S-VYASA MSc Yoga ₹50K-1L",
+      "top_institutions": [
+        "Swami Vivekananda Yoga Anusandhana Samsthana (S-VYASA) Bangalore (govt-deemed)",
+        "Morarji Desai National Institute of Yoga (MDNIY) Delhi (govt)",
+        "Bihar School of Yoga Munger (semi-govt/NGO)",
+        "Sivananda Yoga Vedanta Centres (NGO/private)",
+        "Ramamani Iyengar Memorial Yoga Inst Pune (private)",
+        "Indian Yoga Association (IYA) member schools (semi-govt)"
+      ],
+      "scholarships": [
+        "AYUSH Ministry training subsidies",
+        "S-VYASA need-based aid",
+        "QCI free assessment under PMKVY"
+      ],
+      "abroad_pathways": "Strongest direct international career — RYT-certified Indian yoga teachers in demand at studios/wellness resorts in USA, UK, UAE, Australia, Singapore. International rates $40-100/hr.",
+      "day_in_life": "Group classes (1-3 hrs/day morning + evening), private 1:1 sessions, retreat work at wellness resorts, online classes via Zoom/YouTube/Insight Timer for global audiences.",
+      "growth_path": "RYT-200 Teacher → RYT-500 → Studio Owner / Resort Yoga Director / International Trainer. International circuit (Bali, Goa, Rishikesh) for serious practitioners.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 1.5-4 LPA / Mid: 4-12 LPA / Senior (resort director / international trainer): 10-40 LPA. Note: Studio chains (Cult.fit yoga, SARVA, The Yoga Institute) 3-6L; Gulf wellness resorts 6-15L; international online teachers earn USD 1,500-5,000/mo. Source: AmbitionBox, Yoga Alliance.",
+      "confidence": "high",
+      "domainId": "bwp",
+      "domainTitle": "Beauty, Wellness & Personal Care",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "BWP-06",
+      "name": "Personal Training / Fitness Trainer",
+      "description": "ACE/NASM/ISSA-certified personal trainer at gyms, studios, private clients. Cult.fit and gym-chain expansion driving demand.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "12th pass; physical fitness more important",
+      "entry_route": "Certification",
+      "qualification": "ACE / NASM / ISSA / K11 / Reebok-FitnessFirst / Gold's Gym certifications",
+      "duration": [
+        "3-6 months"
+      ],
+      "entrance_exam": "Cert-body specific online tests",
+      "govt_fees": "Limited govt route; SAI Sports Authority diploma ₹10K-50K; LNIPE Gwalior BPEd ₹20K-50K/yr",
+      "private_fees": "K11 Mumbai ₹50K-1.5L; ACE/NASM/ISSA online ₹15K-50K; Gold's Gym Academy ₹40K-1L",
+      "top_institutions": [
+        "K11 School of Fitness Sciences Mumbai (private)",
+        "Gold's Gym University India (firm)",
+        "Sports Authority of India (SAI) - National Inst of Sports Patiala (govt)",
+        "LNIPE Gwalior - Lakshmibai Nat Inst of Phys Education (govt)",
+        "International Sports Sciences Association ISSA India (private)",
+        "American Council on Exercise (ACE) India (private, online)"
+      ],
+      "scholarships": [
+        "SAI sports-talent stipends",
+        "K11 merit waivers",
+        "LNIPE central-sector scholarships"
+      ],
+      "abroad_pathways": "ACE/NASM/ISSA certifications globally portable. UAE/Saudi/Singapore gym chains hire Indian-certified trainers at ₹50-80K/month + commissions.",
+      "day_in_life": "Gym floor 1:1 client sessions (typically 4-8 hrs/day across morning + evening peaks), program design, nutrition basics, member acquisition and retention.",
+      "growth_path": "Personal Trainer → Senior PT → Master Trainer → Studio Owner / Online Coach. Top trainers with social media following clear ₹1-3L/month from online coaching.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 2.5-5 LPA / Mid: 5-12 LPA / Senior (master trainer / online coach): 10-30 LPA. Note: Cult.fit/Talwarkars/Gold's Gym 2.5-6L start; tier-1 personal trainers with private clients ₹50K-1L/month routinely; Gulf 6-12L. Source: AmbitionBox.",
+      "confidence": "high",
+      "domainId": "bwp",
+      "domainTitle": "Beauty, Wellness & Personal Care",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "BWP-07",
+      "name": "Naturopathy / BNYS (Bachelor of Naturopathy & Yogic Sciences)",
+      "description": "5.5-year AYUSH degree — clinical naturopathy practice, wellness-resort medical-officer roles, drugless preventive medicine.",
+      "streams": [
+        "Bio"
+      ],
+      "min_12th_percent": "50% in PCB; 45% reserved categories",
+      "entry_route": "Degree",
+      "qualification": "BNYS — 4.5 yrs academic + 1 yr compulsory internship",
+      "duration": [
+        "5.5 years"
+      ],
+      "entrance_exam": "NEET-UG (some states); KEA/KCET, KNRUHS, RGUHS, university-specific",
+      "govt_fees": "Govt BNYS colleges 20K-2 lakh total; KSGH Mysuru ~50K-1L total; Govt Yoga & Naturopathy Medical College Chennai nominal",
+      "private_fees": "S-VYASA Bangalore 5-15 lakh total; SDM Ujire 4-12 lakh; private deemed ₹5-15 lakh",
+      "top_institutions": [
+        "S-VYASA University Bangalore (govt-deemed, NAAC A+)",
+        "Govt Yoga & Naturopathy Medical College Chennai (govt)",
+        "KSGH Medical College of Naturopathy & Yogic Sciences Mysuru (govt)",
+        "SDM College of Naturopathy & Yogic Sciences Ujire (private)",
+        "JSS Institute of Naturopathy & Yogic Sciences Coimbatore (private)",
+        "Banaras Hindu University - BNYS (govt)"
+      ],
+      "scholarships": [
+        "Central Sector Scholarship",
+        "AYUSH Ministry fellowships",
+        "ICMR research grants",
+        "S-VYASA need-based"
+      ],
+      "abroad_pathways": "WHO recognises traditional & complementary medicine; Indian BNYS holders work at wellness resorts in USA (with ND bridge), UAE, Maldives, Sri Lanka. Direct ND licence requires bridging studies.",
+      "day_in_life": "Hydrotherapy, mud therapy, fasting therapy, diet counselling, yoga therapy, clinical consultations. Wellness-resort postings popular for fresh graduates.",
+      "growth_path": "Naturopathic Doctor → Senior → Wellness-Resort Medical Officer / Independent Practice / AYUSH Govt MO. Medical Officer pay scale Level 10 (₹56,100 basic) at AYUSH ministry.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 3-6 LPA / Mid: 6-12 LPA / Senior: 10-25 LPA. Note: Wellness resorts (Ananda, Atmantan, Soukya) 4-8L; AYUSH MO Level 10 ₹56,100 basic; Gulf wellness 8-15L; private practice variable. Source: AYUSH Ministry, courseguidance.in.",
+      "confidence": "high",
+      "domainId": "bwp",
+      "domainTitle": "Beauty, Wellness & Personal Care",
+      "streamIds": [
+        "bio"
+      ]
+    },
+    {
+      "id": "BWP-08",
+      "name": "BAMS - Ayurveda (Wellness/Preventive Angle)",
+      "description": "5.5-year AYUSH degree in Ayurveda — preventive medicine, panchakarma practice, wellness resort, AYUSH ministry govt MO.",
+      "streams": [
+        "Bio"
+      ],
+      "min_12th_percent": "50% in PCB; NEET-UG mandatory",
+      "entry_route": "Degree",
+      "qualification": "Bachelor of Ayurvedic Medicine and Surgery (BAMS) — 4.5 yrs + 1 yr internship",
+      "duration": [
+        "5.5 years"
+      ],
+      "entrance_exam": "NEET-UG (mandatory); AACCC counselling for AYUSH",
+      "govt_fees": "Govt Ayurveda colleges ₹50K-3 lakh total; IPGT&RA Jamnagar nominal",
+      "private_fees": "Private BAMS colleges ₹4-15 lakh total; deemed up to ₹20 lakh",
+      "top_institutions": [
+        "Institute of Post Graduate Teaching & Research in Ayurveda (IPGT&RA) Jamnagar (govt)",
+        "All India Institute of Ayurveda Delhi (govt)",
+        "Banaras Hindu University - Faculty of Ayurveda (govt)",
+        "Govt Ayurveda College Thiruvananthapuram (govt)",
+        "National Institute of Ayurveda Jaipur (govt)",
+        "SDM College of Ayurveda Hassan (private)"
+      ],
+      "scholarships": [
+        "Central Sector Scheme for AYUSH",
+        "AYUSH Ministry SC/ST/OBC",
+        "ICMR-Ayurveda fellowships",
+        "ICCR for foreign students"
+      ],
+      "abroad_pathways": "Strong wellness-resort employment in USA, UAE, Germany, Nepal, Sri Lanka. Direct medical licensing abroad limited; consultancy/wellness-resort and integrative-medicine pathways open.",
+      "day_in_life": "Patient consultations using Ayurvedic diagnostics (pulse/tongue), prescribing herbal formulations, panchakarma supervision (oil massage, enemas, nasal therapies), wellness-program design.",
+      "growth_path": "Ayurvedic Doctor → Senior → MD Ayurveda → AYUSH MO (govt) / Wellness-Resort Director / Pharma R&D (Dabur, Himalaya, Patanjali, Baidyanath). Cross-reference: covered in MED domain (MED-03) clinically.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": false,
+      "salary_bands": "Fresher: 3-7 LPA / Mid: 6-14 LPA / Senior: 12-30 LPA. Note: AYUSH MO Level 10 ₹56,100 basic; pharma R&D (Himalaya, Dabur) 6-12L; wellness resort 5-10L; cross-ref MED-03 for clinical depth. Source: AYUSH Ministry, AmbitionBox.",
+      "confidence": "high",
+      "domainId": "bwp",
+      "domainTitle": "Beauty, Wellness & Personal Care",
+      "streamIds": [
+        "bio"
+      ]
+    },
+    {
+      "id": "BWP-09",
+      "name": "BHMS - Homeopathy (Wellness/Preventive Angle)",
+      "description": "5.5-year AYUSH degree in Homeopathy — chronic care practice, low-cost OPDs, govt AYUSH MO route. Cross-references MED-04.",
+      "streams": [
+        "Bio"
+      ],
+      "min_12th_percent": "50% in PCB; NEET-UG mandatory",
+      "entry_route": "Degree",
+      "qualification": "Bachelor of Homeopathic Medicine and Surgery (BHMS) — 4.5 yrs + 1 yr internship",
+      "duration": [
+        "5.5 years"
+      ],
+      "entrance_exam": "NEET-UG (mandatory); AACCC counselling",
+      "govt_fees": "Govt Homeopathy colleges ₹50K-3 lakh total",
+      "private_fees": "Private BHMS ₹3-10 lakh total",
+      "top_institutions": [
+        "National Institute of Homoeopathy Kolkata (govt)",
+        "Bharati Vidyapeeth Homoeopathic Med College Pune (private)",
+        "Father Muller Homoeopathic Med College Mangalore (private)",
+        "Govt Homeopathic Medical College Kerala (govt)",
+        "JSPS Govt Homoeopathic Med College Hyderabad (govt)",
+        "Calcutta Homoeopathic Medical College (govt)"
+      ],
+      "scholarships": [
+        "Central Sector Scheme for AYUSH",
+        "AYUSH Ministry SC/ST",
+        "ICMR fellowships"
+      ],
+      "abroad_pathways": "Homeopathy regulated differently across countries — practice viable in Germany, France, UK, Switzerland (where homeopathy has regulatory frameworks). USA limited recognition.",
+      "day_in_life": "Patient case-taking (often 30-60 min for chronic cases), constitutional analysis, prescription of dilutions, follow-up care. Quieter practice tempo than allopathy.",
+      "growth_path": "Homoeopathic Doctor → MD Hom → AYUSH MO / Independent Practice / Pharma R&D (SBL, Hahnemann, Bakson). Cross-reference: covered in MED domain (MED-04) clinically.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": false,
+      "salary_bands": "Fresher: 2.5-5 LPA / Mid: 5-10 LPA / Senior: 10-22 LPA. Note: AYUSH MO Level 10 ₹56,100 basic; private practice variable; pharma R&D 4-9L; cross-ref MED-04 for clinical depth. Source: AYUSH Ministry, AmbitionBox.",
+      "confidence": "high",
+      "domainId": "bwp",
+      "domainTitle": "Beauty, Wellness & Personal Care",
+      "streamIds": [
+        "bio"
+      ]
+    },
+    {
+      "id": "BWP-10",
+      "name": "BUMS - Unani (Wellness/Preventive Angle)",
+      "description": "5.5-year AYUSH degree in Unani medicine — Greco-Arabic system, herbal/dietary therapeutics, AYUSH MO route. Cross-references MED-05.",
+      "streams": [
+        "Bio"
+      ],
+      "min_12th_percent": "50% in PCB; NEET-UG mandatory",
+      "entry_route": "Degree",
+      "qualification": "Bachelor of Unani Medicine and Surgery (BUMS) — 4.5 yrs + 1 yr internship",
+      "duration": [
+        "5.5 years"
+      ],
+      "entrance_exam": "NEET-UG (mandatory); AACCC counselling",
+      "govt_fees": "Govt BUMS colleges ₹50K-3 lakh total",
+      "private_fees": "Private BUMS ₹3-10 lakh total",
+      "top_institutions": [
+        "National Institute of Unani Medicine Bangalore (govt)",
+        "Hamdard Tibbiya College Delhi (semi-govt)",
+        "AMU - Ajmal Khan Tibbiya College Aligarh (govt)",
+        "Govt Tibbi College Patna (govt)",
+        "Jamia Hamdard Delhi (semi-govt)",
+        "Aliah University Kolkata - Faculty of Unani (govt)"
+      ],
+      "scholarships": [
+        "Central Sector Scheme AYUSH",
+        "Maulana Azad Education Foundation",
+        "AYUSH SC/ST/OBC"
+      ],
+      "abroad_pathways": "Strongest pathway: Gulf countries with Unani recognition (UAE, Saudi Arabia for traditional medicine departments), Bangladesh, Pakistan, Iran.",
+      "day_in_life": "Patient consultation using mizaj (temperament) diagnostics, prescribing Unani formulations, regimental therapies (cupping, massage). Often serves communities with culturally-aligned demand.",
+      "growth_path": "Unani Doctor → MD Unani → AYUSH MO / Independent Practice / Hamdard/Hakim Ajmal Khan-style pharma. Cross-reference: MED-05 covers clinical aspect.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": false,
+      "salary_bands": "Fresher: 2.5-5 LPA / Mid: 5-10 LPA / Senior: 10-20 LPA. Note: AYUSH MO Level 10 ₹56,100 basic; private practice variable; Hamdard/Saira Pharma 4-9L; cross-ref MED-05. Source: AYUSH Ministry, AmbitionBox.",
+      "confidence": "medium",
+      "domainId": "bwp",
+      "domainTitle": "Beauty, Wellness & Personal Care",
+      "streamIds": [
+        "bio"
+      ]
+    },
+    {
+      "id": "BWP-11",
+      "name": "Siddha Medicine",
+      "description": "5.5-year AYUSH degree in Siddha — South Indian traditional medicine system, Tamil Nadu-centric practice, AYUSH MO route.",
+      "streams": [
+        "Bio"
+      ],
+      "min_12th_percent": "50% in PCB + Tamil for some govt colleges; NEET-UG mandatory",
+      "entry_route": "Degree",
+      "qualification": "Bachelor of Siddha Medicine and Surgery (BSMS) — 4.5 yrs + 1 yr internship",
+      "duration": [
+        "5.5 years"
+      ],
+      "entrance_exam": "NEET-UG (mandatory); TN-AYUSH counselling",
+      "govt_fees": "Govt Siddha colleges TN ₹30K-2 lakh total",
+      "private_fees": "Private BSMS ₹3-8 lakh total",
+      "top_institutions": [
+        "National Institute of Siddha Chennai (govt)",
+        "Govt Siddha Medical College Palayamkottai (govt)",
+        "Govt Siddha Medical College Chennai (govt)",
+        "Sri Sairam Siddha Medical College Chennai (private)",
+        "RVS Siddha Medical College Coimbatore (private)",
+        "ATSVS Siddha Medical College Kanyakumari (private)"
+      ],
+      "scholarships": [
+        "Central Sector AYUSH",
+        "TN State AYUSH scholarships",
+        "MAEF for minorities"
+      ],
+      "abroad_pathways": "Limited — Sri Lanka, Singapore, Malaysia have Tamil-diaspora demand for Siddha practitioners. Less internationally recognized than Ayurveda or Yoga.",
+      "day_in_life": "Patient diagnostics using nadi (pulse), naa (tongue), neikuri (oil drop test); prescribing Siddha herbo-mineral formulations; rasa-shastra (alchemical) preparations.",
+      "growth_path": "Siddha Doctor → MD Siddha → AYUSH MO / Independent Practice. Tamil Nadu State AYUSH dept primary employer; some pharma roles at IMPCOPS/SKM Siddha.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": false,
+      "salary_bands": "Fresher: 2.5-5 LPA / Mid: 5-9 LPA / Senior: 8-18 LPA. Note: AYUSH MO Level 10 ₹56,100 basic; TN-state Siddha posts 4-7L; private practice variable; pharma 4-8L. Source: AYUSH Ministry, TN State Health Dept.",
+      "confidence": "low",
+      "domainId": "bwp",
+      "domainTitle": "Beauty, Wellness & Personal Care",
+      "streamIds": [
+        "bio"
+      ]
+    },
+    {
+      "id": "BWP-12",
+      "name": "Aromatherapy / Holistic Therapy",
+      "description": "Essential-oil based therapy practice — wellness centres, spas, integrative medicine clinics. Niche but growing post-pandemic wellness trend.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "12th pass; some programs no academic cutoff",
+      "entry_route": "Certification / Diploma",
+      "qualification": "Diploma in Aromatherapy / IFA-certified (International Federation of Aromatherapists) / NAHA-certified",
+      "duration": [
+        "3-12 months"
+      ],
+      "entrance_exam": "Direct enrollment",
+      "govt_fees": "Limited govt route; AYUSH-recognised institutes 20K-1L",
+      "private_fees": "VLCC/IIAA Mumbai/Asha Khanna Aromatherapy 30K-2 lakh; IFA-aligned programmes 60K-2.5 lakh",
+      "top_institutions": [
+        "Institute of Holistic Health Sciences Delhi (private)",
+        "VLCC Institute - Aromatherapy track (private)",
+        "Asha Khanna's Indian Institute of Aromatherapy Mumbai (private)",
+        "International Federation of Aromatherapists India chapter (semi-govt, professional body)",
+        "Soothe Aromatherapy Academy Bangalore (private)",
+        "Skin Anarchy Holistic Clinic training (private)"
+      ],
+      "scholarships": [
+        "Limited; institute-specific need-based"
+      ],
+      "abroad_pathways": "IFA / NAHA certifications globally portable. UAE/UK/Australia/USA spa-industry hiring. Cruise-line wellness programs hire Indian-trained aromatherapists.",
+      "day_in_life": "Client consultation, custom essential-oil blending, massage with carrier-oil blends, spa-protocol delivery, retail product sales. Calm clinical/spa environment.",
+      "growth_path": "Aromatherapist → Senior Therapist → Spa Manager / Independent Practice / Educator. Spa chains (Four Seasons, Taj Spa, Oberoi Spa) hire heavily.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 2-4 LPA / Mid: 4-9 LPA / Senior: 8-20 LPA. Note: Spa chains 2.5-5L; resort spa managers 6-12L; Gulf/cruise lines 5-12L; independent practice variable. Source: AmbitionBox, IFA.",
+      "confidence": "low",
+      "domainId": "bwp",
+      "domainTitle": "Beauty, Wellness & Personal Care",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "BWP-13",
+      "name": "Reflexology / Acupressure",
+      "description": "Pressure-point therapy — foot/hand reflexology, acupressure for pain management. Integrative-medicine adjunct practice.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "12th pass; no strict academic cutoff",
+      "entry_route": "Certification / Diploma",
+      "qualification": "Diploma in Reflexology / NCBTMB-equivalent / ARCB-certified",
+      "duration": [
+        "3-12 months"
+      ],
+      "entrance_exam": "Direct enrollment",
+      "govt_fees": "Limited govt route; AYUSH-recognised institute programs 15K-50K",
+      "private_fees": "VLCC/Asha Khanna/ICRI ₹25K-1 lakh; international cert programs ₹50K-2 lakh",
+      "top_institutions": [
+        "Indian Reflexology Centre Mumbai (private)",
+        "International College of Reflexology India ICRI (private)",
+        "Asha Khanna's Indian Institute (private)",
+        "AYUSH-recognised reflexology training centres (semi-govt)",
+        "VLCC Institute - Holistic Therapies track (private)",
+        "Healing Hands Academy Bangalore (private)"
+      ],
+      "scholarships": [
+        "Limited; institute-specific"
+      ],
+      "abroad_pathways": "International reflexology certifications (RAA, ARCB) globally portable. Spa industry in UAE, Singapore, Maldives, Thailand hires actively.",
+      "day_in_life": "Client sessions (30-60 min foot/hand work), occasional acupressure for specific issues, integration with massage practice. Calm clinical/spa setting.",
+      "growth_path": "Reflexologist → Senior Therapist → Independent Practice / Spa Manager / Educator. Often combined with aromatherapy/massage for full holistic-therapy practice.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 2-4 LPA / Mid: 4-8 LPA / Senior: 7-18 LPA. Note: Hotel/resort spa 2.5-5L; Gulf/cruise 5-10L; independent practice highly variable; tier-1 city specialists 6-12L. Source: AmbitionBox.",
+      "confidence": "low",
+      "domainId": "bwp",
+      "domainTitle": "Beauty, Wellness & Personal Care",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    }
+  ],
+  "confidence_notes": [
+    "VLCC, Lakmé, Shahnaz Husain academy fees verified via institute websites for 2026; PMKVY Beauty & Wellness courses confirmed free for eligible candidates under MSDE.",
+    "BNYS data verified — 5.5-yr duration, govt fees ₹20K-2L total, salary 3-6 LPA fresh, NEET requirement varying by state; S-VYASA Bangalore confirmed NAAC A+ Centre of Excellence.",
+    "Yoga Teacher RYT-200 data verified via Yoga Alliance and S-VYASA fee structures; international rates reflect 2026 wellness-tourism market.",
+    "Nutrition & Dietetics confidence 'high' — Lady Irwin/IHE/SNDT placement reports and AmbitionBox data align well.",
+    "BAMS, BHMS, BUMS cross-referenced from MED domain (Run 1, MED-03/04/05) — here reframed for wellness/preventive lens; clinical depth lives in Medicine domain.",
+    "Siddha confidence 'low' — practitioner pool is Tamil Nadu-centric and salary disclosures sparse; figures derived from TN State Health Dept and AYUSH Ministry.",
+    "Aromatherapy and Reflexology confidence 'low' — informal sector with wide pay variance; figures based on spa-industry disclosures and AmbitionBox.",
+    "Personal Training salary bands verified via Cult.fit, Talwarkars, Gold's Gym AmbitionBox data; ACE/NASM/ISSA cert costs from cert-body websites."
+  ]
+}

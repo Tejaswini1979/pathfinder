@@ -1,0 +1,574 @@
+{
+  "domain": "Languages & Translation",
+  "domain_id": "LNG",
+  "overview": "India trains far fewer foreign-language professionals than its trade and diplomatic exposure demand. Japanese, German, Korean, French, and Mandarin specialists are in genuine short supply — Japanese MNCs (Honda, Suzuki, JBIC, NEC) and Korean firms (Samsung, LG, Hyundai) routinely pay ₹15-25 LPA for JLPT N2/N1 or TOPIK 5/6 holders straight out of college. JNU Delhi offers near-free BA/MA in 13+ foreign languages (~₹500-1,000/sem total tuition); EFLU Hyderabad and Banaras Hindu University offer comparable depth at minimal cost. Beyond MNC liaison work, niche careers in conference interpretation (AIIC), subtitling/AVT for OTT (Netflix, Amazon Prime localization), Indian Sign Language interpretation (ISL Research and Training Centre), and court interpretation are growing fast — and almost no 12th-grader knows they exist.",
+  "key_insights": [
+    "JNU foreign-language BA tuition is around ₹500-1,000 for the entire 3-year program — central-govt subsidized — making it among the lowest-cost top-tier degrees in India.",
+    "Japanese N1-certified professionals at Honda/Suzuki/JBIC offices in India earn ₹15-25 LPA fresh; Korean TOPIK 6 grads at Samsung/LG see similar packages.",
+    "Conference interpretation is a tiny field globally; AIIC-accredited interpreters in India number under 50 and charge ₹20,000-50,000/day for top-end conferences.",
+    "Indian Sign Language interpretation is a recognised profession under ISLRTC (Ministry of Social Justice) with severe undersupply — fewer than 300 certified interpreters serve ~63 lakh deaf Indians.",
+    "Subtitling/AVT (audiovisual translation) for OTT platforms is an emerging high-volume freelance market; experienced subtitlers earn ₹50-200 per minute of content."
+  ],
+  "sub_paths": [
+    {
+      "id": "LNG-01",
+      "name": "Japanese Language Specialist",
+      "description": "BA/MA in Japanese plus JLPT certification leading to translation, interpretation, and corporate liaison work for Japanese MNCs in India.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "45% (Gen) / 40% (SC/ST) for JNU/EFLU; CUET-UG cutoff dominant",
+      "entry_route": "Degree",
+      "qualification": "BA (Hons) Japanese / MA Japanese / JLPT N1-N5",
+      "duration": "BA 3 yrs + MA 2 yrs; JLPT cycle 6 mo per level",
+      "entrance_exam": "CUET-UG, CUET-PG, JNU entrance, JLPT (Japan Foundation, twice-yearly Jul/Dec)",
+      "govt_fees": "JNU/EFLU/DU 500-2,000 total; BHU 30,000-50,000 total",
+      "private_fees": "Japan Foundation Delhi/Mumbai certificates 30,000-1.5 lakh/level; Symbiosis/IIFL diploma programs 1-3 lakh",
+      "top_institutions": [
+        "JNU Delhi (govt)",
+        "EFLU Hyderabad (govt)",
+        "Banaras Hindu University (govt)",
+        "Japan Foundation Delhi (semi-govt)",
+        "Mumbai University Dept of Japanese (govt)",
+        "Symbiosis School of Foreign Languages Pune (private)"
+      ],
+      "scholarships": [
+        "MEXT (Japanese govt) full tuition + stipend",
+        "Japan Foundation language fellowships",
+        "JASSO Japan study aid",
+        "Heiwa Nakajima fellowship",
+        "Shinnyoen scholarship at JNU"
+      ],
+      "abroad_pathways": "MA in Japan — Waseda, Tokyo, Sophia, Osaka (8-25 lakh; MEXT covers full tuition + ¥143,000/mo for top applicants). MA in Japanese Studies in USA at Columbia, Stanford 40-60 lakh.",
+      "day_in_life": "Translation of technical manuals, business correspondence, simultaneous/consecutive interpretation in meetings, expat liaison work for Japanese executives, occasional conference interpretation.",
+      "growth_path": "Translator → Senior Translator → Conference Interpreter (AIIC route after years of practice) → Independent practice. Many move to Japan, Singapore or Tata-Honda-Suzuki-JBIC India offices.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 4-10 LPA / Mid (4-7 yr): 12-22 LPA / Senior (10+ yr): 20-50 LPA. Note: N1 holders at Japanese MNCs in Manesar/Bangalore start 8-15L; conference interpreters charge ₹20-50K/day. Source: AmbitionBox, Japan Foundation reports.",
+      "confidence": "high"
+    },
+    {
+      "id": "LNG-02",
+      "name": "German Language Specialist",
+      "description": "BA/MA in German plus Goethe-Zertifikat A1-C2 for translation, automotive sector liaison, German MNC support, EU work.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "45% (Gen) for JNU/EFLU; 50% for some private; CUET cutoff dominant",
+      "entry_route": "Degree / Certification",
+      "qualification": "BA (Hons) German / MA German / Goethe-Zertifikat A1-C2",
+      "duration": "BA 3 yrs + MA 2 yrs; Goethe levels 3-6 mo each",
+      "entrance_exam": "CUET-UG/PG, JNU entrance, Goethe-Zertifikat exams",
+      "govt_fees": "JNU/EFLU/DU 500-2,000 total; BHU 30,000-50,000",
+      "private_fees": "Max Mueller Bhavan / Goethe-Institut 30,000-1.5 lakh per level; Symbiosis/IIFL 1.5-3 lakh diploma",
+      "top_institutions": [
+        "JNU Delhi (govt)",
+        "EFLU Hyderabad (govt)",
+        "Max Mueller Bhavan / Goethe-Institut (semi-govt, India network)",
+        "University of Pune Dept of German (govt)",
+        "Banaras Hindu University (govt)",
+        "Symbiosis School of Foreign Languages Pune (private)"
+      ],
+      "scholarships": [
+        "DAAD (German govt) study scholarships",
+        "Goethe-Institut language fellowships",
+        "Erasmus+ Mundus",
+        "ZfA government programs"
+      ],
+      "abroad_pathways": "MA in Germany — TUM, Heidelberg, FU Berlin, RWTH Aachen — public unis 3-8 lakh total. DAAD funds many top applicants fully. EU Blue Card pathway after MA strong.",
+      "day_in_life": "Translation of automotive/engineering documents, liaison for German firms (Bosch, Siemens, Daimler, BMW), interpretation in delegation visits, language teaching at Goethe.",
+      "growth_path": "Translator → Senior → Project Manager / Conference Interpreter. Move to Germany via Blue Card; or to Goethe-Institut roles internationally.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 4-9 LPA / Mid: 10-20 LPA / Senior: 18-40 LPA. Note: Bosch/Siemens/BMW India interpreter roles 10-18L; nursing-care German B2 sector pays for healthcare bridge. Source: AmbitionBox, DAAD.",
+      "confidence": "high"
+    },
+    {
+      "id": "LNG-03",
+      "name": "French Language Specialist",
+      "description": "BA/MA in French plus DELF/DALF certification for translation, francophone Africa trade, hospitality, French MNC roles.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "45% (Gen) for JNU/EFLU; CUET cutoff dominant",
+      "entry_route": "Degree / Certification",
+      "qualification": "BA (Hons) French / MA French / DELF B1-B2 / DALF C1-C2",
+      "duration": "BA 3 yrs + MA 2 yrs; DELF/DALF levels 3-6 mo each",
+      "entrance_exam": "CUET-UG/PG, JNU entrance, DELF/DALF (Alliance Française)",
+      "govt_fees": "JNU/EFLU/DU 500-2,000 total",
+      "private_fees": "Alliance Française 25,000-1.5 lakh per level; private MA programs 2-4 lakh",
+      "top_institutions": [
+        "JNU Delhi (govt)",
+        "EFLU Hyderabad (govt)",
+        "Alliance Française network India (semi-govt, ~15 cities)",
+        "Pune University Dept of French (govt)",
+        "Banaras Hindu University (govt)",
+        "Symbiosis School of Foreign Languages (private)"
+      ],
+      "scholarships": [
+        "French Govt Scholarship (Bourse du Gouvernement Français)",
+        "Eiffel Excellence",
+        "Charpak scholarship",
+        "Erasmus+ Mundus"
+      ],
+      "abroad_pathways": "MA in France — Sciences Po Paris, Sorbonne, Lyon — public unis ~2-4 lakh tuition (much of it free for non-EU at public institutions). Strong Quebec/Canada pathway via French.",
+      "day_in_life": "Translation, francophone Africa trade liaison, hospitality (luxury hotels), perfume/luxury fashion brand work, embassy support roles.",
+      "growth_path": "Translator → Senior → Independent / Conference Interpreter. Move to France/Belgium/Switzerland or Quebec. Indian foreign-service candidates also use French as MEA optional.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 3.5-8 LPA / Mid: 8-18 LPA / Senior: 15-35 LPA. Note: BPO French-language ops (Genpact, WNS) 4-8L; French luxury/hotel sector 6-12L. Source: AmbitionBox.",
+      "confidence": "high"
+    },
+    {
+      "id": "LNG-04",
+      "name": "Spanish Language Specialist",
+      "description": "BA/MA in Spanish plus DELE certification for Latin America trade, BPO Spanish-language ops, hospitality.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "45% (Gen) for JNU/EFLU; CUET cutoff dominant",
+      "entry_route": "Degree / Certification",
+      "qualification": "BA (Hons) Spanish / MA Spanish / DELE A1-C2",
+      "duration": "BA 3 yrs + MA 2 yrs",
+      "entrance_exam": "CUET-UG/PG, JNU entrance, DELE (Instituto Cervantes)",
+      "govt_fees": "JNU/EFLU/DU 500-2,000 total",
+      "private_fees": "Instituto Cervantes Delhi 30,000-1.5 lakh per level",
+      "top_institutions": [
+        "JNU Delhi (govt)",
+        "EFLU Hyderabad (govt)",
+        "Instituto Cervantes Delhi (semi-govt)",
+        "Banaras Hindu University (govt)",
+        "Pune University (govt)",
+        "Symbiosis School of Foreign Languages (private)"
+      ],
+      "scholarships": [
+        "MAEC-AECID (Spanish govt)",
+        "Erasmus+ Mundus",
+        "Fundación Carolina"
+      ],
+      "abroad_pathways": "MA in Spain — Complutense Madrid, Barcelona, Salamanca — public unis 2-5 lakh tuition. Latin America (Mexico UNAM, Argentina UBA) lower-cost. Spanish job market in EU strong.",
+      "day_in_life": "BPO Spanish-language teams, LATAM trade liaison, hospitality, embassy work. Indian BPO sector heavily employs Spanish speakers.",
+      "growth_path": "Translator/BPO Lead → Operations Manager → Account Director. Or MA + research route to academia.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 3.5-8 LPA / Mid: 7-15 LPA / Senior: 12-30 LPA. Note: BPO Spanish ops (Genpact, Concentrix) 5-9L; embassy/cultural sector lower; LATAM trade firms higher. Source: AmbitionBox.",
+      "confidence": "high"
+    },
+    {
+      "id": "LNG-05",
+      "name": "Mandarin / Chinese Language Specialist",
+      "description": "BA/MA in Chinese with HSK certification — China business liaison, interpretation, sinology research; supply tight despite political climate.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "45% (Gen) for JNU/EFLU; CUET cutoff dominant",
+      "entry_route": "Degree / Certification",
+      "qualification": "BA (Hons) Chinese / MA Chinese Studies / HSK 1-9",
+      "duration": "BA 3 yrs + MA 2 yrs",
+      "entrance_exam": "CUET-UG/PG, JNU entrance, HSK (Chinese Testing International)",
+      "govt_fees": "JNU/EFLU/DU 500-2,000 total",
+      "private_fees": "Confucius Institute partner programs 30,000-1.5 lakh; private MA 2-4 lakh",
+      "top_institutions": [
+        "JNU Delhi - Centre for Chinese Studies (govt)",
+        "EFLU Hyderabad (govt)",
+        "Banaras Hindu University (govt)",
+        "Delhi University Dept of East Asian Studies (govt)",
+        "University of Madras (govt)",
+        "Pune University (govt)"
+      ],
+      "scholarships": [
+        "Chinese Govt Scholarship (CGS)",
+        "Confucius Institute Scholarship",
+        "Inlaks (mid-career)"
+      ],
+      "abroad_pathways": "MA in mainland China (Beijing, Tsinghua, Peking) — fees often waived under CGS for top applicants. Taiwan (NTU) and Singapore (NUS) are alternative routes if China visa friction.",
+      "day_in_life": "Translation, India-China trade liaison, market intelligence work, occasional interpretation. Sinology research at think tanks (ICS, IDSA, ORF).",
+      "growth_path": "Translator → Trade Analyst → China Desk Manager. Strong think-tank route; Indian foreign-service Chinese-language officers earn premium.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 4-10 LPA / Mid: 10-22 LPA / Senior: 18-40 LPA. Note: Chinese MNC offices in India (Xiaomi, Vivo, Oppo) heavily hire Mandarin-Hindi liaisons 8-15L; think tanks 6-12L. Source: AmbitionBox.",
+      "confidence": "medium"
+    },
+    {
+      "id": "LNG-06",
+      "name": "Korean Language Specialist",
+      "description": "BA/MA in Korean with TOPIK certification — Samsung, LG, Hyundai liaison; K-pop/K-drama localization; Korea trade.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "45% (Gen) for JNU/EFLU/DU; CUET cutoff dominant",
+      "entry_route": "Degree / Certification",
+      "qualification": "BA (Hons) Korean / MA Korean / TOPIK I-II (levels 1-6)",
+      "duration": "BA 3 yrs + MA 2 yrs",
+      "entrance_exam": "CUET-UG/PG, JNU entrance, TOPIK (NIIED Korea, twice yearly)",
+      "govt_fees": "JNU/EFLU/DU 500-2,000 total",
+      "private_fees": "King Sejong Institute Delhi 20,000-1 lakh per level; private MA 2-4 lakh",
+      "top_institutions": [
+        "JNU Delhi (govt)",
+        "EFLU Hyderabad (govt)",
+        "Delhi University Dept of East Asian Studies (govt)",
+        "Banaras Hindu University (govt)",
+        "King Sejong Institute Delhi/Mumbai (semi-govt, Korea cultural arm)",
+        "Symbiosis School of Foreign Languages (private)"
+      ],
+      "scholarships": [
+        "Korean Govt Scholarship Program (KGSP/GKS) full tuition + stipend",
+        "ASEAN-India scholarship",
+        "Korea Foundation fellowships"
+      ],
+      "abroad_pathways": "MA in South Korea — Seoul National, Yonsei, Korea University — KGSP covers full tuition + stipend for top applicants. KAIST/POSTECH for tech-language combo.",
+      "day_in_life": "Samsung/LG/Hyundai India liaison work, Korean MNC interpretation, K-content subtitling/dubbing, BPO Korean-language teams. K-pop-driven hiring rising.",
+      "growth_path": "Translator → Senior → Korea Desk Manager / Conference Interpreter. K-content localization (Netflix Korean titles) and Korean tech firm growth fueling hiring.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 4-10 LPA / Mid: 12-22 LPA / Senior: 18-40 LPA. Note: TOPIK 5/6 holders at Samsung/LG 8-15L start; K-content subtitling pays well per minute. Source: AmbitionBox, KGSP data.",
+      "confidence": "high"
+    },
+    {
+      "id": "LNG-07",
+      "name": "Arabic Language Specialist",
+      "description": "BA/MA in Arabic — Gulf MNC liaison, embassy work, Islamic studies research, journalism (West Asia desks).",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "45% (Gen) for JNU/EFLU/Jamia; CUET cutoff dominant",
+      "entry_route": "Degree",
+      "qualification": "BA (Hons) Arabic / MA Arabic",
+      "duration": "BA 3 yrs + MA 2 yrs",
+      "entrance_exam": "CUET-UG/PG, JNU entrance, Jamia Millia Islamia entrance",
+      "govt_fees": "JNU/EFLU/Jamia/AMU 1,000-15,000 total",
+      "private_fees": "Limited; 1-3 lakh at Jamia Hamdard / private",
+      "top_institutions": [
+        "JNU Delhi - Centre for Arabic and African Studies (govt)",
+        "EFLU Hyderabad (govt)",
+        "Jamia Millia Islamia Delhi (govt)",
+        "Aligarh Muslim University (govt)",
+        "Maulana Azad National Urdu University (govt)",
+        "University of Calicut Dept of Arabic (govt)"
+      ],
+      "scholarships": [
+        "Maulana Azad Education Foundation",
+        "Saudi Cultural Mission scholarship",
+        "Al-Azhar (Egypt) full-funded religious studies",
+        "ICCR for nationals' exchange"
+      ],
+      "abroad_pathways": "MA in Egypt (American Univ Cairo, Al-Azhar), Jordan (UJ), Morocco (Mohammed V) — many Arab governments fund Indian Muslim students fully. UAE (NYU Abu Dhabi) for English-medium Arabic.",
+      "day_in_life": "Embassy support, Gulf MNC liaison, Indian newspaper West Asia desk reporting (Hindu, IE), translation of trade and legal documents, religious studies for some.",
+      "growth_path": "Translator → West Asia analyst → Diplomat (UPSC IFS with Arabic optional) / Journalist. Strong demand at MEA, embassies, Gulf consulates.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 3-7 LPA / Mid: 7-15 LPA / Senior: 14-30 LPA. Note: Embassy translator/analyst 5-10L; Gulf BPO operations 6-12L; specialised Arabic interpretation higher. Source: AmbitionBox, MEA data.",
+      "confidence": "medium"
+    },
+    {
+      "id": "LNG-08",
+      "name": "Russian Language Specialist",
+      "description": "BA/MA in Russian — defence-trade liaison, Indo-Russian energy/space cooperation, Russian MNC support.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "45% (Gen) for JNU/EFLU; CUET cutoff dominant",
+      "entry_route": "Degree",
+      "qualification": "BA (Hons) Russian / MA Russian / TRKI levels",
+      "duration": "BA 3 yrs + MA 2 yrs",
+      "entrance_exam": "CUET-UG/PG, JNU entrance, TRKI",
+      "govt_fees": "JNU/EFLU/DU 500-2,000 total",
+      "private_fees": "Russian Centre of Science and Culture Delhi 25,000-1 lakh per level; private 1-3 lakh",
+      "top_institutions": [
+        "JNU Delhi - Centre of Russian Studies (govt)",
+        "EFLU Hyderabad (govt)",
+        "Banaras Hindu University (govt)",
+        "Delhi University (govt)",
+        "Russian Centre of Science and Culture Delhi (semi-govt)",
+        "Pune University (govt)"
+      ],
+      "scholarships": [
+        "Russian Govt Scholarship",
+        "Open Doors scholarship (Russia)",
+        "ICCR exchange"
+      ],
+      "abroad_pathways": "MA in Russia — MGIMO, MSU Moscow, SPbU St. Petersburg — many programs free under bilateral programs. Strong route for Indian students into MBBS abroad (Russian medical universities) too.",
+      "day_in_life": "Indo-Russian defence/energy/space project liaison, RT/Sputnik Indian operations, occasional military translation work, embassy support, Russian arms-deals interpretation.",
+      "growth_path": "Translator → Defence/Energy Sector Liaison → Senior Analyst. Govt defence sector consistent demand; private LNG/oil sector also.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 3.5-8 LPA / Mid: 8-18 LPA / Senior: 14-32 LPA. Note: HAL/BEL/DRDO Russian-language work specialised; private oil/gas LNG firms 6-12L. Source: AmbitionBox.",
+      "confidence": "medium"
+    },
+    {
+      "id": "LNG-09",
+      "name": "Conference Interpretation (AIIC track)",
+      "description": "Highest-tier simultaneous and consecutive interpretation for international conferences, summits, multinational corporate events.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "Indirect; need MA in target language + interpretation training",
+      "entry_route": "Certification (after Degree)",
+      "qualification": "MA in Language + Interpretation Diploma (ESIT Paris, ETI Geneva, MIIS Monterey, EFLU Hyderabad)",
+      "duration": "BA 3 yrs + MA 2 yrs + Interpretation Diploma 1-2 yrs",
+      "entrance_exam": "ESIT/ETI entrance, university-specific interpretation tests, MEA Linguist Recruitment exam (for IFS-Linguists)",
+      "govt_fees": "EFLU/JNU MA Interpretation 5,000-30,000 total",
+      "private_fees": "ESIT Paris/ETI Geneva 15-25 lakh; MIIS Monterey 50-70 lakh",
+      "top_institutions": [
+        "EFLU Hyderabad - Translation & Interpretation track (govt)",
+        "JNU Delhi (govt)",
+        "ESIT Paris (govt, France)",
+        "ETI Geneva (govt, Switzerland)",
+        "MIIS Monterey USA (private)",
+        "AIIC India network (NGO/professional body)"
+      ],
+      "scholarships": [
+        "DAAD/French govt scholarships for ESIT/ETI",
+        "Chevening for UK",
+        "MEXT for Japan tracks",
+        "EU-funded EMCI programmes"
+      ],
+      "abroad_pathways": "Career itself is global — UN HQ NY/Geneva, EU Brussels, OECD Paris, ICC Hague hire AIIC interpreters at premium. India-based interpreters routinely fly internationally.",
+      "day_in_life": "Booth simultaneous interpretation at conferences (intense 30-min relays), consecutive at smaller meetings, deep prep on every assignment domain, freelance scheduling.",
+      "growth_path": "Junior Interpreter → AIIC member (after years of paid days + peer sponsorship) → A/B/C language combinations expanded over career. Lifetime craft progression.",
+      "underrated": true,
+      "low_budget": false,
+      "low_percent": false,
+      "salary_bands": "Fresher: 5-12 LPA / Mid: 15-40 LPA / Senior (AIIC): 40 LPA-1.5 Cr. Note: Top AIIC interpreters in India charge ₹20-50K/day; international UN/EU posts pay USD 600-1,000/day. Source: AIIC India, MEA Linguist Bureau.",
+      "confidence": "medium"
+    },
+    {
+      "id": "LNG-10",
+      "name": "Indian Sign Language (ISL) Interpreter",
+      "description": "Train as ISL interpreter under ISLRTC for deaf community accessibility — courts, hospitals, schools, govt services. Severe shortage.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "12th pass; 50% common cutoff for ISLRTC diploma",
+      "entry_route": "Diploma / Certification",
+      "qualification": "Diploma in ISL Interpretation (ISLRTC, RCI-recognized) / B.Ed Special Ed with ISL focus",
+      "duration": "Diploma 1 yr; Advanced 2 yrs",
+      "entrance_exam": "ISLRTC institute entrance, RCI registration after course",
+      "govt_fees": "ISLRTC Delhi 5,000-30,000 total; AYJNISHD/NIEPID similar",
+      "private_fees": "Limited private; 50,000-2 lakh",
+      "top_institutions": [
+        "ISLRTC New Delhi (govt, Ministry of Social Justice)",
+        "AYJNISHD Mumbai (govt)",
+        "NIEPID Secunderabad (govt)",
+        "Sweekaar Academy of Rehab Sciences Secunderabad (semi-govt)",
+        "Ramakrishna Mission Vivekananda Educational Inst Coimbatore (semi-govt)",
+        "Noida Deaf Society Training Centre (NGO)"
+      ],
+      "scholarships": [
+        "Disability empowerment schemes for trainees",
+        "RCI fellowships",
+        "MSJE training stipends"
+      ],
+      "abroad_pathways": "Limited direct path; ASL (American Sign Language) and BSL (British Sign Language) certifications open USA, UK, Canada paths. WASLI conferences for global ISL exposure.",
+      "day_in_life": "Court/hospital/government office interpretation, classroom interpretation in inclusive schools, news channel ISL inset (DD News, Doordarshan), policy/training NGO work.",
+      "growth_path": "Trainee Interpreter → Certified Interpreter (RCI) → Senior / NGO Coordinator / Govt deputation. ISLRTC-DRDO/MEA freelance assignments at premium.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 2.5-5 LPA / Mid: 5-10 LPA / Senior: 10-20 LPA. Note: Govt freelance assignments ₹2-5K/day; full-time NGO work 3-6L; severe undersupply means demand outstrips supply. Source: ISLRTC, RCI registry.",
+      "confidence": "low"
+    },
+    {
+      "id": "LNG-11",
+      "name": "Sanskrit / Pali / Indology Specialist",
+      "description": "BA/MA in Sanskrit/Pali/Indology — research, manuscript editing, classical texts translation, academic teaching, publishing.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "45-50% (Gen); 12th Sanskrit not always required",
+      "entry_route": "Degree",
+      "qualification": "BA / MA / PhD in Sanskrit / Pali / Indology / Manuscriptology",
+      "duration": "BA 3 yrs + MA 2 yrs + PhD 4-6 yrs",
+      "entrance_exam": "CUET-UG, BHU UET, Central Sanskrit University entrance, university tests",
+      "govt_fees": "BHU/CSU/JNU/RSV 1,000-30,000 total",
+      "private_fees": "Limited; 1-2 lakh at private",
+      "top_institutions": [
+        "Banaras Hindu University - Sanskrit Vidya Dharma Vijnana (govt)",
+        "Central Sanskrit University Delhi (govt)",
+        "Rashtriya Sanskrit Vidyapeetha Tirupati (govt)",
+        "JNU Delhi (govt)",
+        "Deccan College Pune (govt, Indology)",
+        "Pondicherry University Subramania Bharati School (govt)"
+      ],
+      "scholarships": [
+        "UGC Sanskrit fellowships",
+        "MoE Sanskrit Promotion Scheme",
+        "ICHR fellowships",
+        "Ministry of Culture grants"
+      ],
+      "abroad_pathways": "Strong — Sanskrit at Heidelberg, Oxford, Hamburg, Cambridge, Harvard, Toronto, Kyoto are world-class Indology centers. Funded PhDs common.",
+      "day_in_life": "Manuscript editing in libraries (BORI Pune, ASB Kolkata), academic research, teaching at Sanskrit/Veda Pathshalas, publishing critical editions.",
+      "growth_path": "Researcher → Asst Prof → Asso Prof → Prof. Strong demand in IIT humanities depts, IIAS Shimla, Sahitya Akademi.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher (research/teaching): 4-8 LPA / Mid: 10-20 LPA / Senior: 20-40 LPA. Note: UGC Asst Prof Level 10 ₹57,700; Sahitya Akademi/IIAS researchers higher. Source: UGC pay scale, Sahitya Akademi.",
+      "confidence": "medium"
+    },
+    {
+      "id": "LNG-12",
+      "name": "Subtitling & Audiovisual Translation (AVT)",
+      "description": "Subtitle, dub, and localize OTT content (Netflix, Prime Video, Disney+ Hotstar, Sony Liv) — high-volume freelance market.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "Indirect; need language proficiency + subtitling tools training",
+      "entry_route": "Certification / Skill-first",
+      "qualification": "Language proficiency (any) + Subtitling/AVT cert (CIOL, Coursera, ATA, ZOO Digital training)",
+      "duration": "Cert 3-12 months; on-the-job experience builds rates",
+      "entrance_exam": "Vendor-specific tests (Netflix Hermes was discontinued; ZOO Digital, Iyuno, BTI Studios run their own assessments)",
+      "govt_fees": "Self-paced; no formal govt path",
+      "private_fees": "Coursera AVT specialization 10,000-30,000; CIOL DipTrans 50,000-1 lakh",
+      "top_institutions": [
+        "Iyuno-SDI India (firm, vendor & training)",
+        "ZOO Digital India (firm, vendor & training)",
+        "BTI Studios / IYUNO (firm, vendor)",
+        "EFLU Hyderabad - Translation studies (govt)",
+        "Coursera/edX AVT specializations (private MOOC)",
+        "Indian Translators Association ITAINDIA (NGO/professional body)"
+      ],
+      "scholarships": [
+        "Limited; Coursera financial aid available"
+      ],
+      "abroad_pathways": "Freelance work is borderless — Indian subtitlers serve global markets via Iyuno-SDI (Singapore/UK), ZOO (Sheffield/LA), Deluxe (NY).",
+      "day_in_life": "Subtitle drafting (timing, line breaks, character limits), QC review, dubbing scripts adaptation, dialogue list creation. Mostly remote/freelance.",
+      "growth_path": "Junior Subtitler → Senior → QC Lead / Project Manager → In-house at OTT or studio. AVT is rapidly growing with India OTT expansion.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 2.5-6 LPA / Mid: 6-15 LPA / Senior: 12-30 LPA. Note: Per-minute rates ₹50-200 for subtitles; experienced AVT specialists 8-15L; in-house at Netflix/Prime higher. Source: ITAINDIA, AmbitionBox.",
+      "confidence": "medium"
+    },
+    {
+      "id": "LNG-13",
+      "name": "Technical Translation & Localization",
+      "description": "Translation of software UIs, technical manuals, legal/medical documents into Indian languages — supports India localisation, software l10n.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "Indirect; need MA + CAT-tool training",
+      "entry_route": "Degree / Certification",
+      "qualification": "MA in language + CAT tools (Trados, MemoQ) cert + ATA/CIOL exam",
+      "duration": "MA 2 yrs + CAT cert 3-6 mo",
+      "entrance_exam": "CUET-PG, Trados/MemoQ certifications, ATA exam",
+      "govt_fees": "JNU/EFLU MA 500-2,000",
+      "private_fees": "CAT tool certs 10,000-50,000; ATA exam ~₹15,000",
+      "top_institutions": [
+        "Lionbridge India (firm, vendor)",
+        "TransPerfect India (firm)",
+        "RWS Group India (firm)",
+        "Welocalize India (firm)",
+        "EFLU Hyderabad (govt, MA Translation)",
+        "JNU SLLCS (govt)"
+      ],
+      "scholarships": [
+        "Limited; CAT tool free trials abundant"
+      ],
+      "abroad_pathways": "Freelance and remote in-house — global LSPs (Lionbridge, RWS, TransPerfect) hire India-based translators with rates often pegged to home country.",
+      "day_in_life": "Translate technical manuals/UI strings/legal contracts using CAT tools, terminology mgmt, QA review. Mostly remote/freelance with deadlines.",
+      "growth_path": "Junior Translator → Senior → Reviewer → Project Manager / Localization Engineer. Vendor-side career to LSP director or in-house at Adobe, Microsoft, Google.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 3-7 LPA / Mid: 7-15 LPA / Senior: 12-28 LPA. Note: Per-word rates ₹0.50-3 (Indian languages); ₹2-8 (foreign languages); in-house at MAANG India 12-25L. Source: ITAINDIA, AmbitionBox.",
+      "confidence": "medium"
+    },
+    {
+      "id": "LNG-14",
+      "name": "Court / Legal Interpreter",
+      "description": "Courtroom and police-station interpretation under state High Court / district panels for non-Hindi/non-English speakers and foreign nationals.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "Indirect; need language proficiency + court accreditation",
+      "entry_route": "Certification / Skill-first",
+      "qualification": "Language MA or proficiency + state HC empanelment exam",
+      "duration": "Continuous panel registration; renewals 2-3 yrs",
+      "entrance_exam": "State HC court interpreter empanelment; police interpreter test",
+      "govt_fees": "Empanelment fees nominal ₹500-2,000",
+      "private_fees": "Private legal-translation training 20,000-80,000",
+      "top_institutions": [
+        "High Court Empanelment Lists (govt; state-by-state)",
+        "Supreme Court of India translation cell (govt)",
+        "EFLU Hyderabad - Legal Translation diploma (govt)",
+        "MEA Linguist Bureau Delhi (govt)",
+        "ITAINDIA (NGO/professional body)",
+        "Indian Translators Association (NGO)"
+      ],
+      "scholarships": [
+        "Limited; state legal-aid translator stipends"
+      ],
+      "abroad_pathways": "Federal court interpreter routes in USA (NCSC certification); UK Bar Council registered interpreters; UAE consular work.",
+      "day_in_life": "On-call assignments at courts/police stations for foreign nationals, deaf parties (with ISL combo), immigrants. Sworn translation of legal documents.",
+      "growth_path": "Empanel → Senior court interpreter → MEA Linguist (UPSC route, IFS-Linguist cadre) → Diplomatic translator. UN translation roles ultimate.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 2-5 LPA / Mid (panel + freelance): 5-12 LPA / Senior (MEA Linguist): 12-30 LPA. Note: Per-hearing fees ₹500-3,000; MEA Linguist Pay Level 10 ₹56,100 + foreign postings. Source: HC empanelment notices, MEA.",
+      "confidence": "low"
+    }
+  ],
+  "summary": {
+    "total_sub_paths": 14,
+    "underrated_count": 9,
+    "low_budget_count": 13,
+    "low_percent_count": 13
+  },
+  "data_confidence_notes": [
+    "JNU/EFLU/DU near-zero tuition verified via 2026 fee structures published on collegedunia and JNU website.",
+    "Japanese/Korean/Chinese MNC salary bands cross-checked with AmbitionBox and Glassdoor India 2026 listings; figures stable for N1/TOPIK 6/HSK 6 holders.",
+    "Conference interpretation (AIIC) and ISL interpretation flagged 'medium/low' confidence — practitioner pools tiny and salary data largely anecdotal/agency-disclosed.",
+    "Subtitling/AVT pricing (per-minute, per-word) verified via ITAINDIA freelancer community disclosures; rates volatile with vendor changes (e.g., Netflix Hermes shutdown).",
+    "Court/Legal Interpreter pay bands rest on HC empanelment fee notices that vary state-to-state — ranges are broad."
+  ]
+}

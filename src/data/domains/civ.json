@@ -1,0 +1,646 @@
+{
+  "id": "civ",
+  "title": "Civil Services & Public Administration",
+  "tagline": "IAS, IPS, IFS — and 10 other lesser-known central and state services with similar prestige and stability.",
+  "color": "#5a4d7a",
+  "overview": "Civil services in India is dominated by UPSC CSE in public imagination — ~10 lakh apply annually for ~933 vacancies in 2026 — but the broader civil services landscape includes far more: state PSCs (often easier and equally stable), specialized financial regulators (RBI Grade B, SEBI Grade A, NABARD Grade A) which offer better starting salaries than IAS, and judicial services for law graduates. The 2026 UPSC notification confirmed prelims on May 24 and mains on August 21. The RBI Grade B 2026 notification is expected April 28. Most aspirants ignore the 'second-rung' services (RBI/SEBI/NABARD) which pay roughly 2x IAS at entry and have much shorter exam cycles and higher selection ratios. Indian Forest Service via UPSC and IES (engineering services) are similarly under-applied for despite high quality of life.",
+  "key_insights": [
+    "RBI Grade B basic pay is ₹78,450 vs IAS ₹56,100 — Grade B gross ₹1.5L/month + CTC ₹40-42 LPA exceeds IAS Level 10 entry compensation and has 1/100th the prep load.",
+    "State PSCs (UPPSC, BPSC, MPPSC, MPSC, KPSC) recruit 200-1000 officers each year vs UPSC's ~933 — the cumulative state-PSC opportunity is multiples of UPSC CSE.",
+    "Indian Forest Service (IFoS) via UPSC has ~150 vacancies/year, similar prestige to IAS, far less competition, and the role suits Bio/PCM grads with field interest.",
+    "Judicial Services (state-level civil judge exam) gives an LLB graduate a Group A judge post by age 25-26 with starting pay ₹77K-1L/month — faster than IAS for law students.",
+    "UPSC CDS (Combined Defence Services) is a parallel post-graduation pathway many overlook: officer-rank entry to Army, Navy, Air Force with Pay Level 10 + lifetime pension."
+  ],
+  "sub_paths": [
+    {
+      "id": "CIV-01",
+      "name": "UPSC CSE - IAS (Indian Administrative Service)",
+      "description": "Apex All-India Service handling district administration, policy formulation, ministry implementation. Rank 1-100 typically secures IAS.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "No 12th cutoff; need any Bachelor's degree",
+      "entry_route": "Govt exam (UPSC CSE) post-graduation",
+      "qualification": "Any UG degree; CSE 3 stages — Prelims, Mains, Interview",
+      "duration": [
+        "3-stage exam typically 12 months",
+        "service training 2 yrs at LBSNAA"
+      ],
+      "entrance_exam": "UPSC Civil Services Examination (CSE 2026: Prelims May 24, Mains Aug 21)",
+      "govt_fees": "Application fee ₹100-200; coaching optional ₹1-3 lakh per year",
+      "private_fees": "Coaching: ₹1-5 lakh (Vajiram, Vision IAS, Drishti, Forum IAS)",
+      "top_institutions": [
+        "Vajiram & Ravi Delhi (private coaching)",
+        "Vision IAS Delhi (private)",
+        "Drishti IAS Delhi (private)",
+        "Forum IAS (private)",
+        "ALS IAS (private)",
+        "GS Score (private)"
+      ],
+      "scholarships": [
+        "Sankalp by Drishti for SC/ST/girls",
+        "Free coaching by govt - Jamia/JMI RCA",
+        "AIR scholarships",
+        "various state govt UPSC schemes"
+      ],
+      "abroad_pathways": "Mid-career — Mason Fellowship at Harvard Kennedy School (HKS), MPA at Princeton, Oxford BSG, sponsored deputations to UN/World Bank.",
+      "day_in_life": "DM/SDM phase: 12-14 hr days handling law-and-order, revenue, elections, disaster mgmt. Ministry posting: meetings, file work, PMO interactions. Cabinet Secretary level: extreme responsibility.",
+      "growth_path": "Asst Collector/SDM (2 yr) → Collector/DM (5-7 yr) → Joint Sec → Addl Sec → Sec → Cabinet Sec. Pay Level 10 (₹56,100) entry; gross ₹85K-1L; Cabinet Sec ₹2.5L (Level 18).",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 8-12 LPA gross / Mid: 18-30 LPA / Senior (Sec/Cabinet Sec): 30 LPA-50+ LPA. Note: Govt accommodation, vehicle, staff add ~₹2L/month equivalent. Source: 7th Pay Commission, UPSC notification.",
+      "confidence": "high",
+      "domainId": "civ",
+      "domainTitle": "Civil Services & Public Administration",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "CIV-02",
+      "name": "UPSC CSE - IPS (Indian Police Service)",
+      "description": "Apex police service handling internal security, law-and-order, intelligence, anti-terror, traffic, narcotics. Rank ~100-300 typically secures IPS.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "No 12th cutoff; physical fitness standards apply",
+      "entry_route": "Govt exam (UPSC CSE)",
+      "qualification": "Any UG degree; physical/medical standards (165cm men, 150cm women)",
+      "duration": [
+        "3-stage exam ~12 months",
+        "SVPNPA Hyderabad training 2 yrs"
+      ],
+      "entrance_exam": "UPSC CSE",
+      "govt_fees": "Same as IAS",
+      "private_fees": "Same coaching ecosystem",
+      "top_institutions": [
+        "SVPNPA Hyderabad (training, govt)",
+        "Vajiram & Ravi (private)",
+        "Vision IAS (private)",
+        "Drishti IAS (private)",
+        "Forum IAS (private)",
+        "Insights IAS Bangalore (private)"
+      ],
+      "scholarships": [
+        "Same as IAS UPSC schemes"
+      ],
+      "abroad_pathways": "FBI Academy training exchanges, Interpol secondments, UN peacekeeping (UN police), HKS Mason Fellowship, deputation to anti-terror agencies abroad.",
+      "day_in_life": "ASP/SP phase: shift-based law-and-order rounds, investigation oversight, public order. SPG/IB/RAW phases: classified work. Senior IPS: zonal command + admin.",
+      "growth_path": "ASP (2 yr) → SP/SSP → DIG → IG → ADGP → DGP. Same pay scale as IAS Level 10 entry; DGP at Level 17 ₹2.25L/month.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 8-12 LPA gross / Mid: 18-30 LPA / Senior (DGP): 30-45 LPA. Note: Govt house, security, vehicle add significantly. Source: 7th Pay Commission.",
+      "confidence": "high",
+      "domainId": "civ",
+      "domainTitle": "Civil Services & Public Administration",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "CIV-03",
+      "name": "UPSC CSE - IFS (Indian Foreign Service)",
+      "description": "Diplomatic service representing India abroad — embassies, consulates, MEA HQ Delhi. Highly prestigious, requires top ~50-150 ranks.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "No 12th cutoff; foreign-language aptitude desirable",
+      "entry_route": "Govt exam (UPSC CSE)",
+      "qualification": "Any UG degree",
+      "duration": [
+        "Same UPSC cycle",
+        "FSI Delhi training 3 yrs incl. compulsory foreign language"
+      ],
+      "entrance_exam": "UPSC CSE",
+      "govt_fees": "Same as IAS",
+      "private_fees": "Same coaching ecosystem",
+      "top_institutions": [
+        "Foreign Service Institute Delhi (training, govt)",
+        "Vajiram & Ravi (private)",
+        "Vision IAS (private)",
+        "Drishti IAS (private)",
+        "Forum IAS (private)",
+        "Khan Study Group (private)"
+      ],
+      "scholarships": [
+        "Same UPSC schemes",
+        "MEA-funded foreign language scholarships post-selection"
+      ],
+      "abroad_pathways": "Career itself is global — postings 70%+ abroad. Mid-career studies at Tufts Fletcher, Geneva IHEID, Oxford, Sciences Po common.",
+      "day_in_life": "Embassy work: political/economic reporting, visa, consular, trade promotion. MEA Delhi: territorial desks (China, Pakistan, US, Europe), policy. Hardship postings (Africa, conflict zones) early career.",
+      "growth_path": "Third Secretary → Second Secretary → First Secretary → Counsellor → Joint Sec → Addl Sec → Sec(MEA) → Foreign Sec → Ambassador. Same Pay Level 10 entry; Foreign Secretary at Level 17 ₹2.25L.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": false,
+      "salary_bands": "Fresher: 10-15 LPA + foreign allowance / Mid: 25-45 LPA / Senior: 40-60 LPA + housing. Note: Foreign postings add USD 2,000-5,000/month foreign allowance tax-free. Source: MEA, 7th Pay.",
+      "confidence": "high",
+      "domainId": "civ",
+      "domainTitle": "Civil Services & Public Administration",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "CIV-04",
+      "name": "UPSC IES (Indian Engineering Services)",
+      "description": "Group A technical service for B.Tech graduates — railways, CPWD, telecom, BRO, defence engineering. Separate UPSC exam.",
+      "streams": [
+        "Maths"
+      ],
+      "min_12th_percent": "Any percent; need B.Tech in Civil/Mech/EE/ECE",
+      "entry_route": "Govt exam (UPSC ESE / IES)",
+      "qualification": "B.Tech / B.E. in CE, ME, EE, ECE; UPSC ESE clear",
+      "duration": [
+        "ESE annual cycle ~10 months",
+        "service training 1-2 yrs"
+      ],
+      "entrance_exam": "UPSC Engineering Services Examination (ESE/IES)",
+      "govt_fees": "ESE fee ₹100-200",
+      "private_fees": "Coaching ₹50K-2 lakh (Made Easy, ACE, IES Master)",
+      "top_institutions": [
+        "Made Easy Delhi (private)",
+        "ACE Engineering Academy Hyderabad (private)",
+        "IES Master Delhi (private)",
+        "Engineers Academy (private)",
+        "Catalyst by Yashpal (private)",
+        "GATE Academy (private)"
+      ],
+      "scholarships": [
+        "IIT placement-route equivalents"
+      ],
+      "abroad_pathways": "Deputation possible to ICAO, ITU, World Bank infrastructure projects. MS abroad funded sometimes by govt sponsorship for top officers.",
+      "day_in_life": "Railways/CPWD project sites, design offices, govt tender mgmt, contractor oversight. Slower pace than private; higher autonomy.",
+      "growth_path": "Asst Executive Engineer → Executive Engineer → Superintending Engineer → Chief Engineer → Engineer-in-Chief. Pay Level 10 (₹56,100) entry; CE Level 14 ₹1.4L+.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": false,
+      "salary_bands": "Fresher: 9-12 LPA / Mid: 18-28 LPA / Senior: 28-45 LPA. Note: Includes govt accommodation, leased housing in metros, reimbursement. Source: 7th Pay, UPSC IES.",
+      "confidence": "high",
+      "domainId": "civ",
+      "domainTitle": "Civil Services & Public Administration",
+      "streamIds": [
+        "maths"
+      ]
+    },
+    {
+      "id": "CIV-05",
+      "name": "UPSC IFoS (Indian Forest Service)",
+      "description": "All-India Service for forest, wildlife, ecology management. Manages national parks, sanctuaries, tribal welfare, biodiversity policy.",
+      "streams": [
+        "Maths",
+        "Bio"
+      ],
+      "min_12th_percent": "No 12th cutoff; UG must include 1+ of Botany, Zoology, Geology, Chemistry, Maths, Stats, Forestry, Engineering",
+      "entry_route": "Govt exam (UPSC CSE Prelims + IFoS Mains)",
+      "qualification": "BSc/B.Tech with eligible subject; physical fitness required",
+      "duration": [
+        "12-month cycle",
+        "IGNFA Dehradun training 2 yrs"
+      ],
+      "entrance_exam": "UPSC IFoS — uses UPSC CSE Prelims as common screen",
+      "govt_fees": "Same as CSE",
+      "private_fees": "Coaching ₹1-3 lakh (Forest Service-specific tracks at Vajiram, Vision)",
+      "top_institutions": [
+        "IGNFA Dehradun (training, govt)",
+        "Vajiram IFoS (private)",
+        "Vision IAS IFoS (private)",
+        "Insights IAS (private)",
+        "Forest Research Institute Dehradun (govt support)",
+        "Pavithran IFS classes (private)"
+      ],
+      "scholarships": [
+        "Same UPSC schemes"
+      ],
+      "abroad_pathways": "Wildlife conservation training at SAFE Centres, IUCN secondments, mid-career MS in conservation/policy at Yale, Oxford, ANU Australia.",
+      "day_in_life": "DFO phase: forest patrols, wildlife mgmt, anti-poaching operations, tribal community work, fire control. Senior: policy + admin in MoEFCC.",
+      "growth_path": "Asst Conservator of Forests (ACF) → DFO → CCF → APCCF → PCCF → Director General Forest. Same Pay Level 10 entry; PCCF Level 17.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 9-12 LPA / Mid: 18-30 LPA / Senior: 30-45 LPA. Note: Forest bungalows, jeep, staff. Posting in beautiful forest reserves often. Source: 7th Pay, IFoS official.",
+      "confidence": "high",
+      "domainId": "civ",
+      "domainTitle": "Civil Services & Public Administration",
+      "streamIds": [
+        "maths",
+        "bio"
+      ]
+    },
+    {
+      "id": "CIV-06",
+      "name": "UPSC IRS (Indian Revenue Service - IT/Customs)",
+      "description": "Income Tax (IT) or Customs & Indirect Tax (C&IT). Tax assessment, evasion investigation, policy. Mid-rank in CSE.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "No 12th cutoff",
+      "entry_route": "Govt exam (UPSC CSE)",
+      "qualification": "Any UG degree",
+      "duration": [
+        "Same UPSC cycle",
+        "NADT Nagpur (IT) or NACIN Faridabad (Customs) training 2 yrs"
+      ],
+      "entrance_exam": "UPSC CSE",
+      "govt_fees": "Same as CSE",
+      "private_fees": "Same coaching ecosystem",
+      "top_institutions": [
+        "NADT Nagpur (training, govt)",
+        "NACIN Faridabad (training, govt)",
+        "Vajiram & Ravi (private)",
+        "Vision IAS (private)",
+        "Drishti IAS (private)",
+        "Insights IAS (private)"
+      ],
+      "scholarships": [
+        "Same UPSC schemes"
+      ],
+      "abroad_pathways": "OECD Tax Centre training, IMF deputations, mid-career MS in tax law at NYU, Harvard. Compete with private CA/lawyer pathways.",
+      "day_in_life": "Tax assessments, raids, dispute resolution, GST compliance enforcement. Less field-intense than IAS/IPS but high-stakes financial work.",
+      "growth_path": "Asst Commissioner → Deputy Commissioner → JC → Addl Commissioner → Commissioner → Principal CC → Member CBDT/CBIC → Chairman. Pay Level 10 entry; Chairman Level 17.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 8-12 LPA / Mid: 18-30 LPA / Senior: 30-50 LPA. Note: Same scale as IAS at each level. Source: 7th Pay, IRS official.",
+      "confidence": "high",
+      "domainId": "civ",
+      "domainTitle": "Civil Services & Public Administration",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "CIV-07",
+      "name": "State PSC (State Civil Services)",
+      "description": "State-level Group A/B services — Deputy Collector, DSP, Tehsildar, BDO, Commercial Tax Officer. Each state has its own PSC exam.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "No 12th cutoff; need Bachelor's",
+      "entry_route": "Govt exam (state PSC)",
+      "qualification": "Any UG degree (some posts require law/engineering)",
+      "duration": [
+        "12-15 month exam cycle",
+        "state-specific training"
+      ],
+      "entrance_exam": "UPPSC, BPSC, MPSC (Maharashtra), MPPSC, KPSC, RPSC, TNPSC, TGPSC, etc.",
+      "govt_fees": "Application fee ₹100-500",
+      "private_fees": "Coaching ₹50K-2 lakh (state-specific institutes)",
+      "top_institutions": [
+        "Drishti PCS Delhi (private, UP/Bihar focus)",
+        "Aakaar IAS Mumbai (private, MPSC focus)",
+        "ALS IAS (private)",
+        "PSCC Hyderabad (private)",
+        "various state-level coaching",
+        "free state-govt RCA centres"
+      ],
+      "scholarships": [
+        "State-funded coaching for SC/ST/minority",
+        "Aakanksha schemes",
+        "free PCS academies in BPSC/UPPSC"
+      ],
+      "abroad_pathways": "Limited; state cadre IAS-style mid-career programs rare for state PCS.",
+      "day_in_life": "Similar to IAS at sub-divisional level — Deputy Collector handles revenue, magistracy, dispute resolution at tehsil/sub-div. Steady progression in home state.",
+      "growth_path": "Dy Collector → SDM → ADM → Collector (after long service). Some get IAS via promotion after ~10-15 yrs (limited slots). State Pay Level 10 entry.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 7-10 LPA / Mid: 12-22 LPA / Senior: 22-40 LPA. Note: State scale slightly below central but housing/perks included. Source: state pay commissions.",
+      "confidence": "high",
+      "domainId": "civ",
+      "domainTitle": "Civil Services & Public Administration",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "CIV-08",
+      "name": "Judicial Services (Civil Judge / Judicial Magistrate)",
+      "description": "State-level judiciary entry post-LLB — civil judge or judicial magistrate. Group A judge by age 25-26.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "No direct 12th cutoff; need LLB",
+      "entry_route": "Govt exam (State Judicial Services)",
+      "qualification": "LLB (3-yr or 5-yr integrated)",
+      "duration": [
+        "Exam cycle ~10 months",
+        "judicial training 1 yr"
+      ],
+      "entrance_exam": "State Judicial Services Exam (e.g., DJSE Delhi, RJS Rajasthan, UPJS, MPCJ, BiJS)",
+      "govt_fees": "₹500-2,000 application fee",
+      "private_fees": "Coaching ₹1-3 lakh (Rahul's IAS, Pahuja Law Academy, Career Launcher Law)",
+      "top_institutions": [
+        "Pahuja Law Academy Delhi (private)",
+        "Rahul IAS PCS-J (private)",
+        "Career Launcher Law (private)",
+        "Toppers Notes (private)",
+        "Judicial Academies in each state (govt training)",
+        "State-funded Free Coaching for SC/ST"
+      ],
+      "scholarships": [
+        "State govt coaching schemes for SC/ST/EWS LLB grads",
+        "Bar Council fellowships"
+      ],
+      "abroad_pathways": "Mid-career LLM at Yale, Harvard, Cambridge for sitting judges. Commonwealth Judicial exchanges.",
+      "day_in_life": "Court bench duties, hearing arguments, judgments, case management. Workload heavy in lower-court tiers; better balance at HC level.",
+      "growth_path": "Civil Judge Junior Div → Senior Civil Judge → ADJ → DJ → HC Judge (via promotion or HC collegium pick). Pay Level 11/12 ₹77,840-1L entry; District Judge Level 14 ₹1.4L.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": false,
+      "salary_bands": "Fresher (Civil Judge JD): 11-14 LPA / Mid (DJ): 18-30 LPA / Senior (HC Judge): 30-45 LPA + benefits. Note: Govt accommodation, vehicle, staff included. Source: SC/HC scale, 7th Pay.",
+      "confidence": "high",
+      "domainId": "civ",
+      "domainTitle": "Civil Services & Public Administration",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "CIV-09",
+      "name": "RBI Grade B (Officer)",
+      "description": "Reserve Bank of India officer recruitment — financial markets, banking supervision, monetary policy, currency mgmt. Best-paid civil services entry.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "No 12th cutoff; need Bachelor's with 60% (50% SC/ST)",
+      "entry_route": "Govt exam (RBI Grade B)",
+      "qualification": "UG with 60% + (any stream); higher cutoff for DEPR/DSIM streams",
+      "duration": [
+        "10-month cycle (Phase 1 + 2 + Interview)",
+        "RBSC training 15 weeks"
+      ],
+      "entrance_exam": "RBI Grade B (notification expected April 28, 2026)",
+      "govt_fees": "₹850 + GST (Gen/OBC/EWS); ₹100 + GST (SC/ST/PwBD)",
+      "private_fees": "Coaching ₹30K-1.5 lakh (EduTap, Anuj Jindal, Oliveboard, IBT)",
+      "top_institutions": [
+        "Reserve Bank Staff College Chennai (training, govt)",
+        "EduTap (private)",
+        "Anuj Jindal (private)",
+        "Oliveboard (private)",
+        "Career Power (private)",
+        "IBT Institute (private)"
+      ],
+      "scholarships": [
+        "Limited — coaching scholarship via Anuj Jindal, EduTap"
+      ],
+      "abroad_pathways": "Deputation to BIS Basel, IMF Washington, World Bank, ADB Manila. Mid-career MS at Princeton, Chicago Booth funded.",
+      "day_in_life": "Mumbai or regional office — financial markets, supervision of banks, policy research. White-collar 9-6, far less stress than IAS.",
+      "growth_path": "Manager (Grade B) → AGM → DGM → GM → CGM → ED → Deputy Governor. Basic ₹78,450 entry; Deputy Governor ₹3-4L.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": false,
+      "salary_bands": "Fresher: 18-22 LPA gross (CTC ~40-42 LPA) / Mid: 28-45 LPA / Senior: 45-80 LPA. Note: Best entry compensation in civil services. Source: RBI notification 2025-26.",
+      "confidence": "high",
+      "domainId": "civ",
+      "domainTitle": "Civil Services & Public Administration",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "CIV-10",
+      "name": "SEBI Grade A (Assistant Manager)",
+      "description": "Securities and Exchange Board of India officer — capital market regulation, mutual fund supervision, investor protection.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "No 12th cutoff; need Bachelor's with 60%+ (or specific PG for streams)",
+      "entry_route": "Govt exam (SEBI Grade A)",
+      "qualification": "UG/PG with 60%; stream-specific qualifications for Legal, Research, IT, Engineering streams",
+      "duration": [
+        "8-10 month cycle",
+        "training at SEBI HQ Mumbai"
+      ],
+      "entrance_exam": "SEBI Grade A Officer Exam",
+      "govt_fees": "₹850-1000 application fee",
+      "private_fees": "Coaching ₹30K-1 lakh",
+      "top_institutions": [
+        "EduTap (private, SEBI specific)",
+        "Anuj Jindal (private)",
+        "Oliveboard (private)",
+        "ixamBee (private)",
+        "Career Power (private)",
+        "Self-prep with NISM modules"
+      ],
+      "scholarships": [
+        "Limited; coaching scholarship via EduTap"
+      ],
+      "abroad_pathways": "IOSCO secondments, mid-career MS at Wharton, LSE Finance. Strong exit to private finance/consulting.",
+      "day_in_life": "Mumbai HQ — market surveillance, regulatory inspections, policy drafting. White-collar work; less stressful than RBI banking supervision.",
+      "growth_path": "Assistant Manager → Manager → DGM → GM → CGM → ED → Wholetime Member. Pay similar to RBI Grade B.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": false,
+      "salary_bands": "Fresher: 18-22 LPA gross (CTC ~28-35 LPA) / Mid: 28-45 LPA / Senior: 45-80 LPA. Note: Mumbai posting fixed; CTC slightly below RBI but still very strong. Source: SEBI notification.",
+      "confidence": "high",
+      "domainId": "civ",
+      "domainTitle": "Civil Services & Public Administration",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "CIV-11",
+      "name": "NABARD Grade A (Assistant Manager / Rural Development Officer)",
+      "description": "National Bank for Agriculture and Rural Development — rural credit policy, agri-financing, cooperative bank supervision.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "No 12th cutoff; need Bachelor's with 50%+",
+      "entry_route": "Govt exam (NABARD Grade A)",
+      "qualification": "UG with 50%+; Agri/Rural Dev/Economics preferred for some streams",
+      "duration": [
+        "8-10 month cycle",
+        "training at BIRD Lucknow"
+      ],
+      "entrance_exam": "NABARD Grade A Officer Exam",
+      "govt_fees": "₹800-1000",
+      "private_fees": "Coaching ₹30K-1 lakh",
+      "top_institutions": [
+        "BIRD Lucknow (training, govt)",
+        "EduTap (private)",
+        "Oliveboard (private)",
+        "ixamBee (private)",
+        "Career Power (private)",
+        "Anuj Jindal (private)"
+      ],
+      "scholarships": [
+        "Limited; coaching scholarships available"
+      ],
+      "abroad_pathways": "IFAD/FAO secondments, mid-career MS in agri-economics/rural finance at Cornell, Wageningen, IDS Sussex.",
+      "day_in_life": "District-level credit policy supervision, cooperative bank inspection, agri-credit project monitoring. Mix of HQ and district postings.",
+      "growth_path": "Asst Manager → Manager → AGM → DGM → GM → CGM → ED → Chairman. Pay similar to RBI Grade B but slightly lower.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": false,
+      "salary_bands": "Fresher: 16-20 LPA gross (CTC ~28-32 LPA) / Mid: 25-40 LPA / Senior: 40-70 LPA. Note: Postings rotate metro/district; quality of life often better than RBI/SEBI. Source: NABARD notification.",
+      "confidence": "high",
+      "domainId": "civ",
+      "domainTitle": "Civil Services & Public Administration",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "CIV-12",
+      "name": "UPSC ISS / IES (Indian Statistical / Economic Service)",
+      "description": "Statistical/Economic policy advisory in NITI Aayog, ministries, RBI economist roles. Technical service for stats/economics graduates.",
+      "streams": [
+        "Arts",
+        "Commerce",
+        "Maths"
+      ],
+      "min_12th_percent": "No 12th cutoff; need PG-level Stats/Economics",
+      "entry_route": "Govt exam (UPSC ISS/IES)",
+      "qualification": "MA/MSc Statistics (for ISS); MA Economics (for IES)",
+      "duration": [
+        "12-month cycle",
+        "NSS Academy Greater Noida training"
+      ],
+      "entrance_exam": "UPSC Indian Statistical Service / Indian Economic Service Examination",
+      "govt_fees": "₹100-200",
+      "private_fees": "Coaching ₹50K-1.5 lakh (ISS-specific institutes are few)",
+      "top_institutions": [
+        "ISI Kolkata/Delhi (BSc/MStat — feeder, govt)",
+        "Delhi School of Economics (govt, MA Eco)",
+        "JNU CESP (govt)",
+        "Vajiram & Ravi for IES Eco optional (private)",
+        "Plutus Academy ISS (private)",
+        "Various PG colleges for stats grads"
+      ],
+      "scholarships": [
+        "INSPIRE for stats/economics",
+        "ISI fellowship",
+        "central sector"
+      ],
+      "abroad_pathways": "World Bank/IMF deputation; mid-career PhD funded at LSE, Stanford, NBER affiliations.",
+      "day_in_life": "Policy research, data analysis, advisory notes for ministries. NITI Aayog, MoSPI, RBI economist roles.",
+      "growth_path": "ISS Probationer → Deputy Director → Director → Joint Sec → Addl Sec → Sec/CSO. Pay Level 10 entry similar to IAS.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": false,
+      "salary_bands": "Fresher: 9-12 LPA / Mid: 18-30 LPA / Senior: 30-50 LPA. Note: Less prestigious public-facing role but strong technical work; many move to RBI/World Bank later. Source: 7th Pay, UPSC ISS/IES.",
+      "confidence": "medium",
+      "domainId": "civ",
+      "domainTitle": "Civil Services & Public Administration",
+      "streamIds": [
+        "arts",
+        "commerce",
+        "maths"
+      ]
+    },
+    {
+      "id": "CIV-13",
+      "name": "UPSC CDS / NDA (Defence Services)",
+      "description": "Officer-rank entry to Indian Army, Navy, Air Force via NDA (post-12th) or CDS (post-graduation).",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "12th pass for NDA (PCM mandatory for Air Force/Navy); UG for CDS",
+      "entry_route": "Govt exam (UPSC NDA / CDS / AFCAT)",
+      "qualification": "12th pass + NDA / Bachelor's + CDS / Engg + AFCAT",
+      "duration": [
+        "NDA Khadakwasla 3 yrs + 1 yr IMA/INA/AFA",
+        "CDS 1.5 yrs IMA/OTA"
+      ],
+      "entrance_exam": "UPSC NDA (twice/year), UPSC CDS (twice/year), AFCAT (Air Force)",
+      "govt_fees": "₹100-200",
+      "private_fees": "Coaching ₹50K-2 lakh (Major Kalshi, Defence Direct, Sainik School)",
+      "top_institutions": [
+        "NDA Khadakwasla Pune (training, govt)",
+        "IMA Dehradun (govt)",
+        "INA Ezhimala Kerala (govt)",
+        "AFA Hyderabad (govt)",
+        "OTA Chennai (govt)",
+        "Major Kalshi Classes Allahabad (private coaching)"
+      ],
+      "scholarships": [
+        "Free education at NDA/IMA",
+        "post-commissioning service pay during training",
+        "service-funded MS abroad post-officer years"
+      ],
+      "abroad_pathways": "MS at top defence universities — US National War College, UK Camberley, Sandhurst exchanges. Many retire and join private/PSU at high pay.",
+      "day_in_life": "Operational postings (border, sea, sky), mess life, tactical training. Field postings 60% of career; staff postings 40%.",
+      "growth_path": "Lt → Capt → Major → Lt Col → Col → Brigadier → Maj Gen → Lt Gen → General/Admiral/Air Chief. Lt Pay Level 10 (₹56,100); Service Chief Level 18 ₹2.5L.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 9-12 LPA + benefits / Mid: 18-30 LPA / Senior: 30-50 LPA + lifetime pension. Note: Free housing, ration, healthcare, CSD, lifelong pension often makes total comp higher than civilian. Source: 7th Pay, MoD.",
+      "confidence": "high",
+      "domainId": "civ",
+      "domainTitle": "Civil Services & Public Administration",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    }
+  ],
+  "confidence_notes": [
+    "UPSC CSE 2026 dates verified: notification Feb 4, prelims May 24, mains Aug 21, 933 vacancies (33 PwBD).",
+    "RBI Grade B 2026 notification expected April 28; salary structure (basic ₹78,450, gross ₹1.5L) verified from 2025 cycle.",
+    "State PSC pay structures vary significantly state-to-state; numbers represent typical Level 10 entry equivalent; some states (UP, Bihar) slightly below this.",
+    "Judicial Services pay is determined by Supreme Court directives (latest from Justice Shetty Commission); Civil Judge JD entry pay is typically Level 11/12.",
+    "Defence services compensation includes substantial non-cash benefits (CSD, ration, free medical) — total effective comp 30-50% above stated cash salary."
+  ]
+}

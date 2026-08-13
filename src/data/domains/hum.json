@@ -1,0 +1,671 @@
+{
+  "id": "hum",
+  "title": "Liberal Arts & Humanities",
+  "tagline": "Archaeology, linguistics, museum studies, philosophy, IR — careers your school counsellor probably never mentioned.",
+  "color": "#7a4d6a",
+  "overview": "Liberal Arts careers in India suffer from the 'but what jobs are there?' framing — yet ASI, National Museum, ICHR, ICSSR, Sahitya Akademi, Lalit Kala Akademi, IIAS Shimla, NCERT, NIEPA, foreign service, journalism, foundations, NGOs, and the academic/research ecosystem absorb tens of thousands of humanities graduates yearly. The 2026 reality: BA students at top central universities (DU, JNU, BHU, Hyderabad Central, JMI) pay near-zero tuition (₹500-30,000 total programme cost) and have direct access to ASI's PG Diploma in Archaeology, IIPA Public Admin, and IIFT trade-policy programmes. UGC NET-JRF gives ₹37-42K/month stipend through PhD; INSPIRE Faculty Award gives ₹35K + ₹35L research grant for 5 years post-PhD. Niche fields like Anthropology (very high UPSC optional success rate), Archival Science (NAI training), and Cognitive Science (IIIT Hyderabad, IIT Gandhinagar) are strong but invisible to most 12th-graders.",
+  "key_insights": [
+    "Anthropology is one of the highest-success-rate UPSC CSE optionals — many top-rankers in the last decade chose it; the BA/MA pathway thus doubles as IAS prep.",
+    "Archival Science via NAI's School of Archival Studies leads to permanent govt archivist posts (Pay Level 7-10) at NAI, state archives, defence archives — a stable career almost no 12th-grader knows.",
+    "ASI's 2-year PG Diploma in Archaeology (Institute of Archaeology, Delhi) is the gold standard for ASI Assistant Archaeologist recruitment — only ~25 seats annually.",
+    "IIPA New Delhi runs a 1-year Advanced PG Diploma in Public Admin used by IAS aspirants and central-govt mid-career officers; it's a credible policy pathway.",
+    "Cognitive Science at IIIT Hyderabad's CCS, IIT Gandhinagar Cognitive Science Programme, NIMHANS Bangalore opens up rapidly-growing AI-adjacent humanities career paths."
+  ],
+  "sub_paths": [
+    {
+      "id": "HUM-01",
+      "name": "Archaeology (BA / MA / ASI PG Diploma)",
+      "description": "Study of past human societies through artifacts, excavation, conservation. Direct path to ASI, state archaeology depts, museum sector.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "45-50% for BA Hons at top central universities; CUET-UG cutoff dominant",
+      "entry_route": "Degree → Govt exam (UPSC/SSC for ASI) / PG Diploma",
+      "qualification": "BA + MA (Archaeology / AIH&CA) + ASI PG Diploma in Archaeology",
+      "duration": [
+        "BA 3 yrs + MA 2 yrs + ASI Diploma 2 yrs"
+      ],
+      "entrance_exam": "CUET-UG/PG, ASI Institute of Archaeology entrance, UPSC for ASI Asst Archaeologist",
+      "govt_fees": "BHU/DU/Calcutta Univ 1,000-30,000 total; ASI Institute of Archaeology Delhi nearly free",
+      "private_fees": "Limited; St. Xavier's Mumbai/Calcutta 1-3 lakh",
+      "top_institutions": [
+        "Institute of Archaeology - ASI New Delhi (govt)",
+        "Deccan College Pune (govt)",
+        "Banaras Hindu University (govt)",
+        "MS University Vadodara (govt)",
+        "Calcutta University (govt)",
+        "Delhi Institute of Heritage Research and Management (semi-govt)"
+      ],
+      "scholarships": [
+        "UGC NET-JRF ₹37-42K/month stipend",
+        "ICHR fellowships",
+        "ASI PG Diploma free + stipend",
+        "Inlaks fellowships"
+      ],
+      "abroad_pathways": "MA/PhD at Cambridge, Oxford, UCL Institute of Archaeology, Heidelberg, Penn, Toronto. Strong foreign archaeology funding for South Asia specialists.",
+      "day_in_life": "Site excavation seasons (Oct-Mar typically), lab work on artifacts, museum cataloguing, reports/publications. Long stretches of fieldwork at remote sites.",
+      "growth_path": "Asst Archaeologist (ASI Pay Level 7) → Dy Superintending Archaeologist → Superintending → Director → DG ASI. State archaeology, UNESCO consultancy alternatives.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 4.5-7 LPA (ASI/state) / Mid: 8-15 LPA / Senior (Director): 18-30 LPA. Note: ASI Asst Archaeologist Pay Level 7/8; international consultants (UNESCO) 20+ LPA. Source: ASI recruitment, indcareer.",
+      "confidence": "high",
+      "domainId": "hum",
+      "domainTitle": "Liberal Arts & Humanities",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "HUM-02",
+      "name": "Linguistics (BA / MA / PhD Research)",
+      "description": "Scientific study of language structure, sociolinguistics, computational linguistics, language documentation. Strong AI/NLP industry crossover.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "45-50% for BA Hons; CUET cutoff dominant",
+      "entry_route": "Degree",
+      "qualification": "BA Linguistics (rare) / MA Linguistics + PhD",
+      "duration": [
+        "BA 3 yrs (where offered) + MA 2 yrs + PhD 4-6 yrs"
+      ],
+      "entrance_exam": "CUET-UG/PG, JNU entrance, EFLU entrance",
+      "govt_fees": "JNU/EFLU/DU 500-30,000 total",
+      "private_fees": "Symbiosis 2-4 lakh; OPJU 4-8 lakh",
+      "top_institutions": [
+        "JNU Centre for Linguistics (govt)",
+        "EFLU Hyderabad (govt)",
+        "Delhi University Dept of Linguistics (govt)",
+        "University of Hyderabad School of Humanities (govt)",
+        "Indian Institute of Information Technology Hyderabad CCS (semi-govt, computational)",
+        "CIIL Mysore (govt, Central Institute of Indian Languages)"
+      ],
+      "scholarships": [
+        "UGC NET-JRF",
+        "DBT Computational Bio fellowship",
+        "CIIL fellowships",
+        "Wenner-Gren Foundation grants"
+      ],
+      "abroad_pathways": "PhD at MIT, Stanford, Harvard, Cambridge, UCL, Edinburgh — top-funded for theoretical/computational linguistics. ELDP for endangered language documentation.",
+      "day_in_life": "Field research recording speakers, corpus building, theoretical/syntax work, NLP applications at language-tech firms. Mix of academic and industry routes.",
+      "growth_path": "Researcher → Asst Prof → Asso Prof / pivot to NLP industry (Google, Microsoft, ML startups). NLP industry roles 15-50 LPA at MAANG India.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher (academic): 4-8 LPA / Mid (academic): 10-25 LPA / NLP industry: 12-50 LPA. Note: UGC Asst Prof ₹57,700 entry; Google India Linguist 18-35L. Source: UGC pay, AmbitionBox.",
+      "confidence": "high",
+      "domainId": "hum",
+      "domainTitle": "Liberal Arts & Humanities",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "HUM-03",
+      "name": "Anthropology (Social / Cultural / Physical / Archaeological)",
+      "description": "Study of human societies and cultures past and present. Strong UPSC optional, NGO/development sector pathway.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "45-50% for BA Hons; CUET cutoff dominant",
+      "entry_route": "Degree",
+      "qualification": "BA Anthropology / MA Anthropology + PhD",
+      "duration": [
+        "BA 3 yrs + MA 2 yrs + PhD 4-6 yrs"
+      ],
+      "entrance_exam": "CUET-UG/PG, university-specific (DU, JNU, Hyderabad)",
+      "govt_fees": "DU/JNU/Hyderabad/BHU 500-30,000 total",
+      "private_fees": "Symbiosis/OPJU 2-6 lakh",
+      "top_institutions": [
+        "Delhi University Dept of Anthropology (govt)",
+        "University of Hyderabad (govt)",
+        "Lucknow University (govt)",
+        "Anthropological Survey of India Kolkata (govt)",
+        "Indira Gandhi National Tribal University Amarkantak (govt)",
+        "Pondicherry University (govt)"
+      ],
+      "scholarships": [
+        "UGC NET-JRF",
+        "ICSSR fellowships",
+        "Anthropological Survey of India research grants",
+        "Wenner-Gren Foundation"
+      ],
+      "abroad_pathways": "MA/PhD at Harvard, Chicago, LSE, SOAS, EHESS Paris, ANU. Strong development-sector pathway via UN agencies, World Bank.",
+      "day_in_life": "Ethnographic field work in communities, interviews, archival research, policy reports. Mix of remote field stays and urban write-up time.",
+      "growth_path": "Researcher → Asst Prof / Development Sector / Policy Analyst. UPSC CSE Anthro optional historically high success rate; many move into IAS.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher (academic/NGO): 3.5-7 LPA / Mid: 8-18 LPA / Senior: 18-40 LPA. Note: Anthropological Survey scientist ₹56,100+ entry; NGOs (PRADAN, Pratham) 5-10L; UN/World Bank consultants 20+ LPA. Source: UGC, NCS.",
+      "confidence": "high",
+      "domainId": "hum",
+      "domainTitle": "Liberal Arts & Humanities",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "HUM-04",
+      "name": "Museum Studies / Curatorship",
+      "description": "Curatorial work, exhibition design, collection management at govt and private museums, art galleries, heritage sites.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "45-50% for BA; CUET cutoff dominant",
+      "entry_route": "Degree (PG Diploma typical entry)",
+      "qualification": "MA in History/Art History/Archaeology + PG Diploma in Museology (NMI, Baroda)",
+      "duration": [
+        "MA 2 yrs + PG Diploma 1-2 yrs"
+      ],
+      "entrance_exam": "NMI New Delhi entrance, MS University Baroda entrance, CUET-PG",
+      "govt_fees": "NMI Delhi / MSU Baroda 5,000-30,000 total",
+      "private_fees": "Limited; private heritage management programmes 1-3 lakh",
+      "top_institutions": [
+        "National Museum Institute Delhi (govt)",
+        "MS University Vadodara - Museology (govt)",
+        "Aligarh Muslim University Museology (govt)",
+        "Calcutta University Museology (govt)",
+        "Salar Jung Museum Hyderabad - heritage training (govt)",
+        "Ambedkar University Delhi MA Heritage (govt)"
+      ],
+      "scholarships": [
+        "UGC NET-JRF",
+        "Ministry of Culture fellowships",
+        "INTACH internships",
+        "British Museum-NMI exchange"
+      ],
+      "abroad_pathways": "MA in Museum Studies at UCL, NYU, Leicester, Toronto. Strong UNESCO heritage management pathway; Smithsonian fellowships.",
+      "day_in_life": "Collection cataloguing, exhibition curation, conservation oversight, public programs, scholarship & publication. Mix of indoor museum work and field site visits.",
+      "growth_path": "Asst Curator → Curator → Senior Curator → Director. National Museum, IGNCA, state museums; private galleries (Devi Art, Saffronart, Gallery Espace).",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 4-7 LPA / Mid: 7-15 LPA / Senior: 15-35 LPA. Note: National Museum curator Pay Level 10-11; private galleries variable; international heritage consultancy (UNESCO) 20+ LPA. Source: NMI, indcareer.",
+      "confidence": "medium",
+      "domainId": "hum",
+      "domainTitle": "Liberal Arts & Humanities",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "HUM-05",
+      "name": "Archival Science",
+      "description": "Manage and conserve govt records, historical archives, defence archives at NAI and state archives. Stable govt career path.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "Indirect; need MA + diploma for archivist roles",
+      "entry_route": "Diploma (post-MA)",
+      "qualification": "MA in History + 1-yr Diploma in Archives & Records Management (NAI School of Archival Studies)",
+      "duration": [
+        "MA 2 yrs + Diploma 1 yr"
+      ],
+      "entrance_exam": "NAI School of Archival Studies entrance",
+      "govt_fees": "NAI Diploma nearly free + stipend; Calcutta Univ archives MA 5,000-30,000",
+      "private_fees": "Limited; private 1-2 lakh",
+      "top_institutions": [
+        "National Archives of India (NAI) School of Archival Studies Delhi (govt)",
+        "MS University Baroda - Archival diploma (govt)",
+        "Tamil Nadu State Archives Chennai (govt)",
+        "Maharashtra State Archives Mumbai (govt)",
+        "Telangana State Archives Hyderabad (govt)",
+        "Kerala State Archives Trivandrum (govt)"
+      ],
+      "scholarships": [
+        "NAI School of Archival Studies stipend",
+        "Ministry of Culture fellowships",
+        "ICHR doctoral fellowships"
+      ],
+      "abroad_pathways": "MA Archives at UCL, Liverpool, Michigan iSchool, UBC. ICA training programmes for archivists internationally.",
+      "day_in_life": "Cataloguing, descriptive listing, conservation oversight, researcher reference work, digitisation projects. Quiet, detail-oriented indoor work.",
+      "growth_path": "Asst Archivist → Archivist → Senior Archivist → Director. NAI, state archives, defence (INHO Mumbai, AHQ records), corporate archives (Tata, Godrej).",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 4.5-8 LPA / Mid: 8-15 LPA / Senior: 15-30 LPA. Note: NAI Asst Archivist Pay Level 7-8; Tata Central Archives Pune / Godrej Archives 6-12L. Source: NAI, 7th Pay.",
+      "confidence": "low",
+      "domainId": "hum",
+      "domainTitle": "Liberal Arts & Humanities",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "HUM-06",
+      "name": "Philosophy (BA / MA / PhD)",
+      "description": "Study of logic, ethics, metaphysics, Indian philosophy, applied philosophy (medical/business ethics). Academic + emerging policy roles.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "45-50% for BA Hons; CUET cutoff dominant",
+      "entry_route": "Degree",
+      "qualification": "BA Philosophy / MA Philosophy + PhD",
+      "duration": [
+        "BA 3 yrs + MA 2 yrs + PhD 4-6 yrs"
+      ],
+      "entrance_exam": "CUET-UG/PG, JNU/DU/JMI entrance, IIT-JAM (Humanities & Social Sciences for some IITs)",
+      "govt_fees": "DU/JNU/JMI/BHU 500-30,000 total",
+      "private_fees": "Symbiosis/Ashoka/Krea 4-15 lakh",
+      "top_institutions": [
+        "Delhi University Dept of Philosophy (govt)",
+        "JNU Centre for Philosophy (govt)",
+        "Jamia Millia Islamia (govt)",
+        "BHU Dept of Philosophy (govt)",
+        "Indian Institute of Advanced Study Shimla (govt, fellowships)",
+        "Ashoka University Philosophy (private)"
+      ],
+      "scholarships": [
+        "UGC NET-JRF",
+        "ICPR fellowships",
+        "ICSSR doctoral grants",
+        "Inlaks (PhD abroad)"
+      ],
+      "abroad_pathways": "PhD at Oxford, Cambridge, MIT, Princeton, Pittsburgh, Harvard. Indian philosophy programmes at SOAS, Hawaii, Heidelberg also strong.",
+      "day_in_life": "Reading, writing, seminars, teaching. Academic career heavy on publication and conferences; applied roles in medical ethics committees, AI ethics.",
+      "growth_path": "Researcher → Asst Prof → Asso Prof → Prof. Emerging non-academic roles: AI ethics at tech firms, bioethics committees, policy think tanks.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 3.5-7 LPA / Mid: 9-20 LPA / Senior: 18-40 LPA. Note: UGC Asst Prof ₹57,700; AI ethics roles at tech firms (Google, Microsoft) 12-30L; Ashoka/Krea private uni faculty similar. Source: UGC pay, AmbitionBox.",
+      "confidence": "medium",
+      "domainId": "hum",
+      "domainTitle": "Liberal Arts & Humanities",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "HUM-07",
+      "name": "Cognitive Science (Interdisciplinary)",
+      "description": "Mind, brain, AI, language interface — combines psychology, linguistics, neuroscience, philosophy, computer science.",
+      "streams": [
+        "Maths",
+        "Bio"
+      ],
+      "min_12th_percent": "55-65% (Maths/Science background helps); CUET cutoff",
+      "entry_route": "Degree",
+      "qualification": "BSc / MS Cognitive Science / MS by Research / PhD",
+      "duration": [
+        "BSc/BA 3 yrs + MS 2 yrs + PhD 4-6 yrs"
+      ],
+      "entrance_exam": "IIIT-H PGEE, IIT Gandhinagar entrance, JNU CCMC, NIMHANS entrance",
+      "govt_fees": "IIIT-H / IIT Gandhinagar / JNU 50,000-3 lakh total",
+      "private_fees": "Ashoka, Krea, IISER Pune 6-15 lakh",
+      "top_institutions": [
+        "IIIT Hyderabad - Cognitive Science Lab (semi-govt)",
+        "IIT Gandhinagar - Cognitive Science programme (govt)",
+        "Jadavpur University Cognitive Science (govt)",
+        "NIMHANS Bangalore - Neuro-cognition (govt)",
+        "JNU Centre for Cognitive Science (govt)",
+        "IIT Kanpur Cognitive Science programme (govt)"
+      ],
+      "scholarships": [
+        "UGC NET-JRF (eligible streams)",
+        "PMRF for IIT/IIIT students",
+        "DST INSPIRE",
+        "Wellcome-DBT alliance"
+      ],
+      "abroad_pathways": "MS/PhD at MIT BCS, Stanford Symbolic Systems, CMU Cognitive Science, Edinburgh Informatics. Heavy NLP/AI industry crossover.",
+      "day_in_life": "Lab experiments (psychology/neuroscience), computational modelling (Python/R/MATLAB), interdisciplinary collaboration. Strong industry pathway to AI research labs.",
+      "growth_path": "Researcher → Asst Prof / AI/NLP industry. Industry exit at MAANG India 15-40 LPA; research scientist at OpenAI/DeepMind type roles 1-3 Cr abroad.",
+      "underrated": true,
+      "low_budget": false,
+      "low_percent": false,
+      "salary_bands": "Fresher (industry): 8-18 LPA / Mid: 15-40 LPA / Senior: 30-1.5 Cr. Note: India AI research roles emerging fast; PhD-track salaries via UGC pay; industry pay much higher. Source: AmbitionBox, IIIT-H placement reports.",
+      "confidence": "medium",
+      "domainId": "hum",
+      "domainTitle": "Liberal Arts & Humanities",
+      "streamIds": [
+        "maths",
+        "bio"
+      ]
+    },
+    {
+      "id": "HUM-08",
+      "name": "History (BA / MA / PhD)",
+      "description": "Study of past, archives, public history, museum work, journalism. Mainstream BA route with multiple non-teaching exits.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "45-50% for BA Hons; CUET cutoff",
+      "entry_route": "Degree",
+      "qualification": "BA History / MA History + PhD",
+      "duration": [
+        "BA 3 yrs + MA 2 yrs + PhD 4-6 yrs"
+      ],
+      "entrance_exam": "CUET-UG/PG, JNU/JMI entrance, university-specific",
+      "govt_fees": "DU/JNU/Hyderabad/BHU 500-30,000 total",
+      "private_fees": "Ashoka/Krea/SNU 4-15 lakh",
+      "top_institutions": [
+        "Delhi University - Hindu/St. Stephen's/Miranda etc. (govt)",
+        "JNU Centre for Historical Studies (govt)",
+        "Jamia Millia Islamia (govt)",
+        "Hyderabad Central University (govt)",
+        "Banaras Hindu University (govt)",
+        "Ashoka University History (private)"
+      ],
+      "scholarships": [
+        "UGC NET-JRF",
+        "ICHR fellowships",
+        "Charles Wallace India Trust",
+        "Inlaks",
+        "Felix scholarships"
+      ],
+      "abroad_pathways": "MA/PhD at Cambridge, Oxford, Yale, Chicago, SOAS, Sciences Po. South Asian History strong pathway with funded positions.",
+      "day_in_life": "Archival research, reading, writing, teaching, conferences. Academic career heavy; public history (museums, publishing, documentary) alternatives.",
+      "growth_path": "Researcher → Asst Prof → Asso Prof → Prof. UPSC CSE History optional widely chosen; civil services route active.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 3.5-7 LPA / Mid: 9-18 LPA / Senior: 18-40 LPA. Note: UGC Asst Prof ₹57,700; private uni faculty 12-22L; publishing/documentary 6-15L. Source: UGC pay, AmbitionBox.",
+      "confidence": "high",
+      "domainId": "hum",
+      "domainTitle": "Liberal Arts & Humanities",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "HUM-09",
+      "name": "Geography (BA / MA / GIS)",
+      "description": "Physical and human geography + GIS / remote sensing crossover into urban planning, climate, environmental consultancy.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "45-50% for BA Hons; CUET cutoff",
+      "entry_route": "Degree",
+      "qualification": "BA / MA Geography + GIS certifications",
+      "duration": [
+        "BA 3 yrs + MA 2 yrs + GIS cert 6 mo-1 yr"
+      ],
+      "entrance_exam": "CUET-UG/PG, JNU/Madras Univ entrance",
+      "govt_fees": "DU/JNU/Madras Univ 500-30,000 total",
+      "private_fees": "Symbiosis 2-4 lakh; GIS at IIRS/CSC 50,000-2 lakh",
+      "top_institutions": [
+        "Delhi University Dept of Geography (govt)",
+        "JNU CSRD (govt)",
+        "Madras University (govt)",
+        "Aligarh Muslim University Geography (govt)",
+        "Indian Institute of Remote Sensing Dehradun (govt, GIS)",
+        "TERI School of Advanced Studies (private)"
+      ],
+      "scholarships": [
+        "UGC NET-JRF",
+        "ISRO IIRS fellowships",
+        "World Bank Urban Planning fellowships",
+        "DST climate fellowships"
+      ],
+      "abroad_pathways": "MA/PhD at Cambridge, UCL, ETH Zurich, Penn State. Strong climate-policy and urban-planning international pathway.",
+      "day_in_life": "Field surveys, GIS mapping at workstation, urban planning analysis, environmental impact assessment. Mix of indoor/outdoor.",
+      "growth_path": "Researcher → Asst Prof / GIS Analyst / Urban Planner. ISRO/IIRS GIS scientist; private GIS consultants; UPSC CSE Geography optional very popular.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 3.5-7 LPA / Mid: 8-15 LPA / Senior: 15-30 LPA. Note: ISRO scientist ₹56,100+; private GIS consultants (RMSI, Esri India) 6-15L; urban planners (HUDCO, NHAI) 6-12L. Source: AmbitionBox, ISRO.",
+      "confidence": "high",
+      "domainId": "hum",
+      "domainTitle": "Liberal Arts & Humanities",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "HUM-10",
+      "name": "Political Science / Public Policy",
+      "description": "Govt, IR, public policy analysis. Strong UPSC route; also think tank, NGO, journalism, electoral consulting careers.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "45-50% for BA Hons; CUET cutoff",
+      "entry_route": "Degree",
+      "qualification": "BA Pol Sci / MA Pol Sci / MA Public Policy",
+      "duration": [
+        "BA 3 yrs + MA 2 yrs"
+      ],
+      "entrance_exam": "CUET-UG/PG, JNU entrance, IIPA entrance, NLSIU/Hyderabad MPP",
+      "govt_fees": "DU/JNU/JMI 500-30,000; IIPA Advanced PG Diploma 1-2 lakh",
+      "private_fees": "OPJU/Ashoka/Krea/NLU MPP 4-15 lakh",
+      "top_institutions": [
+        "Delhi University - Hindu/Stephen's etc. (govt)",
+        "JNU - Centre for Pol Studies / SIS (govt)",
+        "Jamia Millia Islamia (govt)",
+        "Indian Institute of Public Administration Delhi (govt)",
+        "Tata Inst of Social Sciences MA Pub Policy (govt)",
+        "Ashoka University Trivedi Centre for Political Data (private)"
+      ],
+      "scholarships": [
+        "UGC NET-JRF",
+        "ICSSR fellowships",
+        "Chevening for UK MA",
+        "Fulbright for USA"
+      ],
+      "abroad_pathways": "MPP/MPA at Harvard Kennedy, Oxford BSG, Sciences Po, LKY Singapore. Strong World Bank/UN/foundation pathway.",
+      "day_in_life": "Research papers, policy briefs, campaign strategy (election consulting), think tank work, journalism. Mix of academia + policy + public sector.",
+      "growth_path": "Research Associate → Senior Researcher → Policy Lead → Director / Diplomat (UPSC IFS) / Politician's advisor. Election strategy consultancies (I-PAC, Nation with NaMo) hire Pol Sci heavily.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 4-9 LPA / Mid: 9-20 LPA / Senior: 18-45 LPA. Note: Think tanks (CPR, ORF) 6-12L; election consulting 8-25L; international orgs (UN/WB) 20+ LPA. Source: AmbitionBox, think-tank disclosures.",
+      "confidence": "high",
+      "domainId": "hum",
+      "domainTitle": "Liberal Arts & Humanities",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "HUM-11",
+      "name": "Sociology (BA / MA / PhD)",
+      "description": "Study of social structures, inequality, urban/rural sociology. Strong NGO, development sector, research, UPSC optional pathway.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "45-50% for BA Hons; CUET cutoff",
+      "entry_route": "Degree",
+      "qualification": "BA Sociology / MA Sociology + PhD",
+      "duration": [
+        "BA 3 yrs + MA 2 yrs + PhD 4-6 yrs"
+      ],
+      "entrance_exam": "CUET-UG/PG, JNU/Hyderabad/JMI entrance",
+      "govt_fees": "DU/JNU/Hyderabad 500-30,000 total",
+      "private_fees": "Symbiosis/OPJU/Ashoka 4-12 lakh",
+      "top_institutions": [
+        "Delhi School of Economics - Sociology (govt)",
+        "JNU Centre for the Study of Social Systems (govt)",
+        "Hyderabad Central University (govt)",
+        "TISS Mumbai School of Social Sciences (govt)",
+        "Jamia Millia Islamia (govt)",
+        "Ashoka University Sociology (private)"
+      ],
+      "scholarships": [
+        "UGC NET-JRF",
+        "ICSSR doctoral",
+        "Charles Wallace India Trust",
+        "Inlaks"
+      ],
+      "abroad_pathways": "PhD at LSE, Oxford, Chicago, Berkeley, EHESS Paris. Strong development-sector route via World Bank, UNICEF, ILO.",
+      "day_in_life": "Field research, surveys, qualitative interviews, policy reports. NGO/development work very field-heavy; academia heavier on writing.",
+      "growth_path": "Research Associate → Senior Researcher → Asst Prof. Strong NGO/foundation pathway (PRADAN, Pratham, J-PAL, Azim Premji Foundation) at 6-15 LPA mid-career.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 3.5-7 LPA / Mid: 8-18 LPA / Senior: 15-40 LPA. Note: NGO sector 5-10L; J-PAL/IFMR 8-15L; UN consultants 20+ LPA. Source: AmbitionBox, NCS.",
+      "confidence": "high",
+      "domainId": "hum",
+      "domainTitle": "Liberal Arts & Humanities",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "HUM-12",
+      "name": "International Relations / Area Studies",
+      "description": "Specialized study of regions (East Asia, West Asia, Latin America, Europe) + diplomatic studies. Direct foreign-service prep + think tank / journalism.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "45-50% for BA Hons; CUET cutoff",
+      "entry_route": "Degree",
+      "qualification": "BA Pol Sci / MA International Relations / Area Studies",
+      "duration": [
+        "BA 3 yrs + MA 2 yrs + PhD 4-6 yrs"
+      ],
+      "entrance_exam": "CUET-UG/PG, JNU SIS entrance, JMI entrance",
+      "govt_fees": "JNU/JMI 500-30,000 total; IIFT/IIPA additional",
+      "private_fees": "OP Jindal/Symbiosis/Christ 5-15 lakh",
+      "top_institutions": [
+        "JNU School of International Studies (SIS) (govt)",
+        "Jamia Millia Islamia - MMAJ Academy of Int'l Studies (govt)",
+        "South Asian University Delhi (semi-govt, SAARC)",
+        "Indian Institute of Foreign Trade Delhi (govt, MA in International Trade)",
+        "Pondicherry University - SAARC studies (govt)",
+        "OP Jindal School of International Affairs (private)"
+      ],
+      "scholarships": [
+        "UGC NET-JRF",
+        "ICSSR area studies grants",
+        "Chevening",
+        "Felix",
+        "Fulbright"
+      ],
+      "abroad_pathways": "MA at LSE IR, Sciences Po PSIA, SOAS, Johns Hopkins SAIS, Georgetown SFS, Tufts Fletcher.",
+      "day_in_life": "Research, regional analysis, op-eds, think-tank events, embassy support roles. Heavy foreign-language requirement for serious area studies.",
+      "growth_path": "Research Associate → Senior → Director (think tank) / Diplomat (UPSC IFS) / Foreign-policy journalist. Foreign embassies / multilateral postings as senior career.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 4-9 LPA / Mid: 10-22 LPA / Senior: 20-50 LPA. Note: Think tanks (ORF, CPR, IDSA) 6-12L; ICRIER/IIFT 8-15L; UN-system roles 20+ LPA. Source: think tank disclosures, AmbitionBox.",
+      "confidence": "medium",
+      "domainId": "hum",
+      "domainTitle": "Liberal Arts & Humanities",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "HUM-13",
+      "name": "Peace & Conflict Studies / Development Studies",
+      "description": "Specialized study of conflict resolution, post-conflict reconstruction, development economics, human rights, NGO sector preparation.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "45-50% for BA Hons; CUET cutoff",
+      "entry_route": "Degree",
+      "qualification": "BA + MA Peace Studies / MA Development Studies / MPhil",
+      "duration": [
+        "BA 3 yrs + MA 2 yrs"
+      ],
+      "entrance_exam": "CUET-PG, JMI entrance, TISS NET, NIAS Bangalore",
+      "govt_fees": "JMI/TISS 30,000-1 lakh total; IIFT/JNU lower",
+      "private_fees": "Tata Inst of Social Sciences 70,000-1.5 lakh; Azim Premji Univ 4-8 lakh; Ashoka 6-15 lakh",
+      "top_institutions": [
+        "TISS Mumbai - School of Development Studies (govt)",
+        "Jamia Millia Islamia - Nelson Mandela Centre for Peace (govt)",
+        "Azim Premji University Bangalore (private, dev studies)",
+        "Krea University Sri City (private)",
+        "Institute for Peace Studies Geneva-affiliates",
+        "OP Jindal Global Univ (private)"
+      ],
+      "scholarships": [
+        "TISS need-based aid",
+        "Azim Premji Foundation fellowships",
+        "Chevening Peace Studies",
+        "Erasmus Mundus EMA"
+      ],
+      "abroad_pathways": "MA at Notre Dame Kroc, Bradford, Uppsala, Geneva IHEID. UN agency internships are standard pathway.",
+      "day_in_life": "Field research in conflict-affected areas, evaluation of NGO programmes, policy briefs, advocacy. Heavy travel; emotionally demanding work.",
+      "growth_path": "Programme Associate → Senior → Programme Director (NGO) / UN Officer / Academic. Strong UN pathway via JPO programmes.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 4-8 LPA / Mid: 8-18 LPA / Senior: 18-45 LPA. Note: NGO sector (PRADAN, Pratham, J-PAL) 5-12L; UN/multilateral 18-50 LPA; development consultancies 8-20L. Source: TISS placement, NCS.",
+      "confidence": "medium",
+      "domainId": "hum",
+      "domainTitle": "Liberal Arts & Humanities",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    }
+  ],
+  "confidence_notes": [
+    "Central university tuition (DU, JNU, BHU, JMI) verified at near-zero levels for 2026 academic year via collegedunia and university websites.",
+    "ASI Asst Archaeologist pay (₹4.5-7 LPA, Pay Level 7-8) verified via indcareer and 7th Pay Commission scales.",
+    "UGC NET-JRF stipend ₹37-42K/month, INSPIRE Faculty ₹35K + ₹35L grant verified from UGC and DST notifications.",
+    "Archival Science confidence 'low' — practitioner pool is small and salary disclosures sparse outside the 7th Pay Commission scale.",
+    "Cognitive Science confidence 'medium' — emerging interdisciplinary field; salary trajectory depends heavily on whether graduate goes academic vs AI/NLP industry.",
+    "Sociology, Anthropology, History pay reflects UGC Asst Prof scale + NGO/development variation; range is wide but data well-documented."
+  ]
+}

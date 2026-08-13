@@ -1,69 +1,278 @@
-import Image from "next/image";
+import Link from "next/link";
+import {
+  Sparkles,
+  ArrowRight,
+  FlaskConical,
+  Atom,
+  Briefcase,
+  Palette,
+  Wallet,
+  GraduationCap,
+  Compass,
+  Map,
+  BookOpen,
+} from "lucide-react";
+import DomainCard from "@/components/DomainCard";
+import {
+  getDomainMetaList,
+  getAllSubPaths,
+  getSchemes,
+} from "@/data";
+import { getStreamGuides } from "@/data/streams-guide";
+import { getCourses } from "@/data/courses";
+import { getRoadmaps } from "@/data/roadmaps";
+
+const streamIcons: Record<string, typeof Atom> = {
+  science: Atom,
+  commerce: Briefcase,
+  arts: Palette,
+  vocational: FlaskConical,
+};
+
+const featureCards = [
+  {
+    href: "/careers",
+    icon: Compass,
+    title: "230+ Careers",
+    desc: "15 domains, from engineering to hospitality. Most students only ever hear about 5 of them.",
+  },
+  {
+    href: "/courses",
+    icon: BookOpen,
+    title: "Courses & Diplomas",
+    desc: "The full course catalog — undergraduate, diploma, and vocational routes with eligibility.",
+  },
+  {
+    href: "/roadmaps",
+    icon: Map,
+    title: "Step-by-step roadmaps",
+    desc: "From Class 10 to your first job — exactly what to do each year for 10 major careers.",
+  },
+  {
+    href: "/schemes",
+    icon: Wallet,
+    title: "Scholarships, all India",
+    desc: "Central and state schemes, generalized for students across every state of India.",
+  },
+];
 
 export default function Home() {
+  const domains = getDomainMetaList();
+  const careerCount = getAllSubPaths().length;
+  const schemeCount = getSchemes().length;
+  const courseCount = getCourses().length;
+  const roadmapCount = getRoadmaps().length;
+  const streams = getStreamGuides();
+
   return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert h-5 w-[100px]"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the{" "}
-            <code className="rounded bg-black/[.06] px-1.5 py-0.5 font-mono text-[0.9em] dark:bg-white/[.08]">
-              page.tsx
-            </code>{" "}
-            file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
+    <div className="flex flex-col">
+      <section className="bg-white">
+        <div className="mx-auto max-w-6xl px-4 pb-12 pt-14 sm:px-6 sm:pt-20">
+          <div className="mx-auto max-w-3xl text-center">
+            <span className="inline-flex items-center gap-1.5 rounded-full border border-gray-200 bg-gray-50 px-3 py-1 text-xs font-medium text-gray-600">
+              <Sparkles className="h-3.5 w-3.5 text-primary" />
+              For Indian students after Class 10
+            </span>
+            <h1 className="mt-5 text-4xl font-bold leading-tight tracking-tight text-gray-900 sm:text-5xl">
+              Find your path,
+              <br />
+              <span className="text-primary">before Class 10 ends.</span>
+            </h1>
+            <p className="mx-auto mt-5 max-w-2xl text-lg leading-8 text-gray-600">
+              Your stream choice decides more than you think. Explore 15 career
+              domains and 230+ careers — most students only hear about 5 of
+              them — plus courses, exams, roadmaps and scholarships for all of
+              India.
+            </p>
+            <div className="mt-8 flex flex-col items-center justify-center gap-3 sm:flex-row">
+              <Link
+                href="/quiz"
+                className="inline-flex h-12 w-full items-center justify-center gap-2 rounded-full bg-primary px-7 text-base font-semibold text-white shadow-sm transition-colors hover:bg-primary-dark sm:w-auto"
+              >
+                <Sparkles className="h-5 w-5" />
+                Start the quiz
+              </Link>
+              <Link
+                href="/streams"
+                className="inline-flex h-12 w-full items-center justify-center gap-2 rounded-full border border-gray-200 px-7 text-base font-semibold text-gray-700 transition-colors hover:border-gray-300 hover:bg-gray-50 sm:w-auto"
+              >
+                Compare the streams
+                <ArrowRight className="h-4 w-4" />
+              </Link>
+            </div>
+          </div>
+
+          <div className="mx-auto mt-10 flex max-w-3xl items-center justify-center divide-x divide-gray-200 rounded-2xl border border-gray-200 bg-gray-50/50 py-4">
+            {[
+              { value: `${careerCount}+`, label: "Careers covered" },
+              { value: `${courseCount}`, label: "Courses & diplomas" },
+              { value: `${roadmapCount}`, label: "Roadmaps" },
+              { value: `${schemeCount}`, label: "Scholarships" },
+            ].map((stat) => (
+              <div key={stat.label} className="flex-1 text-center">
+                <div className="text-2xl font-bold text-gray-900">
+                  {stat.value}
+                </div>
+                <div className="mt-0.5 text-xs font-medium text-gray-500">
+                  {stat.label}
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      <section className="bg-surface-muted">
+        <div className="mx-auto max-w-6xl px-4 py-14 sm:px-6">
+          <h2 className="text-2xl font-bold tracking-tight text-gray-900">
+            The 4 streams after Class 10
+          </h2>
+          <p className="mt-1.5 text-sm text-gray-600">
+            Science, Commerce, Arts or Vocational — each opens a different world
+            of careers. Compare before you decide.
           </p>
+          <div className="mt-7 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-4">
+            {streams.map((stream, i) => {
+              const Icon = streamIcons[stream.id] ?? Sparkles;
+              return (
+                <Link
+                  key={stream.id}
+                  href={`/streams#${stream.id}`}
+                  className="group rounded-xl border border-gray-200 bg-white p-5 shadow-sm transition-all hover:-translate-y-0.5 hover:border-gray-300 hover:shadow-md"
+                  style={{ borderTopColor: stream.color, borderTopWidth: 3 }}
+                >
+                  <div className="flex items-center justify-between">
+                    <span
+                      className="flex h-10 w-10 items-center justify-center rounded-xl text-white"
+                      style={{ backgroundColor: stream.color }}
+                    >
+                      <Icon className="h-5 w-5" />
+                    </span>
+                    <span className="text-xs font-medium text-gray-400">
+                      Stream {i + 1}
+                    </span>
+                  </div>
+                  <h3 className="mt-4 font-semibold text-gray-900 group-hover:text-primary">
+                    {stream.name}
+                  </h3>
+                  <p className="mt-1 text-sm leading-6 text-gray-600">
+                    {stream.tagline}
+                  </p>
+                  <div className="mt-3 flex flex-wrap gap-1.5">
+                    {stream.futureOptions.slice(0, 4).map((opt) => (
+                      <span
+                        key={opt}
+                        className="rounded-full bg-gray-100 px-2.5 py-0.5 text-[11px] font-medium text-gray-600"
+                      >
+                        {opt}
+                      </span>
+                    ))}
+                  </div>
+                </Link>
+              );
+            })}
+          </div>
         </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert h-[14px] w-4"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={14}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
+      </section>
+
+      <section className="bg-white">
+        <div className="mx-auto max-w-6xl px-4 py-14 sm:px-6">
+          <div className="flex items-end justify-between gap-4">
+            <div>
+              <h2 className="text-2xl font-bold tracking-tight text-gray-900">
+                Everything you need to decide
+              </h2>
+              <p className="mt-1.5 text-sm text-gray-600">
+                Not a directory — a complete planning toolkit for Class 10
+                students.
+              </p>
+            </div>
+          </div>
+          <div className="mt-7 grid grid-cols-1 gap-4 sm:grid-cols-2">
+            {featureCards.map((card) => {
+              const Icon = card.icon;
+              return (
+                <Link
+                  key={card.href}
+                  href={card.href}
+                  className="group flex items-start gap-4 rounded-xl border border-gray-200 bg-white p-5 shadow-sm transition-all hover:-translate-y-0.5 hover:border-gray-300 hover:shadow-md"
+                >
+                  <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl bg-primary-light text-primary">
+                    <Icon className="h-5 w-5" />
+                  </span>
+                  <div>
+                    <h3 className="font-semibold text-gray-900 group-hover:text-primary">
+                      {card.title}
+                    </h3>
+                    <p className="mt-1 text-sm leading-6 text-gray-600">
+                      {card.desc}
+                    </p>
+                  </div>
+                </Link>
+              );
+            })}
+          </div>
         </div>
-      </main>
+      </section>
+
+      <section className="bg-surface-muted">
+        <div className="mx-auto max-w-6xl px-4 py-14 sm:px-6">
+          <div className="flex items-end justify-between gap-4">
+            <div>
+              <h2 className="text-2xl font-bold tracking-tight text-gray-900">
+                Explore all domains
+              </h2>
+              <p className="mt-1.5 text-sm text-gray-600">
+                From engineering to hospitality — the careers your counsellor
+                never mentioned.
+              </p>
+            </div>
+            <Link
+              href="/careers"
+              className="hidden shrink-0 items-center gap-1.5 text-sm font-semibold text-primary hover:text-primary-dark sm:inline-flex"
+            >
+              View all
+              <ArrowRight className="h-4 w-4" />
+            </Link>
+          </div>
+          <div className="mt-7 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
+            {domains.map((domain) => (
+              <DomainCard key={domain.id} domain={domain} />
+            ))}
+          </div>
+          <div className="mt-6 sm:hidden">
+            <Link
+              href="/careers"
+              className="inline-flex items-center gap-1.5 text-sm font-semibold text-primary"
+            >
+              View all domains
+              <ArrowRight className="h-4 w-4" />
+            </Link>
+          </div>
+        </div>
+      </section>
+
+      <section className="bg-primary">
+        <div className="mx-auto flex max-w-6xl flex-col items-center gap-6 px-4 py-12 text-center sm:px-6">
+          <span className="flex h-12 w-12 items-center justify-center rounded-2xl bg-white/15 text-white">
+            <GraduationCap className="h-6 w-6" />
+          </span>
+          <h2 className="max-w-xl text-2xl font-bold tracking-tight text-white sm:text-3xl">
+            {schemeCount} scholarships, one database, all of India
+          </h2>
+          <p className="max-w-lg text-sm leading-6 text-white/80">
+            Central schemes for every state, plus state scheme examples and the
+            portals you need. Filtered by income, category, and education level.
+          </p>
+          <Link
+            href="/schemes"
+            className="inline-flex h-11 items-center gap-2 rounded-full bg-white px-6 text-sm font-semibold text-primary shadow-sm transition-colors hover:bg-gray-100"
+          >
+            Browse scholarships
+            <ArrowRight className="h-4 w-4" />
+          </Link>
+        </div>
+      </section>
     </div>
   );
 }

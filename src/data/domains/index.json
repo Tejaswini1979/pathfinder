@@ -1,0 +1,155 @@
+{
+  "generatedAt": "2026-08-13",
+  "domains": [
+    {
+      "id": "eng",
+      "title": "Engineering & Technology",
+      "tagline": "From CSE to Marine to Petroleum to Robotics — the broadest engineering landscape, with major specialisations far beyond the famous four branches.",
+      "color": "#3a5a7a",
+      "subPathCount": 21,
+      "underratedCount": 15,
+      "lowBudgetCount": 13,
+      "lowPercentCount": 6
+    },
+    {
+      "id": "med",
+      "title": "Medicine & Healthcare",
+      "tagline": "MBBS, BDS, AYUSH, Physiotherapy, Audiology, Optometry — over 20 distinct medical careers most students never hear about.",
+      "color": "#a85673",
+      "subPathCount": 20,
+      "underratedCount": 14,
+      "lowBudgetCount": 19,
+      "lowPercentCount": 12
+    },
+    {
+      "id": "civ",
+      "title": "Civil Services & Public Administration",
+      "tagline": "IAS, IPS, IFS — and 10 other lesser-known central and state services with similar prestige and stability.",
+      "color": "#5a4d7a",
+      "subPathCount": 13,
+      "underratedCount": 8,
+      "lowBudgetCount": 13,
+      "lowPercentCount": 6
+    },
+    {
+      "id": "law",
+      "title": "Law",
+      "tagline": "Beyond NLU and litigation: corporate law, IP, sports & entertainment, environmental, international arbitration, judicial services.",
+      "color": "#4a6b3a",
+      "subPathCount": 12,
+      "underratedCount": 6,
+      "lowBudgetCount": 5,
+      "lowPercentCount": 5
+    },
+    {
+      "id": "edu",
+      "title": "Teaching & Education",
+      "tagline": "Beyond school teachers: special education, EdTech, IB schools, college lecturer track via UGC NET, academic admin.",
+      "color": "#b14e2f",
+      "subPathCount": 13,
+      "underratedCount": 9,
+      "lowBudgetCount": 12,
+      "lowPercentCount": 11
+    },
+    {
+      "id": "lng",
+      "title": "Languages & Translation",
+      "tagline": "Foreign languages, conference interpretation, sign language, indology, subtitling — most invisible-and-lucrative category in India.",
+      "color": "#8a5a3c",
+      "subPathCount": 14,
+      "underratedCount": 9,
+      "lowBudgetCount": 13,
+      "lowPercentCount": 13
+    },
+    {
+      "id": "trd",
+      "title": "Skilled Trades & Vocational",
+      "tagline": "ITI and NSDC certifications: electrician, AC tech, CNC operator, solar PV, beautician — accessible, well-paying, often overlooked.",
+      "color": "#3c6a5a",
+      "subPathCount": 16,
+      "underratedCount": 4,
+      "lowBudgetCount": 16,
+      "lowPercentCount": 16
+    },
+    {
+      "id": "hum",
+      "title": "Liberal Arts & Humanities",
+      "tagline": "Archaeology, linguistics, museum studies, philosophy, IR — careers your school counsellor probably never mentioned.",
+      "color": "#7a4d6a",
+      "subPathCount": 13,
+      "underratedCount": 10,
+      "lowBudgetCount": 12,
+      "lowPercentCount": 12
+    },
+    {
+      "id": "des",
+      "title": "Design",
+      "tagline": "Beyond graphic and UX: industrial, jewellery, automotive, footwear, leather, ceramic — 18 distinct design specialisations.",
+      "color": "#9a4d3a",
+      "subPathCount": 18,
+      "underratedCount": 12,
+      "lowBudgetCount": 2,
+      "lowPercentCount": 18
+    },
+    {
+      "id": "bwp",
+      "title": "Beauty, Wellness & Personal Care",
+      "tagline": "Cosmetology, nutrition, AYUSH, naturopathy, Siddha, aromatherapy — accessibility-first careers with strong entrepreneurship potential.",
+      "color": "#9a4d6a",
+      "subPathCount": 13,
+      "underratedCount": 5,
+      "lowBudgetCount": 12,
+      "lowPercentCount": 10
+    },
+    {
+      "id": "bm",
+      "title": "Business & Management",
+      "tagline": "From CA to luxury brand management — the broadest professional category in India.",
+      "color": "#b14e2f",
+      "subPathCount": 22,
+      "underratedCount": 14,
+      "lowBudgetCount": 16,
+      "lowPercentCount": 19
+    },
+    {
+      "id": "def",
+      "title": "Defence Forces",
+      "tagline": "Officer and soldier paths across Army, Navy, Air Force, Coast Guard — plus DRDO, BRO, MNS and the technical entries most students never hear about.",
+      "color": "#4a5d3a",
+      "subPathCount": 17,
+      "underratedCount": 6,
+      "lowBudgetCount": 17,
+      "lowPercentCount": 14
+    },
+    {
+      "id": "psy",
+      "title": "Psychology",
+      "tagline": "From clinical practice to UX research, sport psychology to forensic work — the applied science of how people think and feel.",
+      "color": "#6a5a8a",
+      "subPathCount": 13,
+      "underratedCount": 5,
+      "lowBudgetCount": 10,
+      "lowPercentCount": 0
+    },
+    {
+      "id": "arc",
+      "title": "Architecture & Built Environment",
+      "tagline": "Buildings, cities, ships, gardens, sets, conservation — design at every scale of the world we inhabit.",
+      "color": "#a87545",
+      "subPathCount": 13,
+      "underratedCount": 5,
+      "lowBudgetCount": 4,
+      "lowPercentCount": 4
+    },
+    {
+      "id": "hos",
+      "title": "Hospitality",
+      "tagline": "Hotels, kitchens, cabins, cruises, spas — the trades of welcome, often underestimated and globally portable.",
+      "color": "#c97e6e",
+      "subPathCount": 13,
+      "underratedCount": 5,
+      "lowBudgetCount": 12,
+      "lowPercentCount": 12
+    }
+  ]
+}

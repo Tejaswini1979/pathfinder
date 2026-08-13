@@ -1,0 +1,627 @@
+{
+  "id": "hos",
+  "title": "Hospitality",
+  "tagline": "Hotels, kitchens, cabins, cruises, spas — the trades of welcome, often underestimated and globally portable.",
+  "color": "#c97e6e",
+  "overview": "Hospitality is one of the most accessible post-12th paths in India — any-stream entry, no 90%+ cutoffs, government IHM fees of ₹3-3.5 lakh total, and globally portable careers. The 2026 reality is that BHM starting salaries (₹3-5 LPA) trail engineering, but the long arc — General Manager at a luxury hotel earning ₹35 LPA-1.5 crore, or moving to Gulf carriers, cruise lines, or international resorts — is one of the strongest in any service industry. Specialization tracks are where most of the under-discussed value sits: revenue management (the highest-paying analytical role within hotels), sommelier and wine studies (only 4 Master Sommeliers in all of South Asia), spa management for the wellness-tourism boom, cruise line work for tax-free dollar earnings, and casino hospitality for the small-but-distinct Goa and Sikkim sector plus international Asian gaming hubs.",
+  "key_insights": [
+    "Cruise line crew on 6-9 month contracts earn $1,200-2,500/month tax-free at fresher level with free room and board — savings rates are very high, and contract earnings often equal an entire year's land-based BHM salary.",
+    "Revenue Management is the highest-paying analytical role within hotels (₹4-7 LPA fresher rising to ₹20-45 LPA Director-level); pivots cleanly to airline pricing, OTA analytics, and SaaS roles at IDeaS and Duetto.",
+    "Oberoi Centre of Learning and Development (OCLD) and Taj Group's GMP run fully-paid hospitality programmes with employment bonds — among the most selective and rewarding entry routes for hotel careers.",
+    "Sommelier qualifications (WSET, Court of Master Sommeliers) are globally portable; India had only 4 Master Sommeliers as of 2024, making the field genuinely tiny but rapidly growing with the Indian wine market.",
+    "Cabin crew at Gulf carriers (Emirates, Etihad, Qatar) earn ₹15-30 LPA tax-free at fresher level — significantly above Indian airline salaries — and accept candidates from any 12th stream."
+  ],
+  "sub_paths": [
+    {
+      "id": "HOS-01",
+      "name": "Bachelor in Hotel Management (BHM / B.Sc HHA)",
+      "description": "A 3-4 year UG covering all hotel operations — front office, F&B, food production, housekeeping, and accounts. Standard entry to hospitality.",
+      "streams": [
+        "Arts",
+        "Bio",
+        "Commerce",
+        "Maths"
+      ],
+      "min_12th_percent": "50% in 12th any stream (45% for SC/ST), with English as a subject. Some private schools admit at 40-45%.",
+      "entry_route": "Degree",
+      "qualification": "10+2 (any stream, English compulsory) → NCHMCT JEE OR institute-specific entrance → 3-yr B.Sc Hospitality and Hotel Administration (NCHMCT/IGNOU) OR 4-yr BHM at private universities",
+      "duration": [
+        "3-4 years"
+      ],
+      "entrance_exam": "NCHMCT JEE (NTA, annually in April-May) for IHMs and affiliates; AIMA UGAT BHM, MAH HM CET, Christ University BHM, IPU CET BHMCT, Oberoi STEP for private institutes.",
+      "govt_fees": "₹3-3.5 lakh total at IHM Pusa, IHM Mumbai, IHM Bangalore (Central IHMs); ₹2-3 lakh at state IHMs.",
+      "private_fees": "₹4-15 lakh total. Christ ₹4-5 lakh; Welcomgroup Manipal ₹6-10 lakh; Oberoi STEP ₹2-4 lakh (with bond).",
+      "top_institutions": [
+        "IHM Pusa, New Delhi (govt)",
+        "IHM Mumbai (govt)",
+        "IHM Bangalore (govt)",
+        "IHM Ahmedabad (govt)",
+        "Welcomgroup Graduate School of Hotel Administration, Manipal (private)",
+        "Oberoi Centre of Learning and Development, Delhi (private, with employment bond)",
+        "Christ University, Bangalore (private)",
+        "IIHM Kolkata (private)"
+      ],
+      "scholarships": [
+        "NCHMCT-NTA scholarship for top rankers",
+        "Oberoi-STEP fully-paid programme (with 3-yr bond)",
+        "Taj Skill Certification Program funding"
+      ],
+      "abroad_pathways": "MS Hospitality Management at Cornell SHA, Lausanne EHL Switzerland, Glion Switzerland, Les Roches, NUS Singapore, William F. Harrah College Las Vegas. Many Indian BHM graduates start abroad in luxury chains directly.",
+      "day_in_life": "Hotel students rotate through all operational departments during their 6-month industrial training — pastry kitchen at 5 am, lunch service in the restaurant, evening front-office shifts, and housekeeping room inspections. The schedule is split-shift and physically demanding.",
+      "growth_path": "Trainee → Supervisor → Asst Manager → Department Head → Hotel General Manager. Typical timeline: GM at 12-18 years in luxury chains. Pivots: hotel revenue management, brand management at chain HQs (Marriott, Hyatt, Taj), catering and events, restaurant ownership, hospitality consulting.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher (Management Trainee): ₹3-5 LPA at chain hotels; ₹4-6 LPA at Oberoi STEP, Taj GMP / Mid (5-7 yr, Asst Manager): ₹7-12 LPA / Senior (Department Head, 10+ yr): ₹15-25 LPA / GM at luxury hotel: ₹35 LPA-1.5 crore. Note: Salaries trail engineering/MBA in early years but accelerate sharply at GM and corporate-leadership levels. Source: AmbitionBox, NCHMCT placement reports 2024-25.",
+      "confidence": "high",
+      "domainId": "hos",
+      "domainTitle": "Hospitality",
+      "streamIds": [
+        "arts",
+        "bio",
+        "commerce",
+        "maths"
+      ]
+    },
+    {
+      "id": "HOS-02",
+      "name": "Culinary Arts (Chef Track)",
+      "description": "A culinary arts graduate trains as a professional chef across cuisines — French, Italian, Indian, pastry, baking — with intensive kitchen-craft and creative-recipe skills.",
+      "streams": [
+        "Arts",
+        "Bio",
+        "Commerce",
+        "Maths"
+      ],
+      "min_12th_percent": "50%+ in 12th any stream. Some institutes admit at 45-50%.",
+      "entry_route": "Degree",
+      "qualification": "10+2 → 3-4 yr B.Sc / BBA Culinary Arts OR 1-2 yr Diploma in Culinary Arts OR direct apprenticeship at hotel kitchens",
+      "duration": [
+        "1-4 years (varies by route)"
+      ],
+      "entrance_exam": "NCHMCT BBA Culinary Arts entrance; institute-specific entrance + portfolio at IICA, Le Cordon Bleu Manipal, Welcomgroup Manipal.",
+      "govt_fees": "₹3-5 lakh total at NCHMCT BBA Culinary Arts; ₹50,000-2 lakh for FCI / govt-affiliated diplomas.",
+      "private_fees": "₹6-25 lakh total. Le Cordon Bleu Manipal ₹15-20 lakh; IICA Hyderabad ₹4-10 lakh; Welcomgroup Manipal Culinary ₹8-12 lakh.",
+      "top_institutions": [
+        "IHM Pusa, IHM Mumbai — Diploma in Food Production (govt)",
+        "Welcomgroup Graduate School Manipal — BHM with Culinary specialization (private)",
+        "Le Cordon Bleu Manipal Culinary Arts (private)",
+        "Indian Institute of Culinary Arts, Hyderabad (private)",
+        "Apicius Mumbai (private)"
+      ],
+      "scholarships": [
+        "NCHMCT-NTA scholarship",
+        "Le Cordon Bleu merit scholarships",
+        "Various chef-association funds"
+      ],
+      "abroad_pathways": "Stages and apprenticeships at Michelin-starred kitchens in France, Italy, Spain. Diplomas at Le Cordon Bleu Paris, ICIF Italy, CIA New York. Indian chefs work at Noma, El Celler de Can Roca, Eleven Madison Park as part of training.",
+      "day_in_life": "Chefs start at 6-7 am with prep — chopping, stocks, sauces — then service from 12-3 and 7-11 pm, with a break in between. Days are physically intense with standing for 12-14 hours, knife work, and constant movement. Rest day is usually mid-week, not weekend.",
+      "growth_path": "Commis → DCDP → CDP → Sous Chef → Chef de Cuisine → Executive Chef. Pivots: restaurant ownership, food media (cookbooks, TV shows, YouTube), private chefing, food consulting for QSR brands, food product development at FMCG firms.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher (Commis 3): ₹2.5-4 LPA at hotel kitchens / Mid (CDP/Sous, 5-7 yr): ₹6-12 LPA / Senior (Executive Chef at luxury hotel/standalone restaurant): ₹18-50 LPA + service charge share. Celebrity chefs / restaurant owners can earn ₹50 LPA-3 crore+. Source: AmbitionBox, hotel HR data 2024-25.",
+      "confidence": "high",
+      "domainId": "hos",
+      "domainTitle": "Hospitality",
+      "streamIds": [
+        "arts",
+        "bio",
+        "commerce",
+        "maths"
+      ]
+    },
+    {
+      "id": "HOS-03",
+      "name": "Cabin Crew / Aviation Hospitality",
+      "description": "Cabin crew (flight attendants) provide in-flight service and safety on commercial airlines. Aviation hospitality covers ground service, lounge, and airport hospitality roles too.",
+      "streams": [
+        "Arts",
+        "Bio",
+        "Commerce",
+        "Maths"
+      ],
+      "min_12th_percent": "50%+ in 12th any stream. Airline-specific physical and grooming standards (height, BMI, vision, English fluency).",
+      "entry_route": "Certification",
+      "qualification": "10+2 → 1-yr Diploma / 6-12 month Aviation Hospitality course at IATA-recognized training school OR direct walk-in interview at airlines (IndiGo, Air India, Vistara, Akasa)",
+      "duration": [
+        "6 months - 1 year (training)"
+      ],
+      "entrance_exam": "Most airlines hire via walk-in interviews + grooming round + group discussion + medical. Aviation hospitality programmes are application-based (no entrance exam typically).",
+      "govt_fees": "Limited govt route. National Institute of Aviation Management programmes ₹50,000-1.5 lakh.",
+      "private_fees": "₹1-4 lakh for cabin crew certification at Frankfinn, Air Hostess Academy, Aptech Aviation. Some airlines (IndiGo Cadet Cabin Crew) train selected candidates free with bond.",
+      "top_institutions": [
+        "Frankfinn Institute of Air Hostess Training (private)",
+        "Air Hostess Academy (private)",
+        "Aptech Aviation (private)",
+        "Tulip International Air Hostess Academy (private)",
+        "IndiGo Cadet Cabin Crew Programme (private/with bond)"
+      ],
+      "scholarships": [
+        "IndiGo Cadet Programme — fully paid training with bond",
+        "Some airline-funded scholarships at partner institutes"
+      ],
+      "abroad_pathways": "Gulf carriers (Emirates, Etihad, Qatar Airways) actively recruit Indian cabin crew with attractive tax-free packages. Singapore Airlines, Cathay Pacific also hire Indian crew.",
+      "day_in_life": "Cabin crew report 1.5-2 hours pre-flight for briefings, safety checks, and pre-boarding. In-flight is service rotations, safety oversight, and passenger care. Days end with debriefs and unpredictable layover schedules. Long-haul rosters can include 4-day overnight trips.",
+      "growth_path": "Trainee Crew → Cabin Crew → Senior Crew → Cabin Senior → Cabin Manager / Inflight Service Manager → Cabin Crew Trainer / Recruiter. Pivots: ground operations, lounge management, hospitality startups, airline customer experience roles.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher (Indian carriers): ₹4-7 LPA total incl. flying allowance / Mid (5-7 yr): ₹8-14 LPA / Senior (Cabin Manager): ₹14-22 LPA. Gulf carriers: ₹15-30 LPA tax-free for fresher level. Note: Airline industry is cyclical; layoffs hit cabin crew in 2020-21 but demand recovered fast in 2023-24. Source: AmbitionBox, airline HR notifications 2024-25.",
+      "confidence": "high",
+      "domainId": "hos",
+      "domainTitle": "Hospitality",
+      "streamIds": [
+        "arts",
+        "bio",
+        "commerce",
+        "maths"
+      ]
+    },
+    {
+      "id": "HOS-04",
+      "name": "Cruise Line Hospitality / Management",
+      "description": "Cruise ship staff work on luxury liners doing 6-9 month contracts in roles from F&B and housekeeping to entertainment and shore excursion management.",
+      "streams": [
+        "Arts",
+        "Bio",
+        "Commerce",
+        "Maths"
+      ],
+      "min_12th_percent": "50%+ in 12th any stream; English fluency mandatory; STCW maritime safety certification required (separate 3-week course).",
+      "entry_route": "Certification",
+      "qualification": "10+2 → 6-12 month Diploma in Cruise Line Hospitality OR BHM + STCW maritime safety certification → contract-based hire by cruise lines (Royal Caribbean, Carnival, MSC, Disney Cruise, Princess)",
+      "duration": [
+        "6 months - 4 years (varies by route)"
+      ],
+      "entrance_exam": "No formal entrance exams. Cruise line hiring fairs, agency-based recruitment (Empire Hospitality, Apollo Group), and direct online applications dominate.",
+      "govt_fees": "Limited govt route. STCW certification at govt-recognized maritime institutes ₹15,000-40,000.",
+      "private_fees": "₹1-4 lakh for cruise hospitality diploma at private institutes; STCW course ₹15,000-50,000.",
+      "top_institutions": [
+        "Apollo Hospitality Training Institute (private)",
+        "International Institute of Hotel Management — Cruise Specialization (private)",
+        "Frankfinn Cruise Programme (private)",
+        "STCW-recognized maritime training centres (govt and private)"
+      ],
+      "scholarships": [
+        "Limited; some agencies provide loans against contract"
+      ],
+      "abroad_pathways": "Cruise work IS the abroad pathway — most contracts are on international waters with multi-national crew. Some senior cruise managers move to land-based luxury hospitality globally.",
+      "day_in_life": "Cruise crew work 10-12 hour days, 7 days a week during a 6-9 month contract, then take 6-8 weeks off. Workplace is the ship — service in restaurants, room cleaning, entertainment, or specialty roles. Spend changes in port (Caribbean, Mediterranean, Alaska) make the lifestyle distinctive.",
+      "growth_path": "Trainee → Crew → Senior Crew → Supervisor → Department Head → Hotel Director on the ship. Pivots: land-based luxury hospitality, ship-management firms, travel and tour operations, immigration to host countries via skilled-worker routes.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher (during contract): $1,200-2,500/month tax-free + tips ≈ ₹1.2-2.5 lakh/month / Mid (5-7 yr Supervisor): $3,000-5,000/month / Senior (Hotel Director on ship): $8,000-15,000/month. Note: 7-month contract earnings at fresher level can equal a year's land-based BHM salary; tax-free + free room and board makes savings rate very high. Source: Cruise Hospitality Pay Reports, agency data.",
+      "confidence": "medium",
+      "domainId": "hos",
+      "domainTitle": "Hospitality",
+      "streamIds": [
+        "arts",
+        "bio",
+        "commerce",
+        "maths"
+      ]
+    },
+    {
+      "id": "HOS-05",
+      "name": "Spa Management",
+      "description": "A spa manager runs the spa and wellness operations of a hotel or standalone spa — therapists, treatments, retail products, ambience, and clientele management.",
+      "streams": [
+        "Arts",
+        "Bio",
+        "Commerce",
+        "Maths"
+      ],
+      "min_12th_percent": "50%+ in 12th any stream.",
+      "entry_route": "Certification",
+      "qualification": "10+2 → 1-yr PG Diploma in Spa Management OR BBA Hospitality with Spa specialization OR direct training at large spa chains (CGH Earth, Ananda in the Himalayas, Six Senses)",
+      "duration": [
+        "1-3 years (varies)"
+      ],
+      "entrance_exam": "Limited formal entrance; institute-specific tests at Orient Spa Academy, ITC Welcomgroup-affiliated programmes.",
+      "govt_fees": "Limited govt route. AYUSH-affiliated naturopathy/yoga colleges have some related programmes ₹50,000-2 lakh.",
+      "private_fees": "₹2-6 lakh for PG Diploma in Spa Management at private institutes (Ananda Spa University, Orient Spa Academy).",
+      "top_institutions": [
+        "Ananda Spa Institute, Rishikesh (private)",
+        "Orient Spa Academy, Kerala (private)",
+        "Spa Wellness Industry Federation training (private)",
+        "Shahnaz Husain Group spa training (private)"
+      ],
+      "scholarships": [
+        "Industry-funded scholarships at Ananda, Six Senses for selected candidates"
+      ],
+      "abroad_pathways": "MS Spa & Wellness Management at SHATEC Singapore, Glion Switzerland. Indian spa managers in demand at Mandarin Oriental, Four Seasons, Aman properties globally — particularly in Maldives, Thailand, UAE.",
+      "day_in_life": "Spa managers oversee daily operations — booking schedules, therapist rotations, product inventory, guest issues, and quality audits. They also drive sales of treatments and retail. Ambience details — music, aroma, towel turnover — get significant attention.",
+      "growth_path": "Therapist Lead / Spa Supervisor → Asst Spa Manager → Spa Manager → Regional Spa Director. Pivots: wellness retreat ownership, spa product brand management (Forest Essentials, Kama Ayurveda), wellness consulting, integrative medicine centres.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher (Spa Supervisor): ₹3-5 LPA / Mid (Spa Manager, 5-7 yr): ₹6-12 LPA / Senior (Regional Spa Director, 10+ yr at luxury chain): ₹15-30 LPA + perks. Note: Fast-growing field with India's wellness tourism boom; established managers in Goa, Rishikesh, Maldives outposts earn well above standalone hotel managers. Source: AmbitionBox, ISPA India salary data.",
+      "confidence": "medium",
+      "domainId": "hos",
+      "domainTitle": "Hospitality",
+      "streamIds": [
+        "arts",
+        "bio",
+        "commerce",
+        "maths"
+      ]
+    },
+    {
+      "id": "HOS-06",
+      "name": "Sommelier / Wine Studies",
+      "description": "A sommelier is a trained wine professional advising guests on pairings, managing wine cellars, and curating beverage programmes at fine-dining restaurants.",
+      "streams": [
+        "Arts",
+        "Bio",
+        "Commerce",
+        "Maths"
+      ],
+      "min_12th_percent": "50%+ in 12th any stream. Age 21+ required for many wine certification programmes (legal drinking age).",
+      "entry_route": "Certification",
+      "qualification": "10+2 → BHM + WSET (Wine and Spirit Education Trust) certification (Levels 1-4) OR Court of Master Sommeliers certification (Introductory, Certified, Advanced, Master)",
+      "duration": [
+        "3-7 years to reach Advanced Sommelier"
+      ],
+      "entrance_exam": "WSET courses are open-enrollment; CMS exams have prerequisites (Intro before Certified, etc.); each level has rigorous theory + blind tasting + service exams.",
+      "govt_fees": "N/A — no government route. WSET India courses run at affiliated training centres.",
+      "private_fees": "WSET Level 1 ~₹15,000, Level 2 ~₹30,000, Level 3 ~₹65,000, Level 4 (Diploma) ~₹2.5-3 lakh; CMS Introductory ~₹50,000.",
+      "top_institutions": [
+        "Sonal Holland Wine Academy, Mumbai (private)",
+        "Tulleeho Wine Academy, Delhi (private)",
+        "Wine Centre by Magandeep Singh (private)",
+        "Tetra Pak Wine and Beverage Programme at IHM (govt)"
+      ],
+      "scholarships": [
+        "Limited; occasional industry-funded for promising candidates"
+      ],
+      "abroad_pathways": "WSET and CMS qualifications are globally recognized. Indian sommeliers can work at Michelin-starred restaurants in UK, USA, Singapore, Dubai. WSET Level 4 (Diploma) is the gold standard worldwide.",
+      "day_in_life": "Sommeliers in fine-dining curate the wine list (50-500+ labels), do tableside service and pairing recommendations, manage cellar inventory and temperature, and conduct staff training. Many also lead wine tastings and educational events.",
+      "growth_path": "Wine Steward → Junior Sommelier → Sommelier → Head Sommelier → Beverage Director / Wine Director at luxury hotel groups. Pivots: wine import/distribution business, wine writing and journalism, wine-tour business, brand ambassador for global wine houses.",
+      "underrated": true,
+      "low_budget": false,
+      "low_percent": true,
+      "salary_bands": "Fresher (Junior Sommelier): ₹4-6 LPA at top restaurants / Mid (Head Sommelier, 5-7 yr): ₹8-15 LPA / Senior (Beverage Director / Master Sommelier): ₹18-40 LPA + tips and bottle commissions. Note: Only 4 Master Sommeliers exist in all of South Asia as of 2024 — the field is genuinely tiny but growing fast with India's wine market. Source: WSET India + sommelier industry data.",
+      "confidence": "medium",
+      "domainId": "hos",
+      "domainTitle": "Hospitality",
+      "streamIds": [
+        "arts",
+        "bio",
+        "commerce",
+        "maths"
+      ]
+    },
+    {
+      "id": "HOS-07",
+      "name": "Pastry & Bakery Specialization",
+      "description": "A pastry chef specializes in desserts, breads, viennoiserie, and chocolate work — a distinct kitchen craft from culinary arts, with French and continental traditions dominating.",
+      "streams": [
+        "Arts",
+        "Bio",
+        "Commerce",
+        "Maths"
+      ],
+      "min_12th_percent": "50%+ in 12th any stream.",
+      "entry_route": "Diploma",
+      "qualification": "10+2 → Diploma in Pastry and Bakery (1-2 yr) OR B.Sc Bakery and Confectionery OR BHM + pastry specialization → kitchen apprenticeship",
+      "duration": [
+        "1-3 years"
+      ],
+      "entrance_exam": "NCHMCT JEE for IHM Diploma in Bakery and Confectionery (3-yr); institute-specific tests at IICA, Le Cordon Bleu, Apicius.",
+      "govt_fees": "₹50,000-1.5 lakh per year at IHM Pusa Diploma in Bakery and Confectionery (~₹1.5-3 lakh total).",
+      "private_fees": "₹3-15 lakh total. Le Cordon Bleu Pastry programmes ₹6-12 lakh; APCA Chennai ₹4-8 lakh; IICA Hyderabad pastry track ₹3-6 lakh.",
+      "top_institutions": [
+        "IHM Pusa, IHM Mumbai — Diploma in Bakery and Confectionery (govt)",
+        "Academy of Pastry and Culinary Arts, Chennai/Bangalore (private)",
+        "Le Cordon Bleu Manipal Pastry (private)",
+        "APCA Bangalore (private)",
+        "Lavonne Academy of Baking Science and Pastry, Bangalore (private)"
+      ],
+      "scholarships": [
+        "NCHMCT scholarships",
+        "APCA / Lavonne merit aid"
+      ],
+      "abroad_pathways": "Stages at Pierre Hermé Paris, Cédric Grolet, Dominique Ansel; PG at École Bellouet Conseil, Le Cordon Bleu Paris. Indian pastry chefs work at top patisseries in Paris, London, New York, Singapore.",
+      "day_in_life": "Pastry chefs work pre-dawn shifts (4-5 am start) on bread doughs and viennoiserie that need slow proofing, then move to plated desserts and chocolate work later. Precision, temperature control, and timing dominate the craft. Hotel pastry teams are smaller and more specialized than savoury kitchens.",
+      "growth_path": "Pastry Commis → DCDP Pastry → CDP Pastry → Sous Chef Pastry → Executive Pastry Chef. Pivots: own bakery / patisserie (Theobroma, L'Opéra, Smoke House Deli model), wedding cake specialist, food media, dessert R&D for FMCG.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher (Commis Pastry): ₹2.5-4 LPA / Mid (CDP/Sous, 5-7 yr): ₹6-12 LPA / Senior (Executive Pastry Chef at luxury hotel): ₹14-30 LPA. Pastry chef-owners of successful brands (Pooja Dhingra, Kainaz Messman models) can earn ₹50 LPA-3 crore+. Source: AmbitionBox, hotel HR data 2024-25.",
+      "confidence": "high",
+      "domainId": "hos",
+      "domainTitle": "Hospitality",
+      "streamIds": [
+        "arts",
+        "bio",
+        "commerce",
+        "maths"
+      ]
+    },
+    {
+      "id": "HOS-08",
+      "name": "Event Management",
+      "description": "An event manager plans and executes weddings, corporate events, music festivals, conferences, and brand activations — combining logistics, design, vendor management, and budget.",
+      "streams": [
+        "Arts",
+        "Bio",
+        "Commerce",
+        "Maths"
+      ],
+      "min_12th_percent": "50%+ in 12th any stream.",
+      "entry_route": "Degree",
+      "qualification": "10+2 → 3-yr BBA Event Management OR 1-2 yr Diploma in Event Management OR direct entry via internship at event firms (Wizcraft, Showtime, Percept)",
+      "duration": [
+        "2-3 years (degree)",
+        "6 months-1 year (diploma)"
+      ],
+      "entrance_exam": "Institute-specific tests at NIEM, EMDI, NAEMD; CUET for some BBA programmes; direct admission elsewhere.",
+      "govt_fees": "Limited govt route. IGNOU Diploma in Event Management ₹15,000-30,000 total.",
+      "private_fees": "₹1.5-8 lakh total. NIEM (private) ₹3-5 lakh; EMDI (private) ₹4-6 lakh; NAEMD ₹3-4 lakh.",
+      "top_institutions": [
+        "National Institute of Event Management, Mumbai/Delhi (private)",
+        "Event Management Development Institute (EMDI), Mumbai (private)",
+        "National Academy of Event Management and Development (NAEMD), Mumbai (private)",
+        "Christ University Events specialization (private)"
+      ],
+      "scholarships": [
+        "Industry partnerships at NIEM with top firms (Wizcraft, Showtime)"
+      ],
+      "abroad_pathways": "MS Event Management at Glion Switzerland, NYU Tisch (Music Business), George Washington U (DC). Indian event managers active in Dubai, Singapore for corporate and destination weddings.",
+      "day_in_life": "Event managers juggle multiple projects at different stages — concept and pitch for new clients, vendor coordination for events in 4-6 weeks, and on-site execution for live events. The on-site days are 18+ hours; off-site days are emails, vendor calls, and venue visits.",
+      "growth_path": "Event Coordinator → Event Manager → Senior Event Manager → Account Director / Studio Head → Independent agency owner. Pivots: brand experience consulting, music festival production, wedding planning, exhibition and conference planning, hospitality marketing roles.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: ₹3-5 LPA at agencies / Mid (5 yr): ₹6-12 LPA / Senior (Account Director, 10+ yr): ₹15-30 LPA. Top wedding and music festival agency owners earn ₹50 LPA-2 crore+. Note: Heavy travel and weekend work; the field rewards stamina and network. Source: AmbitionBox, EEMA India salary data 2024-25.",
+      "confidence": "high",
+      "domainId": "hos",
+      "domainTitle": "Hospitality",
+      "streamIds": [
+        "arts",
+        "bio",
+        "commerce",
+        "maths"
+      ]
+    },
+    {
+      "id": "HOS-09",
+      "name": "Travel & Tourism Management",
+      "description": "A travel and tourism professional designs and operates packages, runs tour-operating firms, manages destination marketing, or works in airlines, hotels, and OTAs.",
+      "streams": [
+        "Arts",
+        "Bio",
+        "Commerce",
+        "Maths"
+      ],
+      "min_12th_percent": "50%+ in 12th any stream.",
+      "entry_route": "Degree",
+      "qualification": "10+2 → 3-yr BTTM (Bachelor of Travel and Tourism Management) OR BA Tourism OR BBA Tourism OR Diploma → optional IATA/UFTAA certification",
+      "duration": [
+        "1-3 years"
+      ],
+      "entrance_exam": "CUET-UG for govt universities; institute-specific entrance for private. IITTM CET for prestigious public institute.",
+      "govt_fees": "₹1-3 lakh total at IITTM (Indian Institute of Tourism and Travel Management) Gwalior, IGNOU. ₹50,000-1.5 lakh at state university tourism programmes.",
+      "private_fees": "₹3-10 lakh at private universities (Christ, Symbiosis, Amity).",
+      "top_institutions": [
+        "Indian Institute of Tourism and Travel Management, Gwalior (govt)",
+        "IIQM Banaras Hindu University (govt)",
+        "Christ University, Bangalore (private)",
+        "Garware Institute, Mumbai University (govt)",
+        "Pondicherry University (govt)"
+      ],
+      "scholarships": [
+        "IITTM merit scholarships",
+        "Various state tourism dept scholarships",
+        "IATA student fee discounts"
+      ],
+      "abroad_pathways": "MS Tourism at Glion Switzerland, Bournemouth UK, NHL Stenden Netherlands, Surrey UK. Indian travel professionals work at global OTAs, tourism boards, hotel-chain marketing offices.",
+      "day_in_life": "Travel professionals in tour operations design itineraries, negotiate with hotels and airlines for inventory, handle customer queries, and run group departures. Destination marketing roles do PR and trade shows; OTA roles (MakeMyTrip, Yatra, Booking.com) involve product management and supplier relations.",
+      "growth_path": "Travel Consultant → Senior Consultant → Operations Manager → Branch / Regional Head → COO / Director. Pivots: own tour-operating business, destination management for tourism boards (Kerala Tourism, Rajasthan Tourism), corporate travel consulting, OTA product roles.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: ₹2.5-4.5 LPA at agencies / Mid (5-7 yr): ₹5-10 LPA / Senior (Branch/Regional Head, 10+ yr): ₹12-25 LPA. OTA product roles pay 2-3× higher (₹10-30 LPA fresher to mid). Source: AmbitionBox, IATA India 2024-25.",
+      "confidence": "high",
+      "domainId": "hos",
+      "domainTitle": "Hospitality",
+      "streamIds": [
+        "arts",
+        "bio",
+        "commerce",
+        "maths"
+      ]
+    },
+    {
+      "id": "HOS-10",
+      "name": "Hotel Revenue Management & Distribution",
+      "description": "A revenue manager prices hotel rooms dynamically using demand data, OTAs, and competitor analysis — a quantitative role bridging hospitality and analytics.",
+      "streams": [
+        "Arts",
+        "Bio",
+        "Commerce",
+        "Maths"
+      ],
+      "min_12th_percent": "50%+ in 12th any stream; analytical aptitude valued.",
+      "entry_route": "Degree",
+      "qualification": "10+2 → BHM OR BBA Hospitality → optional PG Diploma in Revenue Management at Cornell eCornell, EHL Lausanne, or in-house training at chain HQs (Marriott, Hilton, Accor)",
+      "duration": [
+        "3-5 years"
+      ],
+      "entrance_exam": "NCHMCT JEE for BHM; institute-specific for related BBAs. Revenue management certifications (Cornell, EHL) are application-based.",
+      "govt_fees": "₹3-3.5 lakh for BHM at IHMs.",
+      "private_fees": "₹4-15 lakh for BHM/BBA at private universities; Cornell eCornell Revenue Management certificate ~₹3-5 lakh.",
+      "top_institutions": [
+        "IHM Pusa + chain HQ training (govt + corporate)",
+        "Welcomgroup Manipal + ITC corporate (private)",
+        "Oberoi STEP Programme (private/with bond)",
+        "Cornell SHA + HSMAI revenue certifications (private, online)"
+      ],
+      "scholarships": [
+        "HSMAI student grants",
+        "Cornell SHA financial aid",
+        "Chain hotel revenue trainee programmes"
+      ],
+      "abroad_pathways": "MS Revenue Management at Cornell SHA, EHL Lausanne. Revenue management is a globally portable role; Indian revenue managers work at chain HQs in Singapore, Dubai, London.",
+      "day_in_life": "Revenue managers start the day reviewing the next 90 days of bookings, adjust rates on the property management system and OTAs, run forecast models in Excel/proprietary tools (IDeaS, Duetto), and join a daily revenue call with sales and front office.",
+      "growth_path": "Revenue Analyst → Revenue Manager → Cluster Revenue Manager (multiple hotels) → Director of Revenue → VP Revenue Strategy at chain HQ. Pivots: pricing and analytics roles in airlines, OTAs, retail; consulting at McKinsey Hotel Practice; SaaS roles at IDeaS, Duetto, OTA Insight.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": false,
+      "salary_bands": "Fresher (Revenue Analyst): ₹4-7 LPA / Mid (Revenue Manager, 5-7 yr): ₹10-18 LPA / Senior (Director of Revenue, 10+ yr): ₹20-45 LPA. Note: One of the highest-paying analytical paths within hotel careers; growing fast with chain hotel expansion in India and SaaS pricing tools. Source: HSMAI India salary survey, AmbitionBox 2024-25.",
+      "confidence": "high",
+      "domainId": "hos",
+      "domainTitle": "Hospitality",
+      "streamIds": [
+        "arts",
+        "bio",
+        "commerce",
+        "maths"
+      ]
+    },
+    {
+      "id": "HOS-11",
+      "name": "Casino & Gaming Hospitality Management",
+      "description": "A casino host or floor manager runs hospitality at gaming venues — guest relations, table service, VIP hosting — at India's licensed casinos and abroad.",
+      "streams": [
+        "Arts",
+        "Bio",
+        "Commerce",
+        "Maths"
+      ],
+      "min_12th_percent": "50%+ in 12th any stream; age 21+ to work in licensed casino floor roles in India.",
+      "entry_route": "Certification",
+      "qualification": "10+2 → BHM OR Diploma in Casino and Gaming Operations → on-the-job training at licensed Goa offshore/onshore casinos, Sikkim casinos, or international casinos",
+      "duration": [
+        "1-3 years"
+      ],
+      "entrance_exam": "Limited formal route. Casino dealer training at Casino Pride, Deltin Royale; international training at HCAL Hospitality, ISPA Las Vegas.",
+      "govt_fees": "Very limited govt route. AYUSH-affiliated and tourism dept programmes don't typically cover gaming.",
+      "private_fees": "₹1-4 lakh for casino operations diploma at private institutes; in-house casino training is often free with employment bond.",
+      "top_institutions": [
+        "Indian School of Casino Operations, Goa (private)",
+        "Casino Pride / Deltin in-house training (private)",
+        "International School of Hospitality Las Vegas (private, foreign)",
+        "Macao Polytechnic — Gaming Management (govt, foreign)"
+      ],
+      "scholarships": [
+        "Limited; some casino-funded with employment bond"
+      ],
+      "abroad_pathways": "MS Hospitality with Gaming specialization at UNLV (Las Vegas), Macao Polytechnic, Coventry UK. Asian gaming hubs (Macau, Singapore, Manila) actively hire Indian dealers and floor staff.",
+      "day_in_life": "Casino floor staff work in shifts (often nighttime) — dealing cards or running roulette, guest hosting in private gaming areas, monitoring play patterns for security and VIP service. Goa offshore casinos run 24/7 on river ships with unique split-shift schedules.",
+      "growth_path": "Trainee Dealer → Dealer → Pit Boss → Floor Manager → Casino Operations Manager. Pivots: international casino careers in Macau, Singapore, Manila, Las Vegas; VIP hosting; gaming regulator roles in licensed jurisdictions.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher (Dealer): ₹3-5 LPA + tips ≈ ₹4-7 LPA total / Mid (Pit Boss, 5-7 yr): ₹6-10 LPA / Senior (Floor / Operations Manager): ₹12-25 LPA. International casinos: $2,500-6,000/month tax-advantaged. Note: India's legal gaming sector is small (Goa, Sikkim only) but international Asian casinos are large employers of Indian staff. Source: Casino industry data, HCAL Goa.",
+      "confidence": "medium",
+      "domainId": "hos",
+      "domainTitle": "Hospitality",
+      "streamIds": [
+        "arts",
+        "bio",
+        "commerce",
+        "maths"
+      ]
+    },
+    {
+      "id": "HOS-12",
+      "name": "Bartending & Mixology",
+      "description": "A bartender or mixologist crafts drinks at bars, hotels, and restaurants, designing cocktail menus, building bar programmes, and running beverage operations.",
+      "streams": [
+        "Arts",
+        "Bio",
+        "Commerce",
+        "Maths"
+      ],
+      "min_12th_percent": "50%+ in 12th any stream; age 21+ for legal bar work in most Indian states.",
+      "entry_route": "Certification",
+      "qualification": "10+2 → 3-12 month Bartending / Mixology Diploma at private school OR direct entry as bar assistant + on-the-job training at hotel/restaurant bars",
+      "duration": [
+        "3 months - 3 years (varies)"
+      ],
+      "entrance_exam": "No formal entrance exams. School admission via interview and short test at Tulleeho, BBA Bartending Academy, IBA training centres.",
+      "govt_fees": "Limited. F&B service training at IHMs covers bartending basics but isn't a dedicated path.",
+      "private_fees": "₹50,000-3 lakh for dedicated bartending courses at Tulleeho, BBA Academy, IBA Mumbai, Cocktails & Dreams Speakeasy School.",
+      "top_institutions": [
+        "Tulleeho Bartending Academy, Delhi (private)",
+        "BBA Bartending Academy, Mumbai (private)",
+        "International Bartending Academy, Mumbai (private)",
+        "Cocktails & Dreams Speakeasy School, Bangalore (private)"
+      ],
+      "scholarships": [
+        "Limited; some bar group internships at fully-paid trainee level"
+      ],
+      "abroad_pathways": "Indian bartenders increasingly work at world-ranking bars in London, Singapore, Hong Kong, NYC. The 50 Best Bars list now regularly features Asian establishments where Indian-origin bartenders lead programmes.",
+      "day_in_life": "Bartenders set up the bar in the afternoon — fresh garnishes, syrup batching, stock checks — then work the evening service for 6-8 hours. Mixologists at top bars also develop new cocktails, sometimes ageing infusions for weeks. Closing the bar at 1-2 am is part of the rhythm.",
+      "growth_path": "Bar Back → Bartender → Senior Bartender / Bar Captain → Bar Manager → Beverage Director / Brand Ambassador for spirits brands. Pivots: own bar/cocktail lounge, spirit brand education roles (Diageo Academy, Pernod Ricard), cocktail catering, food media.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher (Bar Back / Junior Bartender): ₹2.5-4 LPA + tips / Mid (Senior Bartender / Captain, 5-7 yr): ₹5-10 LPA + tips ≈ ₹7-13 LPA total / Senior (Bar Manager / Brand Ambassador): ₹12-25 LPA. World-class bartenders at top-50 Asian bars (Sidecar, Hoots, Soka in India) earn ₹15-30 LPA+. Source: AmbitionBox, India Bartender Pay Survey 2024.",
+      "confidence": "medium",
+      "domainId": "hos",
+      "domainTitle": "Hospitality",
+      "streamIds": [
+        "arts",
+        "bio",
+        "commerce",
+        "maths"
+      ]
+    },
+    {
+      "id": "HOS-13",
+      "name": "Aviation Hospitality / Ground Services",
+      "description": "An airport ground services professional handles passenger check-in, boarding, baggage, lounge hospitality, and customer service for airlines and airport operators.",
+      "streams": [
+        "Arts",
+        "Bio",
+        "Commerce",
+        "Maths"
+      ],
+      "min_12th_percent": "50%+ in 12th any stream; English fluency mandatory.",
+      "entry_route": "Certification",
+      "qualification": "10+2 → 6-12 month Diploma in Aviation/Airport Management OR BBA Aviation OR direct entry as Customer Service Agent at airlines (IndiGo, Air India, Vistara) and ground handlers (Bird Group, Celebi)",
+      "duration": [
+        "6 months-3 years"
+      ],
+      "entrance_exam": "Limited formal entrance. Frankfinn, Tulip, Aptech Aviation entrance + interview; airline walk-in interviews; CUET for aviation BBAs at central universities.",
+      "govt_fees": "Limited govt route. Indira Gandhi Rashtriya Uran Akademi, Rae Bareli — for aviation-related programmes ₹2-5 lakh.",
+      "private_fees": "₹1-5 lakh for diploma/certification at Frankfinn, Aptech Aviation; BBA Aviation at private universities ₹4-12 lakh.",
+      "top_institutions": [
+        "Frankfinn Institute of Air Hostess Training (private)",
+        "Aptech Aviation Academy (private)",
+        "Indira Gandhi Rashtriya Uran Akademi, Rae Bareli (govt)",
+        "Aerospace Resources Hyderabad (private)"
+      ],
+      "scholarships": [
+        "Some airline-funded programmes for selected candidates"
+      ],
+      "abroad_pathways": "International airport hospitality roles in Dubai (DXB), Singapore (Changi), Doha (HIA). Indian ground service professionals often move to Gulf via airline-linked programmes.",
+      "day_in_life": "Ground services staff work shifts at the airport — check-in counters, boarding gates, lounge greeting, baggage services. Hours follow flight schedules and include nights and weekends. Communication, conflict resolution, and quick problem-solving dominate the work.",
+      "growth_path": "Customer Service Agent → Senior Agent → Duty Officer → Station Manager → Regional Operations Head. Pivots: airline customer experience roles, airport operator (GMR, Adani Airports), travel retail, hotel front office, lounge hospitality at premium credit-card lounges.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher (Customer Service Agent): ₹2.5-4 LPA / Mid (Senior Agent / Duty Officer, 5 yr): ₹5-9 LPA / Senior (Station Manager, 10+ yr): ₹12-22 LPA. Gulf airports: ₹10-25 LPA tax-free at fresher to mid level. Source: AmbitionBox, airline ground service salary 2024-25.",
+      "confidence": "high",
+      "domainId": "hos",
+      "domainTitle": "Hospitality",
+      "streamIds": [
+        "arts",
+        "bio",
+        "commerce",
+        "maths"
+      ]
+    }
+  ],
+  "confidence_notes": [
+    "BHM and B.Sc HHA fees verified from NCHMCT JEE 2026 brochure and IHM Pusa fee structure.",
+    "Cruise line salary data is in USD and varies by cruise line, ship class, and contract type; ranges represent typical packages from major lines (Royal Caribbean, Carnival, MSC, Princess) — confidence medium.",
+    "Casino hospitality salary data is limited to Goa and Sikkim licensed casinos plus international Asian gaming hubs; confidence medium given small sample.",
+    "Spa Management, Sommelier, and Lighting Design are small fields with limited published salary surveys — bands are estimates based on industry interviews and AmbitionBox data; confidence medium.",
+    "Gulf carrier salaries can shift with currency rates and airline-specific contracts; ranges represent 2024-25 packages."
+  ]
+}

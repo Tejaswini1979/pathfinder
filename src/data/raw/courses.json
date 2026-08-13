@@ -1,0 +1,1385 @@
+[
+  {
+    "id": "btech-cse",
+    "name": "B.Tech Computer Science Engineering",
+    "stream": "Science",
+    "field": "Engineering",
+    "level": "Undergraduate",
+    "duration": "4 Years",
+    "eligibility": "12th with PCM",
+    "entranceExam": "JEE",
+    "careerInterest": [
+      "IT",
+      "Technology"
+    ],
+    "description": "Software development, programming, and computer systems"
+  },
+  {
+    "id": "btech-it",
+    "name": "B.Tech Information Technology",
+    "stream": "Science",
+    "field": "Engineering",
+    "level": "Undergraduate",
+    "duration": "4 Years",
+    "eligibility": "12th with PCM",
+    "entranceExam": "JEE",
+    "careerInterest": [
+      "IT",
+      "Technology"
+    ],
+    "description": "IT infrastructure and software applications"
+  },
+  {
+    "id": "btech-mech",
+    "name": "B.Tech Mechanical Engineering",
+    "stream": "Science",
+    "field": "Engineering",
+    "level": "Undergraduate",
+    "duration": "4 Years",
+    "eligibility": "12th with PCM",
+    "entranceExam": "JEE",
+    "careerInterest": [
+      "Technology"
+    ],
+    "description": "Design and manufacturing of mechanical systems"
+  },
+  {
+    "id": "btech-civil",
+    "name": "B.Tech Civil Engineering",
+    "stream": "Science",
+    "field": "Engineering",
+    "level": "Undergraduate",
+    "duration": "4 Years",
+    "eligibility": "12th with PCM",
+    "entranceExam": "JEE",
+    "careerInterest": [
+      "Technology"
+    ],
+    "description": "Construction and infrastructure development"
+  },
+  {
+    "id": "btech-electrical",
+    "name": "B.Tech Electrical Engineering",
+    "stream": "Science",
+    "field": "Engineering",
+    "level": "Undergraduate",
+    "duration": "4 Years",
+    "eligibility": "12th with PCM",
+    "entranceExam": "JEE",
+    "careerInterest": [
+      "Technology"
+    ],
+    "description": "Electrical systems and power generation"
+  },
+  {
+    "id": "btech-ece",
+    "name": "B.Tech Electronics & Communication",
+    "stream": "Science",
+    "field": "Engineering",
+    "level": "Undergraduate",
+    "duration": "4 Years",
+    "eligibility": "12th with PCM",
+    "entranceExam": "JEE",
+    "careerInterest": [
+      "Technology"
+    ],
+    "description": "Electronics and communication systems"
+  },
+  {
+    "id": "btech-ai-ml",
+    "name": "B.Tech AI & Machine Learning",
+    "stream": "Science",
+    "field": "Engineering",
+    "level": "Undergraduate",
+    "duration": "4 Years",
+    "eligibility": "12th with PCM",
+    "entranceExam": "JEE",
+    "careerInterest": [
+      "IT",
+      "Technology"
+    ],
+    "description": "Artificial intelligence and machine learning"
+  },
+  {
+    "id": "btech-ds",
+    "name": "B.Tech Data Science",
+    "stream": "Science",
+    "field": "Engineering",
+    "level": "Undergraduate",
+    "duration": "4 Years",
+    "eligibility": "12th with PCM",
+    "entranceExam": "JEE",
+    "careerInterest": [
+      "IT",
+      "Technology"
+    ],
+    "description": "Data analysis and big data technologies"
+  },
+  {
+    "id": "btech-cyber",
+    "name": "B.Tech Cyber Security",
+    "stream": "Science",
+    "field": "Engineering",
+    "level": "Undergraduate",
+    "duration": "4 Years",
+    "eligibility": "12th with PCM",
+    "entranceExam": "JEE",
+    "careerInterest": [
+      "IT",
+      "Technology"
+    ],
+    "description": "Information security and cyber defense"
+  },
+  {
+    "id": "btech-robotics",
+    "name": "B.Tech Robotics & Automation",
+    "stream": "Science",
+    "field": "Engineering",
+    "level": "Undergraduate",
+    "duration": "4 Years",
+    "eligibility": "12th with PCM",
+    "entranceExam": "JEE",
+    "careerInterest": [
+      "Technology"
+    ],
+    "description": "Robotics and industrial automation"
+  },
+  {
+    "id": "btech-mechatronics",
+    "name": "B.Tech Mechatronics",
+    "stream": "Science",
+    "field": "Engineering",
+    "level": "Undergraduate",
+    "duration": "4 Years",
+    "eligibility": "12th with PCM",
+    "entranceExam": "JEE",
+    "careerInterest": [
+      "Technology"
+    ],
+    "description": "Mechanical, electronics, and computer engineering"
+  },
+  {
+    "id": "btech-auto",
+    "name": "B.Tech Automobile Engineering",
+    "stream": "Science",
+    "field": "Engineering",
+    "level": "Undergraduate",
+    "duration": "4 Years",
+    "eligibility": "12th with PCM",
+    "entranceExam": "JEE",
+    "careerInterest": [
+      "Technology"
+    ],
+    "description": "Vehicle design and automotive technology"
+  },
+  {
+    "id": "btech-aero",
+    "name": "B.Tech Aerospace Engineering",
+    "stream": "Science",
+    "field": "Engineering",
+    "level": "Undergraduate",
+    "duration": "4 Years",
+    "eligibility": "12th with PCM",
+    "entranceExam": "JEE",
+    "careerInterest": [
+      "Technology"
+    ],
+    "description": "Aircraft and spacecraft engineering"
+  },
+  {
+    "id": "btech-biomed",
+    "name": "B.Tech Biomedical Engineering",
+    "stream": "Science",
+    "field": "Engineering",
+    "level": "Undergraduate",
+    "duration": "4 Years",
+    "eligibility": "12th with PCM",
+    "entranceExam": "JEE",
+    "careerInterest": [
+      "Healthcare",
+      "Technology"
+    ],
+    "description": "Medical devices and healthcare technology"
+  },
+  {
+    "id": "btech-chem",
+    "name": "B.Tech Chemical Engineering",
+    "stream": "Science",
+    "field": "Engineering",
+    "level": "Undergraduate",
+    "duration": "4 Years",
+    "eligibility": "12th with PCM",
+    "entranceExam": "JEE",
+    "careerInterest": [
+      "Technology"
+    ],
+    "description": "Chemical processes and manufacturing"
+  },
+  {
+    "id": "mbbs",
+    "name": "MBBS",
+    "stream": "Science",
+    "field": "Medical",
+    "level": "Undergraduate",
+    "duration": "5.5 Years",
+    "eligibility": "12th with PCB",
+    "entranceExam": "NEET",
+    "careerInterest": [
+      "Healthcare"
+    ],
+    "description": "Bachelor of Medicine & Surgery"
+  },
+  {
+    "id": "bds",
+    "name": "BDS",
+    "stream": "Science",
+    "field": "Medical",
+    "level": "Undergraduate",
+    "duration": "5 Years",
+    "eligibility": "12th with PCB",
+    "entranceExam": "NEET",
+    "careerInterest": [
+      "Healthcare"
+    ],
+    "description": "Dental Surgery"
+  },
+  {
+    "id": "bams",
+    "name": "BAMS",
+    "stream": "Science",
+    "field": "Medical",
+    "level": "Undergraduate",
+    "duration": "5.5 Years",
+    "eligibility": "12th with PCB",
+    "entranceExam": "NEET",
+    "careerInterest": [
+      "Healthcare"
+    ],
+    "description": "Ayurvedic Medicine"
+  },
+  {
+    "id": "bhms",
+    "name": "BHMS",
+    "stream": "Science",
+    "field": "Medical",
+    "level": "Undergraduate",
+    "duration": "5.5 Years",
+    "eligibility": "12th with PCB",
+    "entranceExam": "NEET",
+    "careerInterest": [
+      "Healthcare"
+    ],
+    "description": "Homeopathy"
+  },
+  {
+    "id": "bums",
+    "name": "BUMS",
+    "stream": "Science",
+    "field": "Medical",
+    "level": "Undergraduate",
+    "duration": "5.5 Years",
+    "eligibility": "12th with PCB",
+    "entranceExam": "NEET",
+    "careerInterest": [
+      "Healthcare"
+    ],
+    "description": "Unani Medicine"
+  },
+  {
+    "id": "bsc-nursing",
+    "name": "B.Sc Nursing",
+    "stream": "Science",
+    "field": "Medical",
+    "level": "Undergraduate",
+    "duration": "4 Years",
+    "eligibility": "12th with PCB",
+    "entranceExam": "NEET",
+    "careerInterest": [
+      "Healthcare"
+    ],
+    "description": "Professional nursing degree"
+  },
+  {
+    "id": "gnm",
+    "name": "GNM Nursing",
+    "stream": "Science",
+    "field": "Medical",
+    "level": "Diploma",
+    "duration": "3 Years",
+    "eligibility": "12th with PCB",
+    "entranceExam": "None",
+    "careerInterest": [
+      "Healthcare"
+    ],
+    "description": "General Nursing & Midwifery"
+  },
+  {
+    "id": "bpharm",
+    "name": "B.Pharm",
+    "stream": "Science",
+    "field": "Medical",
+    "level": "Undergraduate",
+    "duration": "4 Years",
+    "eligibility": "12th with PCB",
+    "entranceExam": "NEET",
+    "careerInterest": [
+      "Healthcare"
+    ],
+    "description": "Bachelor of Pharmacy"
+  },
+  {
+    "id": "dpharm",
+    "name": "D.Pharm",
+    "stream": "Science",
+    "field": "Medical",
+    "level": "Diploma",
+    "duration": "2 Years",
+    "eligibility": "12th with PCB",
+    "entranceExam": "None",
+    "careerInterest": [
+      "Healthcare"
+    ],
+    "description": "Diploma in Pharmacy"
+  },
+  {
+    "id": "pharmd",
+    "name": "Pharm.D",
+    "stream": "Science",
+    "field": "Medical",
+    "level": "Professional",
+    "duration": "6 Years",
+    "eligibility": "12th with PCB",
+    "entranceExam": "NEET",
+    "careerInterest": [
+      "Healthcare"
+    ],
+    "description": "Doctor of Pharmacy"
+  },
+  {
+    "id": "bpt",
+    "name": "BPT",
+    "stream": "Science",
+    "field": "Medical",
+    "level": "Undergraduate",
+    "duration": "4.5 Years",
+    "eligibility": "12th with PCB",
+    "entranceExam": "NEET",
+    "careerInterest": [
+      "Healthcare"
+    ],
+    "description": "Physiotherapy"
+  },
+  {
+    "id": "bmlt",
+    "name": "BMLT",
+    "stream": "Science",
+    "field": "Medical",
+    "level": "Undergraduate",
+    "duration": "3 Years",
+    "eligibility": "12th with PCB",
+    "entranceExam": "None",
+    "careerInterest": [
+      "Healthcare"
+    ],
+    "description": "Medical Lab Technology"
+  },
+  {
+    "id": "radiology",
+    "name": "Radiology & Imaging Technology",
+    "stream": "Science",
+    "field": "Medical",
+    "level": "Undergraduate",
+    "duration": "3 Years",
+    "eligibility": "12th with PCB",
+    "entranceExam": "None",
+    "careerInterest": [
+      "Healthcare"
+    ],
+    "description": "Medical imaging and radiology"
+  },
+  {
+    "id": "ott",
+    "name": "Operation Theatre Technology",
+    "stream": "Science",
+    "field": "Medical",
+    "level": "Undergraduate",
+    "duration": "3 Years",
+    "eligibility": "12th with PCB",
+    "entranceExam": "None",
+    "careerInterest": [
+      "Healthcare"
+    ],
+    "description": "OT assistance and surgical technology"
+  },
+  {
+    "id": "bsc-math",
+    "name": "B.Sc Mathematics",
+    "stream": "Science",
+    "field": "Science",
+    "level": "Undergraduate",
+    "duration": "3 Years",
+    "eligibility": "12th Science",
+    "entranceExam": "CUET",
+    "careerInterest": [
+      "Technology"
+    ],
+    "description": "Pure and applied mathematics"
+  },
+  {
+    "id": "bsc-physics",
+    "name": "B.Sc Physics",
+    "stream": "Science",
+    "field": "Science",
+    "level": "Undergraduate",
+    "duration": "3 Years",
+    "eligibility": "12th Science",
+    "entranceExam": "CUET",
+    "careerInterest": [
+      "Technology"
+    ],
+    "description": "Theoretical and experimental physics"
+  },
+  {
+    "id": "bsc-chem",
+    "name": "B.Sc Chemistry",
+    "stream": "Science",
+    "field": "Science",
+    "level": "Undergraduate",
+    "duration": "3 Years",
+    "eligibility": "12th Science",
+    "entranceExam": "CUET",
+    "careerInterest": [
+      "Technology"
+    ],
+    "description": "Chemical sciences and research"
+  },
+  {
+    "id": "bsc-stats",
+    "name": "B.Sc Statistics",
+    "stream": "Science",
+    "field": "Science",
+    "level": "Undergraduate",
+    "duration": "3 Years",
+    "eligibility": "12th Science",
+    "entranceExam": "CUET",
+    "careerInterest": [
+      "Technology"
+    ],
+    "description": "Statistical analysis and data science"
+  },
+  {
+    "id": "bsc-cs",
+    "name": "B.Sc Computer Science",
+    "stream": "Science",
+    "field": "Science",
+    "level": "Undergraduate",
+    "duration": "3 Years",
+    "eligibility": "12th Science",
+    "entranceExam": "CUET",
+    "careerInterest": [
+      "IT",
+      "Technology"
+    ],
+    "description": "Computer science fundamentals"
+  },
+  {
+    "id": "bsc-it",
+    "name": "B.Sc Information Technology",
+    "stream": "Science",
+    "field": "Science",
+    "level": "Undergraduate",
+    "duration": "3 Years",
+    "eligibility": "12th Science",
+    "entranceExam": "CUET",
+    "careerInterest": [
+      "IT",
+      "Technology"
+    ],
+    "description": "IT and software applications"
+  },
+  {
+    "id": "bca",
+    "name": "BCA",
+    "stream": "Science",
+    "field": "Science",
+    "level": "Undergraduate",
+    "duration": "3 Years",
+    "eligibility": "12th Any Stream",
+    "entranceExam": "CUET",
+    "careerInterest": [
+      "IT",
+      "Technology"
+    ],
+    "description": "Computer Applications"
+  },
+  {
+    "id": "bsc-ds",
+    "name": "B.Sc Data Science",
+    "stream": "Science",
+    "field": "Science",
+    "level": "Undergraduate",
+    "duration": "3 Years",
+    "eligibility": "12th Science",
+    "entranceExam": "CUET",
+    "careerInterest": [
+      "IT",
+      "Technology"
+    ],
+    "description": "Data analytics and AI"
+  },
+  {
+    "id": "bsc-ai",
+    "name": "B.Sc Artificial Intelligence",
+    "stream": "Science",
+    "field": "Science",
+    "level": "Undergraduate",
+    "duration": "3 Years",
+    "eligibility": "12th Science",
+    "entranceExam": "CUET",
+    "careerInterest": [
+      "IT",
+      "Technology"
+    ],
+    "description": "AI and machine learning"
+  },
+  {
+    "id": "bsc-biotech",
+    "name": "B.Sc Biotechnology",
+    "stream": "Science",
+    "field": "Science",
+    "level": "Undergraduate",
+    "duration": "3 Years",
+    "eligibility": "12th Science",
+    "entranceExam": "CUET",
+    "careerInterest": [
+      "Healthcare"
+    ],
+    "description": "Biological technology and research"
+  },
+  {
+    "id": "bsc-micro",
+    "name": "B.Sc Microbiology",
+    "stream": "Science",
+    "field": "Science",
+    "level": "Undergraduate",
+    "duration": "3 Years",
+    "eligibility": "12th Science",
+    "entranceExam": "CUET",
+    "careerInterest": [
+      "Healthcare"
+    ],
+    "description": "Study of microorganisms"
+  },
+  {
+    "id": "bsc-biochem",
+    "name": "B.Sc Biochemistry",
+    "stream": "Science",
+    "field": "Science",
+    "level": "Undergraduate",
+    "duration": "3 Years",
+    "eligibility": "12th Science",
+    "entranceExam": "CUET",
+    "careerInterest": [
+      "Healthcare"
+    ],
+    "description": "Chemical processes in living organisms"
+  },
+  {
+    "id": "bsc-zoo",
+    "name": "B.Sc Zoology",
+    "stream": "Science",
+    "field": "Science",
+    "level": "Undergraduate",
+    "duration": "3 Years",
+    "eligibility": "12th Science",
+    "entranceExam": "CUET",
+    "careerInterest": [
+      "Healthcare"
+    ],
+    "description": "Animal biology and wildlife"
+  },
+  {
+    "id": "bsc-bot",
+    "name": "B.Sc Botany",
+    "stream": "Science",
+    "field": "Science",
+    "level": "Undergraduate",
+    "duration": "3 Years",
+    "eligibility": "12th Science",
+    "entranceExam": "CUET",
+    "careerInterest": [
+      "Healthcare"
+    ],
+    "description": "Plant biology and agriculture"
+  },
+  {
+    "id": "bsc-env",
+    "name": "B.Sc Environmental Science",
+    "stream": "Science",
+    "field": "Science",
+    "level": "Undergraduate",
+    "duration": "3 Years",
+    "eligibility": "12th Science",
+    "entranceExam": "CUET",
+    "careerInterest": [
+      "Technology"
+    ],
+    "description": "Environmental conservation"
+  },
+  {
+    "id": "bsc-forensic",
+    "name": "B.Sc Forensic Science",
+    "stream": "Science",
+    "field": "Science",
+    "level": "Undergraduate",
+    "duration": "3 Years",
+    "eligibility": "12th Science",
+    "entranceExam": "CUET",
+    "careerInterest": [
+      "Government"
+    ],
+    "description": "Crime investigation and forensics"
+  },
+  {
+    "id": "bsc-food",
+    "name": "B.Sc Food Science & Nutrition",
+    "stream": "Science",
+    "field": "Science",
+    "level": "Undergraduate",
+    "duration": "3 Years",
+    "eligibility": "12th Science",
+    "entranceExam": "CUET",
+    "careerInterest": [
+      "Healthcare"
+    ],
+    "description": "Nutrition and food technology"
+  },
+  {
+    "id": "bcom",
+    "name": "B.Com General",
+    "stream": "Commerce",
+    "field": "Commerce",
+    "level": "Undergraduate",
+    "duration": "3 Years",
+    "eligibility": "12th Commerce",
+    "entranceExam": "CUET",
+    "careerInterest": [
+      "Business"
+    ],
+    "description": "General commerce degree"
+  },
+  {
+    "id": "bcom-af",
+    "name": "B.Com Accounting & Finance",
+    "stream": "Commerce",
+    "field": "Commerce",
+    "level": "Undergraduate",
+    "duration": "3 Years",
+    "eligibility": "12th Commerce",
+    "entranceExam": "CUET",
+    "careerInterest": [
+      "Business"
+    ],
+    "description": "Accounting and financial management"
+  },
+  {
+    "id": "bcom-cs",
+    "name": "B.Com Corporate Secretaryship",
+    "stream": "Commerce",
+    "field": "Commerce",
+    "level": "Undergraduate",
+    "duration": "3 Years",
+    "eligibility": "12th Commerce",
+    "entranceExam": "CUET",
+    "careerInterest": [
+      "Business"
+    ],
+    "description": "Corporate governance"
+  },
+  {
+    "id": "bba",
+    "name": "BBA",
+    "stream": "Commerce",
+    "field": "Commerce",
+    "level": "Undergraduate",
+    "duration": "3 Years",
+    "eligibility": "12th Any Stream",
+    "entranceExam": "CUET",
+    "careerInterest": [
+      "Business"
+    ],
+    "description": "Business Administration"
+  },
+  {
+    "id": "bms",
+    "name": "BMS",
+    "stream": "Commerce",
+    "field": "Commerce",
+    "level": "Undergraduate",
+    "duration": "3 Years",
+    "eligibility": "12th Any Stream",
+    "entranceExam": "CUET",
+    "careerInterest": [
+      "Business"
+    ],
+    "description": "Management Studies"
+  },
+  {
+    "id": "ca",
+    "name": "CA",
+    "stream": "Commerce",
+    "field": "Commerce",
+    "level": "Professional",
+    "duration": "4-5 Years",
+    "eligibility": "12th Commerce",
+    "entranceExam": "CA Foundation",
+    "careerInterest": [
+      "Business"
+    ],
+    "description": "Chartered Accountant"
+  },
+  {
+    "id": "cma",
+    "name": "CMA",
+    "stream": "Commerce",
+    "field": "Commerce",
+    "level": "Professional",
+    "duration": "3-4 Years",
+    "eligibility": "12th Commerce",
+    "entranceExam": "CMA Foundation",
+    "careerInterest": [
+      "Business"
+    ],
+    "description": "Cost & Management Accountant"
+  },
+  {
+    "id": "cs",
+    "name": "CS",
+    "stream": "Commerce",
+    "field": "Commerce",
+    "level": "Professional",
+    "duration": "3-4 Years",
+    "eligibility": "12th Commerce",
+    "entranceExam": "CS Foundation",
+    "careerInterest": [
+      "Business"
+    ],
+    "description": "Company Secretary"
+  },
+  {
+    "id": "bcom-banking",
+    "name": "B.Com Banking & Insurance",
+    "stream": "Commerce",
+    "field": "Commerce",
+    "level": "Undergraduate",
+    "duration": "3 Years",
+    "eligibility": "12th Commerce",
+    "entranceExam": "CUET",
+    "careerInterest": [
+      "Business"
+    ],
+    "description": "Banking and insurance sector"
+  },
+  {
+    "id": "bcom-ib",
+    "name": "B.Com International Business",
+    "stream": "Commerce",
+    "field": "Commerce",
+    "level": "Undergraduate",
+    "duration": "3 Years",
+    "eligibility": "12th Commerce",
+    "entranceExam": "CUET",
+    "careerInterest": [
+      "Business"
+    ],
+    "description": "Global business and trade"
+  },
+  {
+    "id": "bba-mba",
+    "name": "Integrated BBA + MBA",
+    "stream": "Commerce",
+    "field": "Commerce",
+    "level": "Integrated",
+    "duration": "5 Years",
+    "eligibility": "12th Any Stream",
+    "entranceExam": "CUET",
+    "careerInterest": [
+      "Business"
+    ],
+    "description": "Combined management degree"
+  },
+  {
+    "id": "ba-english",
+    "name": "BA English",
+    "stream": "Arts",
+    "field": "Arts",
+    "level": "Undergraduate",
+    "duration": "3 Years",
+    "eligibility": "12th Any Stream",
+    "entranceExam": "CUET",
+    "careerInterest": [
+      "Creative"
+    ],
+    "description": "English literature and language"
+  },
+  {
+    "id": "ba-lang",
+    "name": "BA Languages",
+    "stream": "Arts",
+    "field": "Arts",
+    "level": "Undergraduate",
+    "duration": "3 Years",
+    "eligibility": "12th Any Stream",
+    "entranceExam": "CUET",
+    "careerInterest": [
+      "Creative"
+    ],
+    "description": "Tamil/Hindi/Other languages"
+  },
+  {
+    "id": "ba-history",
+    "name": "BA History",
+    "stream": "Arts",
+    "field": "Arts",
+    "level": "Undergraduate",
+    "duration": "3 Years",
+    "eligibility": "12th Any Stream",
+    "entranceExam": "CUET",
+    "careerInterest": [
+      "Creative"
+    ],
+    "description": "Historical studies"
+  },
+  {
+    "id": "ba-eco",
+    "name": "BA Economics",
+    "stream": "Arts",
+    "field": "Arts",
+    "level": "Undergraduate",
+    "duration": "3 Years",
+    "eligibility": "12th Any Stream",
+    "entranceExam": "CUET",
+    "careerInterest": [
+      "Business"
+    ],
+    "description": "Economic theory and policy"
+  },
+  {
+    "id": "ba-pol",
+    "name": "BA Political Science",
+    "stream": "Arts",
+    "field": "Arts",
+    "level": "Undergraduate",
+    "duration": "3 Years",
+    "eligibility": "12th Any Stream",
+    "entranceExam": "CUET",
+    "careerInterest": [
+      "Government"
+    ],
+    "description": "Politics and governance"
+  },
+  {
+    "id": "ba-soc",
+    "name": "BA Sociology",
+    "stream": "Arts",
+    "field": "Arts",
+    "level": "Undergraduate",
+    "duration": "3 Years",
+    "eligibility": "12th Any Stream",
+    "entranceExam": "CUET",
+    "careerInterest": [
+      "Creative"
+    ],
+    "description": "Society and social behavior"
+  },
+  {
+    "id": "ba-psy",
+    "name": "BA Psychology",
+    "stream": "Arts",
+    "field": "Arts",
+    "level": "Undergraduate",
+    "duration": "3 Years",
+    "eligibility": "12th Any Stream",
+    "entranceExam": "CUET",
+    "careerInterest": [
+      "Healthcare"
+    ],
+    "description": "Human behavior and mental health"
+  },
+  {
+    "id": "ba-geo",
+    "name": "BA Geography",
+    "stream": "Arts",
+    "field": "Arts",
+    "level": "Undergraduate",
+    "duration": "3 Years",
+    "eligibility": "12th Any Stream",
+    "entranceExam": "CUET",
+    "careerInterest": [
+      "Creative"
+    ],
+    "description": "Physical and human geography"
+  },
+  {
+    "id": "ba-pa",
+    "name": "BA Public Administration",
+    "stream": "Arts",
+    "field": "Arts",
+    "level": "Undergraduate",
+    "duration": "3 Years",
+    "eligibility": "12th Any Stream",
+    "entranceExam": "CUET",
+    "careerInterest": [
+      "Government"
+    ],
+    "description": "Public sector management"
+  },
+  {
+    "id": "journalism",
+    "name": "Journalism & Mass Communication",
+    "stream": "Arts",
+    "field": "Arts",
+    "level": "Undergraduate",
+    "duration": "3 Years",
+    "eligibility": "12th Any Stream",
+    "entranceExam": "CUET",
+    "careerInterest": [
+      "Creative"
+    ],
+    "description": "Media and journalism"
+  },
+  {
+    "id": "visual-comm",
+    "name": "Visual Communication",
+    "stream": "Arts",
+    "field": "Arts",
+    "level": "Undergraduate",
+    "duration": "3 Years",
+    "eligibility": "12th Any Stream",
+    "entranceExam": "CUET",
+    "careerInterest": [
+      "Creative"
+    ],
+    "description": "Visual media and design"
+  },
+  {
+    "id": "animation",
+    "name": "Animation & Multimedia",
+    "stream": "Arts",
+    "field": "Arts",
+    "level": "Undergraduate",
+    "duration": "3 Years",
+    "eligibility": "12th Any Stream",
+    "entranceExam": "None",
+    "careerInterest": [
+      "Creative"
+    ],
+    "description": "Animation and digital media"
+  },
+  {
+    "id": "fine-arts",
+    "name": "Fine Arts",
+    "stream": "Arts",
+    "field": "Arts",
+    "level": "Undergraduate",
+    "duration": "3 Years",
+    "eligibility": "12th Any Stream",
+    "entranceExam": "None",
+    "careerInterest": [
+      "Creative"
+    ],
+    "description": "Painting, sculpture, and visual arts"
+  },
+  {
+    "id": "performing-arts",
+    "name": "Performing Arts",
+    "stream": "Arts",
+    "field": "Arts",
+    "level": "Undergraduate",
+    "duration": "3 Years",
+    "eligibility": "12th Any Stream",
+    "entranceExam": "None",
+    "careerInterest": [
+      "Creative"
+    ],
+    "description": "Theatre, drama, and performance"
+  },
+  {
+    "id": "music-dance",
+    "name": "Music & Dance",
+    "stream": "Arts",
+    "field": "Arts",
+    "level": "Undergraduate",
+    "duration": "3 Years",
+    "eligibility": "12th Any Stream",
+    "entranceExam": "None",
+    "careerInterest": [
+      "Creative"
+    ],
+    "description": "Classical and contemporary arts"
+  },
+  {
+    "id": "bsw",
+    "name": "BSW",
+    "stream": "Arts",
+    "field": "Arts",
+    "level": "Undergraduate",
+    "duration": "3 Years",
+    "eligibility": "12th Any Stream",
+    "entranceExam": "CUET",
+    "careerInterest": [
+      "Creative"
+    ],
+    "description": "Social Work"
+  },
+  {
+    "id": "hotel-mgmt",
+    "name": "Hotel Management & Tourism",
+    "stream": "Arts",
+    "field": "Arts",
+    "level": "Undergraduate",
+    "duration": "3-4 Years",
+    "eligibility": "12th Any Stream",
+    "entranceExam": "None",
+    "careerInterest": [
+      "Business"
+    ],
+    "description": "Hospitality and tourism management"
+  },
+  {
+    "id": "fashion",
+    "name": "Fashion Designing",
+    "stream": "Arts",
+    "field": "Arts",
+    "level": "Undergraduate",
+    "duration": "3-4 Years",
+    "eligibility": "12th Any Stream",
+    "entranceExam": "NIFT",
+    "careerInterest": [
+      "Creative"
+    ],
+    "description": "Fashion and apparel design"
+  },
+  {
+    "id": "interior",
+    "name": "Interior Designing",
+    "stream": "Arts",
+    "field": "Arts",
+    "level": "Undergraduate",
+    "duration": "3-4 Years",
+    "eligibility": "12th Any Stream",
+    "entranceExam": "None",
+    "careerInterest": [
+      "Creative"
+    ],
+    "description": "Interior and space design"
+  },
+  {
+    "id": "bsc-agri",
+    "name": "B.Sc Agriculture",
+    "stream": "Science",
+    "field": "Agriculture",
+    "level": "Undergraduate",
+    "duration": "4 Years",
+    "eligibility": "12th Science",
+    "entranceExam": "ICAR",
+    "careerInterest": [
+      "Government"
+    ],
+    "description": "Agricultural sciences and farming"
+  },
+  {
+    "id": "bsc-horti",
+    "name": "B.Sc Horticulture",
+    "stream": "Science",
+    "field": "Agriculture",
+    "level": "Undergraduate",
+    "duration": "4 Years",
+    "eligibility": "12th Science",
+    "entranceExam": "ICAR",
+    "careerInterest": [
+      "Government"
+    ],
+    "description": "Garden and plant cultivation"
+  },
+  {
+    "id": "bsc-forestry",
+    "name": "B.Sc Forestry",
+    "stream": "Science",
+    "field": "Agriculture",
+    "level": "Undergraduate",
+    "duration": "4 Years",
+    "eligibility": "12th Science",
+    "entranceExam": "ICAR",
+    "careerInterest": [
+      "Government"
+    ],
+    "description": "Forest management and conservation"
+  },
+  {
+    "id": "bsc-fisheries",
+    "name": "B.Sc Fisheries",
+    "stream": "Science",
+    "field": "Agriculture",
+    "level": "Undergraduate",
+    "duration": "4 Years",
+    "eligibility": "12th Science",
+    "entranceExam": "ICAR",
+    "careerInterest": [
+      "Government"
+    ],
+    "description": "Aquaculture and fish farming"
+  },
+  {
+    "id": "bsc-seri",
+    "name": "B.Sc Sericulture",
+    "stream": "Science",
+    "field": "Agriculture",
+    "level": "Undergraduate",
+    "duration": "4 Years",
+    "eligibility": "12th Science",
+    "entranceExam": "ICAR",
+    "careerInterest": [
+      "Government"
+    ],
+    "description": "Silk production and farming"
+  },
+  {
+    "id": "agri-engg",
+    "name": "Agricultural Engineering",
+    "stream": "Science",
+    "field": "Agriculture",
+    "level": "Undergraduate",
+    "duration": "4 Years",
+    "eligibility": "12th Science",
+    "entranceExam": "ICAR",
+    "careerInterest": [
+      "Technology"
+    ],
+    "description": "Farm machinery and technology"
+  },
+  {
+    "id": "food-tech",
+    "name": "Food Technology",
+    "stream": "Science",
+    "field": "Agriculture",
+    "level": "Undergraduate",
+    "duration": "4 Years",
+    "eligibility": "12th Science",
+    "entranceExam": "ICAR",
+    "careerInterest": [
+      "Technology"
+    ],
+    "description": "Food processing and preservation"
+  },
+  {
+    "id": "dairy-tech",
+    "name": "Dairy Technology",
+    "stream": "Science",
+    "field": "Agriculture",
+    "level": "Undergraduate",
+    "duration": "4 Years",
+    "eligibility": "12th Science",
+    "entranceExam": "ICAR",
+    "careerInterest": [
+      "Technology"
+    ],
+    "description": "Dairy production and management"
+  },
+  {
+    "id": "animal-husb",
+    "name": "Animal Husbandry",
+    "stream": "Science",
+    "field": "Agriculture",
+    "level": "Undergraduate",
+    "duration": "4 Years",
+    "eligibility": "12th Science",
+    "entranceExam": "ICAR",
+    "careerInterest": [
+      "Government"
+    ],
+    "description": "Livestock management"
+  },
+  {
+    "id": "agribusiness",
+    "name": "Agribusiness Management",
+    "stream": "Commerce",
+    "field": "Agriculture",
+    "level": "Undergraduate",
+    "duration": "4 Years",
+    "eligibility": "12th Any Stream",
+    "entranceExam": "ICAR",
+    "careerInterest": [
+      "Business"
+    ],
+    "description": "Agricultural business and marketing"
+  },
+  {
+    "id": "floriculture",
+    "name": "Floriculture",
+    "stream": "Science",
+    "field": "Agriculture",
+    "level": "Undergraduate",
+    "duration": "4 Years",
+    "eligibility": "12th Science",
+    "entranceExam": "ICAR",
+    "careerInterest": [
+      "Creative"
+    ],
+    "description": "Flower cultivation and management"
+  },
+  {
+    "id": "seed-tech",
+    "name": "Seed Technology",
+    "stream": "Science",
+    "field": "Agriculture",
+    "level": "Undergraduate",
+    "duration": "4 Years",
+    "eligibility": "12th Science",
+    "entranceExam": "ICAR",
+    "careerInterest": [
+      "Technology"
+    ],
+    "description": "Seed production and quality control"
+  },
+  {
+    "id": "diploma-engg",
+    "name": "Diploma in Engineering (Polytechnic)",
+    "stream": "Science",
+    "field": "Engineering",
+    "level": "Diploma",
+    "duration": "3 Years",
+    "eligibility": "10th Pass",
+    "entranceExam": "State Polytechnic",
+    "careerInterest": [
+      "Technology"
+    ],
+    "description": "Technical engineering diploma"
+  },
+  {
+    "id": "diploma-ca",
+    "name": "Diploma in Computer Applications",
+    "stream": "Science",
+    "field": "Science",
+    "level": "Diploma",
+    "duration": "1 Year",
+    "eligibility": "12th Pass",
+    "entranceExam": "None",
+    "careerInterest": [
+      "IT"
+    ],
+    "description": "Basic computer skills"
+  },
+  {
+    "id": "diploma-hotel",
+    "name": "Diploma in Hotel Management",
+    "stream": "Vocational",
+    "field": "Arts",
+    "level": "Diploma",
+    "duration": "1-3 Years",
+    "eligibility": "10th/12th",
+    "entranceExam": "None",
+    "careerInterest": [
+      "Business"
+    ],
+    "description": "Hospitality management"
+  },
+  {
+    "id": "diploma-fashion",
+    "name": "Diploma in Fashion Designing",
+    "stream": "Vocational",
+    "field": "Arts",
+    "level": "Diploma",
+    "duration": "1-2 Years",
+    "eligibility": "10th/12th",
+    "entranceExam": "None",
+    "careerInterest": [
+      "Creative"
+    ],
+    "description": "Fashion and garment design"
+  },
+  {
+    "id": "diploma-graphic",
+    "name": "Diploma in Graphic Designing",
+    "stream": "Vocational",
+    "field": "Arts",
+    "level": "Diploma",
+    "duration": "6 Months-1 Year",
+    "eligibility": "10th/12th",
+    "entranceExam": "None",
+    "careerInterest": [
+      "Creative"
+    ],
+    "description": "Visual and graphic design"
+  },
+  {
+    "id": "diploma-animation",
+    "name": "Diploma in Animation & VFX",
+    "stream": "Vocational",
+    "field": "Arts",
+    "level": "Diploma",
+    "duration": "1-2 Years",
+    "eligibility": "12th Pass",
+    "entranceExam": "None",
+    "careerInterest": [
+      "Creative"
+    ],
+    "description": "Animation and visual effects"
+  },
+  {
+    "id": "tally-gst",
+    "name": "Tally + GST",
+    "stream": "Vocational",
+    "field": "Commerce",
+    "level": "Diploma",
+    "duration": "6 Months",
+    "eligibility": "12th Pass",
+    "entranceExam": "None",
+    "careerInterest": [
+      "Business"
+    ],
+    "description": "Accounting software training"
+  },
+  {
+    "id": "hardware-network",
+    "name": "Hardware & Networking",
+    "stream": "Vocational",
+    "field": "Science",
+    "level": "Diploma",
+    "duration": "6 Months-1 Year",
+    "eligibility": "12th Pass",
+    "entranceExam": "None",
+    "careerInterest": [
+      "IT"
+    ],
+    "description": "Computer hardware and networking"
+  },
+  {
+    "id": "mobile-tech",
+    "name": "Mobile Service Technician",
+    "stream": "Vocational",
+    "field": "Science",
+    "level": "Diploma",
+    "duration": "6 Months",
+    "eligibility": "10th/12th",
+    "entranceExam": "None",
+    "careerInterest": [
+      "Technology"
+    ],
+    "description": "Mobile phone repair"
+  },
+  {
+    "id": "electrician",
+    "name": "Electrician & Technical Courses",
+    "stream": "Vocational",
+    "field": "Engineering",
+    "level": "Diploma",
+    "duration": "6 Months-2 Years",
+    "eligibility": "10th Pass",
+    "entranceExam": "None",
+    "careerInterest": [
+      "Technology"
+    ],
+    "description": "Electrical and technical skills"
+  }
+]

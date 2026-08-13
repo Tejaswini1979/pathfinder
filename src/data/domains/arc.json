@@ -1,0 +1,602 @@
+{
+  "id": "arc",
+  "title": "Architecture & Built Environment",
+  "tagline": "Buildings, cities, ships, gardens, sets, conservation — design at every scale of the world we inhabit.",
+  "color": "#a87545",
+  "overview": "Architecture in India is a 5-year professional degree gated by Maths in 12th and the Council of Architecture's NATA or JEE Paper 2A — both are genuine bottlenecks, and starting salaries at firms (₹3-5 LPA) trail engineering meaningfully. The compounding curve is different though: established architects with 15+ years and a portfolio earn ₹30 LPA-3 crore through firm equity or solo practice. The bigger story is the diversification beyond core building design — landscape architecture for smart cities, heritage conservation for the growing UNESCO project pipeline, naval architecture (genuinely undersupplied globally), set design for India's OTT boom, and lighting design for the museum-and-hospitality sector. Sustainable building specialization has moved from niche to default thanks to corporate ESG mandates, and GIS / built-environment analytics has become its own quantitative specialization.",
+  "key_insights": [
+    "Naval Architecture is the only built-environment specialization in India where qualified graduates are reliably below industry demand — IIT Madras Ocean Engineering placements consistently see Indian naval architects move to Singapore, Norway, and Korea at 2-3× domestic salaries.",
+    "Landscape Architecture and Urban Planning are PG specializations after B.Arch — most students don't realize SPA Delhi and CEPT also accept geography, civil engineering, and economics graduates directly into M.Plan.",
+    "Heritage Conservation pipelines through SPA Delhi, CEPT, and the INTACH Heritage Academy are tiny relative to demand from Aga Khan Trust, World Monuments Fund, and the growing Indian state heritage budgets.",
+    "Production Design and Set Design routes through FTII Pune and SRFTI Kolkata are heavily under-applied for architecture students; Indian production designers on prestige OTT projects can earn ₹50 lakh-2 crore per film.",
+    "NICMAR Pune and CEPT M.Tech Construction Management produce some of the highest-paying built-environment fresher salaries (₹8-14 LPA), comparable to mid-tier engineering placements."
+  ],
+  "sub_paths": [
+    {
+      "id": "ARC-01",
+      "name": "Bachelor of Architecture (B.Arch)",
+      "description": "A 5-year professional degree to become a registered architect — designing buildings from concept to construction documentation, regulated by the Council of Architecture.",
+      "streams": [
+        "Maths"
+      ],
+      "min_12th_percent": "50% aggregate in 12th with PCM (Maths is mandatory per CoA rules); 45% for reserved categories. Top NITs/IITs require 75%+ in 12th aggregate too.",
+      "entry_route": "Degree",
+      "qualification": "10+2 with PCM → NATA OR JEE Main Paper 2A → 5-yr B.Arch from CoA-recognized institute → register with CoA as Architect",
+      "duration": [
+        "5 years (4-yr coursework + 1-yr internship + 6-month practical training)"
+      ],
+      "entrance_exam": "NATA (CoA, multiple attempts/year, March-July) — accepted by most institutes; JEE Main Paper 2A (NTA, twice yearly) — required for NITs, IITs, SPAs; JEE Advanced + AAT for IIT B.Arch.",
+      "govt_fees": "₹50,000-2 lakh per year at NITs, SPAs, govt institutes (₹2.5-10 lakh total). IIT Kharagpur, Roorkee, BHU ~₹3-5 lakh total.",
+      "private_fees": "₹2-12 lakh per year at private universities (Sushant, RV, CEPT, KRVIA). Total ₹10-60 lakh.",
+      "top_institutions": [
+        "School of Planning and Architecture, Delhi (govt)",
+        "IIT Kharagpur (govt)",
+        "IIT Roorkee (govt)",
+        "CEPT University, Ahmedabad (semi-govt)",
+        "Sir J.J. College of Architecture, Mumbai (govt)",
+        "NIT Calicut (govt)",
+        "RV College of Architecture, Bengaluru (private)",
+        "School of Architecture, Sushant University, Gurugram (private)"
+      ],
+      "scholarships": [
+        "INSPIRE for top JEE rank-holders",
+        "Central Sector Scholarship",
+        "CEPT Need-Based Aid",
+        "Various state-level merit scholarships"
+      ],
+      "abroad_pathways": "M.Arch in USA (Harvard GSD, MIT, Cornell, Columbia, Yale), UK (AA London, Bartlett UCL), Netherlands (TU Delft, Berlage), Switzerland (ETH Zurich). Many Indian architects pursue postgrad abroad and stay; some return to start firms in India.",
+      "day_in_life": "Studio days mix sketching, model-making, AutoCAD/Revit/Rhino drawing, and crit sessions where students defend designs in front of faculty. Most B.Arch students spend nights in studio during submission weeks; the workload is heavy but creative.",
+      "growth_path": "Junior Architect → Architect → Senior Architect → Associate / Project Lead → Partner / Principal at a firm OR solo practice after 7-10 years. Pivots: design teaching at architecture schools, real-estate consulting, sustainable-building specialization, urban planning, government roles in CPWD/PWD.",
+      "underrated": false,
+      "low_budget": false,
+      "low_percent": false,
+      "salary_bands": "Fresher: ₹3-5 LPA at firms; ₹5-9 LPA at top firms (Studio Lotus, Morphogenesis, SOM Mumbai) / Mid (5-7 yr): ₹6-12 LPA / Senior (Associate, 10+ yr): ₹15-30 LPA / Partner / solo practice: ₹30 LPA-3 crore+ depending on firm size and projects. Note: Starting salaries in architecture remain modest compared to engineering or MBA — the long-term compounding via reputation and firm equity is the real upside. Source: AmbitionBox, IIA salary surveys 2024-25.",
+      "confidence": "high",
+      "domainId": "arc",
+      "domainTitle": "Architecture",
+      "streamIds": [
+        "maths"
+      ]
+    },
+    {
+      "id": "ARC-02",
+      "name": "Interior Design (Bachelor / Diploma)",
+      "description": "An interior designer plans the inside of buildings — residential, commercial, hospitality — from spatial layout and lighting to materials, furniture, and finishes.",
+      "streams": [
+        "Arts",
+        "Bio",
+        "Commerce",
+        "Maths"
+      ],
+      "min_12th_percent": "50%+ in 12th any stream. NID Studio Test, UCEED, NIFT entrance, or institute-specific tests.",
+      "entry_route": "Degree",
+      "qualification": "10+2 → NID/UCEED/NIFT/SOFT entrance OR direct admission at private design schools → 4-yr B.Des Interior or 3-yr B.Sc Interior Design or 1-2 yr Diploma",
+      "duration": [
+        "3-4 years for B.Des / B.Sc",
+        "1-2 years for Diploma"
+      ],
+      "entrance_exam": "NID Studio Test, UCEED, NIFT entrance, CEED (for PG), institute-specific tests at Pearl, Inifd, Symbiosis.",
+      "govt_fees": "₹2-3 lakh per year at NID, NIFT, IIT Bombay IDC (~₹8-12 lakh total).",
+      "private_fees": "₹1.5-6 lakh per year at Pearl, Inifd, Srishti Manipal, Symbiosis (₹6-25 lakh total). Diploma routes ₹50,000-3 lakh total.",
+      "top_institutions": [
+        "National Institute of Design, Ahmedabad / Bengaluru (govt)",
+        "IIT Bombay — IDC School of Design (govt)",
+        "NIFT (govt)",
+        "Pearl Academy, Delhi/Mumbai (private)",
+        "Srishti Manipal Institute, Bangalore (private)",
+        "JJ School of Applied Arts, Mumbai (govt)"
+      ],
+      "scholarships": [
+        "NID Need-Based Aid",
+        "NIFT Merit Scholarships",
+        "Pearl Academy Merit"
+      ],
+      "abroad_pathways": "MS Interior Design or MA Interior Architecture in USA (Pratt, RISD, Parsons), UK (RCA, Chelsea), Italy (Domus Academy, Politecnico Milano).",
+      "day_in_life": "Interior designers visit sites, draw layouts in AutoCAD/SketchUp, build mood boards and material palettes, source furniture and finishes from showrooms, and supervise contractors. Client meetings and revisions take large parts of the week.",
+      "growth_path": "Junior Designer → Senior Designer → Project Lead → Studio Head OR independent practice. Pivots: hospitality design specialization (hotels, restaurants), retail design for brands, set design for film and TV, online interior design platforms (Livspace, Nobroker Interiors).",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: ₹3-5 LPA at firms / Mid (5 yr): ₹6-12 LPA / Senior (10+ yr / studio owner): ₹15-40 LPA; high-end residential projects can yield ₹50 LPA+ for established names. Source: AmbitionBox, NIFT/NID placement reports.",
+      "confidence": "high",
+      "domainId": "arc",
+      "domainTitle": "Architecture",
+      "streamIds": [
+        "arts",
+        "bio",
+        "commerce",
+        "maths"
+      ]
+    },
+    {
+      "id": "ARC-03",
+      "name": "Landscape Architecture",
+      "description": "A landscape architect designs outdoor spaces — parks, urban plazas, campuses, ecological restoration — combining design, ecology, and planning.",
+      "streams": [
+        "Maths"
+      ],
+      "min_12th_percent": "B.Arch entry standards (50%+ with PCM in 12th); landscape is a PG specialization in India, not a UG-level path.",
+      "entry_route": "Degree",
+      "qualification": "10+2 with PCM → NATA/JEE Paper 2 → 5-yr B.Arch → 2-yr M.Arch / M.Plan Landscape Architecture → optional CoA / IFLA registration",
+      "duration": [
+        "7 years (5-yr B.Arch + 2-yr Landscape PG)"
+      ],
+      "entrance_exam": "NATA / JEE Main Paper 2A for B.Arch entry; SPA Delhi entrance + portfolio for M.Plan Landscape; CEPT entrance for M.Arch Landscape.",
+      "govt_fees": "₹1-3 lakh per year at SPA Delhi M.Plan; CEPT semi-govt ~₹3-4 lakh per year for M.Arch.",
+      "private_fees": "₹4-8 lakh per year at private universities offering landscape PG (Manipal, Sushant).",
+      "top_institutions": [
+        "School of Planning and Architecture, Delhi — Landscape Architecture (govt)",
+        "CEPT University, Ahmedabad — M.Arch Landscape (semi-govt)",
+        "Sir J.J. College of Architecture, Mumbai (govt)",
+        "ISOLA-recognized programmes (Indian Society of Landscape Architects)"
+      ],
+      "scholarships": [
+        "UGC scholarships at govt institutes",
+        "ISOLA student awards"
+      ],
+      "abroad_pathways": "MLA in USA (Harvard GSD, U-Penn, Cornell), UK (Sheffield, Edinburgh), Netherlands (TU Delft, Wageningen). Strong global demand for landscape architects with sustainability/climate expertise.",
+      "day_in_life": "Landscape architects visit project sites, sketch design concepts, run drainage and planting analyses, draw in AutoCAD/Rhino with planting plans, and work with ecologists and civil engineers. Public-realm projects involve community consultation.",
+      "growth_path": "Junior Landscape Architect → Landscape Designer → Project Lead → Partner / Solo Practice. Pivots: urban planning agencies, real-estate development consulting, environmental impact assessment, climate-adaptation consulting.",
+      "underrated": true,
+      "low_budget": false,
+      "low_percent": false,
+      "salary_bands": "Fresher: ₹4-6 LPA at firms / Mid (5-7 yr): ₹8-15 LPA / Senior (10+ yr / independent practice): ₹18-40 LPA. Note: Field is small in India but growing fast with smart-city projects, Delhi-Mumbai corridor, and climate-resilient urban design briefs. Source: ISOLA salary survey + AmbitionBox.",
+      "confidence": "high",
+      "domainId": "arc",
+      "domainTitle": "Architecture",
+      "streamIds": [
+        "maths"
+      ]
+    },
+    {
+      "id": "ARC-04",
+      "name": "Urban & Regional Planning",
+      "description": "An urban planner designs how cities and regions grow — land use, transport, housing, infrastructure, and policy — at scales from neighbourhoods to states.",
+      "streams": [
+        "Arts",
+        "Bio",
+        "Commerce",
+        "Maths"
+      ],
+      "min_12th_percent": "Entry route depends on UG: PCM for B.Plan via JEE Paper 2B; geography/economics/architecture UG for direct M.Plan entry.",
+      "entry_route": "Degree",
+      "qualification": "10+2 → JEE Main Paper 2B for B.Plan (4-yr) OR any UG (Arch, Geog, Econ, Civil) → M.Plan (2-yr) at SPA / CEPT / IIT-R",
+      "duration": [
+        "4 years for B.Plan",
+        "5-6 years total via M.Plan after UG"
+      ],
+      "entrance_exam": "JEE Main Paper 2B for 4-yr B.Plan at SPA / NITs; SPA Delhi entrance + portfolio for M.Plan; CEPT entrance for M.Plan; IIT-R entrance for M.Plan.",
+      "govt_fees": "₹1.5-3 lakh total for B.Plan at SPA/NITs; ₹2-4 lakh total for M.Plan at govt institutes.",
+      "private_fees": "₹6-15 lakh total for related programmes at private universities.",
+      "top_institutions": [
+        "School of Planning and Architecture, Delhi (govt)",
+        "School of Planning and Architecture, Bhopal / Vijayawada (govt)",
+        "CEPT University Ahmedabad (semi-govt)",
+        "IIT Roorkee — M.Plan (govt)",
+        "IIT Kharagpur — M.City Plan (govt)"
+      ],
+      "scholarships": [
+        "JEE-based merit scholarships",
+        "ITPI scholarships for planning students"
+      ],
+      "abroad_pathways": "MA Urban Planning / MUD / MURP in USA (MIT, Harvard, Berkeley, Columbia), UK (UCL Bartlett, LSE Cities), Netherlands (TU Delft, IHS Erasmus). Strong demand globally with climate-resilient urban design.",
+      "day_in_life": "Planners write zoning regulations, run land-use analyses on GIS, draft master plans for cities, attend stakeholder consultations, and write policy briefs. Many work for state and municipal planning departments, others at consultancies (AECOM, IBI, JLL Smart Cities).",
+      "growth_path": "Junior Planner → Planner → Senior Planner → Chief Planner / Director. Pivots: real-estate consulting (JLL, CBRE), urban-tech startups, climate adaptation policy, World Bank / ADB urban projects, government civil services lateral entry.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": false,
+      "salary_bands": "Fresher: ₹4-7 LPA at consultancies / Mid (5-7 yr): ₹9-16 LPA / Senior (10+ yr govt or international): ₹18-40 LPA. Note: Government planner posts (Town & Country Planning depts) are stable and pension-bearing but slow promotion; private and donor-agency planners earn faster. Source: ITPI salary surveys, AmbitionBox.",
+      "confidence": "high",
+      "domainId": "arc",
+      "domainTitle": "Architecture",
+      "streamIds": [
+        "arts",
+        "bio",
+        "commerce",
+        "maths"
+      ]
+    },
+    {
+      "id": "ARC-05",
+      "name": "Naval Architecture",
+      "description": "A naval architect designs ships, submarines, offshore platforms, and marine vessels — from cruise liners and naval warships to ports and floating structures.",
+      "streams": [
+        "Maths"
+      ],
+      "min_12th_percent": "75%+ in 12th PCM for IIT Madras Ocean Engineering / Naval Architecture; 50-60% for other institutes via JEE Main.",
+      "entry_route": "Degree",
+      "qualification": "10+2 with PCM → JEE Main + JEE Advanced → 4-yr B.Tech Naval Architecture and Ocean Engineering OR 4-yr B.Tech Marine Engineering (separate path)",
+      "duration": [
+        "4 years"
+      ],
+      "entrance_exam": "JEE Main + JEE Advanced for IIT Madras / IIT Kharagpur; JEE Main for non-IIT institutes; IMU CET for some marine engineering schools.",
+      "govt_fees": "₹8-12 lakh total at IIT Madras Naval Architecture; similar at IIT Kharagpur.",
+      "private_fees": "₹15-30 lakh total at private institutes; varies. Indian Maritime University ₹3-5 lakh total.",
+      "top_institutions": [
+        "IIT Madras — Department of Ocean Engineering (govt)",
+        "IIT Kharagpur — Naval Architecture (govt)",
+        "Indian Maritime University, Visakhapatnam / Chennai (govt)",
+        "AMET University, Chennai (private)"
+      ],
+      "scholarships": [
+        "JEE-based merit scholarships",
+        "Cochin Shipyard / Mazagon Dock training stipends"
+      ],
+      "abroad_pathways": "MS Naval Architecture in UK (Strathclyde, Newcastle), Netherlands (TU Delft), Norway (NTNU), USA (Michigan, MIT). Strong global demand from Korean, Japanese, European shipyards.",
+      "day_in_life": "Naval architects work with CAD-CAM design software, run hull stress analyses and stability calculations, attend yard inspections, and collaborate with marine engineers and ship-owners. Project timelines are long — vessels take years to design and build.",
+      "growth_path": "Junior Naval Architect → Naval Architect → Senior Naval Architect → Project Manager / Chief Designer. Pivots: offshore oil & gas, ship classification societies (LR, ABS, IRS), defence shipyards (MDL, GRSE, Cochin Shipyard), naval defence consulting.",
+      "underrated": true,
+      "low_budget": false,
+      "low_percent": false,
+      "salary_bands": "Fresher: ₹6-10 LPA at Indian shipyards / Mid (5-7 yr): ₹12-20 LPA / Senior (offshore / global firm): ₹25-60 LPA + offshore allowances. Note: Indian naval architects working in Singapore, Norway, Korea earn 2-3× domestic salaries; field is genuinely under-discovered relative to its global demand. Source: AmbitionBox, IIT Madras placement reports 2024-25.",
+      "confidence": "high",
+      "domainId": "arc",
+      "domainTitle": "Architecture",
+      "streamIds": [
+        "maths"
+      ]
+    },
+    {
+      "id": "ARC-06",
+      "name": "Architectural Conservation / Heritage Conservation",
+      "description": "A heritage conservationist documents, restores, and protects historic buildings and sites — temples, forts, monuments, and traditional urban quarters.",
+      "streams": [
+        "Maths"
+      ],
+      "min_12th_percent": "B.Arch entry standards; heritage conservation is a PG specialization, not a UG path.",
+      "entry_route": "Degree",
+      "qualification": "10+2 with PCM → NATA/JEE Paper 2 → 5-yr B.Arch → 2-yr M.Arch Architectural Conservation OR PG Diploma in Conservation",
+      "duration": [
+        "7 years (5-yr B.Arch + 2-yr conservation PG)"
+      ],
+      "entrance_exam": "NATA / JEE Paper 2 for B.Arch; SPA Delhi entrance + portfolio for M.Arch Conservation; CEPT entrance.",
+      "govt_fees": "₹2-4 lakh total for the 2-yr PG conservation phase at SPA Delhi; CEPT ~₹6-8 lakh total.",
+      "private_fees": "₹6-12 lakh total at private universities; some PG Diplomas at INTACH ₹1-2 lakh.",
+      "top_institutions": [
+        "School of Planning and Architecture, Delhi — Architectural Conservation (govt)",
+        "CEPT University, Ahmedabad — Conservation (semi-govt)",
+        "Sir J.J. College of Architecture — Conservation (govt)",
+        "INTACH Heritage Academy (private)"
+      ],
+      "scholarships": [
+        "INTACH Heritage Awards",
+        "Aga Khan Trust for Culture fellowships",
+        "Getty Foundation grants"
+      ],
+      "abroad_pathways": "MS Heritage Conservation at U-Penn, U-York, ICCROM Rome, UCL Bartlett. Globally portable career — demand from UNESCO World Heritage sites, foundations, and donor agencies.",
+      "day_in_life": "Conservation architects do detailed site surveys (with measured drawings, photogrammetry, sometimes 3D laser scanning), assess structural decay, design restoration plans, and supervise specialized craftsmen who do stone-cutting, lime plastering, or wood-jointed roof work.",
+      "growth_path": "Junior Conservation Architect → Project Lead → Senior Conservation Consultant. Pivots: museum design and curation, government heritage agencies (ASI, state departments), donor-funded foundation work (Aga Khan, World Monuments Fund), academia.",
+      "underrated": true,
+      "low_budget": false,
+      "low_percent": false,
+      "salary_bands": "Fresher: ₹4-6 LPA / Mid (5-7 yr): ₹8-15 LPA / Senior (with foundation / international funder): ₹18-35 LPA. Note: Indian heritage projects are growing — Humayun's Tomb, Qutb Shahi tombs, Varanasi ghats, Hampi, Mehrangarh — but the trained-conservation pipeline is small. Source: INTACH, Aga Khan Trust salary data, AmbitionBox.",
+      "confidence": "high",
+      "domainId": "arc",
+      "domainTitle": "Architecture",
+      "streamIds": [
+        "maths"
+      ]
+    },
+    {
+      "id": "ARC-07",
+      "name": "Sustainable / Green Building Specialist",
+      "description": "An architect or consultant specializing in energy-efficient design, LEED/GRIHA-rated buildings, passive cooling, and net-zero structures — increasingly in demand.",
+      "streams": [
+        "Maths"
+      ],
+      "min_12th_percent": "B.Arch entry; sustainable design is a specialization track in PG or via certification.",
+      "entry_route": "Degree",
+      "qualification": "10+2 with PCM → NATA/JEE Paper 2 → 5-yr B.Arch → 2-yr M.Arch Sustainable Architecture / Energy Studies OR LEED AP / GRIHA certification",
+      "duration": [
+        "5-7 years"
+      ],
+      "entrance_exam": "NATA / JEE Paper 2 for B.Arch; SPA / CEPT / IIT entrance for related M.Arch; LEED AP and GRIHA Trainer are independent professional certifications.",
+      "govt_fees": "₹3-4 lakh total for M.Arch Sustainable at SPA Delhi; CEPT ~₹6-8 lakh total.",
+      "private_fees": "₹6-15 lakh for related M.Arch at private universities; LEED AP exam ₹15,000-30,000.",
+      "top_institutions": [
+        "CEPT University — Faculty of Technology (semi-govt)",
+        "School of Planning and Architecture Delhi (govt)",
+        "IIT Roorkee — Energy Studies (govt)",
+        "TERI School of Advanced Studies, Delhi (semi-govt)"
+      ],
+      "scholarships": [
+        "TERI scholarships",
+        "USGBC student grants",
+        "DST Climate Change fellowships"
+      ],
+      "abroad_pathways": "MS Sustainable Design / Energy Buildings at UC Berkeley, ETH Zurich, TU Delft, Nottingham, KCL. Net-zero building design is one of fastest-growing global subfields.",
+      "day_in_life": "Sustainability consultants run energy modeling on EnergyPlus or DesignBuilder, audit existing buildings for retrofitting, advise architects on materials and ventilation, and prepare LEED/GRIHA submissions. Many work in green-building consultancies or boutique architecture firms.",
+      "growth_path": "Junior Consultant → Senior Consultant → Lead Sustainability Designer → Director. Pivots: corporate sustainability at FMCG/IT campuses, government smart-city projects, climate-tech startups, ESG consulting.",
+      "underrated": false,
+      "low_budget": false,
+      "low_percent": false,
+      "salary_bands": "Fresher: ₹5-8 LPA at consulting firms / Mid (5-7 yr): ₹10-18 LPA / Senior (10+ yr at top consultancy): ₹20-45 LPA. Note: Demand from corporate ESG mandates, RBI green-finance norms, and client demand for LEED Platinum makes this a steady growth track. Source: TERI salary survey, AmbitionBox, USGBC India 2024.",
+      "confidence": "high",
+      "domainId": "arc",
+      "domainTitle": "Architecture",
+      "streamIds": [
+        "maths"
+      ]
+    },
+    {
+      "id": "ARC-08",
+      "name": "Set / Production Design (Film & TV)",
+      "description": "A production designer creates the visual world of films, TV shows, and commercials — sets, locations, props, and architectural moods that make stories feel real.",
+      "streams": [
+        "Arts",
+        "Bio",
+        "Commerce",
+        "Maths"
+      ],
+      "min_12th_percent": "B.Arch / B.Des entry standards; many production designers come from architecture backgrounds because of their spatial training.",
+      "entry_route": "Degree",
+      "qualification": "10+2 → B.Arch / B.Des + film school PG (FTII / SRFTI / Whistling Woods) OR 4-yr Production Design at film school directly OR apprenticeship route at production houses",
+      "duration": [
+        "4-7 years (varies by route)"
+      ],
+      "entrance_exam": "NATA/JEE Paper 2 for B.Arch path; FTII / SRFTI entrance + portfolio for film school; UCEED for IIT Bombay design.",
+      "govt_fees": "₹1-3 lakh per year at FTII Pune / SRFTI Kolkata; FTII Production Design Diploma ₹40,000/year.",
+      "private_fees": "₹4-12 lakh per year at Whistling Woods, Pearl Academy production design.",
+      "top_institutions": [
+        "Film and Television Institute of India, Pune (govt)",
+        "Satyajit Ray Film and Television Institute, Kolkata (govt)",
+        "Whistling Woods International, Mumbai (private)",
+        "L.V. Prasad Film and TV Academy, Chennai (private)"
+      ],
+      "scholarships": [
+        "FTII / SRFTI need-based aid",
+        "Various private foundation grants"
+      ],
+      "abroad_pathways": "MFA Production Design at UCLA, NYU Tisch, AFI Conservatory, NFTS UK. Indian production designers work on cross-border productions (Netflix, Amazon Studios), with several active in Hollywood adjacent to Indian-origin filmmakers.",
+      "day_in_life": "Production designers read scripts, research period and location authenticity, sketch and 3D-model sets, scout locations, and supervise art department teams during shoots. Days alternate between pre-production design work and on-set construction supervision.",
+      "growth_path": "Art Director / Set Decorator → Production Designer (lead). Pivots: theatre design, theme park / experience design, immersive art installations, video game environment design.",
+      "underrated": true,
+      "low_budget": false,
+      "low_percent": true,
+      "salary_bands": "Fresher (Asst Art Director): ₹2-4 LPA per project (project-based) / Mid (Art Director, 5-7 yr): ₹6-15 LPA equivalent / Senior (Production Designer, 10+ yr feature films): ₹20-80 LPA per major project. Note: Income is highly project-based and lumpy; established production designers on prestige Hindi or OTT projects can earn ₹50 lakh-2 crore per film. Source: FTII placement reports, industry interviews.",
+      "confidence": "medium",
+      "domainId": "arc",
+      "domainTitle": "Architecture",
+      "streamIds": [
+        "arts",
+        "bio",
+        "commerce",
+        "maths"
+      ]
+    },
+    {
+      "id": "ARC-09",
+      "name": "Construction Project Management",
+      "description": "A construction project manager runs building projects on site — managing budgets, schedules, contractors, quality, and stakeholders. Bridges architecture, engineering, and business.",
+      "streams": [
+        "Maths"
+      ],
+      "min_12th_percent": "PCM in 12th for engineering UG entry. JEE Main + Class 12 cutoff (60-90% depending on institute).",
+      "entry_route": "Degree",
+      "qualification": "10+2 with PCM → JEE / state CET → B.Tech Civil Engineering OR B.Arch → 2-yr M.Tech Construction Management OR PG Diploma → optional PMP / RICS certification",
+      "duration": [
+        "5-7 years"
+      ],
+      "entrance_exam": "JEE Main / state CET for B.Tech Civil; CEPT / NICMAR / IIT entrance for PG Construction Management; PMP and RICS are professional certifications post-experience.",
+      "govt_fees": "₹3-8 lakh total for B.Tech Civil at NITs; CEPT M.Tech Construction ₹6-8 lakh; NICMAR govt cell ₹3-5 lakh.",
+      "private_fees": "NICMAR Pune ₹16-22 lakh for PG; private B.Tech ₹8-30 lakh.",
+      "top_institutions": [
+        "NICMAR, Pune (private/semi-govt)",
+        "CEPT University, Ahmedabad — Construction Engineering and Management (semi-govt)",
+        "IIT Madras — Building Technology and Construction Management (govt)",
+        "School of Planning and Architecture Delhi (govt)"
+      ],
+      "scholarships": [
+        "JEE-based at NITs",
+        "NICMAR merit scholarships",
+        "L&T / Tata-funded scholarships at top institutes"
+      ],
+      "abroad_pathways": "MS Construction Management in USA (Penn State, Texas A&M), UK (Heriot-Watt, Reading), Australia (UNSW). Strong global demand — Gulf and Singapore markets actively recruit Indian construction managers.",
+      "day_in_life": "Construction managers spend mornings on site walks, afternoons in project meetings with contractors and architects, and time tracking budgets and schedules in software like Primavera or MS Project. Larger projects have multiple PMs specializing in MEP, structures, finishes.",
+      "growth_path": "Junior PM / Site Engineer → PM → Senior PM → Project Director → COO / Construction Head at developer or contractor firm. Pivots: real-estate development (Lodha, DLF, Godrej), infrastructure consulting (L&T, AECOM), facility management (JLL, CBRE), independent contracting.",
+      "underrated": false,
+      "low_budget": false,
+      "low_percent": false,
+      "salary_bands": "Fresher: ₹4-7 LPA / Mid (5-7 yr): ₹10-18 LPA / Senior (10+ yr at developer or contractor): ₹20-45 LPA. Note: NICMAR PG graduates typically command ₹8-14 LPA at fresher level — among the highest construction-specific PG salaries. Source: NICMAR placement reports + AmbitionBox.",
+      "confidence": "high",
+      "domainId": "arc",
+      "domainTitle": "Architecture",
+      "streamIds": [
+        "maths"
+      ]
+    },
+    {
+      "id": "ARC-10",
+      "name": "Lighting Design",
+      "description": "A lighting designer plans how light shapes architectural and theatrical spaces — combining technical knowledge of fixtures, photometrics, and controls with visual design sense.",
+      "streams": [
+        "Arts",
+        "Bio",
+        "Commerce",
+        "Maths"
+      ],
+      "min_12th_percent": "Variable. B.Arch route requires PCM. Direct lighting design programmes accept any-stream students with portfolio.",
+      "entry_route": "Degree",
+      "qualification": "10+2 → B.Arch / B.Des / B.Sc Electronics → PG Diploma or M.Des Lighting Design at NID / CEPT / Pearl OR international PG OR apprenticeship route at lighting design firms",
+      "duration": [
+        "5-7 years (varies by route)"
+      ],
+      "entrance_exam": "NATA / JEE Paper 2 for B.Arch route; CEED for IIT/NID PG; CEPT entrance for M.Des Lighting; institute-specific portfolio review.",
+      "govt_fees": "₹2-4 lakh total for related PG at NID / CEPT.",
+      "private_fees": "₹6-15 lakh for M.Des Lighting at private institutes; PG Diplomas ₹1-4 lakh.",
+      "top_institutions": [
+        "CEPT University, Ahmedabad — Lighting Design (semi-govt)",
+        "National Institute of Design, Bengaluru (govt)",
+        "Pearl Academy (private)",
+        "Light Institute of Lighting Design (Mumbai, private)"
+      ],
+      "scholarships": [
+        "CEPT need-based aid",
+        "IES (Illuminating Engineering Society) student grants"
+      ],
+      "abroad_pathways": "MS Lighting at Parsons, RPI Troy, Hochschule Wismar Germany, KTH Sweden. Global lighting design firms (Speirs Major, Tirschwell, Lighting Design Collective) routinely hire Indian designers.",
+      "day_in_life": "Lighting designers work on architectural projects (museums, hotels, retail), event and theatrical lighting, or residential mood design. Days mix software work in DIALux/Relux for photometric planning, fixture selection, on-site mockups, and coordination with architects and electrical engineers.",
+      "growth_path": "Junior Lighting Designer → Senior → Lead → Studio Owner. Pivots: theatrical lighting (theatre, concerts, music tours), film lighting design, smart-lighting product design at firms like Philips, Wipro Lighting, Signify.",
+      "underrated": true,
+      "low_budget": false,
+      "low_percent": true,
+      "salary_bands": "Fresher: ₹3-5 LPA / Mid (5-7 yr): ₹7-14 LPA / Senior (10+ yr lead at studio): ₹16-35 LPA + project bonuses. Note: A genuinely small but growing field; museum and hospitality sectors increasingly hire dedicated lighting consultants. Source: CEPT placement data, IALD India.",
+      "confidence": "medium",
+      "domainId": "arc",
+      "domainTitle": "Architecture",
+      "streamIds": [
+        "arts",
+        "bio",
+        "commerce",
+        "maths"
+      ]
+    },
+    {
+      "id": "ARC-11",
+      "name": "Architectural Journalism / Criticism",
+      "description": "An architectural journalist writes about buildings, urbanism, and design for magazines, websites, and books — a distinct intellectual track for architects who love writing.",
+      "streams": [
+        "Arts",
+        "Bio",
+        "Commerce",
+        "Maths"
+      ],
+      "min_12th_percent": "Standard B.Arch entry if coming from architecture; English-medium fluency essential. Direct entry via journalism + design interest is also possible.",
+      "entry_route": "Degree",
+      "qualification": "10+2 → B.Arch + journalism PG OR direct BA Journalism/Mass Comm + architecture self-study + portfolio of published writing",
+      "duration": [
+        "5-7 years (varies)"
+      ],
+      "entrance_exam": "NATA/JEE Paper 2 for B.Arch; CUET-PG / IIMC entrance / TISS Media for journalism PG.",
+      "govt_fees": "₹50,000-2 lakh for journalism PG at IIMC, AJK MCRC JMI, govt institutes.",
+      "private_fees": "₹4-12 lakh for journalism PG at ACJ Chennai, Symbiosis SIMC.",
+      "top_institutions": [
+        "School of Planning and Architecture Delhi + IIMC route (govt)",
+        "CEPT + ACJ Chennai (semi-govt + private)",
+        "Sir J.J. + JMI MCRC (govt)",
+        "TISS School of Media and Cultural Studies (govt)"
+      ],
+      "scholarships": [
+        "JS Mehta Award for architectural writing",
+        "Foundation grants for design journalism"
+      ],
+      "abroad_pathways": "MA Architecture Criticism at Architectural Association London, Columbia GSAPP, Cornell. Indian writers contribute to Domus, Architectural Review, Dezeen, Wallpaper, ArchDaily.",
+      "day_in_life": "Architectural journalists visit project sites, interview architects, attend award juries and lectures, and write feature stories or criticism for outlets like Architecture+Design, Domus India, Indian Architect & Builder, Matter of Space, ArchDaily. Many freelance with multiple publications.",
+      "growth_path": "Staff writer → Senior Editor → Editor-in-chief at design magazine. Pivots: architecture book authorship, design curation (Kala Ghoda, India Design Triennale), academic teaching, content head at architecture firms.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: ₹3-5 LPA at design magazines / Mid (5-7 yr): ₹6-12 LPA / Senior (Editor / freelance with international bylines): ₹12-25 LPA + book and lecture income. Note: Income is modest by architectural standards; most do it for love of the craft alongside teaching or consulting work. Source: AmbitionBox media salary data, design magazine industry data.",
+      "confidence": "medium",
+      "domainId": "arc",
+      "domainTitle": "Architecture",
+      "streamIds": [
+        "arts",
+        "bio",
+        "commerce",
+        "maths"
+      ]
+    },
+    {
+      "id": "ARC-12",
+      "name": "Real Estate Development & Project Finance",
+      "description": "A real estate developer or analyst structures, finances, and delivers commercial and residential projects — combining design literacy, financial modelling, and dealmaking.",
+      "streams": [
+        "Arts",
+        "Bio",
+        "Commerce",
+        "Maths"
+      ],
+      "min_12th_percent": "Variable. Architecture/Engineering UG (PCM) for design-side route; Commerce/MBA for finance route.",
+      "entry_route": "Degree",
+      "qualification": "10+2 → B.Arch / B.E. Civil / B.Com / BBA → MBA Real Estate (RICS-accredited) OR M.Plan with finance specialization OR direct entry via investment-banking programmes",
+      "duration": [
+        "5-7 years"
+      ],
+      "entrance_exam": "JEE / NATA / CUET-UG for UG; CAT / XAT / GMAT for MBA real-estate; RICS School entrance.",
+      "govt_fees": "₹3-8 lakh total for B.Tech / B.Arch UG at govt institutes.",
+      "private_fees": "RICS School of Built Environment ₹12-15 lakh per year (~₹24-30 lakh PG); MBA Real Estate at top private B-schools ₹15-25 lakh.",
+      "top_institutions": [
+        "RICS School of Built Environment, Amity (private)",
+        "NICMAR, Pune (private/semi-govt)",
+        "CEPT University Faculty of Management (semi-govt)",
+        "IIM Ahmedabad / Bangalore — Real Estate Management Programme (govt)"
+      ],
+      "scholarships": [
+        "RICS merit scholarships",
+        "Industry-funded scholarships from Lodha, DLF, Godrej Properties"
+      ],
+      "abroad_pathways": "MS Real Estate Development at MIT, Columbia, Harvard, USC, NUS Singapore. Strong global mobility — Indian real estate professionals routinely move to Singapore, Dubai, London.",
+      "day_in_life": "Real estate developers spend days on financial models in Excel, site acquisition meetings, design review with architects, regulatory approvals, and investor pitches. Larger firms split this into design, sales, finance, and operations teams; smaller developers wear all hats.",
+      "growth_path": "Analyst / Project Coordinator → Manager → AVP → VP → Director → Partner / Founder. Pivots: REIT analyst at investment banks, private equity real-estate funds (Blackstone, KKR), proptech startups, infrastructure investment trusts.",
+      "underrated": false,
+      "low_budget": false,
+      "low_percent": false,
+      "salary_bands": "Fresher: ₹6-12 LPA at developers / Mid (5-7 yr): ₹15-30 LPA / Senior (10+ yr at top developer or PE firm): ₹35-80 LPA + project profit-share. Note: Real estate finance is one of the highest-paying built-environment paths but cyclical with the property market. Source: AmbitionBox, RICS India, JLL salary surveys 2024-25.",
+      "confidence": "high",
+      "domainId": "arc",
+      "domainTitle": "Architecture",
+      "streamIds": [
+        "arts",
+        "bio",
+        "commerce",
+        "maths"
+      ]
+    },
+    {
+      "id": "ARC-13",
+      "name": "GIS / Built Environment Analytics",
+      "description": "A GIS analyst maps spatial data — land use, transport, demographics, environment — for cities, governments, and consultants. Bridges geography, planning, and data science.",
+      "streams": [
+        "Arts",
+        "Bio",
+        "Commerce",
+        "Maths"
+      ],
+      "min_12th_percent": "50%+ in 12th any stream. Geography, civil engineering, urban planning, or environmental science UG most directly relevant.",
+      "entry_route": "Degree",
+      "qualification": "10+2 → BA Geography / B.E. Civil / B.Plan / B.Sc Environmental Science → PG Diploma in GIS OR M.Sc GIS and Remote Sensing OR M.Tech GIS",
+      "duration": [
+        "4-5 years"
+      ],
+      "entrance_exam": "CUET-UG for UG; CUET-PG / IIRS Dehradun entrance / IIST entrance / university-specific PG tests.",
+      "govt_fees": "₹50,000-2 lakh total for PG at IIRS Dehradun (ISRO), JNU, central universities.",
+      "private_fees": "₹3-8 lakh for PG GIS at private institutes (Symbiosis SIIB, Manipal, Amity).",
+      "top_institutions": [
+        "Indian Institute of Remote Sensing, Dehradun (govt, ISRO)",
+        "Indian Institute of Space Science and Technology, Thiruvananthapuram (govt)",
+        "Jawaharlal Nehru University, Delhi (govt)",
+        "School of Planning and Architecture Delhi (govt)",
+        "Indian Institute of Geomagnetism, Mumbai (govt)"
+      ],
+      "scholarships": [
+        "ISRO research fellowships",
+        "DST INSPIRE for related sciences",
+        "UGC-NET-JRF"
+      ],
+      "abroad_pathways": "MS GIS / Urban Analytics at UCL CASA, MIT, NYU CUSP, U-Penn, ETH Zurich. Strong global demand from cities, climate research, and tech firms (Google, Esri, Mapbox).",
+      "day_in_life": "GIS analysts work in QGIS / ArcGIS / Python (with libraries like geopandas, shapely), processing satellite imagery, creating thematic maps, and running spatial models. Many work for state planning departments, ISRO/IIRS, or consultancies (AECOM, WRI, McKinsey Geospatial).",
+      "growth_path": "Junior GIS Analyst → GIS Specialist → Senior Analyst → Lead / Director of Spatial Analytics. Pivots: data science roles (most modern GIS work overlaps with Python data analysis), climate consulting, mapping startups, government remote sensing labs.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": false,
+      "salary_bands": "Fresher: ₹3-6 LPA at consultancies / Mid (5-7 yr): ₹8-15 LPA / Senior (10+ yr or lead at firm): ₹18-35 LPA. Note: Pay accelerates significantly when paired with Python/data-science skills; pure GIS shops pay less than tech-adjacent firms. Source: AmbitionBox, IIRS placement, WRI salary data.",
+      "confidence": "high",
+      "domainId": "arc",
+      "domainTitle": "Architecture",
+      "streamIds": [
+        "arts",
+        "bio",
+        "commerce",
+        "maths"
+      ]
+    }
+  ],
+  "confidence_notes": [
+    "B.Arch fees and admission cutoffs verified from NATA 2025 brochure, JEE Main 2026 notification, and CoA admission rules.",
+    "Set/Production Design and Sommelier salary data is project-based and lumpy — fresher/mid/senior bands are estimates from FTII placement reports and industry interviews; confidence medium.",
+    "Lighting Design is a genuinely small field in India with limited published salary data — bands are based on CEPT placement data and IALD India industry estimates; confidence medium.",
+    "Real Estate Development salaries are cyclical with the property market; 2024-25 data reflects post-pandemic recovery and may not hold in a downturn.",
+    "Maths in 12th is mandatory per CoA rules for all B.Arch admissions — verified from NATA 2025 eligibility criteria and JEE Main 2026 notification."
+  ]
+}

@@ -1,0 +1,601 @@
+{
+  "id": "law",
+  "title": "Law",
+  "tagline": "Beyond NLU and litigation: corporate law, IP, sports & entertainment, environmental, international arbitration, judicial services.",
+  "color": "#4a6b3a",
+  "overview": "Law in India splits sharply into two ecosystems. The 5-year integrated BA LLB / BBA LLB at NLUs (via CLAT/AILET) is the gold standard — ~4,100 UG seats nationally, brutal competition for ~3% acceptance rate, and tier-1 firm salaries of ₹15-22 LPA for freshers. Outside the NLU pipeline, 3-year LLB (post-graduation) at Delhi Faculty of Law, GLC Mumbai, and tier-2/3 colleges produces another ~80,000 lawyers/year, most heading into litigation, judicial services, or in-house roles where pay starts low (₹3-6 LPA) but scales with niche expertise. The 2026 reality: M&A and corporate law dominate big-firm hiring, but IP law, tax law, sports/entertainment law, and international arbitration are smaller, faster-growing niches with disproportionate pay. Foreign law firms entering India (post-BCI 2023 rules) is reshaping the senior end of the market.",
+  "key_insights": [
+    "NLSIU Bangalore, NALSAR Hyderabad, NLU Delhi (via AILET) are the only 'guaranteed tier-1 firm placement' law schools — the 'NLU' tag below the top 7 ranks is closer to a tier-2 private college outcome.",
+    "Tier-1 firm fresher A0 pay is now ₹15-22 LPA (CAM, Trilegal, Khaitan, AZB, SAM); IP-specialist firms pay much less (₹6-10 LPA fresh) but offer better work-life balance.",
+    "Judicial Services (state civil judge) entry pay (₹11-14 LPA) exceeds most non-NLU fresh-graduate firm offers and gives you a Group A judge post by age 26.",
+    "Company Secretary (CS) qualification overlaps significantly with Law — many Commerce students pursue CS-LLB combo for in-house corporate counsel roles paying ₹15-30 LPA mid-career.",
+    "International Arbitration is one of the highest-paying niches globally; SIAC Singapore, ICC Paris seats are accessible to Indian lawyers with 5-7 years experience and pay USD 1.5-3K/day."
+  ],
+  "sub_paths": [
+    {
+      "id": "LAW-01",
+      "name": "5-year Integrated BA LLB (NLU Route)",
+      "description": "5-year integrated law degree at National Law Universities — the standard top-tier law school path. Combines Arts + Law.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "45% (Gen) / 40% (SC/ST/PwD); CLAT cutoff dominant",
+      "entry_route": "Govt exam (CLAT / AILET)",
+      "qualification": "BA LLB (Hons.) — 5 years",
+      "duration": [
+        "5 years"
+      ],
+      "entrance_exam": "CLAT (Dec 7, 2025 for 2026 admissions); AILET (NLU Delhi)",
+      "govt_fees": "NLU Tiruchirappalli ~10 lakh total (lowest); avg NLU 12-25 lakh total",
+      "private_fees": "Symbiosis Law Pune 12-18 lakh; OP Jindal Sonipat 25-40 lakh; private NLU equivalents 18-30 lakh",
+      "top_institutions": [
+        "NLSIU Bangalore (govt) - top NLU",
+        "NALSAR Hyderabad (govt)",
+        "NLU Delhi via AILET (govt)",
+        "WBNUJS Kolkata (govt)",
+        "OP Jindal Global Law School (private)",
+        "Symbiosis Law School Pune (private)"
+      ],
+      "scholarships": [
+        "NLSIU Trilegal, IDIA scholarships for SC/ST/disadvantaged",
+        "OPJGU need-based aid",
+        "Bar Council research fellowships",
+        "merit waivers at most NLUs"
+      ],
+      "abroad_pathways": "LLM at Harvard, Yale, Oxford, Cambridge, NYU (₹40-80 lakh) common after 1-3 years of work. Direct foreign firm hiring rare; NY Bar/UK Bar exam route common.",
+      "day_in_life": "5-yr program intense — moots, internships every winter/summer, journals, debates. Internships at law firms decide placement track from year 3.",
+      "growth_path": "A0 (fresher associate) → A1 → A2 → SA1/SA2 → PA → Counsel → Partner. Tier-1 firm partner ₹1-5 Cr+. Or judicial services / academia / in-house counsel.",
+      "underrated": false,
+      "low_budget": false,
+      "low_percent": true,
+      "salary_bands": "Fresher (A0 tier-1): 15-22 LPA / Mid (SA1-2, 4-7 yr): 30-50 LPA / Senior (Partner, 12+ yr): 50 LPA-5 Cr+. Note: Tier-2 firms 8-15L fresher; tier-3/regional ~3-6L. Source: Legally India, Law Drishti 2025-26.",
+      "confidence": "high",
+      "domainId": "law",
+      "domainTitle": "Law",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "LAW-02",
+      "name": "5-year Integrated BBA LLB / BCom LLB",
+      "description": "5-year integrated business + law degree — corporate-law focused with business fundamentals. Strong fit for corporate/M&A path.",
+      "streams": [
+        "Commerce",
+        "Maths",
+        "Arts"
+      ],
+      "min_12th_percent": "45% (Gen); CLAT/AILET cutoff applies",
+      "entry_route": "Govt exam (CLAT / AILET / private univ tests)",
+      "qualification": "BBA LLB (Hons.) / BCom LLB",
+      "duration": [
+        "5 years"
+      ],
+      "entrance_exam": "CLAT, AILET, SLAT (Symbiosis), LSAT India, MH-CET Law",
+      "govt_fees": "12-22 lakh total at NLUs (BBA LLB at TNNLU, RGNUL etc.)",
+      "private_fees": "12-30 lakh (Symbiosis, Christ, Amity, OPJGU)",
+      "top_institutions": [
+        "NLSIU (govt, BA LLB main; BBA at some NLUs)",
+        "Symbiosis Law School Pune (private)",
+        "Christ University Bangalore (private)",
+        "OP Jindal Global Law School (private)",
+        "MNLU Mumbai (govt)",
+        "NMIMS School of Law (private)"
+      ],
+      "scholarships": [
+        "IDIA scholarship",
+        "Symbiosis merit",
+        "OPJGU need-based",
+        "Bar Council fellowships"
+      ],
+      "abroad_pathways": "LLM in Corporate Law/M&A/Finance at NYU, Stanford, Oxford. Strong pathway to in-house roles at MNCs in Singapore, Dubai.",
+      "day_in_life": "Same NLU-style intensity but with business case studies, finance, accounting integrated. Better fit for corporate counsel pathways.",
+      "growth_path": "Same A0-Partner ladder; or in-house counsel at MNCs/banks. CFO-track for Commerce + LLB combo possible.",
+      "underrated": false,
+      "low_budget": false,
+      "low_percent": true,
+      "salary_bands": "Fresher: 12-20 LPA (tier-1) / Mid: 25-45 LPA / Senior: 50 LPA-3 Cr+. Note: Same as BA LLB but tilted slightly more toward in-house corporate roles. Source: Legally India, Law Drishti.",
+      "confidence": "high",
+      "domainId": "law",
+      "domainTitle": "Law",
+      "streamIds": [
+        "commerce",
+        "maths",
+        "arts"
+      ]
+    },
+    {
+      "id": "LAW-03",
+      "name": "3-year LLB (Post-Graduate Route)",
+      "description": "3-year LLB after any Bachelor's degree — the traditional law degree. Strong choice for those entering law after 1st-time non-law UG.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "Indirect; need any UG with 45-50%",
+      "entry_route": "Degree (post-graduation)",
+      "qualification": "LLB (3-year)",
+      "duration": [
+        "3 years"
+      ],
+      "entrance_exam": "DU LLB Entrance, BHU UET, Delhi Univ Faculty of Law, MH-CET Law (3-yr)",
+      "govt_fees": "Faculty of Law DU ~15,000-30,000 total; GLC Mumbai 5,000-15,000 total (govt = nearly free); BHU 50,000",
+      "private_fees": "ILS Pune 1-2 lakh; Symbiosis 5-9 lakh; private deemed 6-12 lakh",
+      "top_institutions": [
+        "Faculty of Law, University of Delhi (govt)",
+        "Government Law College Mumbai (govt)",
+        "ILS Law College Pune (semi-govt)",
+        "Banaras Hindu University Faculty of Law (govt)",
+        "Faculty of Law Aligarh Muslim University (govt)",
+        "Symbiosis Law School (private)"
+      ],
+      "scholarships": [
+        "DU SC/ST waiver",
+        "GLC Mumbai EWS schemes",
+        "BHU merit awards",
+        "Bar Council research"
+      ],
+      "abroad_pathways": "Same LLM pathways as 5-yr LLB; treated as equivalent BCI-recognized degree.",
+      "day_in_life": "3-yr program is condensed — heavier theory load. Many students working part-time as articled clerks / paralegals during the degree.",
+      "growth_path": "Litigation/junior counsel route (₹10K-30K/month start) → independent practice; or judicial services; or 3-yr LLB grads can also crack tier-2/3 firms with strong internship record.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 2-8 LPA (tier-2/3 firm or litigation) / Mid: 5-15 LPA / Senior (independent practice): 15 LPA-1 Cr+. Note: Litigation income highly variable; senior advocates at SC/HC ₹20K-1L per appearance. Source: Bar Council, Legally India.",
+      "confidence": "high",
+      "domainId": "law",
+      "domainTitle": "Law",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "LAW-04",
+      "name": "LLM (Specialization)",
+      "description": "Master of Laws — 1 or 2 year specialized degree (Corporate, IP, Tax, Constitutional, Criminal, International Law).",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "No direct 12th; need LLB with 50-55%",
+      "entry_route": "Degree (post-LLB)",
+      "qualification": "LLM",
+      "duration": [
+        "1 year (NLUs from 2013) or 2 years (most universities)"
+      ],
+      "entrance_exam": "CLAT PG (NLUs); AILET (NLU Delhi); LSAT India; university-specific",
+      "govt_fees": "NLUs ₹1-3 lakh total; DU LLM ₹15K-30K; Indian Law Institute ₹1-2 lakh",
+      "private_fees": "Symbiosis, OPJGU, NMIMS ₹5-15 lakh",
+      "top_institutions": [
+        "NLSIU Bangalore (govt)",
+        "NALSAR Hyderabad (govt)",
+        "Faculty of Law DU (govt)",
+        "Indian Law Institute Delhi (govt)",
+        "OP Jindal Global Law School (private)",
+        "Symbiosis Law School (private)"
+      ],
+      "scholarships": [
+        "IDIA LLM scholarships",
+        "merit waivers at NLUs",
+        "Wadhwani Foundation fellowships",
+        "Bar Council research"
+      ],
+      "abroad_pathways": "LLM abroad — Harvard ($75K total), Yale, Oxford BCL, Cambridge, NYU, NUS Singapore. Funded LLMs (Inlaks, Felix, Commonwealth, Chevening) viable.",
+      "day_in_life": "Coursework + thesis/dissertation. NLU LLMs heavy on academic writing; foreign LLMs also bar-exam (NY Bar, UK Bar) prep route.",
+      "growth_path": "LLM is a credential signal — boosts academic, judicial, regulatory, and senior firm trajectories. Less direct salary impact than seniority.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": false,
+      "salary_bands": "Fresh post-LLM: 4-12 LPA / Mid: 12-30 LPA / Senior: 30-80 LPA. Note: LLM most useful for academic, regulatory, foreign-firm tracks; corporate firms care less about LLM than experience. Source: Law Drishti, Legally India.",
+      "confidence": "high",
+      "domainId": "law",
+      "domainTitle": "Law",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "LAW-05",
+      "name": "Judicial Services (Civil Judge / Magistrate)",
+      "description": "Direct entry to state-level lower judiciary as Civil Judge Junior Division or Judicial Magistrate. Group A post by age 25-26.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "Indirect; need LLB",
+      "entry_route": "Govt exam (State Judicial Services)",
+      "qualification": "LLB (3-yr or 5-yr); enrollment with state Bar Council",
+      "duration": [
+        "Exam cycle 8-12 months",
+        "judicial training 1 yr"
+      ],
+      "entrance_exam": "State Judicial Services Exam (DJSE Delhi, RJS Rajasthan, UPJS, MPCJ, BiJS, MHJS)",
+      "govt_fees": "₹500-2,000",
+      "private_fees": "Coaching ₹1-3 lakh (Pahuja, Rahul's IAS)",
+      "top_institutions": [
+        "Pahuja Law Academy Delhi (private)",
+        "Rahul IAS PCS-J (private)",
+        "Career Launcher Law (private)",
+        "TopRankers Judicial (private)",
+        "Judicial Academies in each state (govt training)",
+        "Free state-funded SC/ST coaching schemes"
+      ],
+      "scholarships": [
+        "State govt SC/ST/EWS coaching schemes",
+        "Bar Council fellowships",
+        "Justice Mehr Chand Mahajan awards"
+      ],
+      "abroad_pathways": "Mid-career LLM at Yale, Cambridge for sitting judges; Commonwealth Judicial exchanges; UK/US sabbaticals.",
+      "day_in_life": "Court bench duties — hearing arguments, recording evidence, judgments, case management. Fixed 10-5 hours; case backlog heavy.",
+      "growth_path": "Civil Judge JD → Sr Civil Judge → ADJ → DJ → HC Judge (via promotion or HC collegium). Pay Level 11/12 (₹77,840-1L) entry; District Judge Level 14 ₹1.4L.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 11-14 LPA / Mid (DJ): 18-30 LPA / Senior (HC Judge): 30-45 LPA + benefits. Note: Govt accommodation, vehicle, staff included. Source: 7th Pay, SC/HC scales.",
+      "confidence": "high",
+      "domainId": "law",
+      "domainTitle": "Law",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "LAW-06",
+      "name": "Corporate Law (M&A, Banking & Finance)",
+      "description": "Specialization in mergers/acquisitions, private equity, banking, capital markets — the highest-paying law firm specialty in India.",
+      "streams": [
+        "Maths",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "Indirect; tier-1 firm route requires NLU placement",
+      "entry_route": "Degree → tier-1 firm via campus placement",
+      "qualification": "BA LLB / BBA LLB; CS/CA addl. qualification helps",
+      "duration": [
+        "Built over 5 yr law degree + 5-7 yr firm experience"
+      ],
+      "entrance_exam": "CLAT, AILET initially",
+      "govt_fees": "Same as NLU 5-yr LLB",
+      "private_fees": "Same NLU/private 5-yr LLB fees",
+      "top_institutions": [
+        "Cyril Amarchand Mangaldas (firm, private)",
+        "AZB & Partners (firm, private)",
+        "Khaitan & Co (firm, private)",
+        "Trilegal (firm, private)",
+        "Shardul Amarchand Mangaldas (firm, private)",
+        "Luthra & Luthra Law Offices (firm, private)"
+      ],
+      "scholarships": [
+        "IDIA, Trilegal scholarships at NLUs",
+        "firm-funded LLM sponsorships for top performers"
+      ],
+      "abroad_pathways": "LLM at Harvard, NYU, Columbia (₹50-80L) for M&A/Finance specialty; secondment to Singapore/London/NY tier-1 firm offices.",
+      "day_in_life": "60-80 hr weeks during deals; due diligence, contract drafting, closing logistics. High-stress but high-pay.",
+      "growth_path": "A0 → SA → PA → Counsel → Partner; equity partner ₹1-5 Cr+. Some pivot to PE funds, investment banking, or in-house GC.",
+      "underrated": false,
+      "low_budget": false,
+      "low_percent": false,
+      "salary_bands": "Fresher: 15-22 LPA / Mid (5-7 yr SA/PA): 30-60 LPA / Senior (Partner 10-15 yr): 80 LPA-5 Cr. Note: Big-deal years bring large performance bonuses. Source: Legally India, Law Drishti 2025-26.",
+      "confidence": "high",
+      "domainId": "law",
+      "domainTitle": "Law",
+      "streamIds": [
+        "maths",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "LAW-07",
+      "name": "Intellectual Property (IP) Law",
+      "description": "Patents, trademarks, copyrights, designs, trade secrets — niche specialty often combining law + science/tech background.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "Indirect; need LLB; STEM background advantageous for patents",
+      "entry_route": "Degree → IP firm or in-house",
+      "qualification": "BA/BBA LLB; B.Tech + LLB combo prized for patent work",
+      "duration": [
+        "5-yr LLB or 3-yr LLB + Patent Agent exam"
+      ],
+      "entrance_exam": "CLAT/AILET + Patent Agent Examination (for patent prosecution)",
+      "govt_fees": "Same as LLB; Patent Agent exam ₹1,600-3,200",
+      "private_fees": "Same LLB private fees",
+      "top_institutions": [
+        "Anand and Anand (firm, private)",
+        "Remfry & Sagar (firm, private)",
+        "K&S Partners (firm, private)",
+        "Saikrishna & Associates (firm, private)",
+        "Lall & Sethi (firm, private)",
+        "LexOrbis (firm, private)"
+      ],
+      "scholarships": [
+        "WIPO Geneva summer schools",
+        "CIIPP scholarships at NALSAR",
+        "firm-funded specialty training"
+      ],
+      "abroad_pathways": "LLM in IP — Cambridge, Munich Max Planck, NYU IP, Berkeley (₹40-70L). Patent attorney route in USA via USPTO bar; bigger pay, but very long path.",
+      "day_in_life": "Patent drafting, prosecution, opposition; trademark registration, infringement suits. Better work-life balance than M&A — typically 9-7.",
+      "growth_path": "A0 → SA → PA → Partner. IP boutique partners (Anand & Anand, Remfry) earn ₹50L-1.5 Cr. In-house IP roles at pharma, tech MNCs paying ₹15-30 LPA.",
+      "underrated": true,
+      "low_budget": false,
+      "low_percent": false,
+      "salary_bands": "Fresher: 4-10 LPA (tier-1 IP firms 6-9L; tier-2 4-6L) / Mid: 12-25 LPA / Senior (Partner): 25-80 LPA+. Note: IP grows slower than M&A but better quality of life. Source: Legally India IP salary thread.",
+      "confidence": "high",
+      "domainId": "law",
+      "domainTitle": "Law",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "LAW-08",
+      "name": "Tax Law (Direct + Indirect / GST)",
+      "description": "Direct tax (income tax, corporate tax) and indirect tax (GST, customs, excise) advisory, litigation, planning.",
+      "streams": [
+        "Commerce",
+        "Maths"
+      ],
+      "min_12th_percent": "Indirect; need LLB; CA / CS combination strongly advantageous",
+      "entry_route": "Degree → Tax law firm or Big 4 tax practice",
+      "qualification": "BA/BBA LLB or LLB + CA/CS",
+      "duration": [
+        "5-yr LLB or 3-yr LLB",
+        "CA/CS adds 3-4 years"
+      ],
+      "entrance_exam": "CLAT/AILET; CA Foundation/Inter for CA route",
+      "govt_fees": "Same as LLB",
+      "private_fees": "Same LLB",
+      "top_institutions": [
+        "Lakshmikumaran & Sridharan (firm, private)",
+        "Khaitan & Co Tax (firm, private)",
+        "Cyril Amarchand Tax (firm, private)",
+        "Big 4 Tax practice — Deloitte, EY, KPMG, PwC (private)",
+        "Nishith Desai Associates Tax (firm, private)",
+        "DPNC Global (firm, private)"
+      ],
+      "scholarships": [
+        "IDIA NLU schemes",
+        "Big 4 articleship sponsorships"
+      ],
+      "abroad_pathways": "LLM in International Tax at NYU, Leiden Netherlands (specialist), Vienna IBFD. Big 4 secondments to UAE, Singapore.",
+      "day_in_life": "Mix of advisory drafting, tribunal/HC tax appearances, GST consulting. Less crunch than M&A; quarter-end and budget-time peaks.",
+      "growth_path": "Tax Associate → Senior → Manager → Director → Partner. Big 4 tax partner ₹80L-2.5 Cr. Specialist law firm partner similar.",
+      "underrated": true,
+      "low_budget": false,
+      "low_percent": false,
+      "salary_bands": "Fresher: 8-14 LPA (Tier-2 cities 10-12L; Mumbai/Delhi 14L) / Mid: 18-35 LPA / Senior (Partner): 50 LPA-2 Cr. Note: CA + LLB combo commands premium. Source: Legally India, Law Drishti.",
+      "confidence": "high",
+      "domainId": "law",
+      "domainTitle": "Law",
+      "streamIds": [
+        "commerce",
+        "maths"
+      ]
+    },
+    {
+      "id": "LAW-09",
+      "name": "International Arbitration",
+      "description": "Cross-border commercial dispute resolution — ICC, SIAC, LCIA, ICSID seats. High-stakes, high-pay specialty.",
+      "streams": [
+        "Maths",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "Indirect; need LLB; LLM in international law nearly mandatory",
+      "entry_route": "Degree → tier-1 firm arbitration team or international arb practice",
+      "qualification": "BA LLB + LLM (Int'l Arbitration / Int'l Commercial Law)",
+      "duration": [
+        "5-yr LLB + 1 yr LLM"
+      ],
+      "entrance_exam": "CLAT/AILET + GRE/IELTS for foreign LLM",
+      "govt_fees": "Indian LLB+LLM fees as per NLU",
+      "private_fees": "Foreign LLM ₹40-80L; specialty courses extra",
+      "top_institutions": [
+        "MIDS Geneva LLM (private)",
+        "Queen Mary University London (semi-public)",
+        "King's College London (semi-public)",
+        "Singapore National University LLM (semi-public)",
+        "NALSAR Arbitration program (govt)",
+        "Indian Council of Arbitration (govt body)"
+      ],
+      "scholarships": [
+        "Inlaks scholarship for foreign LLM",
+        "Chevening, Commonwealth Awards",
+        "Felix Trust",
+        "MIDS need-based"
+      ],
+      "abroad_pathways": "Career itself is global — Singapore, London, Paris, Geneva are major arbitration hubs. India arb hubs growing (MCIA Mumbai, ICA Delhi).",
+      "day_in_life": "Drafting submissions, oral arguments at arbitral tribunals, witness prep, evidence analysis. Travel-intensive; hearings often overseas.",
+      "growth_path": "Associate → Senior → Counsel → Partner. Sitting arbitrator route at SIAC/ICC pays USD 1.5-3K/day for ad-hoc panels.",
+      "underrated": true,
+      "low_budget": false,
+      "low_percent": false,
+      "salary_bands": "Fresher: 12-20 LPA (tier-1 firm arb team) / Mid: 30-60 LPA / Senior (Partner / Counsel): 75 LPA-3 Cr+. Note: Independent arbitration counsel + arbitrator income highly variable. Source: GAR India, Legally India.",
+      "confidence": "medium",
+      "domainId": "law",
+      "domainTitle": "Law",
+      "streamIds": [
+        "maths",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "LAW-10",
+      "name": "Environmental & Public Interest Law",
+      "description": "Environmental compliance, climate litigation, public interest litigation, NGT practice, policy advocacy.",
+      "streams": [
+        "Maths",
+        "Bio",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "Indirect; need LLB",
+      "entry_route": "Degree → NGO / boutique env-law firm / academic",
+      "qualification": "BA LLB; LLM Environmental Law preferred",
+      "duration": [
+        "5-yr LLB + optional 1-yr LLM"
+      ],
+      "entrance_exam": "CLAT/AILET",
+      "govt_fees": "Same NLU LLB fees; LLM in env at TERI Univ ₹2-4L",
+      "private_fees": "Same NLU LLB",
+      "top_institutions": [
+        "NLSIU (govt, env-law specialty)",
+        "NLU Delhi (govt, env policy)",
+        "TERI School of Advanced Studies (private)",
+        "WWF India - Centre for Conservation Education (NGO)",
+        "Vidhi Centre for Legal Policy (private)",
+        "Centre for Policy Research Delhi (semi-govt)"
+      ],
+      "scholarships": [
+        "Vidhi fellowships",
+        "Rotary Climate Justice fellowships",
+        "LSE/SOAS Chevening for env LLM"
+      ],
+      "abroad_pathways": "LLM in Environmental Law at Yale F&ES, NYU, SOAS London, Stanford. UN Environmental Program internships, IPCC tracks.",
+      "day_in_life": "NGT cases, EIA challenges, policy briefs, stakeholder consultations. Slower-paced than corporate; ideologically driven for many.",
+      "growth_path": "Junior associate at boutique → Senior → Independent practitioner / NGO Director / Academic. Limited tier-1 firm pipeline; mid-pay sector.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": false,
+      "salary_bands": "Fresher: 4-9 LPA / Mid: 8-18 LPA / Senior: 15-40 LPA. Note: NGO sector lower (3-7L); private env consulting (ERM, Climate Policy Initiative) 8-15L; senior counsel + policy advocacy higher. Source: Vidhi, Legally India.",
+      "confidence": "medium",
+      "domainId": "law",
+      "domainTitle": "Law",
+      "streamIds": [
+        "maths",
+        "bio",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "LAW-11",
+      "name": "Sports & Entertainment / Media Law",
+      "description": "Sports contracts, IPL/cricket regulation, entertainment IP, OTT/media rights, talent agency representation.",
+      "streams": [
+        "Maths",
+        "Commerce",
+        "Arts"
+      ],
+      "min_12th_percent": "Indirect; need LLB",
+      "entry_route": "Degree → boutique sports/entertainment firm or in-house at media co",
+      "qualification": "BA/BBA LLB",
+      "duration": [
+        "5-yr LLB"
+      ],
+      "entrance_exam": "CLAT/AILET",
+      "govt_fees": "Same NLU LLB",
+      "private_fees": "Same NLU LLB",
+      "top_institutions": [
+        "Krida Legal Mumbai (private, sports specialty)",
+        "Saikrishna & Associates Media (firm, private)",
+        "Anand and Anand Entertainment (firm, private)",
+        "DSK Legal Sports & Media (firm, private)",
+        "ANM Global Sports Practice (firm, private)",
+        "In-house at Star Sports, Disney+ Hotstar, Sony Pictures (private)"
+      ],
+      "scholarships": [
+        "Vidhi fellowships",
+        "private firm-funded specialty training"
+      ],
+      "abroad_pathways": "LLM in Sports Law at Manchester, Tilburg Netherlands; Entertainment Law at UCLA, Loyola LA, Columbia Law.",
+      "day_in_life": "Player/talent contract drafting, IP licensing for media rights, regulatory compliance for OTT, dispute resolution at arbitration tribunals (BCCI, AIFF).",
+      "growth_path": "Specialty practice still small in India; partner-track at boutique sports firms ₹50L-1.5 Cr. In-house at OTT/sports leagues ₹15-40L mid-career.",
+      "underrated": true,
+      "low_budget": false,
+      "low_percent": false,
+      "salary_bands": "Fresher: 6-12 LPA / Mid: 15-30 LPA / Senior: 30-80 LPA. Note: Indian Sports Law market rapidly growing post-IPL/ISL; high-end limited but growing. Source: Krida Legal disclosures, GAR.",
+      "confidence": "low",
+      "domainId": "law",
+      "domainTitle": "Law",
+      "streamIds": [
+        "maths",
+        "commerce",
+        "arts"
+      ]
+    },
+    {
+      "id": "LAW-12",
+      "name": "Company Secretary (CS) — Law Adjacent",
+      "description": "ICSI Company Secretary qualification — corporate compliance, governance, board secretarial, SEBI/MCA regulatory work.",
+      "streams": [
+        "Commerce",
+        "Maths",
+        "Arts"
+      ],
+      "min_12th_percent": "12th pass to start CSEET (CS Executive Entrance); 50% common cutoff",
+      "entry_route": "Certification (ICSI Company Secretary)",
+      "qualification": "CSEET → CS Executive → CS Professional",
+      "duration": [
+        "3-4 years total (with articleship)"
+      ],
+      "entrance_exam": "ICSI CSEET (4 times/year); CS Executive; CS Professional",
+      "govt_fees": "Total ICSI fees ₹40,000-60,000; coaching extra",
+      "private_fees": "Coaching ₹50K-1.5 lakh (ICSI-affiliated centres)",
+      "top_institutions": [
+        "Institute of Company Secretaries of India (ICSI, statutory)",
+        "ICSI Centres of Excellence (Delhi, Mumbai, Hyderabad, govt)",
+        "Career Launcher CS (private coaching)",
+        "Inspire Academy CS (private)",
+        "MCC Pune (private)",
+        "Self-prep with ICSI study material"
+      ],
+      "scholarships": [
+        "ICSI Sahyog scheme for SC/ST/EWS",
+        "ICSI minorities scholarships",
+        "state govt CS coaching schemes"
+      ],
+      "abroad_pathways": "ICSA UK (Chartered Governance Institute) recognized in UK, Singapore, Australia, Hong Kong. Strong corporate-secretary roles in MNCs abroad.",
+      "day_in_life": "Board meetings, compliance filings (MCA-21, ROC, SEBI), legal-secretarial drafting, due diligence support. White-collar 9-6 mostly.",
+      "growth_path": "CS Trainee → Asst Co Secy → Co Secy → Senior CS → CS + GC role. CS + LLB combo highly valued for in-house counsel/Board roles.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Fresher: 4-9 LPA / Mid: 10-25 LPA / Senior (CS at listed co): 25-80 LPA. Note: CS at large listed companies ₹30-50L; CS + LLB combo at MNC GC role ₹50L-1Cr. Source: ICSI placement, AmbitionBox.",
+      "confidence": "high",
+      "domainId": "law",
+      "domainTitle": "Law",
+      "streamIds": [
+        "commerce",
+        "maths",
+        "arts"
+      ]
+    }
+  ],
+  "confidence_notes": [
+    "Tier-1 law firm A0 salaries verified via Law Drishti 2025 and Legally India crowdsourced 2025-26 data — figures match across multiple independent sources.",
+    "IP law firm salaries vary widely by team (patent prosecution vs trademark vs litigation); ₹4-10L fresher band reflects this spread.",
+    "Judicial Services pay structure verified against latest Supreme Court directives (Justice Shetty Commission revisions).",
+    "International Arbitration salaries flagged 'medium' confidence — Indian career arc data is sparse; figures projected from London/Singapore market with India discount.",
+    "Sports & Entertainment Law flagged 'low' confidence — small market in India, salary data is mostly anecdotal; firm-by-firm variation is enormous."
+  ]
+}

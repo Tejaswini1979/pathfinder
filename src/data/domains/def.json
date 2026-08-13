@@ -1,0 +1,662 @@
+{
+  "id": "def",
+  "title": "Defence Forces",
+  "tagline": "Officer and soldier paths across Army, Navy, Air Force, Coast Guard — plus DRDO, BRO, MNS and the technical entries most students never hear about.",
+  "color": "#4a5d3a",
+  "overview": "Defence is one of the few post-12th funnels in India where competitive selection is paid from day one — no fees, full stipend during training, lifelong pension on the regular cadre. The 2026 picture is fragmented: officer entries via NDA, CDS, AFCAT, and TES sit alongside the four-year Agniveer scheme (still under reform pressure), the often-overlooked technical cadres in Coast Guard, MNS, BRO, and DRDO, and the part-time Territorial Army for working professionals. The single biggest gap in student awareness is non-officer technical entries — Yantrik, Agniveer Vayu Group X, and BRO civilian engineers — which combine engineering training with uniformed service and pay structures most students never investigate. Defence careers also remain the most consistently low-budget, low-percentage path in India: selection is psychometric and physical, not academic-merit-driven.",
+  "key_insights": [
+    "Army Technical Entry Scheme (TES) lets PCM students with 60% in 12th skip JEE entirely and earn a paid B.Tech plus officer commission — only ~90 cadets are picked per cycle but the scheme is genuinely under-applied.",
+    "Coast Guard Yantrik admits diploma holders (10th + 3-yr engineering diploma) into a permanent uniformed cadre with pension, ECHS, and CSD — most engineering diploma students never learn this exists.",
+    "DRDO Scientist B via GATE pays Level 11 of 7th CPC (~₹11-14 LPA fresher) and is the most stable defence-research career in India, yet competition is much lower than equivalent IIT-PSU recruitment.",
+    "Military Nursing Service (MNS) is one of India's most secure nursing paths — Group A officer status, lifelong pension, ECHS — but is restricted to unmarried female PCB candidates and recruits only ~200 per year.",
+    "Territorial Army officer is the only route for working professionals to wear an Army uniform without leaving their civilian career; doctors, engineers, lawyers, and businesspeople routinely commission via this route."
+  ],
+  "sub_paths": [
+    {
+      "id": "DEF-01",
+      "name": "Indian Army Officer (NDA Route)",
+      "description": "A commissioned officer in the Indian Army leads soldiers in operations, training, and peacetime duties; entry is straight after Class 12 via NDA.",
+      "streams": [
+        "Arts",
+        "Bio",
+        "Commerce",
+        "Maths"
+      ],
+      "min_12th_percent": "No fixed cutoff; SSB selection-based. 60%+ recommended for academic confidence; written paper covers Class 12-level Maths and GS.",
+      "entry_route": "Govt exam",
+      "qualification": "10+2 → NDA written exam → SSB interview → 3-yr training at NDA Khadakwasla → 1-yr at IMA Dehradun → commissioned as Lieutenant",
+      "duration": [
+        "4 years training"
+      ],
+      "entrance_exam": "NDA written exam (UPSC, twice yearly) + SSB interview (5 days) + medical examination",
+      "govt_fees": "Fully subsidized. Cadets receive ₹56,100/month stipend (Level 10 of 7th CPC pay matrix) during training; food, lodging, uniform, medical free.",
+      "private_fees": "N/A — only government route exists.",
+      "top_institutions": [
+        "National Defence Academy, Khadakwasla, Pune (govt)",
+        "Indian Military Academy, Dehradun (govt)"
+      ],
+      "scholarships": [],
+      "abroad_pathways": "Mid-career foreign training and exchange postings: Sandhurst (UK), West Point (USA), Fort Leavenworth, Australian Defence College, and UN peacekeeping deployments to Lebanon, South Sudan, Congo.",
+      "day_in_life": "Field officer mornings start with PT and parade, then training drills, weapons handling, or operational planning sessions. Postings rotate between peace stations, field areas, and hard-area tenures in Kashmir, the Northeast, or high-altitude sectors.",
+      "growth_path": "Lieutenant → Captain → Major → Lt Col → Col → Brig → Maj Gen → Lt Gen → General. Pivots after retirement: corporate security and risk consulting, defence PSU leadership, civil services lateral entry, NGO and disaster management roles.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Cadet (in training): ₹56,100/month stipend / Mid (Major, ~10 yr): ₹17-22 LPA total emoluments / Senior (Colonel+, 20+ yr): ₹22-30 LPA. Note: Total compensation higher because of free housing, lifetime pension, OROP, family medical (ECHS), CSD canteen access, and subsidized children's education. Source: 7th CPC Defence Pay Matrix.",
+      "confidence": "high",
+      "domainId": "def",
+      "domainTitle": "Defence Forces",
+      "streamIds": [
+        "arts",
+        "bio",
+        "commerce",
+        "maths"
+      ]
+    },
+    {
+      "id": "DEF-02",
+      "name": "Indian Navy Officer (NDA Route)",
+      "description": "A commissioned naval officer serves on warships, submarines, or naval aviation units, handling navigation, weapons, engineering, or logistics functions at sea and ashore.",
+      "streams": [
+        "Maths"
+      ],
+      "min_12th_percent": "No fixed academic cutoff but PCM in 12th is mandatory for the Navy wing of NDA. SSB and medical are decisive.",
+      "entry_route": "Govt exam",
+      "qualification": "10+2 with PCM → NDA written exam → SSB interview → 3-yr training at NDA Khadakwasla → 1-yr at Indian Naval Academy, Ezhimala → commissioned as Sub-Lieutenant",
+      "duration": [
+        "4 years training"
+      ],
+      "entrance_exam": "NDA written exam (UPSC, twice yearly) + SSB interview + medical (sea-going standards)",
+      "govt_fees": "Fully subsidized. Cadets receive ₹56,100/month stipend during training. Food, lodging, uniform, medical free.",
+      "private_fees": "N/A — only government route exists.",
+      "top_institutions": [
+        "National Defence Academy, Khadakwasla (govt)",
+        "Indian Naval Academy, Ezhimala, Kerala (govt)"
+      ],
+      "scholarships": [],
+      "abroad_pathways": "Foreign deployments and ship visits across continents during sea tenures. Exchange programmes with US Navy, Royal Navy, French Navy. Defence attaché postings at Indian missions abroad mid-career.",
+      "day_in_life": "On a warship at sea, officers stand watch in 4-hour rotations, oversee technical or operational departments, and handle drills for damage control, action stations, or replenishment at sea. Shore postings involve training, planning, or staff work.",
+      "growth_path": "Sub-Lieutenant → Lieutenant → Lt Cdr → Cdr → Captain → Commodore → Rear Admiral → Vice Admiral → Admiral. Specializations include Executive (warfare), Engineering, Electrical, Logistics, Education, and Aviation. Pivots: maritime industry, port management, defence think tanks.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Cadet (in training): ₹56,100/month stipend / Mid (Lt Cdr, ~10 yr): ₹17-22 LPA total emoluments incl. Sea Going Allowance / Senior (Captain+, 20+ yr): ₹22-30 LPA. Note: Sea-going officers earn higher allowances when deployed; submarine and aviation cadres get additional special pay. Source: 7th CPC Defence Pay Matrix.",
+      "confidence": "high",
+      "domainId": "def",
+      "domainTitle": "Defence Forces",
+      "streamIds": [
+        "maths"
+      ]
+    },
+    {
+      "id": "DEF-03",
+      "name": "Indian Air Force Officer (NDA Route)",
+      "description": "A commissioned IAF officer flies fighter, transport, or helicopter aircraft, or serves in technical and ground branches running airbases, radar, and air defence systems.",
+      "streams": [
+        "Maths"
+      ],
+      "min_12th_percent": "60% aggregate in 12th with PCM is the formal cutoff for the Air Force wing of NDA; SSB and medical screening are strict (especially eyesight and BMI).",
+      "entry_route": "Govt exam",
+      "qualification": "10+2 with PCM → NDA written exam → SSB interview + Pilot Aptitude Battery Test for flying branch → 3-yr training at NDA → 1.5-yr at Air Force Academy, Dundigal → commissioned as Flying Officer",
+      "duration": [
+        "4.5 years training"
+      ],
+      "entrance_exam": "NDA written exam (UPSC, twice yearly) + SSB interview + PABT for flying branch + AFMSB medical",
+      "govt_fees": "Fully subsidized. Cadets receive ₹56,100/month stipend during training.",
+      "private_fees": "N/A — only government route exists.",
+      "top_institutions": [
+        "National Defence Academy, Khadakwasla (govt)",
+        "Air Force Academy, Dundigal, Hyderabad (govt)"
+      ],
+      "scholarships": [],
+      "abroad_pathways": "Cope India and Garuda exercises with USAF and French Air Force; exchange tours, attaché postings, foreign training at flight schools. After service, ex-IAF pilots transition to commercial aviation (IndiGo, Air India) or aerospace.",
+      "day_in_life": "A fighter pilot's day involves morning briefings, sorties, debrief, simulator practice, and ground-school study. Transport and helicopter pilots fly logistics and rescue missions; technical-branch officers maintain aircraft, radar, or missile systems with engineering teams.",
+      "growth_path": "Flying Officer → Flight Lt → Squadron Leader → Wing Cdr → Group Captain → Air Cmde → Air Vice Marshal → Air Marshal → Air Chief Marshal. Pivots: commercial pilot (with CPL conversion for fighters/helicopter pilots), aerospace consulting, civil aviation regulator (DGCA).",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Cadet (in training): ₹56,100/month stipend / Mid (Squadron Leader, ~10 yr): ₹18-23 LPA total emoluments incl. Flying Pay / Senior (Group Captain+, 20+ yr): ₹24-32 LPA. Note: Flying branch earns substantial Flying Allowance on top of base; ex-IAF fighter pilots routinely move to commercial airlines at ₹40-80 LPA after retirement. Source: 7th CPC Defence Pay Matrix.",
+      "confidence": "high",
+      "domainId": "def",
+      "domainTitle": "Defence Forces",
+      "streamIds": [
+        "maths"
+      ]
+    },
+    {
+      "id": "DEF-04",
+      "name": "Indian Army Officer (CDS Route)",
+      "description": "Post-graduation entry to commissioned officer rank in the Indian Army. Same role as NDA-route officers but enters at age 20-24 after a UG.",
+      "streams": [
+        "Arts",
+        "Bio",
+        "Commerce",
+        "Maths"
+      ],
+      "min_12th_percent": "No 12th percentage cutoff; CDS requires a graduation degree in any discipline. Age 19-24 at time of joining IMA.",
+      "entry_route": "Govt exam",
+      "qualification": "Any UG degree → CDS written exam → SSB interview → 1.5-yr training at IMA Dehradun → commissioned as Lieutenant",
+      "duration": [
+        "1.5 years training (after 3-yr UG)"
+      ],
+      "entrance_exam": "Combined Defence Services Examination (UPSC, twice yearly) + SSB interview + medical",
+      "govt_fees": "Fully subsidized. Gentleman Cadets at IMA receive ₹56,100/month stipend during training. Food, lodging, uniform, medical free.",
+      "private_fees": "N/A — only government route exists.",
+      "top_institutions": [
+        "Indian Military Academy, Dehradun (govt)"
+      ],
+      "scholarships": [],
+      "abroad_pathways": "Same as NDA-route Army officers — foreign training exchanges, attaché postings, UN peacekeeping deployments mid-career.",
+      "day_in_life": "Same operational profile as NDA-route officers post-commissioning. Trainees at IMA spend mornings on PT and drill, classroom sessions on tactics and weapons, and evenings on outdoor exercises and leadership tasks.",
+      "growth_path": "Identical to NDA-route Army officers from Lieutenant onwards. CDS-route officers are 2-3 years older at commissioning, which slightly compresses time available for star-rank promotion.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Cadet (in training): ₹56,100/month stipend / Mid (Major, ~10 yr): ₹17-22 LPA / Senior (Colonel+, 20+ yr): ₹22-30 LPA. Note: Identical pay structure to NDA-route officers. Source: 7th CPC Defence Pay Matrix.",
+      "confidence": "high",
+      "domainId": "def",
+      "domainTitle": "Defence Forces",
+      "streamIds": [
+        "arts",
+        "bio",
+        "commerce",
+        "maths"
+      ]
+    },
+    {
+      "id": "DEF-05",
+      "name": "Indian Navy Officer (CDS / NCC Special Entry)",
+      "description": "Post-graduation entry to the Navy's Executive branch. Same operational role as NDA-route naval officers, entered through CDS exam or NCC Naval Wing Special Entry.",
+      "streams": [
+        "Maths"
+      ],
+      "min_12th_percent": "No 12th cutoff; UG must be B.E./B.Tech with Physics and Maths at 10+2 level for Executive branch CDS-Navy entry.",
+      "entry_route": "Govt exam",
+      "qualification": "B.E./B.Tech in any discipline → CDS exam → SSB interview → ~22 weeks naval orientation at INA Ezhimala → commissioned as Sub-Lieutenant",
+      "duration": [
+        "~6 months training (after 4-yr UG)"
+      ],
+      "entrance_exam": "CDS exam (UPSC, twice yearly) + SSB + medical. NCC Special Entry is non-UPSC and goes direct to SSB for cadets with C-Certificate.",
+      "govt_fees": "Fully subsidized during training; full Sub-Lieutenant pay from joining.",
+      "private_fees": "N/A — only government route exists.",
+      "top_institutions": [
+        "Indian Naval Academy, Ezhimala, Kerala (govt)"
+      ],
+      "scholarships": [],
+      "abroad_pathways": "Same as NDA-route Navy officers — sea visits, exchange tours, defence attaché postings.",
+      "day_in_life": "Identical operational profile to NDA-route Navy officers from commissioning onwards.",
+      "growth_path": "Same as NDA-route Navy officers from Sub-Lieutenant onwards.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Cadet (in training): ₹56,100/month / Mid (Lt Cdr, ~10 yr from commissioning): ₹17-22 LPA / Senior: ₹22-30 LPA. Source: 7th CPC Defence Pay Matrix.",
+      "confidence": "high",
+      "domainId": "def",
+      "domainTitle": "Defence Forces",
+      "streamIds": [
+        "maths"
+      ]
+    },
+    {
+      "id": "DEF-06",
+      "name": "Indian Air Force Officer (AFCAT / CDS Route)",
+      "description": "Post-graduation entry to IAF flying, technical, or ground duty branches. Same role as NDA-route IAF officers; entered after a UG degree via AFCAT or CDS.",
+      "streams": [
+        "Arts",
+        "Bio",
+        "Commerce",
+        "Maths"
+      ],
+      "min_12th_percent": "60% in 12th with Maths and Physics for flying and technical branches. Ground duty branches accept any-stream graduates with no specific 12th-subject lock.",
+      "entry_route": "Govt exam",
+      "qualification": "UG (any) for ground duty; B.E./B.Tech for technical; UG with Maths+Physics in 12th for flying → AFCAT or CDS → SSB → 18-month training at AFA Dundigal → commissioned as Flying Officer",
+      "duration": [
+        "1.5 years training (after 3-4 yr UG)"
+      ],
+      "entrance_exam": "AFCAT (twice yearly, conducted by IAF) for ground duty/technical; CDS for flying branch (UPSC) + AFSB + PABT for flying",
+      "govt_fees": "Fully subsidized. Trainees receive ₹56,100/month stipend.",
+      "private_fees": "N/A — only government route exists.",
+      "top_institutions": [
+        "Air Force Academy, Dundigal, Hyderabad (govt)"
+      ],
+      "scholarships": [],
+      "abroad_pathways": "Same as NDA-route IAF officers.",
+      "day_in_life": "Same operational profile as NDA-route IAF officers from commissioning onwards.",
+      "growth_path": "Same as NDA-route IAF officers from Flying Officer onwards. Short Service Commission option available with 14-year tenure for ground duty branches.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Cadet (in training): ₹56,100/month / Mid (Squadron Leader, ~10 yr): ₹18-23 LPA / Senior: ₹24-32 LPA. Source: 7th CPC Defence Pay Matrix + IAF AFCAT notification.",
+      "confidence": "high",
+      "domainId": "def",
+      "domainTitle": "Defence Forces",
+      "streamIds": [
+        "arts",
+        "bio",
+        "commerce",
+        "maths"
+      ]
+    },
+    {
+      "id": "DEF-07",
+      "name": "Army Technical Entry Scheme (TES)",
+      "description": "A 10+2 entry to the Army's technical branches (Engineers, Signals, EME). Cadets do a 5-year integrated B.Tech-cum-military programme and commission as Lieutenants.",
+      "streams": [
+        "Maths"
+      ],
+      "min_12th_percent": "Minimum 60% aggregate in PCM in Class 12 (no entrance exam — direct shortlisting on 12th marks, then SSB).",
+      "entry_route": "Govt exam",
+      "qualification": "10+2 with PCM (60%+) → SSB interview → 1-yr basic military training at OTA Gaya → 4-yr B.Tech at CME Pune / MCTE Mhow / MCEME Secunderabad → commissioned as Lieutenant",
+      "duration": [
+        "5 years training"
+      ],
+      "entrance_exam": "No written exam. Shortlisting based on 12th PCM aggregate, then SSB interview + medical.",
+      "govt_fees": "Fully subsidized. Cadets receive stipend during basic training; full Lieutenant pay from third year onwards.",
+      "private_fees": "N/A — only government route exists.",
+      "top_institutions": [
+        "College of Military Engineering, Pune (govt)",
+        "Military College of Telecommunication Engineering, Mhow (govt)",
+        "Military College of Electronics and Mechanical Engineering, Secunderabad (govt)"
+      ],
+      "scholarships": [],
+      "abroad_pathways": "Foreign engineering courses at US Army Engineer School, UK Royal School of Military Engineering, mid-career postings to UN missions.",
+      "day_in_life": "TES officers run engineering tasks like bridge-building, demolitions, communications networks, or workshop operations. Postings include field engineer regiments, signals units, or armoured workshops.",
+      "growth_path": "Same as other Army officers from Lieutenant onwards, with technical-branch specializations. Officers also earn an AICTE-recognized B.Tech, useful if they leave service via Premature Retirement after 20 years.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Cadet (in training): stipend during years 2-5 / Mid (Major, ~10 yr): ₹17-22 LPA / Senior (Colonel+): ₹22-30 LPA. Note: TES is genuinely underused — students with PCM and 60%+ skip JEE entirely and get a paid B.Tech plus commission. Source: 7th CPC + Army TES notification.",
+      "confidence": "high",
+      "domainId": "def",
+      "domainTitle": "Defence Forces",
+      "streamIds": [
+        "maths"
+      ]
+    },
+    {
+      "id": "DEF-08",
+      "name": "Indian Coast Guard Officer (Assistant Commandant)",
+      "description": "An ICG officer commands patrol vessels, helicopters, or shore stations protecting India's maritime zone, intercepting smugglers, and running search-and-rescue.",
+      "streams": [
+        "Arts",
+        "Bio",
+        "Commerce",
+        "Maths"
+      ],
+      "min_12th_percent": "12th 60% with PCM for General Duty (Pilot/Navigator); any UG with 60% for General Duty. Different cutoffs for technical and law branches.",
+      "entry_route": "Govt exam",
+      "qualification": "UG (any/PCM/B.E.) → ICG Assistant Commandant exam → preliminary selection board → final selection board → 11-month training at Indian Naval Academy → commissioned as Assistant Commandant",
+      "duration": [
+        "~1 year training (after 3-4 yr UG)"
+      ],
+      "entrance_exam": "ICG Assistant Commandant exam (twice yearly) + Preliminary and Final Selection Boards + medical",
+      "govt_fees": "Fully subsidized. Trainees receive ₹56,100/month stipend.",
+      "private_fees": "N/A — only government route exists.",
+      "top_institutions": [
+        "Indian Naval Academy, Ezhimala (govt)"
+      ],
+      "scholarships": [],
+      "abroad_pathways": "Joint exercises with US Coast Guard, Japan Coast Guard, Bangladesh Coast Guard. Foreign training stints at maritime academies.",
+      "day_in_life": "Coast Guard officers spend rotations at sea on patrol vessels intercepting suspicious craft, or at shore stations coordinating SAR operations. Tasks include anti-smuggling, anti-piracy, oil-spill response, and fisheries protection.",
+      "growth_path": "Asst Cdt → Dy Cdt → Cdt → Cdt (JG) → Dy IG → IG → Addl DG → DG. Smaller force than the Navy means slightly more accelerated promotions in some cadres. Pivots: maritime industry, port security, defence consulting.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Trainee: ₹56,100/month stipend / Mid (Cdt, ~10 yr): ₹17-22 LPA / Senior (DIG+, 20+ yr): ₹24-32 LPA. Note: ICG is one of India's four armed services and recruits fewer officers per year than Army/Navy/AF; competition is intense. Source: 7th CPC + ICG recruitment notifications.",
+      "confidence": "high",
+      "domainId": "def",
+      "domainTitle": "Defence Forces",
+      "streamIds": [
+        "arts",
+        "bio",
+        "commerce",
+        "maths"
+      ]
+    },
+    {
+      "id": "DEF-09",
+      "name": "Indian Coast Guard Yantrik (Technical)",
+      "description": "A diploma-entry technical sailor in the Coast Guard who maintains engines, electricals, and electronics on patrol vessels and helicopters.",
+      "streams": [
+        "Maths"
+      ],
+      "min_12th_percent": "10+2 with PCM (50%+) AND a 3-year diploma in Mechanical, Electrical, Electronics, or Telecom Engineering from a recognized institute.",
+      "entry_route": "Diploma",
+      "qualification": "10th + 3-yr engineering diploma → ICG Yantrik exam → PFT, written, doc verification, medical → 16-week training at INS Chilka → posted as Yantrik",
+      "duration": [
+        "~4 months training (after diploma)"
+      ],
+      "entrance_exam": "ICG Yantrik written exam (annually) + Physical Fitness Test + medical",
+      "govt_fees": "Fully subsidized during training; full Yantrik salary from joining.",
+      "private_fees": "N/A — only government route exists.",
+      "top_institutions": [
+        "INS Chilka, Odisha (govt)"
+      ],
+      "scholarships": [],
+      "abroad_pathways": "Limited. Some specialized training abroad for select roles, foreign port visits during sea tenures.",
+      "day_in_life": "Yantriks maintain ship machinery — diesel engines, electrical systems, radars — and stand watches at sea. Onshore postings involve workshop repair work and supervising junior sailors.",
+      "growth_path": "Yantrik → Uttam Yantrik → Pradhan Adhikari Yantrik over 20+ years. Service Selection Board route available to commission as Asst Cdt mid-career for top performers.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Trainee: stipend during 16 weeks training / Fresher Yantrik: ₹6-7 LPA total emoluments / Mid (10+ yr): ₹9-12 LPA / Senior (20+ yr): ₹14-18 LPA. Note: Diploma holders directly enter a permanent uniformed cadre with pension, ECHS, CSD — most engineering diploma students don't know this exists. Source: 7th CPC + ICG Yantrik recruitment notifications.",
+      "confidence": "high",
+      "domainId": "def",
+      "domainTitle": "Defence Forces",
+      "streamIds": [
+        "maths"
+      ]
+    },
+    {
+      "id": "DEF-10",
+      "name": "Military Nursing Service (B.Sc Nursing)",
+      "description": "An MNS officer is a commissioned nurse in the Armed Forces Medical Services, working in military hospitals across India and on operational deployments.",
+      "streams": [
+        "Bio"
+      ],
+      "min_12th_percent": "10+2 with PCB and English, 50% aggregate (45% for SC/ST). Open only to unmarried female candidates as of latest MNS notification.",
+      "entry_route": "Degree",
+      "qualification": "10+2 PCB → MNS B.Sc Nursing entrance + interview → 4-yr B.Sc Nursing at AFMC Pune or one of 6 INC-recognized AFMS colleges → commissioned as Lieutenant (MNS)",
+      "duration": [
+        "4 years training"
+      ],
+      "entrance_exam": "MNS B.Sc Nursing entrance exam (annually, conducted by AFMS) + interview + medical",
+      "govt_fees": "Fully subsidized. Cadets receive stipend during training; food, lodging, uniform free. ₹3,000 monthly stipend during training, full Lieutenant pay after commissioning.",
+      "private_fees": "N/A — MNS is government-only.",
+      "top_institutions": [
+        "Armed Forces Medical College, Pune — College of Nursing (govt)",
+        "Command Hospital College of Nursing, Bengaluru (govt)",
+        "INHS Asvini College of Nursing, Mumbai (govt)"
+      ],
+      "scholarships": [],
+      "abroad_pathways": "Foreign nursing exchange courses, UN peacekeeping medical missions, attaché postings. Specialization training at military medical schools abroad.",
+      "day_in_life": "MNS officers run wards in military hospitals, lead nursing teams, and manage ICU, OT, or specialty units. Postings rotate between Command Hospitals in major cities and field hospitals in operational areas.",
+      "growth_path": "Lieutenant → Captain → Major → Lt Col → Col → Brig → Maj Gen (Director General Military Nursing Service). Highest rank in MNS is Maj Gen. Pivots: senior nursing roles in civilian hospitals, nursing education, healthcare administration.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Trainee: ₹3,000/month stipend during 4-yr training / Fresher (Lt MNS): ₹11-14 LPA / Mid (Major, ~10 yr): ₹17-22 LPA / Senior (Col+, 20+ yr): ₹22-28 LPA. Note: MNS is one of the most secure nursing careers in India — Group A officer status, pension, ECHS — yet most PCB students chase MBBS or BDS without knowing MNS exists. Source: 7th CPC + AFMS MNS notification.",
+      "confidence": "high",
+      "domainId": "def",
+      "domainTitle": "Defence Forces",
+      "streamIds": [
+        "bio"
+      ]
+    },
+    {
+      "id": "DEF-11",
+      "name": "Armed Forces Medical College (AFMC) — MBBS",
+      "description": "A 4.5-year MBBS at AFMC Pune leads to a Short Service Commission as a doctor in the Armed Forces Medical Services.",
+      "streams": [
+        "Bio"
+      ],
+      "min_12th_percent": "60% aggregate in PCB and English in 12th. NEET-UG qualifying score; AFMC selects from NEET top scorers via its own Test of General Intelligence and English (ToGIE) + interview.",
+      "entry_route": "Govt exam",
+      "qualification": "10+2 PCB → NEET-UG → AFMC ToGIE + interview → 4.5-yr MBBS at AFMC Pune + 1-yr internship → SSC bond as Captain in AMC",
+      "duration": [
+        "5.5 years (4.5 yr MBBS + 1 yr internship)"
+      ],
+      "entrance_exam": "NEET-UG → AFMC ToGIE (Test of General Intelligence and English) + interview + medical",
+      "govt_fees": "Fully subsidized. Cadets receive a stipend, free food/lodging/uniform/medical. Bond: 7-year SSC service after MBBS, with option for permanent commission at end.",
+      "private_fees": "N/A — AFMC is the only AFMS-affiliated MBBS route. NEET-UG opens doors to other government MBBS colleges separately.",
+      "top_institutions": [
+        "Armed Forces Medical College, Pune (govt)"
+      ],
+      "scholarships": [],
+      "abroad_pathways": "Foreign military medical training, UN medical missions, exchange programmes with US/UK/French military medical schools mid-career.",
+      "day_in_life": "AFMC cadets are full-time MBBS students with additional military training. Post-commissioning, AMC doctors run hospital wards, OPDs, and field medical units; postings include peace stations, field areas, and high-altitude medical posts.",
+      "growth_path": "Captain (on commissioning post-MBBS) → Major → Lt Col → Col → Brig → Maj Gen → Lt Gen → DGAFMS. Specialization via military PG (MD/MS). Pivots: civilian hospitals as senior consultants, public health, AIIMS faculty.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": false,
+      "salary_bands": "Cadet (during MBBS): stipend / Captain (post-MBBS, age ~24): ₹15-18 LPA / Mid (Lt Col, post-MD, ~15 yr): ₹22-28 LPA / Senior (Col+/Maj Gen): ₹30-45 LPA. Note: AFMC remains highly competitive — only ~150 MBBS seats annually — but for those who qualify it's free MBBS plus guaranteed officer-grade career. Source: 7th CPC + AFMS notifications.",
+      "confidence": "high",
+      "domainId": "def",
+      "domainTitle": "Defence Forces",
+      "streamIds": [
+        "bio"
+      ]
+    },
+    {
+      "id": "DEF-12",
+      "name": "Agniveer (Indian Army / Navy / Air Force)",
+      "description": "A 4-year short-service soldier role across the three services under the Agnipath scheme. After 4 years, up to 25% are absorbed into the regular cadre.",
+      "streams": [
+        "Arts",
+        "Bio",
+        "Commerce",
+        "Maths"
+      ],
+      "min_12th_percent": "Class 10 pass for most Army Agniveer (General Duty) categories; 10+2 with subject combinations for Navy SSR (PCM) and Air Force technical roles. Service-specific physical and medical standards.",
+      "entry_route": "Govt exam",
+      "qualification": "Class 10 or 12 → service-specific online exam → PFT, written, medical → 24-week training at service training centres → 3.5-yr deployment as Agniveer",
+      "duration": [
+        "4 years total service (24-week training + 3.5-yr deployment)"
+      ],
+      "entrance_exam": "Army Agniveer online CEE / Navy Agniveer SSR/MR exam / Air Force Agniveer Vayu exam — all centrally conducted, twice yearly. PFT + medical.",
+      "govt_fees": "Fully paid service. Year 1 ~₹4.76 LPA, Year 4 ~₹6.92 LPA. ₹48 lakh non-contributory life insurance. ~₹11.71 lakh tax-free Seva Nidhi corpus on exit.",
+      "private_fees": "N/A — government scheme.",
+      "top_institutions": [
+        "Indian Army Training Centres (govt)",
+        "INS Chilka, Odisha (govt)",
+        "Airmen Training School, Belgaum (govt)"
+      ],
+      "scholarships": [],
+      "abroad_pathways": "Limited during 4-yr tenure. Post-service, retained Agniveers (25%) follow the regular Armed Forces career path, including foreign training opportunities at OR rank levels.",
+      "day_in_life": "Agniveers train and serve as soldiers, sailors, or airmen. Daily routine includes PT, weapons training, deployment tasks, or technical duties depending on trade. Most are stationed in field areas and regiments alongside regular soldiers.",
+      "growth_path": "Most exit at end of 4 years with Seva Nidhi corpus, skill certificate, and 10% reservation in CAPF/Assam Rifles plus state police. Top 25% are absorbed into the regular cadre and follow the standard 15+ year career to JCO and Subedar Major ranks.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Year 1: ~₹4.76 LPA (₹30k/month, 70% in hand) / Year 4: ~₹6.92 LPA / Exit Seva Nidhi: ~₹11.71 lakh tax-free lump sum. If retained as regular cadre after 4 years: standard JCO/OR pay scales over 15+ years. Note: Scheme remains controversial; reforms under discussion in 2025-26 may change service period to 7-8 years and retention to 60-70%. Source: Indian Army Agnipath notification + Ministry of Defence press releases.",
+      "confidence": "medium",
+      "domainId": "def",
+      "domainTitle": "Defence Forces",
+      "streamIds": [
+        "arts",
+        "bio",
+        "commerce",
+        "maths"
+      ]
+    },
+    {
+      "id": "DEF-13",
+      "name": "Territorial Army Officer",
+      "description": "A part-time citizen officer in the Indian Army who reports for ~2 months annually plus weekend training. Suited for civilians and self-employed professionals.",
+      "streams": [
+        "Arts",
+        "Bio",
+        "Commerce",
+        "Maths"
+      ],
+      "min_12th_percent": "No 12th cutoff. Requires a graduation degree in any discipline, age 18-42 (officers), and gainful civil employment or self-employment.",
+      "entry_route": "Govt exam",
+      "qualification": "Any UG → TA Officer written exam → SSB interview → medical → 1-month preliminary training + 2-month Post Commission training at IMA → commissioned as Lieutenant (TA)",
+      "duration": [
+        "~3 months initial training (continued service is part-time)"
+      ],
+      "entrance_exam": "TA Officer Written Exam (Directorate General of Territorial Army, annually) + SSB + medical",
+      "govt_fees": "No tuition. Trainees and serving officers receive pay equivalent to regular Army officers when embodied (on duty).",
+      "private_fees": "N/A — only government route exists.",
+      "top_institutions": [
+        "Indian Military Academy, Dehradun (govt)",
+        "Officers Training Academy, Chennai (govt)"
+      ],
+      "scholarships": [],
+      "abroad_pathways": "Limited. UN deployments possible for embodied TA units; some officers have served on overseas missions.",
+      "day_in_life": "TA officers maintain civil careers — engineers, doctors, lawyers, businesspeople — and report for 2 months of annual training. Some units are mobilized in conflict or disaster zones; selected officers have served extended tenures in counter-insurgency.",
+      "growth_path": "Lt → Capt → Maj → Lt Col → Col over civilian working life, depending on training credits. After 20 years, eligible for pension. Pivots: TA service is itself a pivot — most TA officers run primary civilian careers with the TA as a secondary identity.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "When embodied (on duty): same pay as regular Army officers at corresponding rank — ₹56,100/month basic + allowances. Note: TA is genuinely under-known. Civilians who want military service without a 20-year commitment can serve as part-time officers; defence engineers, doctors, and IT professionals often join. Source: Directorate General Territorial Army.",
+      "confidence": "high",
+      "domainId": "def",
+      "domainTitle": "Defence Forces",
+      "streamIds": [
+        "arts",
+        "bio",
+        "commerce",
+        "maths"
+      ]
+    },
+    {
+      "id": "DEF-14",
+      "name": "DRDO Scientist (Direct Recruitment via GATE)",
+      "description": "A research scientist at the Defence Research and Development Organisation working on indigenous defence systems — missiles, radar, naval systems, electronic warfare.",
+      "streams": [
+        "Maths"
+      ],
+      "min_12th_percent": "No 12th cutoff. Requires an engineering degree (B.E./B.Tech, M.E./M.Tech, or PhD) in a relevant discipline; GATE score is the primary selection input.",
+      "entry_route": "Govt exam",
+      "qualification": "B.E./B.Tech or M.Tech in relevant discipline → DRDO recruitment via GATE-based RAC (Recruitment Assessment Centre) → interview → joining as Scientist B",
+      "duration": [
+        "Direct entry post-graduation"
+      ],
+      "entrance_exam": "GATE (relevant paper) + DRDO RAC interview. Some entries are via SET (Scientist Entry Test) for specific cadres.",
+      "govt_fees": "Fully paid Group A officer salary from joining as Scientist B (Level 11 of 7th CPC).",
+      "private_fees": "N/A — government job.",
+      "top_institutions": [
+        "Defence Research and Development Organisation labs across India (govt) — DRDL Hyderabad, RCI Hyderabad, ADA Bengaluru, ADE Bengaluru, NSTL Visakhapatnam, and 50+ other labs"
+      ],
+      "scholarships": [],
+      "abroad_pathways": "DRDO funds international conferences, foreign research collaborations with allied defence research bodies, and PhD programmes abroad in select streams. Some scientists move to ISRO or to global defence-tech firms post-DRDO.",
+      "day_in_life": "DRDO scientists work in lab and field environments — designing systems, running simulations and trials, writing research papers, and collaborating with industry partners (HAL, BEL, Tata Defence). Many are deeply specialized in narrow technical areas.",
+      "growth_path": "Scientist B → C → D → E → F → G → H (Director-grade). Promotions are time-bound up to Scientist E, then merit-based. Pivots: aerospace and defence private sector (HAL, Tata, L&T), academia (IITs), startup defence-tech.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": false,
+      "salary_bands": "Fresher (Scientist B): ₹11-14 LPA total / Mid (Scientist E, ~10 yr): ₹22-28 LPA / Senior (Scientist G+, 20+ yr): ₹30-45 LPA. Note: DRDO is a stable, prestigious research career most engineering students don't consider; security clearance and slow private-sector mobility are offset by long-term stability and meaningful work. Source: 7th CPC + DRDO recruitment notifications.",
+      "confidence": "high",
+      "domainId": "def",
+      "domainTitle": "Defence Forces",
+      "streamIds": [
+        "maths"
+      ]
+    },
+    {
+      "id": "DEF-15",
+      "name": "CAPF Assistant Commandant (BSF / CRPF / ITBP / SSB / CISF)",
+      "description": "A directly-recruited Assistant Commandant in a Central Armed Police Force, deployed in border security, anti-Naxal, or counter-insurgency operations.",
+      "streams": [
+        "Arts",
+        "Bio",
+        "Commerce",
+        "Maths"
+      ],
+      "min_12th_percent": "No 12th cutoff. Requires a UG degree in any discipline, age 20-25 at application.",
+      "entry_route": "Govt exam",
+      "qualification": "Any UG → UPSC CAPF AC written exam → PET/PST + medical → interview → ~1-yr training at CAPF academies → posted as Assistant Commandant",
+      "duration": [
+        "1 year training (after 3-yr UG)"
+      ],
+      "entrance_exam": "UPSC CAPF Assistant Commandant exam (annually) + Physical Efficiency Test + medical + interview",
+      "govt_fees": "Fully subsidized during training; full Assistant Commandant pay from joining (Level 10 of 7th CPC).",
+      "private_fees": "N/A — only government route exists.",
+      "top_institutions": [
+        "BSF Academy, Tekanpur (govt)",
+        "ITBP Academy, Mussoorie (govt)",
+        "CRPF Academy, Gurugram (govt)",
+        "SSB Academy, Srinagar (govt)"
+      ],
+      "scholarships": [],
+      "abroad_pathways": "UN peacekeeping deployments to conflict zones (CRPF-led FPUs in Liberia, Haiti). Foreign training stints at counter-terrorism schools.",
+      "day_in_life": "CAPF officers command companies (~120 personnel) in border outposts or anti-Naxal zones. Daily duties include patrolling, intelligence work, civic action programmes, and convoy security. Postings rotate between hard areas and headquarters.",
+      "growth_path": "Asst Cdt → Dy Cdt → Cdt → 2IC → Cdt (Sr) → DIG → IG → ADG → DG (force chief). Pivots: state police DGP-equivalent roles via deputation, intelligence agencies (RAW, IB), private security firms.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Trainee: stipend / Asst Cdt: ₹11-14 LPA / Mid (Cdt, ~10 yr): ₹17-22 LPA / Senior (DIG+, 20+ yr): ₹24-32 LPA + housing/medical/pension. Source: 7th CPC + UPSC CAPF AC notifications.",
+      "confidence": "high",
+      "domainId": "def",
+      "domainTitle": "Defence Forces",
+      "streamIds": [
+        "arts",
+        "bio",
+        "commerce",
+        "maths"
+      ]
+    },
+    {
+      "id": "DEF-16",
+      "name": "Border Roads Organisation (BRO) — Engineering Officer",
+      "description": "A civilian engineering officer in the BRO, building and maintaining strategic roads and bridges in border and high-altitude areas.",
+      "streams": [
+        "Maths"
+      ],
+      "min_12th_percent": "No 12th cutoff. Requires B.E./B.Tech in Civil/Mechanical/Electrical Engineering for Assistant Executive Engineer (AEE) recruitment.",
+      "entry_route": "Govt exam",
+      "qualification": "B.E./B.Tech in Civil/Mech/Elec → BRO AEE recruitment via UPSC Engineering Services Examination or direct BRO selection → joining as AEE in General Reserve Engineer Force (GREF)",
+      "duration": [
+        "Direct entry post-graduation"
+      ],
+      "entrance_exam": "UPSC Engineering Services Examination (annually) for AEE; BRO also conducts direct recruitments via online tests for junior cadres.",
+      "govt_fees": "Fully paid Group A officer salary from joining (Level 10 of 7th CPC). Postings are mostly in remote border areas with high-altitude allowances.",
+      "private_fees": "N/A — government cadre.",
+      "top_institutions": [
+        "Border Roads Organisation HQ, New Delhi (govt) — postings across Ladakh, Arunachal Pradesh, J&K, Uttarakhand, Sikkim"
+      ],
+      "scholarships": [],
+      "abroad_pathways": "BRO has executed projects in Bhutan, Afghanistan (historically), and Myanmar — engineers occasionally posted to foreign project sites.",
+      "day_in_life": "BRO engineers manage road and bridge construction in remote, high-altitude terrain — supervising labour gangs, equipment, blasting operations, and weather-dependent windows. Sites can be 12,000+ feet, with limited connectivity. Hardship is real, work is mission-critical.",
+      "growth_path": "AEE → EE → Superintending Engineer → Chief Engineer → ADG → DG-BRO. Pivots: civilian PWD/CPWD via deputation, NHAI, private infrastructure firms, defence PSU engineering roles.",
+      "underrated": true,
+      "low_budget": true,
+      "low_percent": false,
+      "salary_bands": "Fresher (AEE): ₹11-14 LPA total emoluments incl. high-altitude allowance / Mid (EE, ~10 yr): ₹17-22 LPA / Senior (Chief Engineer, 20+ yr): ₹24-32 LPA + pension. Note: BRO civilian engineering cadre is genuinely under-known — hardship is significant but salary, allowances, and the strategic mission make it meaningful work. Source: 7th CPC + UPSC ESE notifications.",
+      "confidence": "high",
+      "domainId": "def",
+      "domainTitle": "Defence Forces",
+      "streamIds": [
+        "maths"
+      ]
+    },
+    {
+      "id": "DEF-17",
+      "name": "Indian Air Force Airman (Agniveer Vayu / Group X / Y)",
+      "description": "A non-commissioned airman in the IAF maintaining aircraft, electronics, communications, and base operations. Entry now mostly via Agniveer Vayu route.",
+      "streams": [
+        "Arts",
+        "Bio",
+        "Commerce",
+        "Maths"
+      ],
+      "min_12th_percent": "Group X (technical): 50% in 12th with PCM, 50% in English. Group Y (non-technical): 50% in 12th any stream, 50% in English. Group Y also accepts ITI 2-year diploma holders.",
+      "entry_route": "Govt exam",
+      "qualification": "10+2 → Agniveer Vayu STAR online exam → PFT + adaptability test + medical → ~24-week training at Airmen Training School Belgaum / specific schools → posted as Agniveer (4-yr term)",
+      "duration": [
+        "~6 months training + 3.5 yr deployment"
+      ],
+      "entrance_exam": "Agniveer Vayu STAR Examination (annually) + PFT + medical + adaptability tests",
+      "govt_fees": "Fully paid Agniveer salary structure: Year 1 ~₹4.76 LPA, Year 4 ~₹6.92 LPA + ₹48 lakh insurance + Seva Nidhi.",
+      "private_fees": "N/A — government scheme.",
+      "top_institutions": [
+        "Airmen Training School, Belgaum (govt)",
+        "Other IAF technical training schools (govt)"
+      ],
+      "scholarships": [],
+      "abroad_pathways": "Limited for 4-year Agniveers. Retained airmen (25%) may eventually serve in foreign training stints or attached deployments.",
+      "day_in_life": "IAF airmen perform technical maintenance on aircraft (engines, avionics, weapons), run airbase operations, communications, or logistics. Postings rotate between forward bases, training schools, and command HQs.",
+      "growth_path": "If retained as regular cadre after 4-yr Agniveer term: Aircraftman → LAC → Corporal → Sergeant → JWO → WO → MWO → Hon Flight Lt over 15+ years. Group X technical airmen often clear engineering exams or commission later via SCO entry.",
+      "underrated": false,
+      "low_budget": true,
+      "low_percent": true,
+      "salary_bands": "Year 1: ~₹4.76 LPA / Year 4: ~₹6.92 LPA + ~₹11.71 lakh Seva Nidhi exit corpus. Retained regular cadre (post 4-yr): ₹35-50k/month basic at Aircraftman, rising to ₹70-90k+ at Sergeant/WO levels with allowances. Source: IAF Agniveer Vayu notification + 7th CPC.",
+      "confidence": "high",
+      "domainId": "def",
+      "domainTitle": "Defence Forces",
+      "streamIds": [
+        "arts",
+        "bio",
+        "commerce",
+        "maths"
+      ]
+    }
+  ],
+  "confidence_notes": [
+    "Agniveer (Agnipath) salary structure and 4-year tenure verified from MoD/Indian Army notifications; reforms under active discussion in 2025-26 (proposed 7-8 year tenure, 60-70% retention) — confidence medium for forward-looking salary structure.",
+    "All 7th CPC Defence Pay Matrix figures are accurate as of latest government notifications; allowances vary substantially by posting and field-area status.",
+    "BRO civilian engineering cadre salary cross-verified with UPSC ESE notifications; high-altitude allowances substantially boost in-hand pay but are posting-dependent.",
+    "AFMC MBBS bond terms (7-year SSC) and seat count (~150/year) verified from AFMC Pune admission brochure 2025-26."
+  ]
+}
