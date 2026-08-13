@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import { ArrowLeft, ArrowRight, Lightbulb, Flag } from "lucide-react";
 import { getRoadmaps } from "@/data/roadmaps";
 import { getExam } from "@/data/exams";
+import EducationBackdrop from "@/components/EducationBackdrop";
 
 export function generateStaticParams() {
   return getRoadmaps().map((r) => ({ id: r.id }));
@@ -39,7 +40,8 @@ export default async function RoadmapPage({ params }: PageProps<"/roadmaps/[id]"
         All roadmaps
       </Link>
 
-      <header className="mt-5">
+      <header className="relative mt-5 overflow-hidden">
+        <EducationBackdrop />
         <span className="inline-flex items-center rounded-full bg-gray-100 px-3 py-1 text-xs font-semibold text-gray-600">
           {roadmap.stream} stream
         </span>

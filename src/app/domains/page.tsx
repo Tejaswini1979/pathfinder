@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import DomainExplorer from "@/components/DomainExplorer";
 import { getDomainMetaList, getAllSubPaths, getStreams } from "@/data";
+import EducationBackdrop from "@/components/EducationBackdrop";
 
 export const metadata: Metadata = {
   title: "Explore Domains",
@@ -29,7 +30,8 @@ export default async function DomainsPage({
 
   return (
     <div className="mx-auto w-full max-w-6xl flex-1 px-4 py-10 sm:px-6">
-      <header className="mb-8">
+      <header className="relative mb-8 overflow-hidden">
+        <EducationBackdrop />
         <h1 className="text-3xl font-bold tracking-tight text-gray-900">
           Explore all domains
         </h1>

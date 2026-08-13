@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { BookmarkX, ArrowRight } from "lucide-react";
 import { useSavedStore } from "@/lib/saved-store";
+import EducationBackdrop from "@/components/EducationBackdrop";
 
 export default function SavedPage() {
   const careers = useSavedStore((s) => s.careers);
@@ -13,7 +14,8 @@ export default function SavedPage() {
 
   if (list.length === 0) {
     return (
-      <div className="mx-auto w-full max-w-2xl flex-1 px-4 py-16 text-center sm:px-6">
+      <div className="relative mx-auto w-full max-w-2xl flex-1 overflow-hidden px-4 py-16 text-center sm:px-6">
+        <EducationBackdrop />
         <span className="mx-auto flex h-14 w-14 items-center justify-center rounded-2xl bg-gray-100 text-gray-400">
           <BookmarkX className="h-7 w-7" />
         </span>
@@ -36,7 +38,8 @@ export default function SavedPage() {
 
   return (
     <div className="mx-auto w-full max-w-3xl flex-1 px-4 py-10 sm:px-6">
-      <header className="mb-6 flex items-center justify-between">
+      <header className="relative mb-6 flex items-center justify-between overflow-hidden">
+        <EducationBackdrop />
         <div>
           <h1 className="text-3xl font-bold tracking-tight text-gray-900">
             Saved careers

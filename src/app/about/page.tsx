@@ -8,6 +8,7 @@ import {
 import { getCourses } from "@/data/courses";
 import { getRoadmaps } from "@/data/roadmaps";
 import { getExams } from "@/data/exams";
+import EducationBackdrop from "@/components/EducationBackdrop";
 
 export const metadata: Metadata = {
   title: "About",
@@ -58,7 +59,8 @@ export default function AboutPage() {
 
   return (
     <div className="mx-auto w-full max-w-6xl flex-1 px-4 py-10 sm:px-6">
-      <header className="mb-10 max-w-3xl">
+      <header className="relative mb-10 max-w-3xl overflow-hidden">
+        <EducationBackdrop />
         <h1 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
           Why PathFinder exists
         </h1>

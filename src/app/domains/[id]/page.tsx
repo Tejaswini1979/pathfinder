@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import { ArrowLeft, Lightbulb } from "lucide-react";
 import SubPathExplorer from "@/components/SubPathExplorer";
 import { getDomain, getDomainMetaList } from "@/data";
+import EducationBackdrop from "@/components/EducationBackdrop";
 
 export function generateStaticParams() {
   return getDomainMetaList().map((d) => ({ id: d.id }));
@@ -36,7 +37,8 @@ export default async function DomainPage({ params }: PageProps<"/domains/[id]">)
         All domains
       </Link>
 
-      <header className="mt-5">
+      <header className="relative mt-5 overflow-hidden">
+        <EducationBackdrop />
         <h1 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
           {domain.title}
         </h1>

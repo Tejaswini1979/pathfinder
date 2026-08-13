@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Quiz from "@/components/Quiz";
+import EducationBackdrop from "@/components/EducationBackdrop";
 import {
   getDomainMetaList,
   getStreams,
@@ -33,7 +34,8 @@ export default function QuizPage() {
     }));
 
   return (
-    <div className="bg-surface-muted flex-1">
+    <div className="relative overflow-hidden bg-surface-muted flex-1">
+      <EducationBackdrop />
       <Quiz domains={domains} streams={getStreams()} interests={getInterests()} />
     </div>
   );

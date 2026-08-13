@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { ExternalLink, CalendarDays, FileQuestion, GraduationCap, Lightbulb } from "lucide-react";
 import { getExams } from "@/data/exams";
 import { getStreamGuides } from "@/data/streams-guide";
+import EducationBackdrop from "@/components/EducationBackdrop";
 
 export const metadata: Metadata = {
   title: "Entrance Exams",
@@ -22,7 +23,8 @@ export default function ExamsPage() {
 
   return (
     <div className="mx-auto w-full max-w-6xl flex-1 px-4 py-10 sm:px-6">
-      <header className="mb-8">
+      <header className="relative mb-8 overflow-hidden">
+        <EducationBackdrop />
         <h1 className="text-3xl font-bold tracking-tight text-gray-900">
           Entrance exams, decoded
         </h1>

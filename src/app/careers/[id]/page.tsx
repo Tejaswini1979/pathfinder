@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import EducationBackdrop from "@/components/EducationBackdrop";
 import {
   ArrowLeft,
   GraduationCap,
@@ -65,7 +66,8 @@ export default async function CareerPage({ params }: PageProps<"/careers/[id]">)
         {career.domainTitle}
       </Link>
 
-      <header className="mt-5">
+      <header className="relative mt-5 overflow-hidden">
+        <EducationBackdrop />
         <Flags
           underrated={career.underrated}
           lowBudget={career.low_budget}
