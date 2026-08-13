@@ -21,6 +21,7 @@ import {
 import { getStreamGuides } from "@/data/streams-guide";
 import { getCourses } from "@/data/courses";
 import { getRoadmaps } from "@/data/roadmaps";
+import { getAllStateSchemes } from "@/data/state-schemes";
 
 const streamIcons: Record<string, typeof Atom> = {
   science: Atom,
@@ -52,14 +53,14 @@ const featureCards = [
     href: "/schemes",
     icon: Wallet,
     title: "Scholarships, all India",
-    desc: "Central and state schemes, generalized for students across every state of India.",
+    desc: "Central schemes for every state, plus state and UT schemes for all 28 states and 8 UTs.",
   },
 ];
 
 export default function Home() {
   const domains = getDomainMetaList();
   const careerCount = getAllSubPaths().length;
-  const schemeCount = getSchemes().length;
+  const schemeCount = getSchemes().length + getAllStateSchemes().length;
   const courseCount = getCourses().length;
   const roadmapCount = getRoadmaps().length;
   const streams = getStreamGuides();
@@ -261,8 +262,9 @@ export default function Home() {
             {schemeCount} scholarships, one database, all of India
           </h2>
           <p className="max-w-lg text-sm leading-6 text-white/80">
-            Central schemes for every state, plus state scheme examples and the
-            portals you need. Filtered by income, category, and education level.
+            Central schemes for every state, plus state and UT schemes for all
+            28 states and 8 union territories. Filtered by income, category, and
+            education level.
           </p>
           <Link
             href="/schemes"
