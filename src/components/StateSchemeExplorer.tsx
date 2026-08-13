@@ -1,7 +1,16 @@
 "use client";
 
 import { useMemo, useState } from "react";
-import { ExternalLink, Landmark, MapPin, Minus, Plus, Search } from "lucide-react";
+import {
+  ChevronLeft,
+  ChevronRight,
+  ExternalLink,
+  Landmark,
+  MapPin,
+  Minus,
+  Plus,
+  Search,
+} from "lucide-react";
 import type {
   StateUt,
   StateRegion,
@@ -38,11 +47,19 @@ export default function StateSchemeExplorer({ states }: Props) {
   const [showStates, setShowStates] = useState(false);
 
   const filteredStates = useMemo(() => {
-    return region === "ALL" ? states : states.filter((s) => s.region === region);
+    const list =
+      region === "ALL" ? states : states.filter((s) => s.region === region);
+    return [...list].sort((a, b) => a.name.localeCompare(b.name));
   }, [states, region]);
 
   const active =
     filteredStates.find((s) => s.name === selectedName) ?? filteredStates[0];
+  const activeIndex = active ? filteredStates.indexOf(active) : -1;
+
+  const goTo = (index: number) => {
+    const target = filteredStates[index];
+    if (target) setSelectedName(target.name);
+  };
 
   const categoryKeys = useMemo(() => {
     const all = stateCategoryLabels as Record<StateSchemeCategory, string>;
@@ -128,7 +145,7 @@ export default function StateSchemeExplorer({ states }: Props) {
 
       {active && (
         <>
-          <div className="mt-6 flex flex-col gap-4 rounded-xl border border-gray-200 bg-white p-5 shadow-sm sm:flex-row sm:items-start">
+          <div className="mt-6 flex flex-col gap-4 rounded-xl border border-gray-200 bg-white p-5 shadow-sm sm:flex-row sm:items-center">
             <div className="flex h-11 w-11 shrink-0 items-center justify-center rounded-lg bg-primary-light text-primary">
               <Landmark className="h-5 w-5" />
             </div>
@@ -151,6 +168,31 @@ export default function StateSchemeExplorer({ states }: Props) {
                 Open {active.type === "UT" ? "UT" : "state"} portal
                 <ExternalLink className="h-3.5 w-3.5" />
               </a>
+            </div>
+            <div className="flex shrink-0 items-center gap-2 sm:flex-col sm:items-end">
+              <div className="flex items-center gap-1">
+                <button
+                  type="button"
+                  onClick={() => goTo(activeIndex - 1)}
+                  disabled={activeIndex <= 0}
+                  aria-label="Previous state alphabetically"
+                  className="flex h-9 w-9 items-center justify-center rounded-lg border border-gray-200 text-gray-600 transition-colors hover:border-primary/50 hover:text-primary disabled:cursor-not-allowed disabled:opacity-30 disabled:hover:border-gray-200 disabled:hover:text-gray-600"
+                >
+                  <ChevronLeft className="h-4 w-4" />
+                </button>
+                <button
+                  type="button"
+                  onClick={() => goTo(activeIndex + 1)}
+                  disabled={activeIndex < 0 || activeIndex >= filteredStates.length - 1}
+                  aria-label="Next state alphabetically"
+                  className="flex h-9 w-9 items-center justify-center rounded-lg border border-gray-200 text-gray-600 transition-colors hover:border-primary/50 hover:text-primary disabled:cursor-not-allowed disabled:opacity-30 disabled:hover:border-gray-200 disabled:hover:text-gray-600"
+                >
+                  <ChevronRight className="h-4 w-4" />
+                </button>
+              </div>
+              <p className="text-xs font-medium text-gray-400">
+                A–Z · {activeIndex + 1} of {filteredStates.length}
+              </p>
             </div>
           </div>
 
