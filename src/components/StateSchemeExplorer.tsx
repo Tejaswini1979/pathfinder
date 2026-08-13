@@ -1,7 +1,7 @@
 "use client";
 
 import { useMemo, useState } from "react";
-import { ExternalLink, Landmark, MapPin, Search } from "lucide-react";
+import { ExternalLink, Landmark, MapPin, Minus, Plus, Search } from "lucide-react";
 import type {
   StateUt,
   StateRegion,
@@ -35,6 +35,7 @@ export default function StateSchemeExplorer({ states }: Props) {
   const [selectedName, setSelectedName] = useState<string | null>(null);
   const [category, setCategory] = useState<StateSchemeCategory | "ALL">("ALL");
   const [query, setQuery] = useState("");
+  const [showStates, setShowStates] = useState(false);
 
   const filteredStates = useMemo(() => {
     return region === "ALL" ? states : states.filter((s) => s.region === region);
@@ -85,23 +86,45 @@ export default function StateSchemeExplorer({ states }: Props) {
         ))}
       </div>
 
-      <div className="mt-4 grid grid-cols-2 gap-2 sm:grid-cols-3 lg:grid-cols-4">
-        {filteredStates.map((s) => (
-          <button
-            key={s.name}
-            type="button"
-            onClick={() => setSelectedName(s.name)}
-            className={`flex items-center gap-2 rounded-xl border px-3 py-2 text-left text-sm font-medium transition-colors ${
-              active?.name === s.name
-                ? "border-primary bg-primary text-white"
-                : "border-gray-200 bg-white text-gray-700 hover:border-primary/50 hover:bg-primary-light/50"
-            }`}
-          >
-            <MapPin className="h-3.5 w-3.5 shrink-0" />
-            <span className="truncate">{s.name}</span>
-          </button>
-        ))}
+      <div className="mt-4">
+        <button
+          type="button"
+          onClick={() => setShowStates((v) => !v)}
+          className="inline-flex items-center gap-2 rounded-full border border-gray-200 bg-white px-4 py-1.5 text-sm font-medium text-gray-700 transition-colors hover:border-primary/50 hover:text-primary"
+        >
+          {showStates ? (
+            <>
+              <Minus className="h-4 w-4" />
+              Hide states
+            </>
+          ) : (
+            <>
+              <Plus className="h-4 w-4" />
+              Show states ({filteredStates.length})
+            </>
+          )}
+        </button>
       </div>
+
+      {showStates && (
+        <div className="mt-4 grid grid-cols-2 gap-2 sm:grid-cols-3 lg:grid-cols-4">
+          {filteredStates.map((s) => (
+            <button
+              key={s.name}
+              type="button"
+              onClick={() => setSelectedName(s.name)}
+              className={`flex items-center gap-2 rounded-xl border px-3 py-2 text-left text-sm font-medium transition-colors ${
+                active?.name === s.name
+                  ? "border-primary bg-primary text-white"
+                  : "border-gray-200 bg-white text-gray-700 hover:border-primary/50 hover:bg-primary-light/50"
+              }`}
+            >
+              <MapPin className="h-3.5 w-3.5 shrink-0" />
+              <span className="truncate">{s.name}</span>
+            </button>
+          ))}
+        </div>
+      )}
 
       {active && (
         <>
