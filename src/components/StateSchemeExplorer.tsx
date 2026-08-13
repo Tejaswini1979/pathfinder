@@ -44,6 +44,7 @@ export default function StateSchemeExplorer({ states }: Props) {
   const [selectedName, setSelectedName] = useState<string | null>(null);
   const [category, setCategory] = useState<StateSchemeCategory | "ALL">("ALL");
   const [query, setQuery] = useState("");
+  const [stateQuery, setStateQuery] = useState("");
   const [showStates, setShowStates] = useState(false);
 
   const filteredStates = useMemo(() => {
@@ -52,12 +53,19 @@ export default function StateSchemeExplorer({ states }: Props) {
     return [...list].sort((a, b) => a.name.localeCompare(b.name));
   }, [states, region]);
 
+  const q = stateQuery.trim().toLowerCase();
+
+  const visibleStates = useMemo(() => {
+    if (!q) return filteredStates;
+    return filteredStates.filter((s) => s.name.toLowerCase().includes(q));
+  }, [filteredStates, q]);
+
   const active =
-    filteredStates.find((s) => s.name === selectedName) ?? filteredStates[0];
-  const activeIndex = active ? filteredStates.indexOf(active) : -1;
+    visibleStates.find((s) => s.name === selectedName) ?? visibleStates[0];
+  const activeIndex = active ? visibleStates.indexOf(active) : -1;
 
   const goTo = (index: number) => {
-    const target = filteredStates[index];
+    const target = visibleStates[index];
     if (target) setSelectedName(target.name);
   };
 
@@ -83,7 +91,21 @@ export default function StateSchemeExplorer({ states }: Props) {
 
   return (
     <div>
-      <div className="flex flex-wrap gap-2">
+      <div className="relative">
+        <Search className="pointer-events-none absolute left-4 top-1/2 h-4 w-4 -translate-y-1/2 text-gray-400" />
+        <input
+          type="search"
+          value={stateQuery}
+          onChange={(e) => {
+            setStateQuery(e.target.value);
+            setShowStates(true);
+          }}
+          placeholder="Search your state… e.g. Karnataka, Tamil Nadu"
+          className="h-11 w-full rounded-xl border border-gray-200 bg-white pl-11 pr-4 text-sm text-gray-900 shadow-sm outline-none transition-colors placeholder:text-gray-400 focus:border-primary focus:ring-2 focus:ring-primary/20"
+        />
+      </div>
+
+      <div className="mt-4 flex flex-wrap gap-2">
         {regionKeys.map((r) => (
           <button
             key={r}
@@ -104,28 +126,36 @@ export default function StateSchemeExplorer({ states }: Props) {
       </div>
 
       <div className="mt-4">
-        <button
-          type="button"
-          onClick={() => setShowStates((v) => !v)}
-          className="inline-flex items-center gap-2 rounded-full border border-gray-200 bg-white px-4 py-1.5 text-sm font-medium text-gray-700 transition-colors hover:border-primary/50 hover:text-primary"
-        >
-          {showStates ? (
-            <>
-              <Minus className="h-4 w-4" />
-              Hide states
-            </>
-          ) : (
-            <>
-              <Plus className="h-4 w-4" />
-              Show states ({filteredStates.length})
-            </>
-          )}
-        </button>
+        {q ? (
+          <p className="text-sm text-gray-500">
+            {visibleStates.length} state
+            {visibleStates.length === 1 ? "" : "s"} matching &quot;
+            {stateQuery.trim()}&quot;
+          </p>
+        ) : (
+          <button
+            type="button"
+            onClick={() => setShowStates((v) => !v)}
+            className="inline-flex items-center gap-2 rounded-full border border-gray-200 bg-white px-4 py-1.5 text-sm font-medium text-gray-700 transition-colors hover:border-primary/50 hover:text-primary"
+          >
+            {showStates ? (
+              <>
+                <Minus className="h-4 w-4" />
+                Hide states
+              </>
+            ) : (
+              <>
+                <Plus className="h-4 w-4" />
+                Show states ({filteredStates.length})
+              </>
+            )}
+          </button>
+        )}
       </div>
 
-      {showStates && (
+      {(showStates || q) && (
         <div className="mt-4 grid grid-cols-2 gap-2 sm:grid-cols-3 lg:grid-cols-4">
-          {filteredStates.map((s) => (
+          {visibleStates.map((s) => (
             <button
               key={s.name}
               type="button"
@@ -140,6 +170,12 @@ export default function StateSchemeExplorer({ states }: Props) {
               <span className="truncate">{s.name}</span>
             </button>
           ))}
+        </div>
+      )}
+
+      {q && visibleStates.length === 0 && (
+        <div className="mt-6 rounded-xl border border-dashed border-gray-300 p-8 text-center text-sm text-gray-500">
+          No state matches &quot;{stateQuery.trim()}&quot;. Try a different name.
         </div>
       )}
 
@@ -183,7 +219,7 @@ export default function StateSchemeExplorer({ states }: Props) {
                 <button
                   type="button"
                   onClick={() => goTo(activeIndex + 1)}
-                  disabled={activeIndex < 0 || activeIndex >= filteredStates.length - 1}
+                  disabled={activeIndex < 0 || activeIndex >= visibleStates.length - 1}
                   aria-label="Next state alphabetically"
                   className="flex h-9 w-9 items-center justify-center rounded-lg border border-gray-200 text-gray-600 transition-colors hover:border-primary/50 hover:text-primary disabled:cursor-not-allowed disabled:opacity-30 disabled:hover:border-gray-200 disabled:hover:text-gray-600"
                 >
@@ -191,7 +227,7 @@ export default function StateSchemeExplorer({ states }: Props) {
                 </button>
               </div>
               <p className="text-xs font-medium text-gray-400">
-                A–Z · {activeIndex + 1} of {filteredStates.length}
+                A–Z · {activeIndex + 1} of {visibleStates.length}
               </p>
             </div>
           </div>
