@@ -66,7 +66,7 @@ export default function Home() {
 
   return (
     <div className="flex flex-col">
-      <section className="bg-white">
+      <section className="bg-[radial-gradient(60rem_30rem_at_top,var(--color-primary-light),transparent_70%)] bg-white">
         <div className="mx-auto max-w-6xl px-4 pb-12 pt-14 sm:px-6 sm:pt-20">
           <div className="mx-auto max-w-3xl text-center">
             <span className="inline-flex items-center gap-1.5 rounded-full border border-gray-200 bg-gray-50 px-3 py-1 text-xs font-medium text-gray-600">
@@ -87,7 +87,7 @@ export default function Home() {
             <div className="mt-8 flex flex-col items-center justify-center gap-3 sm:flex-row">
               <Link
                 href="/quiz"
-                className="inline-flex h-12 w-full items-center justify-center gap-2 rounded-full bg-primary px-7 text-base font-semibold text-white shadow-sm transition-colors hover:bg-primary-dark sm:w-auto"
+                className="inline-flex h-12 w-full items-center justify-center gap-2 rounded-full bg-linear-to-r from-primary to-primary-dark px-7 text-base font-semibold text-white shadow-sm transition-colors hover:from-primary-dark hover:to-primary sm:w-auto"
               >
                 <Sparkles className="h-5 w-5" />
                 Start the quiz
@@ -252,7 +252,7 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="bg-primary">
+      <section className="bg-linear-to-br from-primary to-primary-dark">
         <div className="mx-auto flex max-w-6xl flex-col items-center gap-6 px-4 py-12 text-center sm:px-6">
           <span className="flex h-12 w-12 items-center justify-center rounded-2xl bg-white/15 text-white">
             <GraduationCap className="h-6 w-6" />

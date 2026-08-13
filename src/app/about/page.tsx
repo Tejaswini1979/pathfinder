@@ -118,7 +118,7 @@ export default function AboutPage() {
         </div>
       </section>
 
-      <section className="mt-10 rounded-2xl bg-primary p-8 text-center text-white">
+      <section className="mt-10 rounded-2xl bg-linear-to-br from-primary to-primary-dark p-8 text-center text-white">
         <h2 className="text-2xl font-bold tracking-tight">
           Not sure where to start?
         </h2>

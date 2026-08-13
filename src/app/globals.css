@@ -3,7 +3,7 @@
 :root {
   --background: #ffffff;
   --foreground: #1e293b;
-  --surface-muted: #f8fafc;
+  --surface-muted: #f0fdfa;
 }
 
 @theme inline {
@@ -15,11 +15,11 @@
 }
 
 @theme {
-  --color-primary: #334155;
-  --color-primary-dark: #1e293b;
-  --color-primary-light: #e2e8f0;
-  --color-accent: #2563eb;
-  --color-accent-light: #dbeafe;
+  --color-primary: #0f766e;
+  --color-primary-dark: #115e59;
+  --color-primary-light: #ccfbf1;
+  --color-accent: #f43f5e;
+  --color-accent-light: #ffe4e6;
   --color-warning: #f59e0b;
   --color-warning-light: #fef3c7;
   --color-info: #0ea5e9;

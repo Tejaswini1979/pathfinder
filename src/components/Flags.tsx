@@ -7,7 +7,7 @@ const styles = {
   },
   lowBudget: {
     label: "Low budget",
-    className: "bg-accent-light text-blue-700",
+    className: "bg-accent-light text-rose-700",
   },
   lowPercent: {
     label: "Low cutoff",

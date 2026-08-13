@@ -77,7 +77,7 @@ export default function Nav() {
               className={`inline-flex items-center gap-2 rounded-full px-4 py-2 text-sm font-semibold transition-colors ${
                 isActive(pathname, "/quiz")
                   ? "bg-primary-light text-primary"
-                  : "bg-primary text-white hover:bg-primary-dark"
+                  : "bg-linear-to-r from-primary to-primary-dark text-white hover:from-primary-dark hover:to-primary"
               }`}
             >
               <Sparkles className="h-4 w-4" />
