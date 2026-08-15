@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useRef, useState } from "react";
+import Link from "next/link";
 import "./GooeyNav.css";
 
 export interface GooeyNavItem {
@@ -218,13 +219,13 @@ export default function GooeyNav({
         <ul ref={navRef}>
           {items.map((item, index) => (
             <li key={index} className={activeIndex === index ? "active" : ""}>
-              <a
+              <Link
                 href={item.href}
                 onClick={(e) => handleClick(e, index)}
                 onKeyDown={(e) => handleKeyDown(e, index)}
               >
                 {item.label}
-              </a>
+              </Link>
             </li>
           ))}
         </ul>

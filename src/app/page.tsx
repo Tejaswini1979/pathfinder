@@ -14,6 +14,7 @@ import {
 } from "lucide-react";
 import DomainCard from "@/components/DomainCard";
 import EducationBackdrop from "@/components/EducationBackdrop";
+import GooeyNav from "@/components/GooeyNav";
 import {
   getDomainMetaList,
   getAllSubPaths,
@@ -30,6 +31,15 @@ const streamIcons: Record<string, typeof Atom> = {
   arts: Palette,
   vocational: FlaskConical,
 };
+
+const gooeyItems = [
+  { label: "Streams", href: "/streams" },
+  { label: "Careers", href: "/careers" },
+  { label: "Courses", href: "/courses" },
+  { label: "Exams", href: "/exams" },
+  { label: "Roadmaps", href: "/roadmaps" },
+  { label: "Schemes", href: "/schemes" },
+];
 
 const featureCards = [
   {
@@ -121,6 +131,19 @@ export default function Home() {
                 </div>
               </div>
             ))}
+          </div>
+
+          <div className="mt-14 sm:mt-16">
+            <GooeyNav
+              items={gooeyItems}
+              particleCount={15}
+              particleDistances={[90, 10]}
+              particleR={100}
+              animationTime={600}
+              timeVariance={300}
+              colors={[1, 2, 3, 1, 2, 3, 1, 4]}
+              initialActiveIndex={0}
+            />
           </div>
         </div>
       </section>
