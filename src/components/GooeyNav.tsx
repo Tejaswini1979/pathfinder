@@ -11,6 +11,7 @@ export interface GooeyNavItem {
 
 interface GooeyNavProps {
   items: GooeyNavItem[];
+  className?: string;
   animationTime?: number;
   particleCount?: number;
   particleDistances?: [number, number];
@@ -117,6 +118,7 @@ const makeParticles = (
 
 export default function GooeyNav({
   items,
+  className = "",
   animationTime = 600,
   particleCount = 15,
   particleDistances = [90, 10],
@@ -214,7 +216,7 @@ export default function GooeyNav({
   }, [activeIndex]);
 
   return (
-    <div className="gooey-nav-container" ref={containerRef}>
+    <div className={`gooey-nav-container ${className}`} ref={containerRef}>
       <nav>
         <ul ref={navRef}>
           {items.map((item, index) => (
