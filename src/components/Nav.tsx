@@ -4,7 +4,6 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { Compass, Home, Bookmark, Wallet, Sparkles, Map } from "lucide-react";
 import { useSavedStore } from "@/lib/saved-store";
-import GooeyNav from "@/components/GooeyNav";
 
 const desktopLinks = [
   { href: "/streams", label: "Streams" },
@@ -30,10 +29,6 @@ function isActive(pathname: string, href: string) {
 export default function Nav() {
   const pathname = usePathname();
   const savedCount = useSavedStore((s) => s.count);
-  const initialActiveIndex = Math.max(
-    0,
-    desktopLinks.findIndex((link) => isActive(pathname, link.href))
-  );
 
   return (
     <>
@@ -48,19 +43,21 @@ export default function Nav() {
             </span>
           </Link>
 
-          <div className="hidden lg:block">
-            <GooeyNav
-              className="gooey-nav-compact"
-              items={desktopLinks}
-              particleCount={12}
-              particleDistances={[70, 10]}
-              particleR={90}
-              animationTime={600}
-              timeVariance={300}
-              colors={[1, 2, 3, 1, 2, 3, 1, 4]}
-              initialActiveIndex={initialActiveIndex}
-            />
-          </div>
+          <nav className="hidden items-center gap-1 lg:flex">
+            {desktopLinks.map((link) => (
+              <Link
+                key={link.href}
+                href={link.href}
+                className={`rounded-full px-3.5 py-2 text-sm font-medium transition-colors ${
+                  isActive(pathname, link.href)
+                    ? "bg-primary-light text-primary"
+                    : "text-gray-600 hover:bg-gray-100 hover:text-gray-900"
+                }`}
+              >
+                {link.label}
+              </Link>
+            ))}
+          </nav>
 
           <div className="hidden items-center gap-2 md:flex">
             <Link
