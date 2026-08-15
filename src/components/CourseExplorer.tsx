@@ -4,6 +4,7 @@ import { useMemo, useState } from "react";
 import { Search } from "lucide-react";
 import type { Course } from "@/data/courses";
 import CourseCard from "@/components/CourseCard";
+import CourseDetailModal from "@/components/CourseDetailModal";
 
 interface Props {
   courses: Course[];
@@ -15,6 +16,7 @@ export default function CourseExplorer({ courses, streams, levels }: Props) {
   const [query, setQuery] = useState("");
   const [stream, setStream] = useState("all");
   const [level, setLevel] = useState("all");
+  const [selected, setSelected] = useState<Course | null>(null);
 
   const filtered = useMemo(() => {
     const q = query.trim().toLowerCase();
@@ -78,7 +80,11 @@ export default function CourseExplorer({ courses, streams, levels }: Props) {
 
       <div className="mt-5 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
         {filtered.map((course) => (
-          <CourseCard key={course.id} course={course} />
+          <CourseCard
+            key={course.id}
+            course={course}
+            onClick={() => setSelected(course)}
+          />
         ))}
       </div>
 
@@ -87,6 +93,11 @@ export default function CourseExplorer({ courses, streams, levels }: Props) {
           No courses match your filters.
         </div>
       )}
+
+      <CourseDetailModal
+        course={selected}
+        onClose={() => setSelected(null)}
+      />
     </div>
   );
 }

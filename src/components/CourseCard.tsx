@@ -1,10 +1,30 @@
 import Link from "next/link";
-import { Clock, GraduationCap } from "lucide-react";
+import { ChevronRight, Clock, GraduationCap } from "lucide-react";
 import type { Course } from "@/data/courses";
 
-export default function CourseCard({ course }: { course: Course }) {
+interface Props {
+  course: Course;
+  onClick?: () => void;
+}
+
+export default function CourseCard({ course, onClick }: Props) {
   return (
-    <div className="flex flex-col rounded-xl border border-gray-200 bg-white p-5 shadow-sm transition-all hover:shadow-md">
+    <div
+      role="button"
+      tabIndex={0}
+      onClick={onClick}
+      onKeyDown={(e) => {
+        if (onClick && (e.key === "Enter" || e.key === " ")) {
+          e.preventDefault();
+          onClick();
+        }
+      }}
+      className={`flex flex-col rounded-xl border border-gray-200 bg-white p-5 shadow-sm transition-all ${
+        onClick
+          ? "cursor-pointer hover:-translate-y-0.5 hover:border-primary/50 hover:shadow-md"
+          : ""
+      }`}
+    >
       <div className="flex flex-wrap gap-1.5">
         <span className="rounded-full bg-primary-light px-2.5 py-0.5 text-[11px] font-semibold text-primary">
           {course.stream}
@@ -36,6 +56,7 @@ export default function CourseCard({ course }: { course: Course }) {
         {course.entranceExam !== "None" && course.entranceExam && (
           <Link
             href={`/exams`}
+            onClick={(e) => e.stopPropagation()}
             className="font-medium text-primary hover:text-primary-dark"
           >
             {course.entranceExam}
@@ -54,6 +75,13 @@ export default function CourseCard({ course }: { course: Course }) {
             </span>
           ))}
         </div>
+      )}
+
+      {onClick && (
+        <span className="mt-4 inline-flex items-center gap-1 text-sm font-medium text-primary">
+          View eligibility & subjects
+          <ChevronRight className="h-4 w-4" />
+        </span>
       )}
     </div>
   );

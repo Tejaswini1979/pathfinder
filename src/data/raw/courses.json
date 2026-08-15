@@ -12,7 +12,17 @@
       "IT",
       "Technology"
     ],
-    "description": "Software development, programming, and computer systems"
+    "description": "Software development, programming, and computer systems",
+    "subjects": [
+      "Programming Fundamentals",
+      "Data Structures & Algorithms",
+      "Object-Oriented Programming",
+      "Database Management Systems",
+      "Operating Systems",
+      "Computer Networks",
+      "Software Engineering",
+      "Engineering Mathematics"
+    ]
   },
   {
     "id": "btech-it",
@@ -27,7 +37,16 @@
       "IT",
       "Technology"
     ],
-    "description": "IT infrastructure and software applications"
+    "description": "IT infrastructure and software applications",
+    "subjects": [
+      "Programming Fundamentals",
+      "Data Structures & Algorithms",
+      "Web Technologies",
+      "Database Management Systems",
+      "Computer Networks",
+      "Operating Systems",
+      "Software Engineering"
+    ]
   },
   {
     "id": "btech-mech",
@@ -41,7 +60,15 @@
     "careerInterest": [
       "Technology"
     ],
-    "description": "Design and manufacturing of mechanical systems"
+    "description": "Design and manufacturing of mechanical systems",
+    "subjects": [
+      "Engineering Mathematics",
+      "Thermodynamics",
+      "Strength of Materials",
+      "Fluid Mechanics",
+      "Machine Design",
+      "Manufacturing Processes"
+    ]
   },
   {
     "id": "btech-civil",
@@ -55,7 +82,15 @@
     "careerInterest": [
       "Technology"
     ],
-    "description": "Construction and infrastructure development"
+    "description": "Construction and infrastructure development",
+    "subjects": [
+      "Engineering Mathematics",
+      "Structural Analysis",
+      "Construction Materials & Technology",
+      "Geotechnical Engineering",
+      "Surveying",
+      "Reinforced Concrete Design"
+    ]
   },
   {
     "id": "btech-electrical",
@@ -69,7 +104,15 @@
     "careerInterest": [
       "Technology"
     ],
-    "description": "Electrical systems and power generation"
+    "description": "Electrical systems and power generation",
+    "subjects": [
+      "Engineering Mathematics",
+      "Circuit Theory",
+      "Electrical Machines",
+      "Power Systems",
+      "Control Systems",
+      "Digital Electronics"
+    ]
   },
   {
     "id": "btech-ece",
@@ -83,7 +126,15 @@
     "careerInterest": [
       "Technology"
     ],
-    "description": "Electronics and communication systems"
+    "description": "Electronics and communication systems",
+    "subjects": [
+      "Engineering Mathematics",
+      "Circuit Theory",
+      "Analog & Digital Electronics",
+      "Signals & Systems",
+      "Communication Systems",
+      "Microprocessors"
+    ]
   },
   {
     "id": "btech-ai-ml",
@@ -98,7 +149,16 @@
       "IT",
       "Technology"
     ],
-    "description": "Artificial intelligence and machine learning"
+    "description": "Artificial intelligence and machine learning",
+    "subjects": [
+      "Programming Fundamentals",
+      "Data Structures & Algorithms",
+      "Machine Learning",
+      "Deep Learning",
+      "Statistics & Probability",
+      "Data Visualization",
+      "Neural Networks"
+    ]
   },
   {
     "id": "btech-ds",
@@ -113,7 +173,15 @@
       "IT",
       "Technology"
     ],
-    "description": "Data analysis and big data technologies"
+    "description": "Data analysis and big data technologies",
+    "subjects": [
+      "Programming Fundamentals",
+      "Statistics & Probability",
+      "Machine Learning",
+      "Big Data Technologies",
+      "Data Visualization",
+      "Database Management Systems"
+    ]
   },
   {
     "id": "btech-cyber",
@@ -128,7 +196,15 @@
       "IT",
       "Technology"
     ],
-    "description": "Information security and cyber defense"
+    "description": "Information security and cyber defense",
+    "subjects": [
+      "Programming Fundamentals",
+      "Network Security",
+      "Cryptography",
+      "Ethical Hacking",
+      "Digital Forensics",
+      "Cybersecurity Law"
+    ]
   },
   {
     "id": "btech-robotics",
@@ -142,7 +218,15 @@
     "careerInterest": [
       "Technology"
     ],
-    "description": "Robotics and industrial automation"
+    "description": "Robotics and industrial automation",
+    "subjects": [
+      "Engineering Mathematics",
+      "Robotics",
+      "Control Systems",
+      "Sensors & Actuators",
+      "Embedded Systems",
+      "Machine Learning"
+    ]
   },
   {
     "id": "btech-mechatronics",
@@ -156,7 +240,15 @@
     "careerInterest": [
       "Technology"
     ],
-    "description": "Mechanical, electronics, and computer engineering"
+    "description": "Mechanical, electronics, and computer engineering",
+    "subjects": [
+      "Engineering Mathematics",
+      "Mechatronics",
+      "Control Systems",
+      "Embedded Systems",
+      "Mechanical Design",
+      "Electronics"
+    ]
   },
   {
     "id": "btech-auto",
@@ -170,7 +262,15 @@
     "careerInterest": [
       "Technology"
     ],
-    "description": "Vehicle design and automotive technology"
+    "description": "Vehicle design and automotive technology",
+    "subjects": [
+      "Engineering Mathematics",
+      "Automobile Systems",
+      "Internal Combustion Engines",
+      "Vehicle Dynamics",
+      "Thermodynamics",
+      "Manufacturing Processes"
+    ]
   },
   {
     "id": "btech-aero",
@@ -184,7 +284,15 @@
     "careerInterest": [
       "Technology"
     ],
-    "description": "Aircraft and spacecraft engineering"
+    "description": "Aircraft and spacecraft engineering",
+    "subjects": [
+      "Engineering Mathematics",
+      "Aerodynamics",
+      "Aircraft Structures",
+      "Propulsion Systems",
+      "Flight Mechanics",
+      "Aerospace Materials"
+    ]
   },
   {
     "id": "btech-biomed",
@@ -199,7 +307,15 @@
       "Healthcare",
       "Technology"
     ],
-    "description": "Medical devices and healthcare technology"
+    "description": "Medical devices and healthcare technology",
+    "subjects": [
+      "Engineering Mathematics",
+      "Human Anatomy",
+      "Biomedical Instrumentation",
+      "Biomechanics",
+      "Medical Imaging Systems",
+      "Signal Processing"
+    ]
   },
   {
     "id": "btech-chem",
@@ -213,7 +329,15 @@
     "careerInterest": [
       "Technology"
     ],
-    "description": "Chemical processes and manufacturing"
+    "description": "Chemical processes and manufacturing",
+    "subjects": [
+      "Engineering Mathematics",
+      "Chemical Process Calculations",
+      "Fluid Mechanics",
+      "Heat Transfer",
+      "Chemical Reaction Engineering",
+      "Process Control"
+    ]
   },
   {
     "id": "mbbs",
@@ -227,7 +351,17 @@
     "careerInterest": [
       "Healthcare"
     ],
-    "description": "Bachelor of Medicine & Surgery"
+    "description": "Bachelor of Medicine & Surgery",
+    "subjects": [
+      "Human Anatomy",
+      "Physiology",
+      "Biochemistry",
+      "Pathology",
+      "Pharmacology",
+      "Microbiology",
+      "Community Medicine",
+      "Forensic Medicine"
+    ]
   },
   {
     "id": "bds",
@@ -241,7 +375,15 @@
     "careerInterest": [
       "Healthcare"
     ],
-    "description": "Dental Surgery"
+    "description": "Dental Surgery",
+    "subjects": [
+      "Dental Anatomy",
+      "Oral Pathology",
+      "Dental Materials",
+      "Conservative Dentistry",
+      "Oral & Maxillofacial Surgery",
+      "Periodontics"
+    ]
   },
   {
     "id": "bams",
@@ -255,7 +397,15 @@
     "careerInterest": [
       "Healthcare"
     ],
-    "description": "Ayurvedic Medicine"
+    "description": "Ayurvedic Medicine",
+    "subjects": [
+      "Ayurveda Fundamentals",
+      "Anatomy (Rachana Sharir)",
+      "Physiology (Kriya Sharir)",
+      "Pharmacology (Dravyaguna)",
+      "Panchakarma",
+      "Roga Nidan"
+    ]
   },
   {
     "id": "bhms",
@@ -269,7 +419,15 @@
     "careerInterest": [
       "Healthcare"
     ],
-    "description": "Homeopathy"
+    "description": "Homeopathy",
+    "subjects": [
+      "Homoeopathic Materia Medica",
+      "Organon of Medicine",
+      "Anatomy",
+      "Physiology",
+      "Homoeopathic Pharmacy",
+      "Repertory"
+    ]
   },
   {
     "id": "bums",
@@ -283,7 +441,14 @@
     "careerInterest": [
       "Healthcare"
     ],
-    "description": "Unani Medicine"
+    "description": "Unani Medicine",
+    "subjects": [
+      "Unani Fundamentals",
+      "Anatomy",
+      "Physiology",
+      "Ilaj-bit-Tadbeer",
+      "Dawasazi (Pharmacy)"
+    ]
   },
   {
     "id": "bsc-nursing",
@@ -297,7 +462,15 @@
     "careerInterest": [
       "Healthcare"
     ],
-    "description": "Professional nursing degree"
+    "description": "Professional nursing degree",
+    "subjects": [
+      "Human Anatomy & Physiology",
+      "Nursing Fundamentals",
+      "Medical-Surgical Nursing",
+      "Community Health Nursing",
+      "Pharmacology",
+      "Midwifery & Obstetrics"
+    ]
   },
   {
     "id": "gnm",
@@ -311,7 +484,14 @@
     "careerInterest": [
       "Healthcare"
     ],
-    "description": "General Nursing & Midwifery"
+    "description": "General Nursing & Midwifery",
+    "subjects": [
+      "Human Anatomy & Physiology",
+      "Nursing Fundamentals",
+      "Community Health Nursing",
+      "Medical-Surgical Nursing",
+      "First Aid"
+    ]
   },
   {
     "id": "bpharm",
@@ -325,7 +505,15 @@
     "careerInterest": [
       "Healthcare"
     ],
-    "description": "Bachelor of Pharmacy"
+    "description": "Bachelor of Pharmacy",
+    "subjects": [
+      "Pharmaceutical Chemistry",
+      "Pharmacognosy",
+      "Pharmaceutics",
+      "Pharmacology",
+      "Biochemistry",
+      "Pharmacy Practice"
+    ]
   },
   {
     "id": "dpharm",
@@ -339,7 +527,14 @@
     "careerInterest": [
       "Healthcare"
     ],
-    "description": "Diploma in Pharmacy"
+    "description": "Diploma in Pharmacy",
+    "subjects": [
+      "Pharmaceutical Chemistry",
+      "Pharmacognosy",
+      "Pharmaceutics",
+      "Pharmacology",
+      "Hospital Pharmacy"
+    ]
   },
   {
     "id": "pharmd",
@@ -353,7 +548,15 @@
     "careerInterest": [
       "Healthcare"
     ],
-    "description": "Doctor of Pharmacy"
+    "description": "Doctor of Pharmacy",
+    "subjects": [
+      "Pharmaceutical Chemistry",
+      "Pharmacology",
+      "Clinical Pharmacy",
+      "Pharmacotherapeutics",
+      "Hospital Practice",
+      "Biostatistics"
+    ]
   },
   {
     "id": "bpt",
@@ -367,7 +570,15 @@
     "careerInterest": [
       "Healthcare"
     ],
-    "description": "Physiotherapy"
+    "description": "Physiotherapy",
+    "subjects": [
+      "Human Anatomy",
+      "Physiology",
+      "Kinesiology",
+      "Exercise Therapy",
+      "Biomechanics",
+      "Neurophysiotherapy"
+    ]
   },
   {
     "id": "bmlt",
@@ -381,7 +592,15 @@
     "careerInterest": [
       "Healthcare"
     ],
-    "description": "Medical Lab Technology"
+    "description": "Medical Lab Technology",
+    "subjects": [
+      "Clinical Biochemistry",
+      "Hematology",
+      "Microbiology",
+      "Pathology",
+      "Immunology",
+      "Clinical Diagnostics"
+    ]
   },
   {
     "id": "radiology",
@@ -395,7 +614,14 @@
     "careerInterest": [
       "Healthcare"
     ],
-    "description": "Medical imaging and radiology"
+    "description": "Medical imaging and radiology",
+    "subjects": [
+      "Human Anatomy",
+      "Radiographic Techniques",
+      "Medical Imaging",
+      "Radiation Physics",
+      "CT & MRI Technology"
+    ]
   },
   {
     "id": "ott",
@@ -409,7 +635,14 @@
     "careerInterest": [
       "Healthcare"
     ],
-    "description": "OT assistance and surgical technology"
+    "description": "OT assistance and surgical technology",
+    "subjects": [
+      "Human Anatomy",
+      "Anaesthesia Equipment",
+      "Operation Theatre Techniques",
+      "Sterilization & Infection Control",
+      "Surgical Nursing"
+    ]
   },
   {
     "id": "bsc-math",
@@ -423,7 +656,14 @@
     "careerInterest": [
       "Technology"
     ],
-    "description": "Pure and applied mathematics"
+    "description": "Pure and applied mathematics",
+    "subjects": [
+      "Calculus",
+      "Linear Algebra",
+      "Real Analysis",
+      "Probability & Statistics",
+      "Discrete Mathematics"
+    ]
   },
   {
     "id": "bsc-physics",
@@ -437,7 +677,14 @@
     "careerInterest": [
       "Technology"
     ],
-    "description": "Theoretical and experimental physics"
+    "description": "Theoretical and experimental physics",
+    "subjects": [
+      "Classical Mechanics",
+      "Electromagnetism",
+      "Quantum Mechanics",
+      "Thermodynamics",
+      "Mathematical Physics"
+    ]
   },
   {
     "id": "bsc-chem",
@@ -451,7 +698,13 @@
     "careerInterest": [
       "Technology"
     ],
-    "description": "Chemical sciences and research"
+    "description": "Chemical sciences and research",
+    "subjects": [
+      "Organic Chemistry",
+      "Inorganic Chemistry",
+      "Physical Chemistry",
+      "Analytical Chemistry"
+    ]
   },
   {
     "id": "bsc-stats",
@@ -465,7 +718,14 @@
     "careerInterest": [
       "Technology"
     ],
-    "description": "Statistical analysis and data science"
+    "description": "Statistical analysis and data science",
+    "subjects": [
+      "Probability Theory",
+      "Statistical Inference",
+      "Regression Analysis",
+      "Sampling Techniques",
+      "Operations Research"
+    ]
   },
   {
     "id": "bsc-cs",
@@ -480,7 +740,15 @@
       "IT",
       "Technology"
     ],
-    "description": "Computer science fundamentals"
+    "description": "Computer science fundamentals",
+    "subjects": [
+      "Programming Fundamentals",
+      "Data Structures",
+      "Database Management Systems",
+      "Operating Systems",
+      "Computer Networks",
+      "Discrete Mathematics"
+    ]
   },
   {
     "id": "bsc-it",
@@ -495,7 +763,14 @@
       "IT",
       "Technology"
     ],
-    "description": "IT and software applications"
+    "description": "IT and software applications",
+    "subjects": [
+      "Programming Fundamentals",
+      "Web Technologies",
+      "Database Management Systems",
+      "Computer Networks",
+      "Software Engineering"
+    ]
   },
   {
     "id": "bca",
@@ -510,7 +785,15 @@
       "IT",
       "Technology"
     ],
-    "description": "Computer Applications"
+    "description": "Computer Applications",
+    "subjects": [
+      "Programming in C/C++",
+      "Data Structures",
+      "Database Management",
+      "Web Development",
+      "Computer Networks",
+      "Operating Systems"
+    ]
   },
   {
     "id": "bsc-ds",
@@ -525,7 +808,14 @@
       "IT",
       "Technology"
     ],
-    "description": "Data analytics and AI"
+    "description": "Data analytics and AI",
+    "subjects": [
+      "Programming Fundamentals",
+      "Statistics & Probability",
+      "Machine Learning",
+      "Data Visualization",
+      "Big Data Technologies"
+    ]
   },
   {
     "id": "bsc-ai",
@@ -540,7 +830,14 @@
       "IT",
       "Technology"
     ],
-    "description": "AI and machine learning"
+    "description": "AI and machine learning",
+    "subjects": [
+      "Programming Fundamentals",
+      "Machine Learning",
+      "Data Structures",
+      "Neural Networks",
+      "Natural Language Processing"
+    ]
   },
   {
     "id": "bsc-biotech",
@@ -554,7 +851,15 @@
     "careerInterest": [
       "Healthcare"
     ],
-    "description": "Biological technology and research"
+    "description": "Biological technology and research",
+    "subjects": [
+      "Cell Biology",
+      "Molecular Biology",
+      "Biochemistry",
+      "Microbiology",
+      "Genetic Engineering",
+      "Bioinformatics"
+    ]
   },
   {
     "id": "bsc-micro",
@@ -568,7 +873,14 @@
     "careerInterest": [
       "Healthcare"
     ],
-    "description": "Study of microorganisms"
+    "description": "Study of microorganisms",
+    "subjects": [
+      "Microbiology",
+      "Cell Biology",
+      "Immunology",
+      "Microbial Genetics",
+      "Virology"
+    ]
   },
   {
     "id": "bsc-biochem",
@@ -582,7 +894,14 @@
     "careerInterest": [
       "Healthcare"
     ],
-    "description": "Chemical processes in living organisms"
+    "description": "Chemical processes in living organisms",
+    "subjects": [
+      "Biochemistry",
+      "Cell Biology",
+      "Molecular Biology",
+      "Enzymology",
+      "Clinical Biochemistry"
+    ]
   },
   {
     "id": "bsc-zoo",
@@ -596,7 +915,14 @@
     "careerInterest": [
       "Healthcare"
     ],
-    "description": "Animal biology and wildlife"
+    "description": "Animal biology and wildlife",
+    "subjects": [
+      "Animal Physiology",
+      "Cell Biology",
+      "Genetics",
+      "Evolution",
+      "Ecology"
+    ]
   },
   {
     "id": "bsc-bot",
@@ -610,7 +936,14 @@
     "careerInterest": [
       "Healthcare"
     ],
-    "description": "Plant biology and agriculture"
+    "description": "Plant biology and agriculture",
+    "subjects": [
+      "Plant Anatomy",
+      "Plant Physiology",
+      "Genetics",
+      "Ecology",
+      "Taxonomy"
+    ]
   },
   {
     "id": "bsc-env",
@@ -624,7 +957,14 @@
     "careerInterest": [
       "Technology"
     ],
-    "description": "Environmental conservation"
+    "description": "Environmental conservation",
+    "subjects": [
+      "Environmental Chemistry",
+      "Ecology",
+      "Pollution Control",
+      "Environmental Microbiology",
+      "Environmental Law"
+    ]
   },
   {
     "id": "bsc-forensic",
@@ -638,7 +978,14 @@
     "careerInterest": [
       "Government"
     ],
-    "description": "Crime investigation and forensics"
+    "description": "Crime investigation and forensics",
+    "subjects": [
+      "Forensic Science",
+      "Criminology",
+      "Toxicology",
+      "DNA Analysis",
+      "Crime Scene Investigation"
+    ]
   },
   {
     "id": "bsc-food",
@@ -652,7 +999,14 @@
     "careerInterest": [
       "Healthcare"
     ],
-    "description": "Nutrition and food technology"
+    "description": "Nutrition and food technology",
+    "subjects": [
+      "Food Chemistry",
+      "Food Microbiology",
+      "Nutrition Science",
+      "Food Processing & Preservation",
+      "Food Safety"
+    ]
   },
   {
     "id": "bcom",
@@ -666,7 +1020,15 @@
     "careerInterest": [
       "Business"
     ],
-    "description": "General commerce degree"
+    "description": "General commerce degree",
+    "subjects": [
+      "Financial Accounting",
+      "Corporate Accounting",
+      "Business Law",
+      "Income Tax",
+      "Management Accounting",
+      "Business Economics"
+    ]
   },
   {
     "id": "bcom-af",
@@ -680,7 +1042,15 @@
     "careerInterest": [
       "Business"
     ],
-    "description": "Accounting and financial management"
+    "description": "Accounting and financial management",
+    "subjects": [
+      "Financial Accounting",
+      "Corporate Accounting",
+      "Cost Accounting",
+      "Financial Management",
+      "Income Tax",
+      "Auditing"
+    ]
   },
   {
     "id": "bcom-cs",
@@ -694,7 +1064,14 @@
     "careerInterest": [
       "Business"
     ],
-    "description": "Corporate governance"
+    "description": "Corporate governance",
+    "subjects": [
+      "Corporate Law",
+      "Company Secretaryship",
+      "Corporate Governance",
+      "Securities Law",
+      "Business Law"
+    ]
   },
   {
     "id": "bba",
@@ -708,7 +1085,15 @@
     "careerInterest": [
       "Business"
     ],
-    "description": "Business Administration"
+    "description": "Business Administration",
+    "subjects": [
+      "Principles of Management",
+      "Marketing Management",
+      "Human Resource Management",
+      "Financial Management",
+      "Business Statistics",
+      "Organizational Behavior"
+    ]
   },
   {
     "id": "bms",
@@ -722,7 +1107,14 @@
     "careerInterest": [
       "Business"
     ],
-    "description": "Management Studies"
+    "description": "Management Studies",
+    "subjects": [
+      "Principles of Management",
+      "Marketing Management",
+      "Financial Management",
+      "Organizational Behavior",
+      "Business Research Methods"
+    ]
   },
   {
     "id": "ca",
@@ -736,7 +1128,15 @@
     "careerInterest": [
       "Business"
     ],
-    "description": "Chartered Accountant"
+    "description": "Chartered Accountant",
+    "subjects": [
+      "Financial Accounting",
+      "Corporate & Other Laws",
+      "Cost Accounting",
+      "Income Tax",
+      "Auditing",
+      "Financial Management"
+    ]
   },
   {
     "id": "cma",
@@ -750,7 +1150,14 @@
     "careerInterest": [
       "Business"
     ],
-    "description": "Cost & Management Accountant"
+    "description": "Cost & Management Accountant",
+    "subjects": [
+      "Cost & Management Accounting",
+      "Financial Reporting",
+      "Direct & Indirect Taxes",
+      "Auditing",
+      "Corporate Law"
+    ]
   },
   {
     "id": "cs",
@@ -764,7 +1171,14 @@
     "careerInterest": [
       "Business"
     ],
-    "description": "Company Secretary"
+    "description": "Company Secretary",
+    "subjects": [
+      "Company Law",
+      "Corporate Governance",
+      "Securities Law",
+      "Corporate Accounting",
+      "Company Secretaryship Practice"
+    ]
   },
   {
     "id": "bcom-banking",
@@ -778,7 +1192,14 @@
     "careerInterest": [
       "Business"
     ],
-    "description": "Banking and insurance sector"
+    "description": "Banking and insurance sector",
+    "subjects": [
+      "Banking Theory & Practice",
+      "Insurance Principles",
+      "Financial Markets",
+      "Risk Management",
+      "Financial Accounting"
+    ]
   },
   {
     "id": "bcom-ib",
@@ -792,7 +1213,14 @@
     "careerInterest": [
       "Business"
     ],
-    "description": "Global business and trade"
+    "description": "Global business and trade",
+    "subjects": [
+      "International Business",
+      "Export-Import Management",
+      "Foreign Exchange Management",
+      "Trade Documentation",
+      "International Marketing"
+    ]
   },
   {
     "id": "bba-mba",
@@ -806,7 +1234,15 @@
     "careerInterest": [
       "Business"
     ],
-    "description": "Combined management degree"
+    "description": "Combined management degree",
+    "subjects": [
+      "Principles of Management",
+      "Marketing Management",
+      "Human Resource Management",
+      "Financial Management",
+      "Strategic Management",
+      "Business Analytics"
+    ]
   },
   {
     "id": "ba-english",
@@ -820,7 +1256,14 @@
     "careerInterest": [
       "Creative"
     ],
-    "description": "English literature and language"
+    "description": "English literature and language",
+    "subjects": [
+      "English Literature",
+      "Literary Criticism",
+      "Linguistics",
+      "Creative Writing",
+      "Drama & Poetry"
+    ]
   },
   {
     "id": "ba-lang",
@@ -834,7 +1277,13 @@
     "careerInterest": [
       "Creative"
     ],
-    "description": "Tamil/Hindi/Other languages"
+    "description": "Tamil/Hindi/Other languages",
+    "subjects": [
+      "Language Studies",
+      "Linguistics",
+      "Translation Studies",
+      "Comparative Literature"
+    ]
   },
   {
     "id": "ba-history",
@@ -848,7 +1297,14 @@
     "careerInterest": [
       "Creative"
     ],
-    "description": "Historical studies"
+    "description": "Historical studies",
+    "subjects": [
+      "Ancient Indian History",
+      "Medieval History",
+      "Modern History",
+      "World History",
+      "Historiography"
+    ]
   },
   {
     "id": "ba-eco",
@@ -862,7 +1318,14 @@
     "careerInterest": [
       "Business"
     ],
-    "description": "Economic theory and policy"
+    "description": "Economic theory and policy",
+    "subjects": [
+      "Microeconomics",
+      "Macroeconomics",
+      "Statistics for Economics",
+      "Indian Economy",
+      "Development Economics"
+    ]
   },
   {
     "id": "ba-pol",
@@ -876,7 +1339,14 @@
     "careerInterest": [
       "Government"
     ],
-    "description": "Politics and governance"
+    "description": "Politics and governance",
+    "subjects": [
+      "Political Theory",
+      "Indian Constitution",
+      "International Relations",
+      "Public Policy",
+      "Comparative Politics"
+    ]
   },
   {
     "id": "ba-soc",
@@ -890,7 +1360,13 @@
     "careerInterest": [
       "Creative"
     ],
-    "description": "Society and social behavior"
+    "description": "Society and social behavior",
+    "subjects": [
+      "Sociological Theories",
+      "Indian Society",
+      "Social Research Methods",
+      "Gender Studies"
+    ]
   },
   {
     "id": "ba-psy",
@@ -904,7 +1380,14 @@
     "careerInterest": [
       "Healthcare"
     ],
-    "description": "Human behavior and mental health"
+    "description": "Human behavior and mental health",
+    "subjects": [
+      "General Psychology",
+      "Cognitive Psychology",
+      "Developmental Psychology",
+      "Social Psychology",
+      "Psychological Testing"
+    ]
   },
   {
     "id": "ba-geo",
@@ -918,7 +1401,13 @@
     "careerInterest": [
       "Creative"
     ],
-    "description": "Physical and human geography"
+    "description": "Physical and human geography",
+    "subjects": [
+      "Physical Geography",
+      "Human Geography",
+      "Geomorphology",
+      "Cartography"
+    ]
   },
   {
     "id": "ba-pa",
@@ -932,7 +1421,13 @@
     "careerInterest": [
       "Government"
     ],
-    "description": "Public sector management"
+    "description": "Public sector management",
+    "subjects": [
+      "Public Administration",
+      "Indian Administration",
+      "Administrative Theory",
+      "Public Policy"
+    ]
   },
   {
     "id": "journalism",
@@ -946,7 +1441,14 @@
     "careerInterest": [
       "Creative"
     ],
-    "description": "Media and journalism"
+    "description": "Media and journalism",
+    "subjects": [
+      "Reporting & Editing",
+      "Mass Communication",
+      "Media Ethics",
+      "Digital Media",
+      "Photography"
+    ]
   },
   {
     "id": "visual-comm",
@@ -960,7 +1462,14 @@
     "careerInterest": [
       "Creative"
     ],
-    "description": "Visual media and design"
+    "description": "Visual media and design",
+    "subjects": [
+      "Visual Design",
+      "Film Studies",
+      "Animation Basics",
+      "Photography",
+      "Graphic Design"
+    ]
   },
   {
     "id": "animation",
@@ -974,7 +1483,14 @@
     "careerInterest": [
       "Creative"
     ],
-    "description": "Animation and digital media"
+    "description": "Animation and digital media",
+    "subjects": [
+      "2D Animation",
+      "3D Animation",
+      "Storyboarding",
+      "Video Editing",
+      "VFX Fundamentals"
+    ]
   },
   {
     "id": "fine-arts",
@@ -988,7 +1504,14 @@
     "careerInterest": [
       "Creative"
     ],
-    "description": "Painting, sculpture, and visual arts"
+    "description": "Painting, sculpture, and visual arts",
+    "subjects": [
+      "Drawing & Painting",
+      "Art History",
+      "Composition",
+      "Sculpture",
+      "Color Theory"
+    ]
   },
   {
     "id": "performing-arts",
@@ -1002,7 +1525,14 @@
     "careerInterest": [
       "Creative"
     ],
-    "description": "Theatre, drama, and performance"
+    "description": "Theatre, drama, and performance",
+    "subjects": [
+      "Music Theory",
+      "Vocal Training",
+      "Dance Technique",
+      "Stage Performance",
+      "Acting Basics"
+    ]
   },
   {
     "id": "music-dance",
@@ -1016,7 +1546,14 @@
     "careerInterest": [
       "Creative"
     ],
-    "description": "Classical and contemporary arts"
+    "description": "Classical and contemporary arts",
+    "subjects": [
+      "Music Theory",
+      "Vocal Training",
+      "Dance Technique",
+      "Raga & Rhythm",
+      "Stage Performance"
+    ]
   },
   {
     "id": "bsw",
@@ -1030,7 +1567,14 @@
     "careerInterest": [
       "Creative"
     ],
-    "description": "Social Work"
+    "description": "Social Work",
+    "subjects": [
+      "Social Work Methods",
+      "Community Development",
+      "Counselling Skills",
+      "Social Policy",
+      "Field Work Practice"
+    ]
   },
   {
     "id": "hotel-mgmt",
@@ -1044,7 +1588,14 @@
     "careerInterest": [
       "Business"
     ],
-    "description": "Hospitality and tourism management"
+    "description": "Hospitality and tourism management",
+    "subjects": [
+      "Food Production",
+      "Front Office Operations",
+      "Housekeeping Management",
+      "Food & Beverage Service",
+      "Hotel Accounting"
+    ]
   },
   {
     "id": "fashion",
@@ -1058,7 +1609,14 @@
     "careerInterest": [
       "Creative"
     ],
-    "description": "Fashion and apparel design"
+    "description": "Fashion and apparel design",
+    "subjects": [
+      "Fashion Illustration",
+      "Pattern Making",
+      "Textile Science",
+      "Garment Construction",
+      "Fashion Merchandising"
+    ]
   },
   {
     "id": "interior",
@@ -1072,7 +1630,14 @@
     "careerInterest": [
       "Creative"
     ],
-    "description": "Interior and space design"
+    "description": "Interior and space design",
+    "subjects": [
+      "Interior Design",
+      "Space Planning",
+      "Materials & Finishes",
+      "Furniture Design",
+      "AutoCAD Drafting"
+    ]
   },
   {
     "id": "bsc-agri",
@@ -1086,7 +1651,15 @@
     "careerInterest": [
       "Government"
     ],
-    "description": "Agricultural sciences and farming"
+    "description": "Agricultural sciences and farming",
+    "subjects": [
+      "Agronomy",
+      "Soil Science",
+      "Plant Pathology",
+      "Horticulture",
+      "Agricultural Economics",
+      "Entomology"
+    ]
   },
   {
     "id": "bsc-horti",
@@ -1100,7 +1673,14 @@
     "careerInterest": [
       "Government"
     ],
-    "description": "Garden and plant cultivation"
+    "description": "Garden and plant cultivation",
+    "subjects": [
+      "Horticulture",
+      "Pomology",
+      "Olericulture",
+      "Plant Propagation",
+      "Post-Harvest Technology"
+    ]
   },
   {
     "id": "bsc-forestry",
@@ -1114,7 +1694,14 @@
     "careerInterest": [
       "Government"
     ],
-    "description": "Forest management and conservation"
+    "description": "Forest management and conservation",
+    "subjects": [
+      "Silviculture",
+      "Forest Ecology",
+      "Forest Management",
+      "Wood Science",
+      "Wildlife Management"
+    ]
   },
   {
     "id": "bsc-fisheries",
@@ -1128,7 +1715,14 @@
     "careerInterest": [
       "Government"
     ],
-    "description": "Aquaculture and fish farming"
+    "description": "Aquaculture and fish farming",
+    "subjects": [
+      "Aquaculture",
+      "Fish Biology",
+      "Fisheries Management",
+      "Fish Nutrition",
+      "Fish Processing"
+    ]
   },
   {
     "id": "bsc-seri",
@@ -1142,7 +1736,13 @@
     "careerInterest": [
       "Government"
     ],
-    "description": "Silk production and farming"
+    "description": "Silk production and farming",
+    "subjects": [
+      "Sericulture",
+      "Mulberry Cultivation",
+      "Silkworm Rearing",
+      "Silk Reeling & Spinning"
+    ]
   },
   {
     "id": "agri-engg",
@@ -1156,7 +1756,14 @@
     "careerInterest": [
       "Technology"
     ],
-    "description": "Farm machinery and technology"
+    "description": "Farm machinery and technology",
+    "subjects": [
+      "Farm Machinery",
+      "Irrigation Engineering",
+      "Agricultural Structures",
+      "Soil & Water Conservation",
+      "Post-Harvest Engineering"
+    ]
   },
   {
     "id": "food-tech",
@@ -1170,7 +1777,14 @@
     "careerInterest": [
       "Technology"
     ],
-    "description": "Food processing and preservation"
+    "description": "Food processing and preservation",
+    "subjects": [
+      "Food Chemistry",
+      "Food Microbiology",
+      "Food Processing",
+      "Food Engineering",
+      "Food Safety & Quality"
+    ]
   },
   {
     "id": "dairy-tech",
@@ -1184,7 +1798,14 @@
     "careerInterest": [
       "Technology"
     ],
-    "description": "Dairy production and management"
+    "description": "Dairy production and management",
+    "subjects": [
+      "Dairy Chemistry",
+      "Dairy Microbiology",
+      "Milk Processing",
+      "Dairy Engineering",
+      "Dairy Plant Management"
+    ]
   },
   {
     "id": "animal-husb",
@@ -1198,7 +1819,14 @@
     "careerInterest": [
       "Government"
     ],
-    "description": "Livestock management"
+    "description": "Livestock management",
+    "subjects": [
+      "Animal Nutrition",
+      "Livestock Management",
+      "Animal Breeding",
+      "Veterinary Basics",
+      "Fodder Production"
+    ]
   },
   {
     "id": "agribusiness",
@@ -1212,7 +1840,14 @@
     "careerInterest": [
       "Business"
     ],
-    "description": "Agricultural business and marketing"
+    "description": "Agricultural business and marketing",
+    "subjects": [
+      "Agribusiness Management",
+      "Marketing Management",
+      "Agricultural Economics",
+      "Supply Chain Management",
+      "Rural Finance"
+    ]
   },
   {
     "id": "floriculture",
@@ -1226,7 +1861,14 @@
     "careerInterest": [
       "Creative"
     ],
-    "description": "Flower cultivation and management"
+    "description": "Flower cultivation and management",
+    "subjects": [
+      "Floriculture",
+      "Ornamental Plants",
+      "Greenhouse Management",
+      "Plant Propagation",
+      "Floral Design"
+    ]
   },
   {
     "id": "seed-tech",
@@ -1240,7 +1882,13 @@
     "careerInterest": [
       "Technology"
     ],
-    "description": "Seed production and quality control"
+    "description": "Seed production and quality control",
+    "subjects": [
+      "Seed Science",
+      "Seed Processing",
+      "Seed Certification",
+      "Crop Breeding"
+    ]
   },
   {
     "id": "diploma-engg",
@@ -1254,7 +1902,14 @@
     "careerInterest": [
       "Technology"
     ],
-    "description": "Technical engineering diploma"
+    "description": "Technical engineering diploma",
+    "subjects": [
+      "Engineering Mathematics",
+      "Engineering Drawing",
+      "Engineering Mechanics",
+      "Basic Electrical & Electronics",
+      "Workshop Technology"
+    ]
   },
   {
     "id": "diploma-ca",
@@ -1268,7 +1923,14 @@
     "careerInterest": [
       "IT"
     ],
-    "description": "Basic computer skills"
+    "description": "Basic computer skills",
+    "subjects": [
+      "Programming in C/C++",
+      "Data Structures",
+      "Database Management",
+      "Web Development",
+      "Computer Networks"
+    ]
   },
   {
     "id": "diploma-hotel",
@@ -1282,7 +1944,13 @@
     "careerInterest": [
       "Business"
     ],
-    "description": "Hospitality management"
+    "description": "Hospitality management",
+    "subjects": [
+      "Food Production",
+      "Front Office Operations",
+      "Housekeeping",
+      "Food & Beverage Service"
+    ]
   },
   {
     "id": "diploma-fashion",
@@ -1296,7 +1964,13 @@
     "careerInterest": [
       "Creative"
     ],
-    "description": "Fashion and garment design"
+    "description": "Fashion and garment design",
+    "subjects": [
+      "Fashion Illustration",
+      "Pattern Making",
+      "Garment Construction",
+      "Textile Science"
+    ]
   },
   {
     "id": "diploma-graphic",
@@ -1310,7 +1984,14 @@
     "careerInterest": [
       "Creative"
     ],
-    "description": "Visual and graphic design"
+    "description": "Visual and graphic design",
+    "subjects": [
+      "Graphic Design",
+      "Typography",
+      "Adobe Photoshop & Illustrator",
+      "Layout Design",
+      "Branding"
+    ]
   },
   {
     "id": "diploma-animation",
@@ -1324,7 +2005,14 @@
     "careerInterest": [
       "Creative"
     ],
-    "description": "Animation and visual effects"
+    "description": "Animation and visual effects",
+    "subjects": [
+      "2D Animation",
+      "3D Animation",
+      "Character Design",
+      "Video Editing",
+      "VFX & Compositing"
+    ]
   },
   {
     "id": "tally-gst",
@@ -1338,7 +2026,14 @@
     "careerInterest": [
       "Business"
     ],
-    "description": "Accounting software training"
+    "description": "Accounting software training",
+    "subjects": [
+      "Financial Accounting",
+      "Tally Software",
+      "GST & Taxation",
+      "Inventory Management",
+      "Payroll Processing"
+    ]
   },
   {
     "id": "hardware-network",
@@ -1352,7 +2047,14 @@
     "careerInterest": [
       "IT"
     ],
-    "description": "Computer hardware and networking"
+    "description": "Computer hardware and networking",
+    "subjects": [
+      "Computer Hardware",
+      "Network Fundamentals",
+      "Troubleshooting & Repair",
+      "Server Management",
+      "Operating Systems"
+    ]
   },
   {
     "id": "mobile-tech",
@@ -1366,7 +2068,13 @@
     "careerInterest": [
       "Technology"
     ],
-    "description": "Mobile phone repair"
+    "description": "Mobile phone repair",
+    "subjects": [
+      "Mobile Hardware",
+      "Android Basics",
+      "Mobile Repair Techniques",
+      "Software Flashing"
+    ]
   },
   {
     "id": "electrician",
@@ -1380,6 +2088,13 @@
     "careerInterest": [
       "Technology"
     ],
-    "description": "Electrical and technical skills"
+    "description": "Electrical and technical skills",
+    "subjects": [
+      "Basic Electrical Theory",
+      "Wiring & Circuit Design",
+      "Electrical Safety",
+      "Machine Maintenance",
+      "Home Appliances Repair"
+    ]
   }
 ]

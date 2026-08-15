@@ -11,6 +11,7 @@ export interface Course {
   entranceExam: string;
   careerInterest: string[];
   description: string;
+  subjects: string[];
 }
 
 export type CourseStream = "Science" | "Commerce" | "Arts" | "Vocational";
