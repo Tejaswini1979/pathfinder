@@ -93,7 +93,7 @@ export default function Home() {
                 className="inline-flex h-12 w-full items-center justify-center gap-2 rounded-full bg-linear-to-r from-primary to-primary-dark px-7 text-base font-semibold text-white shadow-sm transition-colors hover:from-primary-dark hover:to-primary sm:w-auto"
               >
                 <Sparkles className="h-5 w-5" />
-                Start the quiz
+                Get your career match
               </Link>
               <Link
                 href="/streams"

@@ -1,3 +1,13 @@
+export interface ExamPattern {
+  structure?: string;
+  sections?: string[];
+  stages?: string[];
+  marks?: string;
+  duration?: string;
+  mode?: string;
+  notes?: string;
+}
+
 export interface Exam {
   id: string;
   name: string;
@@ -6,7 +16,7 @@ export interface Exam {
   stream: string;
   afterClass: "10th" | "12th" | "Both";
   courses: string[];
-  pattern: string;
+  pattern: ExamPattern;
   frequency: string;
   officialSite: string;
   advice: string;
@@ -21,7 +31,12 @@ export const exams: Exam[] = [
     stream: "Science",
     afterClass: "12th",
     courses: ["B.Tech / B.E.", "B.Arch (Paper 2A)", "B.Plan (Paper 2B)"],
-    pattern: "2 papers (B.E./B.Tech: Physics, Chemistry, Maths). Each session 100 marks. Computer-based.",
+    pattern: {
+      structure: "2 papers",
+      sections: ["Physics", "Chemistry", "Maths"],
+      marks: "100 marks per paper",
+      mode: "Computer-based",
+    },
     frequency: "2 sessions a year (Jan & Apr)",
     officialSite: "https://jeemain.nta.nic.in",
     advice: "Start NCERT early, build formula speed, and practice PYQs. Good JEE Main rank opens NITs/IIITs/CFTIs.",
@@ -34,7 +49,12 @@ export const exams: Exam[] = [
     stream: "Science",
     afterClass: "12th",
     courses: ["B.Tech at IITs", "BS in Science", "B.Arch (AAT)"],
-    pattern: "2 papers, ~180 marks each, multiple-choice + numerical. Only JEE Main top ~2.5 lakh are eligible.",
+    pattern: {
+      structure: "2 papers",
+      marks: "~180 marks each",
+      mode: "MCQ + numerical",
+      notes: "Only the top ~2.5 lakh JEE Main candidates are eligible.",
+    },
     frequency: "Once a year (May/June)",
     officialSite: "https://jeeadv.ac.in",
     advice: "Concept depth over rote. Solve JEE Advanced PYQs and take mock tests under strict timing.",
@@ -47,7 +67,12 @@ export const exams: Exam[] = [
     stream: "Science",
     afterClass: "12th",
     courses: ["MBBS", "BDS", "BAMS", "BHMS", "BUMS", "B.Sc Nursing"],
-    pattern: "180 questions: Physics 45, Chemistry 45, Biology 90. 720 marks, MCQ.",
+    pattern: {
+      structure: "1 paper",
+      sections: ["Physics: 45 questions", "Chemistry: 45 questions", "Biology: 90 questions"],
+      marks: "720 marks (180 MCQs)",
+      mode: "MCQ",
+    },
     frequency: "Once a year (May)",
     officialSite: "https://neet.nta.nic.in",
     advice: "Biology carries 50% weight — master NCERT Biology line by line. Consistent revision beats cramming.",
@@ -60,7 +85,10 @@ export const exams: Exam[] = [
     stream: "All",
     afterClass: "12th",
     courses: ["BA", "B.Com", "B.Sc", "BBA at central universities"],
-    pattern: "Language + domain subjects + general test. Each paper sectional with negative marking.",
+    pattern: {
+      structure: "Language + domain subjects + general test",
+      notes: "Each paper is sectional with negative marking.",
+    },
     frequency: "Once a year (May–June)",
     officialSite: "https://cuet.nta.nic.in",
     advice: "Pick domain subjects you are strong in. Speed matters — all sections are time-bound.",
@@ -73,7 +101,12 @@ export const exams: Exam[] = [
     stream: "All",
     afterClass: "12th",
     courses: ["BA LLB at National Law Universities"],
-    pattern: "120 MCQs: English, Current Affairs, Legal Reasoning, Logical Reasoning, Quantitative. 120 marks.",
+    pattern: {
+      structure: "1 paper",
+      sections: ["English", "Current Affairs", "Legal Reasoning", "Logical Reasoning", "Quantitative"],
+      marks: "120 MCQs, 120 marks",
+      mode: "MCQ",
+    },
     frequency: "Once a year (December)",
     officialSite: "https://consortiumofnlus.ac.in",
     advice: "Legal reasoning and reading speed decide your rank. Read editorials daily to build comprehension.",
@@ -86,7 +119,11 @@ export const exams: Exam[] = [
     stream: "Science & Arts",
     afterClass: "12th",
     courses: ["Army, Navy, Air Force officer training at NDA"],
-    pattern: "Maths 300 + GAT 600. Written (UPSC) → SSB interview (5 days) → medicals.",
+    pattern: {
+      structure: "Written exam: Maths + GAT",
+      marks: "Maths: 300, GAT: 600",
+      stages: ["Written exam (UPSC)", "SSB interview (5 days)", "Medical examination"],
+    },
     frequency: "Twice a year (April & September)",
     officialSite: "https://nda.upsc.gov.in",
     advice: "GAT and Maths both matter. Prepare with the SSB interview in mind from day one.",
@@ -99,7 +136,12 @@ export const exams: Exam[] = [
     stream: "All",
     afterClass: "12th",
     courses: ["B.Sc Hospitality & Hotel Administration", "IHM diplomas"],
-    pattern: "200 MCQs: Reasoning, English, GK, Numerical, Aptitude.",
+    pattern: {
+      structure: "1 paper",
+      sections: ["Reasoning", "English", "General Knowledge", "Numerical Ability", "Aptitude"],
+      marks: "200 MCQs",
+      mode: "MCQ",
+    },
     frequency: "Once a year",
     officialSite: "https://nchmjee.nta.nic.in",
     advice: "Light preparation of aptitude + GK can crack it. Hospitality is a low-competition entry to a global career.",
@@ -112,7 +154,10 @@ export const exams: Exam[] = [
     stream: "Arts & Science",
     afterClass: "12th",
     courses: ["B.Des Fashion", "B.FTech Apparel Production"],
-    pattern: "CAT (creative ability) + GAT (general ability) + situation test.",
+    pattern: {
+      structure: "CAT + GAT + Situation Test",
+      notes: "CAT (creative ability), GAT (general ability) and a situation test.",
+    },
     frequency: "Once a year (Jan–Feb)",
     officialSite: "https://nift.ac.in",
     advice: "Sketch daily, build a portfolio, and practise creative thinking exercises from year 10 itself.",
@@ -125,7 +170,10 @@ export const exams: Exam[] = [
     stream: "Arts & Science",
     afterClass: "12th",
     courses: ["B.Des at NID campuses"],
-    pattern: "DAT Prelims (MCQ + sketch) → Studio Test + interview.",
+    pattern: {
+      structure: "Two-stage selection",
+      stages: ["DAT Prelims (MCQ + sketch)", "Studio Test + personal interview"],
+    },
     frequency: "Once a year (Dec–Jan)",
     officialSite: "https://nid.edu",
     advice: "Observation and sketching skill matter more than academic marks. Keep a daily sketchbook.",
@@ -138,7 +186,11 @@ export const exams: Exam[] = [
     stream: "Science & Arts",
     afterClass: "12th",
     courses: ["B.Arch"],
-    pattern: "Drawing test + Maths/Aptitude. Online proctored, multiple attempts allowed.",
+    pattern: {
+      structure: "Drawing test + Maths/Aptitude",
+      mode: "Online proctored",
+      notes: "Multiple attempts allowed in a year.",
+    },
     frequency: "Multiple attempts through the year",
     officialSite: "https://nata.in",
     advice: "Drawing practice + PCM basics. Several colleges also accept JEE Main Paper 2A.",
@@ -151,7 +203,11 @@ export const exams: Exam[] = [
     stream: "Science & Arts",
     afterClass: "12th",
     courses: ["B.Des at IIT Bombay", "IIT Guwahati & IIITDM design"],
-    pattern: "Part A (MCQ/NAT) + Part B (drawing). No sketching needed for all sections.",
+    pattern: {
+      structure: "Part A + Part B",
+      sections: ["Part A: MCQ / NAT", "Part B: Drawing"],
+      notes: "Sketching is not required for all sections.",
+    },
     frequency: "Once a year (January)",
     officialSite: "https://www.uceed.iitb.ac.in",
     advice: "Design aptitude + visualisation speed. Solve past papers — the paper pattern is very specific.",
@@ -164,7 +220,11 @@ export const exams: Exam[] = [
     stream: "Commerce",
     afterClass: "12th",
     courses: ["Chartered Accountant (entry)"],
-    pattern: "4 papers: Accounting, Law, Maths/Stats, Economics. 400 marks.",
+    pattern: {
+      structure: "4 papers",
+      sections: ["Accounting", "Law", "Maths / Statistics", "Economics"],
+      marks: "400 marks",
+    },
     frequency: "3 times a year (Jan/May/Sept)",
     officialSite: "https://www.icai.org",
     advice: "Register early after 10th while in 11th/12th. Accounting clarity from school helps a lot.",
@@ -177,7 +237,10 @@ export const exams: Exam[] = [
     stream: "Commerce",
     afterClass: "12th",
     courses: ["Company Secretary"],
-    pattern: "4 modules: Business Communication, Legal Aptitude, Economic & Business Environment, Current Affairs.",
+    pattern: {
+      structure: "4 modules",
+      sections: ["Business Communication", "Legal Aptitude", "Economic & Business Environment", "Current Affairs"],
+    },
     frequency: "4 times a year",
     officialSite: "https://www.icsi.edu",
     advice: "Freshers after 12th can give it immediately. Current affairs + legal aptitude are the key scoring areas.",
@@ -190,7 +253,11 @@ export const exams: Exam[] = [
     stream: "Commerce & Science",
     afterClass: "12th",
     courses: ["Integrated 5-year BBA+MBA at IIMs"],
-    pattern: "Quantitative Aptitude + Verbal Ability + logical reasoning. Objective + short answer.",
+    pattern: {
+      structure: "1 paper",
+      sections: ["Quantitative Aptitude", "Verbal Ability", "Logical Reasoning"],
+      mode: "Objective + short answer",
+    },
     frequency: "Once a year",
     officialSite: "https://www.iimidr.ac.in",
     advice: "Strong Class 10 maths is the foundation. Start aptitude practice early — seats are very few.",
@@ -203,7 +270,11 @@ export const exams: Exam[] = [
     stream: "Science",
     afterClass: "12th",
     courses: ["B.Tech at private Karnataka colleges"],
-    pattern: "180 questions (PCM), 180 marks.",
+    pattern: {
+      structure: "1 paper",
+      sections: ["Physics", "Chemistry", "Maths"],
+      marks: "180 questions, 180 marks",
+    },
     frequency: "Once a year",
     officialSite: "https://www.comedk.org",
     advice: "Falls on the same line as JEE prep — a good fallback for private engineering colleges.",
@@ -216,7 +287,12 @@ export const exams: Exam[] = [
     stream: "Science",
     afterClass: "12th",
     courses: ["B.E. / B.Pharm at BITS Pilani, Goa, Hyderabad"],
-    pattern: "Computer-based, 3 hours, English + Physics + Chemistry + Maths + Logical Reasoning.",
+    pattern: {
+      structure: "1 paper",
+      sections: ["English", "Physics", "Chemistry", "Maths", "Logical Reasoning"],
+      duration: "3 hours",
+      mode: "Computer-based",
+    },
     frequency: "Once a year (May–June)",
     officialSite: "https://www.bitsadmission.com",
     advice: "JEE-syllabus aligned with a twist of reasoning section. Speed is critical — attempt smartly.",
@@ -229,7 +305,10 @@ export const exams: Exam[] = [
     stream: "Science",
     afterClass: "10th",
     courses: ["Diploma in Engineering (3 years)"],
-    pattern: "Merit-based on Class 10 or state entrance (varies by state).",
+    pattern: {
+      structure: "Merit-based admission",
+      notes: "Based on Class 10 marks or a state-level entrance, varies by state.",
+    },
     frequency: "Once a year",
     officialSite: "https://examinationservices.in",
     advice: "The earliest engineering entry — right after Class 10. Diploma holders can lateral-enter B.Tech in year 2.",
@@ -242,7 +321,10 @@ export const exams: Exam[] = [
     stream: "All",
     afterClass: "10th",
     courses: ["Electrician", "Fitter", "Welder", "CNSM", "COPA", "Mechanic trades"],
-    pattern: "Merit-based on Class 10 (some trades need 8th pass).",
+    pattern: {
+      structure: "Merit-based admission",
+      notes: "Based on Class 10 marks; some trades accept Class 8 pass.",
+    },
     frequency: "Once a year (admissions July–Aug)",
     officialSite: "https://ncvtmis.gov.in",
     advice: "NSQF-aligned trades with strong placement. Trade apprentice (ATS) after ITI adds paid on-job training.",
@@ -255,7 +337,13 @@ export const exams: Exam[] = [
     stream: "Arts & Science",
     afterClass: "12th",
     courses: ["Teaching at CBSE schools (after B.Ed)"],
-    pattern: "2 papers — Paper 1 (Classes 1-5), Paper 2 (Classes 6-8). Child dev, subjects, pedagogy.",
+    pattern: {
+      structure: "2 papers",
+      sections: [
+        "Paper 1 (Classes 1–5): Child development, subjects, pedagogy",
+        "Paper 2 (Classes 6–8): Child development, subjects, pedagogy",
+      ],
+    },
     frequency: "Twice a year",
     officialSite: "https://ctet.nic.in",
     advice: "Not needed right after 12th, but knowing the requirement shapes your B.Ed decision.",
@@ -268,7 +356,13 @@ export const exams: Exam[] = [
     stream: "Science",
     afterClass: "12th",
     courses: ["M.Pharm (after B.Pharm)"],
-    pattern: "125 MCQs, 3 hours, pharmacy subjects.",
+    pattern: {
+      structure: "1 paper",
+      sections: ["Pharmacy subjects"],
+      marks: "125 MCQs",
+      duration: "3 hours",
+      mode: "Computer-based",
+    },
     frequency: "Once a year",
     officialSite: "https://gpat.nta.nic.in",
     advice: "B.Pharm is the first step. GPAT determines M.Pharm seats and stipend — aim early.",
@@ -281,7 +375,12 @@ export const exams: Exam[] = [
     stream: "All",
     afterClass: "12th",
     courses: ["BA LLB at NLU Delhi"],
-    pattern: "150 MCQs: English, Legal Reasoning, General Knowledge, Reasoning, Maths.",
+    pattern: {
+      structure: "1 paper",
+      sections: ["English", "Legal Reasoning", "General Knowledge", "Reasoning", "Mathematics"],
+      marks: "150 MCQs",
+      mode: "MCQ",
+    },
     frequency: "Once a year (December)",
     officialSite: "https://nationallawuniversitydelhi.in",
     advice: "Read the newspaper and build legal-logic speed. Fewer seats than CLAT = harder, prepare accordingly.",

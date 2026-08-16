@@ -81,7 +81,7 @@ export default function Nav() {
               }`}
             >
               <Sparkles className="h-4 w-4" />
-              Take the quiz
+              Get your career match
             </Link>
           </div>
         </div>

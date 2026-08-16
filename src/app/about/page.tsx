@@ -133,7 +133,7 @@ export default function AboutPage() {
           className="mt-6 inline-flex h-11 items-center gap-2 rounded-full bg-white px-6 text-sm font-semibold text-primary shadow-sm transition-colors hover:bg-gray-100"
         >
           <Sparkles className="h-4 w-4" />
-          Take the career quiz
+          Get your career match
         </a>
       </section>
     </div>
