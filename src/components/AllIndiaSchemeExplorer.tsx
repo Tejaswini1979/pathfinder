@@ -64,7 +64,7 @@ export default function AllIndiaSchemeExplorer({ schemes, educationLevels }: Pro
           value={query}
           onChange={(e) => setQuery(e.target.value)}
           placeholder="Search scholarships… e.g. NMMS, Post Matric"
-          className="h-11 w-full rounded-xl border border-gray-200 bg-white pl-11 pr-4 text-sm text-gray-900 shadow-sm outline-none transition-colors placeholder:text-gray-400 focus:border-primary focus:ring-2 focus:ring-primary/20"
+          className="h-11 w-full rounded-squircle border border-gray-200 bg-white pl-11 pr-4 text-sm text-gray-900 shadow-sm outline-none transition-colors placeholder:text-gray-400 focus:border-primary focus:ring-2 focus:ring-primary/20"
         />
       </div>
 
@@ -132,7 +132,7 @@ export default function AllIndiaSchemeExplorer({ schemes, educationLevels }: Pro
           </div>
 
           {filtered.length === 0 && (
-            <div className="mt-10 rounded-xl border border-dashed border-gray-300 p-10 text-center text-sm text-gray-500">
+            <div className="mt-10 rounded-squircle border border-dashed border-gray-300 p-10 text-center text-sm text-gray-500">
               No schemes match your filters.
             </div>
           )}
@@ -150,7 +150,7 @@ export default function AllIndiaSchemeExplorer({ schemes, educationLevels }: Pro
             ))}
           </div>
           {filtered.length === 0 && (
-            <div className="mt-6 rounded-xl border border-dashed border-gray-300 p-10 text-center text-sm text-gray-500">
+            <div className="mt-6 rounded-squircle border border-dashed border-gray-300 p-10 text-center text-sm text-gray-500">
               No schemes match your search.
             </div>
           )}

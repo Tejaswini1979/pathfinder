@@ -49,7 +49,7 @@ export default function CourseDetailModal({ course, onClose }: Props) {
             role="dialog"
             aria-modal="true"
             aria-label={course.name}
-            className="relative max-h-[85vh] w-full max-w-2xl overflow-y-auto rounded-2xl bg-white p-6 shadow-xl sm:p-8"
+            className="relative max-h-[85vh] w-full max-w-2xl overflow-y-auto rounded-squircle bg-white p-6 shadow-xl sm:p-8"
             initial={{ opacity: 0, scale: 0.95, y: 12 }}
             animate={{ opacity: 1, scale: 1, y: 0 }}
             exit={{ opacity: 0, scale: 0.95, y: 12 }}
@@ -82,7 +82,7 @@ export default function CourseDetailModal({ course, onClose }: Props) {
             <p className="mt-2 leading-7 text-gray-600">{course.description}</p>
 
             <div className="mt-5 grid grid-cols-1 gap-3 sm:grid-cols-3">
-              <div className="rounded-xl border border-gray-200 bg-gray-50 p-4">
+              <div className="rounded-squircle border border-gray-200 bg-gray-50 p-4">
                 <span className="flex items-center gap-1.5 text-xs font-medium uppercase tracking-wide text-gray-400">
                   <Clock className="h-3.5 w-3.5" />
                   Duration
@@ -91,7 +91,7 @@ export default function CourseDetailModal({ course, onClose }: Props) {
                   {course.duration}
                 </p>
               </div>
-              <div className="rounded-xl border border-gray-200 bg-gray-50 p-4">
+              <div className="rounded-squircle border border-gray-200 bg-gray-50 p-4">
                 <span className="flex items-center gap-1.5 text-xs font-medium uppercase tracking-wide text-gray-400">
                   <GraduationCap className="h-3.5 w-3.5" />
                   Entrance exam
@@ -100,7 +100,7 @@ export default function CourseDetailModal({ course, onClose }: Props) {
                   {course.entranceExam === "None" ? "No entrance exam" : course.entranceExam}
                 </p>
               </div>
-              <div className="rounded-xl border border-gray-200 bg-gray-50 p-4">
+              <div className="rounded-squircle border border-gray-200 bg-gray-50 p-4">
                 <span className="flex items-center gap-1.5 text-xs font-medium uppercase tracking-wide text-gray-400">
                   <Briefcase className="h-3.5 w-3.5" />
                   Careers
@@ -111,7 +111,7 @@ export default function CourseDetailModal({ course, onClose }: Props) {
               </div>
             </div>
 
-            <div className="mt-6 rounded-xl border border-amber-200 bg-warning-light p-4">
+            <div className="mt-6 rounded-squircle border border-amber-200 bg-warning-light p-4">
               <span className="flex items-center gap-1.5 text-xs font-semibold uppercase tracking-wide text-amber-600">
                 <Info className="h-3.5 w-3.5" />
                 Eligibility

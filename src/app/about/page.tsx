@@ -83,7 +83,7 @@ export default function AboutPage() {
         ].map((stat) => (
           <div
             key={stat.label}
-            className="rounded-xl border border-gray-200 bg-white p-4 text-center shadow-sm"
+            className="rounded-squircle border border-gray-200 bg-white p-4 text-center shadow-sm"
           >
             <div className="text-2xl font-bold text-primary">{stat.value}</div>
             <div className="mt-0.5 text-xs font-medium text-gray-500">
@@ -103,9 +103,9 @@ export default function AboutPage() {
             return (
               <div
                 key={pillar.title}
-                className="rounded-xl border border-gray-200 bg-white p-5 shadow-sm"
+                className="rounded-squircle border border-gray-200 bg-white p-5 shadow-sm"
               >
-                <span className="flex h-10 w-10 items-center justify-center rounded-xl bg-primary-light text-primary">
+                <span className="flex h-10 w-10 items-center justify-center rounded-squircle bg-primary-light text-primary">
                   <Icon className="h-5 w-5" />
                 </span>
                 <h3 className="mt-3 font-semibold text-gray-900">
@@ -120,7 +120,7 @@ export default function AboutPage() {
         </div>
       </section>
 
-      <section className="mt-10 rounded-2xl bg-linear-to-br from-primary to-primary-dark p-8 text-center text-white">
+      <section className="mt-10 rounded-squircle bg-linear-to-br from-primary to-primary-dark p-8 text-center text-white">
         <h2 className="text-2xl font-bold tracking-tight">
           Not sure where to start?
         </h2>

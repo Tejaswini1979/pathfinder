@@ -6,7 +6,7 @@ export default function DomainCard({ domain }: { domain: DomainMeta }) {
   return (
     <Link
       href={`/domains/${domain.id}`}
-      className="group flex h-full flex-col rounded-2xl border border-gray-200 bg-white p-5 shadow-sm transition-all hover:-translate-y-1 hover:border-indigo-200 hover:shadow-md"
+      className="group flex h-full flex-col rounded-squircle border border-gray-200 bg-white p-5 shadow-sm transition-all hover:-translate-y-1 hover:border-indigo-200 hover:shadow-md"
       style={{ borderTopColor: domain.color, borderTopWidth: 3 }}
     >
       <div className="flex items-start justify-between gap-3">

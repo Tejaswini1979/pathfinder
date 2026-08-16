@@ -34,7 +34,7 @@ export default function SchemesPage() {
 
   return (
     <div className="mx-auto w-full max-w-6xl flex-1 px-4 py-10 sm:px-6">
-      <header className="relative mb-8 overflow-hidden rounded-2xl border border-gray-200 bg-white px-6 py-8 sm:px-8">
+      <header className="relative mb-8 overflow-hidden rounded-squircle border border-gray-200 bg-white px-6 py-8 sm:px-8">
         <EducationBackdrop />
         <h1 className="text-3xl font-bold tracking-tight text-gray-900">
           Scholarships — all of India
@@ -73,7 +73,7 @@ export default function SchemesPage() {
           {nationalPortals.map((portal) => (
             <div
               key={portal.name}
-              className="flex flex-col rounded-xl border border-gray-200 bg-white p-5 shadow-sm"
+              className="flex flex-col rounded-squircle border border-gray-200 bg-white p-5 shadow-sm"
             >
               <h3 className="font-semibold text-gray-900">{portal.name}</h3>
               <p className="mt-1.5 flex-1 text-sm leading-6 text-gray-600">

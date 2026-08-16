@@ -55,7 +55,7 @@ export default function StreamsPage() {
             <section
               key={stream.id}
               id={stream.id}
-              className="scroll-mt-24 rounded-2xl border border-gray-200 bg-white p-6 shadow-sm sm:p-8"
+              className="scroll-mt-24 rounded-squircle border border-gray-200 bg-white p-6 shadow-sm sm:p-8"
               style={{ borderTopColor: stream.color, borderTopWidth: 4 }}
             >
               <div className="flex flex-wrap items-start justify-between gap-4">
@@ -120,7 +120,7 @@ export default function StreamsPage() {
                 </div>
 
                 <div className="grid grid-cols-1 gap-4 sm:grid-cols-2">
-                  <div className="rounded-xl border border-gray-200 bg-gray-50/50 p-5">
+                  <div className="rounded-squircle border border-gray-200 bg-gray-50/50 p-5">
                     <h3 className="text-xs font-semibold uppercase tracking-wider text-gray-400">
                       Entrance exams ahead
                     </h3>
@@ -137,7 +137,7 @@ export default function StreamsPage() {
                       ))}
                     </ul>
                   </div>
-                  <div className="rounded-xl border border-gray-200 bg-gray-50/50 p-5">
+                  <div className="rounded-squircle border border-gray-200 bg-gray-50/50 p-5">
                     <h3 className="text-xs font-semibold uppercase tracking-wider text-gray-400">
                       Careers this stream feeds
                     </h3>
@@ -162,7 +162,7 @@ export default function StreamsPage() {
         })}
       </div>
 
-      <section className="mt-10 rounded-2xl border border-gray-200 bg-white p-6 shadow-sm sm:p-8">
+      <section className="mt-10 rounded-squircle border border-gray-200 bg-white p-6 shadow-sm sm:p-8">
         <h2 className="flex items-center gap-2 text-xl font-bold text-gray-900">
           <Lightbulb className="h-5 w-5 text-warning" />
           How to choose the right stream
@@ -179,7 +179,7 @@ export default function StreamsPage() {
         </ol>
       </section>
 
-      <section className="mt-8 rounded-2xl border border-amber-200 bg-warning-light p-6 sm:p-8">
+      <section className="mt-8 rounded-squircle border border-amber-200 bg-warning-light p-6 sm:p-8">
         <h2 className="flex items-center gap-2 text-xl font-bold text-amber-800">
           <AlertTriangle className="h-5 w-5" />
           Common mistakes to avoid

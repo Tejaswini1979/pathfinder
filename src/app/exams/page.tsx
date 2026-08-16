@@ -128,7 +128,7 @@ export default function ExamsPage() {
             <div
               key={s.id}
               id={`stream-${s.id}`}
-              className="scroll-mt-24 rounded-xl border border-gray-200 bg-white p-5 shadow-sm"
+              className="scroll-mt-24 rounded-squircle border border-gray-200 bg-white p-5 shadow-sm"
               style={{ borderTopColor: s.color, borderTopWidth: 3 }}
             >
               <h2 className="font-semibold text-gray-900">{s.name}</h2>
@@ -158,7 +158,7 @@ export default function ExamsPage() {
           <section
             key={exam.id}
             id={exam.id}
-            className="scroll-mt-24 rounded-2xl border border-gray-200 bg-white p-6 shadow-sm sm:p-8"
+            className="scroll-mt-24 rounded-squircle border border-gray-200 bg-white p-6 shadow-sm sm:p-8"
           >
             <div className="flex flex-wrap items-start justify-between gap-4">
               <div>
@@ -189,7 +189,7 @@ export default function ExamsPage() {
             </div>
 
             <div className="mt-5 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
-              <div className="rounded-xl border border-gray-200 bg-gray-50/50 p-4">
+              <div className="rounded-squircle border border-gray-200 bg-gray-50/50 p-4">
                 <h3 className="flex items-center gap-1.5 text-xs font-semibold uppercase tracking-wider text-gray-400">
                   <GraduationCap className="h-3.5 w-3.5" />
                   Leads to
@@ -202,14 +202,14 @@ export default function ExamsPage() {
                   ))}
                 </ul>
               </div>
-              <div className="rounded-xl border border-gray-200 bg-gray-50/50 p-4">
+              <div className="rounded-squircle border border-gray-200 bg-gray-50/50 p-4">
                 <h3 className="flex items-center gap-1.5 text-xs font-semibold uppercase tracking-wider text-gray-400">
                   <FileQuestion className="h-3.5 w-3.5" />
                   Pattern
                 </h3>
                 <PatternDetails pattern={exam.pattern} />
               </div>
-              <div className="rounded-xl border border-gray-200 bg-gray-50/50 p-4">
+              <div className="rounded-squircle border border-gray-200 bg-gray-50/50 p-4">
                 <h3 className="flex items-center gap-1.5 text-xs font-semibold uppercase tracking-wider text-gray-400">
                   <CalendarDays className="h-3.5 w-3.5" />
                   Frequency
@@ -220,7 +220,7 @@ export default function ExamsPage() {
               </div>
             </div>
 
-            <div className="mt-4 flex items-start gap-2.5 rounded-xl bg-primary-light p-4">
+            <div className="mt-4 flex items-start gap-2.5 rounded-squircle bg-primary-light p-4">
               <Lightbulb className="mt-0.5 h-4 w-4 shrink-0 text-primary" />
               <p className="text-sm leading-6 text-gray-700">{exam.advice}</p>
             </div>

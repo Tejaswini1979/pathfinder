@@ -16,7 +16,7 @@ export default function SavedPage() {
     return (
       <div className="relative mx-auto w-full max-w-2xl flex-1 overflow-hidden px-4 py-16 text-center sm:px-6">
         <EducationBackdrop />
-        <span className="mx-auto flex h-14 w-14 items-center justify-center rounded-2xl bg-gray-100 text-gray-400">
+        <span className="mx-auto flex h-14 w-14 items-center justify-center rounded-squircle bg-gray-100 text-gray-400">
           <BookmarkX className="h-7 w-7" />
         </span>
         <h1 className="mt-5 text-2xl font-bold tracking-tight text-gray-900">
@@ -61,7 +61,7 @@ export default function SavedPage() {
         {list.map((career) => (
           <div
             key={career.id}
-            className="flex items-center justify-between gap-4 rounded-xl border border-gray-200 bg-white p-4 shadow-sm"
+            className="flex items-center justify-between gap-4 rounded-squircle border border-gray-200 bg-white p-4 shadow-sm"
           >
             <Link
               href={`/careers/${career.id.toLowerCase()}`}

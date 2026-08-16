@@ -101,7 +101,7 @@ export default function StateSchemeExplorer({ states }: Props) {
             setShowStates(true);
           }}
           placeholder="Search your state… e.g. Karnataka, Tamil Nadu"
-          className="h-11 w-full rounded-xl border border-gray-200 bg-white pl-11 pr-4 text-sm text-gray-900 shadow-sm outline-none transition-colors placeholder:text-gray-400 focus:border-primary focus:ring-2 focus:ring-primary/20"
+          className="h-11 w-full rounded-squircle border border-gray-200 bg-white pl-11 pr-4 text-sm text-gray-900 shadow-sm outline-none transition-colors placeholder:text-gray-400 focus:border-primary focus:ring-2 focus:ring-primary/20"
         />
       </div>
 
@@ -160,7 +160,7 @@ export default function StateSchemeExplorer({ states }: Props) {
               key={s.name}
               type="button"
               onClick={() => setSelectedName(s.name)}
-              className={`flex items-center gap-2 rounded-xl border px-3 py-2 text-left text-sm font-medium transition-colors ${
+              className={`flex items-center gap-2 rounded-squircle border px-3 py-2 text-left text-sm font-medium transition-colors ${
                 active?.name === s.name
                   ? "border-primary bg-primary text-white"
                   : "border-gray-200 bg-white text-gray-700 hover:border-primary/50 hover:bg-primary-light/50"
@@ -174,14 +174,14 @@ export default function StateSchemeExplorer({ states }: Props) {
       )}
 
       {q && visibleStates.length === 0 && (
-        <div className="mt-6 rounded-xl border border-dashed border-gray-300 p-8 text-center text-sm text-gray-500">
+        <div className="mt-6 rounded-squircle border border-dashed border-gray-300 p-8 text-center text-sm text-gray-500">
           No state matches &quot;{stateQuery.trim()}&quot;. Try a different name.
         </div>
       )}
 
       {active && (
         <>
-          <div className="mt-6 flex flex-col gap-4 rounded-xl border border-gray-200 bg-white p-5 shadow-sm sm:flex-row sm:items-center">
+          <div className="mt-6 flex flex-col gap-4 rounded-squircle border border-gray-200 bg-white p-5 shadow-sm sm:flex-row sm:items-center">
             <div className="flex h-11 w-11 shrink-0 items-center justify-center rounded-lg bg-primary-light text-primary">
               <Landmark className="h-5 w-5" />
             </div>
@@ -240,7 +240,7 @@ export default function StateSchemeExplorer({ states }: Props) {
                 value={query}
                 onChange={(e) => setQuery(e.target.value)}
                 placeholder={`Search schemes in ${active.name}…`}
-                className="h-11 w-full rounded-xl border border-gray-200 bg-white pl-11 pr-4 text-sm text-gray-900 shadow-sm outline-none transition-colors placeholder:text-gray-400 focus:border-primary focus:ring-2 focus:ring-primary/20"
+                className="h-11 w-full rounded-squircle border border-gray-200 bg-white pl-11 pr-4 text-sm text-gray-900 shadow-sm outline-none transition-colors placeholder:text-gray-400 focus:border-primary focus:ring-2 focus:ring-primary/20"
               />
             </div>
 
@@ -284,7 +284,7 @@ export default function StateSchemeExplorer({ states }: Props) {
             </div>
 
             {activeSchemes.length === 0 && (
-              <div className="mt-10 rounded-xl border border-dashed border-gray-300 p-10 text-center text-sm text-gray-500">
+              <div className="mt-10 rounded-squircle border border-dashed border-gray-300 p-10 text-center text-sm text-gray-500">
                 No schemes match your filters in {active.name}.
               </div>
             )}

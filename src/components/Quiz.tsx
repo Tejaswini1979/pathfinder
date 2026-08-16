@@ -129,7 +129,7 @@ export default function Quiz({ domains, streams, interests }: Props) {
                     setValue("stream", stream.id as QuizValues["stream"]);
                     clearErrors();
                   }}
-                  className={`rounded-xl border p-5 text-left transition-all ${
+                  className={`rounded-squircle border p-5 text-left transition-all ${
                     active
                       ? "border-primary bg-primary-light ring-2 ring-primary/20"
                       : "border-gray-200 bg-white hover:border-gray-300"
@@ -165,7 +165,7 @@ export default function Quiz({ domains, streams, interests }: Props) {
                     setValue("interests", next);
                     clearErrors();
                   }}
-                  className={`rounded-xl border p-5 text-left transition-all ${
+                  className={`rounded-squircle border p-5 text-left transition-all ${
                     active
                       ? "border-primary bg-primary-light ring-2 ring-primary/20"
                       : "border-gray-200 bg-white hover:border-gray-300"
@@ -204,7 +204,7 @@ export default function Quiz({ domains, streams, interests }: Props) {
                     setValue("flags", next);
                     clearErrors();
                   }}
-                  className={`flex items-center justify-between rounded-xl border p-5 text-left transition-all ${
+                  className={`flex items-center justify-between rounded-squircle border p-5 text-left transition-all ${
                     active
                       ? "border-primary bg-primary-light ring-2 ring-primary/20"
                       : "border-gray-200 bg-white hover:border-gray-300"
@@ -336,7 +336,7 @@ function ResultsView({
         {recommendations.map((rec, rank) => (
           <div
             key={rec.domain.id}
-            className="rounded-2xl border border-gray-200 bg-white p-6 shadow-sm"
+            className="rounded-squircle border border-gray-200 bg-white p-6 shadow-sm"
             style={{ borderTopColor: rec.domain.color, borderTopWidth: 3 }}
           >
             <div className="flex items-center justify-between gap-3">

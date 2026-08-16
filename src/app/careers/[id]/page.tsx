@@ -105,7 +105,7 @@ export default async function CareerPage({ params }: PageProps<"/careers/[id]">)
           return (
             <div
               key={item.key}
-              className="flex gap-3 rounded-xl border border-gray-200 bg-white p-4 shadow-sm"
+              className="flex gap-3 rounded-squircle border border-gray-200 bg-white p-4 shadow-sm"
             >
               <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-lg bg-gray-50 text-gray-500">
                 <Icon className="h-5 w-5" />
@@ -124,7 +124,7 @@ export default async function CareerPage({ params }: PageProps<"/careers/[id]">)
       </section>
 
       {career.salary_bands && (
-        <section className="mt-6 rounded-2xl bg-primary-light p-6">
+        <section className="mt-6 rounded-squircle bg-primary-light p-6">
           <div className="flex items-center gap-2 text-primary">
             <Wallet className="h-5 w-5" />
             <h2 className="font-bold">Salary bands</h2>
@@ -162,7 +162,7 @@ export default async function CareerPage({ params }: PageProps<"/careers/[id]">)
               <TrendingUp className="h-5 w-5 text-primary" />
               A day in the life
             </h2>
-            <p className="mt-3 rounded-xl border border-gray-200 bg-white p-4 text-sm leading-6 text-gray-700 shadow-sm">
+            <p className="mt-3 rounded-squircle border border-gray-200 bg-white p-4 text-sm leading-6 text-gray-700 shadow-sm">
               {career.day_in_life}
             </p>
           </section>
@@ -173,7 +173,7 @@ export default async function CareerPage({ params }: PageProps<"/careers/[id]">)
               <TrendingUp className="h-5 w-5 text-accent" />
               Growth path
             </h2>
-            <p className="mt-3 rounded-xl border border-gray-200 bg-white p-4 text-sm leading-6 text-gray-700 shadow-sm">
+            <p className="mt-3 rounded-squircle border border-gray-200 bg-white p-4 text-sm leading-6 text-gray-700 shadow-sm">
               {career.growth_path}
             </p>
           </section>
@@ -186,7 +186,7 @@ export default async function CareerPage({ params }: PageProps<"/careers/[id]">)
             <Plane className="h-5 w-5 text-primary" />
             Studying / working abroad
           </h2>
-          <p className="mt-3 rounded-xl border border-gray-200 bg-white p-4 text-sm leading-6 text-gray-700 shadow-sm">
+          <p className="mt-3 rounded-squircle border border-gray-200 bg-white p-4 text-sm leading-6 text-gray-700 shadow-sm">
             {career.abroad_pathways}
           </p>
         </section>

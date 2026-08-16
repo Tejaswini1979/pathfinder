@@ -34,10 +34,10 @@ export default function RoadmapsPage() {
             <Link
               key={roadmap.id}
               href={`/roadmaps/${roadmap.id}`}
-              className="group flex flex-col rounded-xl border border-gray-200 bg-white p-5 shadow-sm transition-all hover:-translate-y-0.5 hover:border-gray-300 hover:shadow-md"
+              className="group flex flex-col rounded-squircle border border-gray-200 bg-white p-5 shadow-sm transition-all hover:-translate-y-0.5 hover:border-gray-300 hover:shadow-md"
             >
               <div className="flex items-center justify-between">
-                <span className="flex h-10 w-10 items-center justify-center rounded-xl bg-primary-light text-primary">
+                <span className="flex h-10 w-10 items-center justify-center rounded-squircle bg-primary-light text-primary">
                   <Map className="h-5 w-5" />
                 </span>
                 <span className="rounded-full bg-gray-100 px-2.5 py-0.5 text-[11px] font-semibold text-gray-600">

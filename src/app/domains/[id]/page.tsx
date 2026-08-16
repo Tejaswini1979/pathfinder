@@ -45,7 +45,7 @@ export default async function DomainPage({ params }: PageProps<"/domains/[id]">)
         <p className="mt-3 max-w-3xl text-gray-600">{domain.tagline}</p>
       </header>
 
-      <section className="mt-8 rounded-2xl border border-gray-200 bg-white p-6 shadow-sm sm:p-8">
+      <section className="mt-8 rounded-squircle border border-gray-200 bg-white p-6 shadow-sm sm:p-8">
         <p className="leading-7 text-gray-700">{domain.overview}</p>
       </section>
 
@@ -58,7 +58,7 @@ export default async function DomainPage({ params }: PageProps<"/domains/[id]">)
           {domain.key_insights.map((insight) => (
             <li
               key={insight}
-              className="flex gap-3 rounded-xl border border-gray-200 bg-white p-4 text-sm leading-6 text-gray-700 shadow-sm"
+              className="flex gap-3 rounded-squircle border border-gray-200 bg-white p-4 text-sm leading-6 text-gray-700 shadow-sm"
             >
               <span className="mt-2 h-1.5 w-1.5 shrink-0 rounded-full bg-warning" />
               {insight}

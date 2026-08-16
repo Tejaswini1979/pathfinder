@@ -1,7 +1,6 @@
 "use client";
 
 import Link from "next/link";
-import { motion } from "framer-motion";
 import { usePathname } from "next/navigation";
 import { Compass, Home, Bookmark, Wallet, Sparkles, Map } from "lucide-react";
 import { useSavedStore } from "@/lib/saved-store";
@@ -33,15 +32,10 @@ export default function Nav() {
 
   return (
     <>
-      <motion.header
-        initial={{ y: -20, opacity: 0 }}
-        animate={{ y: 0, opacity: 1 }}
-        transition={{ duration: 0.5, ease: "easeOut" }}
-        className="sticky top-0 z-40 border-b border-gray-200/60 bg-white/80 shadow-[0_1px_2px_rgba(15,23,42,0.04)] backdrop-blur-md"
-      >
+      <header className="sticky top-0 z-40 border-b border-gray-200/60 bg-white/80 shadow-[0_1px_2px_rgba(15,23,42,0.04)] backdrop-blur-md">
         <div className="mx-auto flex h-16 max-w-6xl items-center justify-between gap-4 px-4 sm:px-6">
           <Link href="/" className="flex items-center gap-2.5">
-            <span className="flex h-9 w-9 items-center justify-center rounded-xl bg-linear-to-br from-primary to-brand-violet text-white shadow-sm">
+            <span className="flex h-9 w-9 items-center justify-center rounded-full bg-linear-to-br from-primary to-brand-violet text-white shadow-sm">
               <Compass className="h-5 w-5" />
             </span>
             <span className="text-lg font-bold tracking-tight text-gray-900">
@@ -91,7 +85,7 @@ export default function Nav() {
             </Link>
           </div>
         </div>
-      </motion.header>
+      </header>
 
       <nav className="fixed inset-x-0 bottom-0 z-40 border-t border-gray-200 bg-white/95 pb-[env(safe-area-inset-bottom)] backdrop-blur-md md:hidden">
         <div className="mx-auto flex max-w-md items-stretch justify-around">
