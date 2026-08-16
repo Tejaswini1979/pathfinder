@@ -7,7 +7,7 @@ export default function SubPathCard({ career }: { career: SubPath }) {
   return (
     <Link
       href={`/careers/${career.id.toLowerCase()}`}
-      className="group flex flex-col rounded-xl border border-gray-200 bg-white p-5 shadow-sm transition-all hover:-translate-y-0.5 hover:border-gray-300 hover:shadow-md"
+      className="group flex h-full flex-col rounded-2xl border border-gray-200 bg-white p-5 shadow-sm transition-all hover:-translate-y-1 hover:border-indigo-200 hover:shadow-md"
     >
       <Flags
         underrated={career.underrated}

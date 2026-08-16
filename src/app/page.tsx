@@ -12,13 +12,10 @@ import {
   Map,
   BookOpen,
 } from "lucide-react";
+import Hero from "@/components/Hero";
 import DomainCard from "@/components/DomainCard";
-import EducationBackdrop from "@/components/EducationBackdrop";
-import {
-  getDomainMetaList,
-  getAllSubPaths,
-  getSchemes,
-} from "@/data";
+import Reveal from "@/components/Reveal";
+import { getDomainMetaList, getAllSubPaths, getSchemes } from "@/data";
 import { getStreamGuides } from "@/data/streams-guide";
 import { getCourses } from "@/data/courses";
 import { getRoadmaps } from "@/data/roadmaps";
@@ -68,110 +65,60 @@ export default function Home() {
 
   return (
     <div className="flex flex-col">
-      <section className="relative overflow-hidden bg-[radial-gradient(60rem_30rem_at_top,var(--color-primary-light),transparent_70%)] bg-white">
-        <EducationBackdrop />
-        <div className="mx-auto max-w-6xl px-4 pb-12 pt-14 sm:px-6 sm:pt-20">
-          <div className="mx-auto max-w-3xl text-center">
-            <span className="inline-flex items-center gap-1.5 rounded-full border border-gray-200 bg-gray-50 px-3 py-1 text-xs font-medium text-gray-600">
-              <Sparkles className="h-3.5 w-3.5 text-primary" />
-              For Indian students after Class 10
-            </span>
-            <h1 className="mt-5 text-4xl font-bold leading-tight tracking-tight text-gray-900 sm:text-5xl">
-              Find your path,
-              <br />
-              <span className="text-primary">before Class 10 ends.</span>
-            </h1>
-            <p className="mx-auto mt-5 max-w-2xl text-lg leading-8 text-gray-600">
-              Your stream choice decides more than you think. Explore 15 career
-              domains and 230+ careers — most students only hear about 5 of
-              them — plus courses, exams, roadmaps and scholarships for all of
-              India.
-            </p>
-            <div className="mt-8 flex flex-col items-center justify-center gap-3 sm:flex-row">
-              <Link
-                href="/quiz"
-                className="inline-flex h-12 w-full items-center justify-center gap-2 rounded-full bg-linear-to-r from-primary to-primary-dark px-7 text-base font-semibold text-white shadow-sm transition-colors hover:from-primary-dark hover:to-primary sm:w-auto"
-              >
-                <Sparkles className="h-5 w-5" />
-                Get your career match
-              </Link>
-              <Link
-                href="/streams"
-                className="inline-flex h-12 w-full items-center justify-center gap-2 rounded-full border border-gray-200 px-7 text-base font-semibold text-gray-700 transition-colors hover:border-gray-300 hover:bg-gray-50 sm:w-auto"
-              >
-                Compare the streams
-                <ArrowRight className="h-4 w-4" />
-              </Link>
-            </div>
-          </div>
-
-          <div className="mx-auto mt-10 flex max-w-3xl items-center justify-center divide-x divide-gray-200 rounded-2xl border border-gray-200 bg-gray-50/50 py-4">
-            {[
-              { value: `${careerCount}+`, label: "Careers covered" },
-              { value: `${courseCount}`, label: "Courses & diplomas" },
-              { value: `${roadmapCount}`, label: "Roadmaps" },
-              { value: `${schemeCount}`, label: "Scholarships" },
-            ].map((stat) => (
-              <div key={stat.label} className="flex-1 text-center">
-                <div className="text-2xl font-bold text-gray-900">
-                  {stat.value}
-                </div>
-                <div className="mt-0.5 text-xs font-medium text-gray-500">
-                  {stat.label}
-                </div>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
+      <Hero
+        stats={{ careerCount, courseCount, roadmapCount, schemeCount }}
+      />
 
       <section className="bg-surface-muted">
         <div className="mx-auto max-w-6xl px-4 py-14 sm:px-6">
-          <h2 className="text-2xl font-bold tracking-tight text-gray-900">
-            The 4 streams after Class 10
-          </h2>
-          <p className="mt-1.5 text-sm text-gray-600">
-            Science, Commerce, Arts or Vocational — each opens a different world
-            of careers. Compare before you decide.
-          </p>
+          <Reveal>
+            <h2 className="text-2xl font-bold tracking-tight text-gray-900">
+              The 4 streams after Class 10
+            </h2>
+            <p className="mt-1.5 text-sm text-gray-600">
+              Science, Commerce, Arts or Vocational — each opens a different world
+              of careers. Compare before you decide.
+            </p>
+          </Reveal>
           <div className="mt-7 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-4">
             {streams.map((stream, i) => {
               const Icon = streamIcons[stream.id] ?? Sparkles;
               return (
-                <Link
-                  key={stream.id}
-                  href={`/streams#${stream.id}`}
-                  className="group rounded-xl border border-gray-200 bg-white p-5 shadow-sm transition-all hover:-translate-y-0.5 hover:border-gray-300 hover:shadow-md"
-                  style={{ borderTopColor: stream.color, borderTopWidth: 3 }}
-                >
-                  <div className="flex items-center justify-between">
-                    <span
-                      className="flex h-10 w-10 items-center justify-center rounded-xl text-white"
-                      style={{ backgroundColor: stream.color }}
-                    >
-                      <Icon className="h-5 w-5" />
-                    </span>
-                    <span className="text-xs font-medium text-gray-400">
-                      Stream {i + 1}
-                    </span>
-                  </div>
-                  <h3 className="mt-4 font-semibold text-gray-900 group-hover:text-primary">
-                    {stream.name}
-                  </h3>
-                  <p className="mt-1 text-sm leading-6 text-gray-600">
-                    {stream.tagline}
-                  </p>
-                  <div className="mt-3 flex flex-wrap gap-1.5">
-                    {stream.futureOptions.slice(0, 4).map((opt) => (
+                <Reveal key={stream.id} delay={i * 0.06} className="h-full">
+                  <Link
+                    href={`/streams#${stream.id}`}
+                    className="group flex h-full flex-col rounded-2xl border border-gray-200 bg-white p-5 shadow-sm transition-all hover:-translate-y-1 hover:border-indigo-200 hover:shadow-md"
+                    style={{ borderTopColor: stream.color, borderTopWidth: 3 }}
+                  >
+                    <div className="flex items-center justify-between">
                       <span
-                        key={opt}
-                        className="rounded-full bg-gray-100 px-2.5 py-0.5 text-[11px] font-medium text-gray-600"
+                        className="flex h-10 w-10 items-center justify-center rounded-xl text-white"
+                        style={{ backgroundColor: stream.color }}
                       >
-                        {opt}
+                        <Icon className="h-5 w-5" />
                       </span>
-                    ))}
-                  </div>
-                </Link>
+                      <span className="text-xs font-medium text-gray-400">
+                        Stream {i + 1}
+                      </span>
+                    </div>
+                    <h3 className="mt-4 font-semibold text-gray-900 group-hover:text-primary">
+                      {stream.name}
+                    </h3>
+                    <p className="mt-1 text-sm leading-6 text-gray-600">
+                      {stream.tagline}
+                    </p>
+                    <div className="mt-3 flex flex-wrap gap-1.5">
+                      {stream.futureOptions.slice(0, 4).map((opt) => (
+                        <span
+                          key={opt}
+                          className="rounded-full bg-gray-100 px-2.5 py-0.5 text-[11px] font-medium text-gray-600"
+                        >
+                          {opt}
+                        </span>
+                      ))}
+                    </div>
+                  </Link>
+                </Reveal>
               );
             })}
           </div>
@@ -180,38 +127,41 @@ export default function Home() {
 
       <section className="bg-white">
         <div className="mx-auto max-w-6xl px-4 py-14 sm:px-6">
-          <div className="flex items-end justify-between gap-4">
-            <div>
-              <h2 className="text-2xl font-bold tracking-tight text-gray-900">
-                Everything you need to decide
-              </h2>
-              <p className="mt-1.5 text-sm text-gray-600">
-                Not a directory — a complete planning toolkit for Class 10
-                students.
-              </p>
+          <Reveal>
+            <div className="flex items-end justify-between gap-4">
+              <div>
+                <h2 className="text-2xl font-bold tracking-tight text-gray-900">
+                  Everything you need to decide
+                </h2>
+                <p className="mt-1.5 text-sm text-gray-600">
+                  Not a directory — a complete planning toolkit for Class 10
+                  students.
+                </p>
+              </div>
             </div>
-          </div>
+          </Reveal>
           <div className="mt-7 grid grid-cols-1 gap-4 sm:grid-cols-2">
-            {featureCards.map((card) => {
+            {featureCards.map((card, i) => {
               const Icon = card.icon;
               return (
-                <Link
-                  key={card.href}
-                  href={card.href}
-                  className="group flex items-start gap-4 rounded-xl border border-gray-200 bg-white p-5 shadow-sm transition-all hover:-translate-y-0.5 hover:border-gray-300 hover:shadow-md"
-                >
-                  <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl bg-primary-light text-primary">
-                    <Icon className="h-5 w-5" />
-                  </span>
-                  <div>
-                    <h3 className="font-semibold text-gray-900 group-hover:text-primary">
-                      {card.title}
-                    </h3>
-                    <p className="mt-1 text-sm leading-6 text-gray-600">
-                      {card.desc}
-                    </p>
-                  </div>
-                </Link>
+                <Reveal key={card.href} delay={i * 0.06} className="h-full">
+                  <Link
+                    href={card.href}
+                    className="group flex h-full items-start gap-4 rounded-2xl border border-gray-200 bg-white p-5 shadow-sm transition-all hover:-translate-y-1 hover:border-indigo-200 hover:shadow-md"
+                  >
+                    <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl bg-primary-light text-primary transition-colors group-hover:bg-linear-to-br group-hover:from-primary group-hover:to-brand-violet group-hover:text-white">
+                      <Icon className="h-5 w-5" />
+                    </span>
+                    <div>
+                      <h3 className="font-semibold text-gray-900 group-hover:text-primary">
+                        {card.title}
+                      </h3>
+                      <p className="mt-1 text-sm leading-6 text-gray-600">
+                        {card.desc}
+                      </p>
+                    </div>
+                  </Link>
+                </Reveal>
               );
             })}
           </div>
@@ -220,27 +170,31 @@ export default function Home() {
 
       <section className="bg-surface-muted">
         <div className="mx-auto max-w-6xl px-4 py-14 sm:px-6">
-          <div className="flex items-end justify-between gap-4">
-            <div>
-              <h2 className="text-2xl font-bold tracking-tight text-gray-900">
-                Explore all domains
-              </h2>
-              <p className="mt-1.5 text-sm text-gray-600">
-                From engineering to hospitality — the careers your counsellor
-                never mentioned.
-              </p>
+          <Reveal>
+            <div className="flex items-end justify-between gap-4">
+              <div>
+                <h2 className="text-2xl font-bold tracking-tight text-gray-900">
+                  Explore all domains
+                </h2>
+                <p className="mt-1.5 text-sm text-gray-600">
+                  From engineering to hospitality — the careers your counsellor
+                  never mentioned.
+                </p>
+              </div>
+              <Link
+                href="/careers"
+                className="hidden shrink-0 items-center gap-1.5 text-sm font-semibold text-primary hover:text-primary-dark sm:inline-flex"
+              >
+                View all
+                <ArrowRight className="h-4 w-4" />
+              </Link>
             </div>
-            <Link
-              href="/careers"
-              className="hidden shrink-0 items-center gap-1.5 text-sm font-semibold text-primary hover:text-primary-dark sm:inline-flex"
-            >
-              View all
-              <ArrowRight className="h-4 w-4" />
-            </Link>
-          </div>
+          </Reveal>
           <div className="mt-7 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
-            {domains.map((domain) => (
-              <DomainCard key={domain.id} domain={domain} />
+            {domains.map((domain, i) => (
+              <Reveal key={domain.id} delay={(i % 3) * 0.06} className="h-full">
+                <DomainCard domain={domain} />
+              </Reveal>
             ))}
           </div>
           <div className="mt-6 sm:hidden">
@@ -255,26 +209,28 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="bg-linear-to-br from-primary to-primary-dark">
+      <section className="bg-linear-to-br from-primary via-primary to-brand-violet">
         <div className="mx-auto flex max-w-6xl flex-col items-center gap-6 px-4 py-12 text-center sm:px-6">
-          <span className="flex h-12 w-12 items-center justify-center rounded-2xl bg-white/15 text-white">
-            <GraduationCap className="h-6 w-6" />
-          </span>
-          <h2 className="max-w-xl text-2xl font-bold tracking-tight text-white sm:text-3xl">
-            {schemeCount} scholarships, one database, all of India
-          </h2>
-          <p className="max-w-lg text-sm leading-6 text-white/80">
-            Central schemes for every state, plus state and UT schemes for all
-            28 states and 8 union territories. Filtered by income, category, and
-            education level.
-          </p>
-          <Link
-            href="/schemes"
-            className="inline-flex h-11 items-center gap-2 rounded-full bg-white px-6 text-sm font-semibold text-primary shadow-sm transition-colors hover:bg-gray-100"
-          >
-            Browse scholarships
-            <ArrowRight className="h-4 w-4" />
-          </Link>
+          <Reveal>
+            <span className="flex h-12 w-12 items-center justify-center rounded-2xl bg-white/15 text-white">
+              <GraduationCap className="h-6 w-6" />
+            </span>
+            <h2 className="mx-auto mt-4 max-w-xl text-2xl font-bold tracking-tight text-white sm:text-3xl">
+              {schemeCount} scholarships, one database, all of India
+            </h2>
+            <p className="mx-auto mt-2 max-w-lg text-sm leading-6 text-white/80">
+              Central schemes for every state, plus state and UT schemes for all
+              28 states and 8 union territories. Filtered by income, category, and
+              education level.
+            </p>
+            <Link
+              href="/schemes"
+              className="mt-6 inline-flex h-11 items-center gap-2 rounded-full bg-white px-6 text-sm font-semibold text-primary shadow-sm transition-colors hover:bg-gray-100"
+            >
+              Browse scholarships
+              <ArrowRight className="h-4 w-4" />
+            </Link>
+          </Reveal>
         </div>
       </section>
     </div>

@@ -19,9 +19,9 @@ export default function CourseCard({ course, onClick }: Props) {
           onClick();
         }
       }}
-      className={`flex flex-col rounded-xl border border-gray-200 bg-white p-5 shadow-sm transition-all ${
+      className={`flex flex-col rounded-2xl border border-gray-200 bg-white p-5 shadow-sm transition-all ${
         onClick
-          ? "cursor-pointer hover:-translate-y-0.5 hover:border-primary/50 hover:shadow-md"
+          ? "cursor-pointer hover:-translate-y-1 hover:border-primary/50 hover:shadow-lg"
           : ""
       }`}
     >

@@ -4,7 +4,7 @@ import { stateCategoryLabels } from "@/data/state-schemes";
 
 export default function StateSchemeCard({ scheme }: { scheme: StateScheme }) {
   return (
-    <div className="flex flex-col rounded-xl border border-gray-200 bg-white p-5 shadow-sm">
+    <div className="flex h-full flex-col rounded-2xl border border-gray-200 bg-white p-5 shadow-sm transition-all hover:-translate-y-1 hover:border-indigo-200 hover:shadow-md">
       <span className="inline-flex w-fit items-center rounded-full bg-primary-light px-2.5 py-0.5 text-[11px] font-semibold text-primary">
         {stateCategoryLabels[scheme.category]}
       </span>

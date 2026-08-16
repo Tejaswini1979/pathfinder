@@ -89,7 +89,7 @@ export default function CourseExplorer({ courses, streams, levels }: Props) {
       </div>
 
       {filtered.length === 0 && (
-        <div className="mt-10 rounded-xl border border-dashed border-gray-300 p-10 text-center text-sm text-gray-500">
+        <div className="mt-10 rounded-2xl border border-dashed border-gray-300 p-10 text-center text-sm text-gray-500">
           No courses match your filters.
         </div>
       )}

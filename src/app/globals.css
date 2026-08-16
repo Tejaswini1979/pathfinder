@@ -3,7 +3,7 @@
 :root {
   --background: #ffffff;
   --foreground: #1e293b;
-  --surface-muted: #f0fdfa;
+  --surface-muted: #f5f7fc;
 }
 
 @theme inline {
@@ -15,20 +15,22 @@
 }
 
 @theme {
-  --color-primary: #0f766e;
-  --color-primary-dark: #115e59;
-  --color-primary-light: #ccfbf1;
+  --color-primary: #4f46e5;
+  --color-primary-dark: #4338ca;
+  --color-primary-light: #e0e7ff;
   --color-accent: #f43f5e;
   --color-accent-light: #ffe4e6;
   --color-warning: #f59e0b;
   --color-warning-light: #fef3c7;
   --color-info: #0ea5e9;
+  --color-brand-blue: #3b82f6;
+  --color-brand-violet: #8b5cf6;
 }
 
 body {
   background-color: var(--background);
   background-image:
-    radial-gradient(circle, rgba(15, 118, 110, 0.05) 1px, transparent 1px);
+    radial-gradient(circle, rgba(79, 70, 229, 0.06) 1px, transparent 1px);
   background-size: 26px 26px;
   color: var(--foreground);
   font-family: var(--font-sans);
