@@ -2,6 +2,7 @@
 
 import { Bookmark, BookmarkCheck } from "lucide-react";
 import { useSavedStore } from "@/lib/saved-store";
+import { useMounted } from "@/lib/use-mounted";
 
 interface Props {
   id: string;
@@ -16,8 +17,10 @@ export default function SaveCareerButton({
   domainTitle,
   className = "",
 }: Props) {
-  const isSaved = useSavedStore((s) => s.isSaved(id));
+  const mounted = useMounted();
+  const saved = useSavedStore((s) => s.isSaved(id));
   const toggle = useSavedStore((s) => s.toggle);
+  const isSaved = mounted && saved;
 
   return (
     <button

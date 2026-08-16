@@ -15,6 +15,7 @@ import {
   ArrowRight,
 } from "lucide-react";
 import { useSavedStore } from "@/lib/saved-store";
+import { useMounted } from "@/lib/use-mounted";
 
 const desktopLinks = [
   { href: "/", label: "Home" },
@@ -40,7 +41,9 @@ function isActive(pathname: string, href: string) {
 export default function Nav() {
   const pathname = usePathname();
   const [open, setOpen] = useState(false);
+  const mounted = useMounted();
   const savedCount = useSavedStore((s) => s.count);
+  const showSavedBadge = mounted && savedCount > 0;
 
   return (
     <>
@@ -82,7 +85,7 @@ export default function Nav() {
               aria-label="Saved careers"
             >
               <Bookmark className="h-5 w-5" />
-              {savedCount > 0 && (
+              {showSavedBadge && (
                 <span className="absolute -right-0.5 -top-0.5 flex h-4.5 min-w-[18px] items-center justify-center rounded-full bg-primary px-1 text-[10px] font-bold text-white">
                   {savedCount}
                 </span>
@@ -142,7 +145,7 @@ export default function Nav() {
                 aria-label="Saved careers"
               >
                 <Bookmark className="h-5 w-5" />
-                {savedCount > 0 && (
+                {showSavedBadge && (
                   <span className="absolute -right-0.5 -top-0.5 flex h-4.5 min-w-[18px] items-center justify-center rounded-full bg-primary px-1 text-[10px] font-bold text-white">
                     {savedCount}
                   </span>

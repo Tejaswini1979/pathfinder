@@ -11,6 +11,7 @@ import {
   useRoadmapProgressStore,
   type StepStatus,
 } from "@/lib/roadmap-store";
+import { useMounted } from "@/lib/use-mounted";
 
 interface Props {
   roadmapId: string;
@@ -74,11 +75,13 @@ const actions: {
 ];
 
 export default function RoadmapFlow({ roadmapId, steps }: Props) {
+  const mounted = useMounted();
   const progress = useRoadmapProgressStore((s) => s.progress);
   const setStatus = useRoadmapProgressStore((s) => s.setStatus);
 
+  const visibleProgress = mounted ? progress : {};
   const statuses: StepStatus[] = steps.map(
-    (_, i) => progress[roadmapId]?.[String(i)] ?? "todo"
+    (_, i) => visibleProgress[roadmapId]?.[String(i)] ?? "todo"
   );
   const doneCount = statuses.filter((s) => s === "done").length;
   const pct = Math.round((doneCount / steps.length) * 100);
