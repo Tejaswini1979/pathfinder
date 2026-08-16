@@ -1,12 +1,18 @@
 import type { Metadata } from "next";
-import { Space_Grotesk } from "next/font/google";
+import { Inter, Poppins } from "next/font/google";
 import "./globals.css";
 import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
 import BackButton from "@/components/BackButton";
 
-const spaceGrotesk = Space_Grotesk({
-  variable: "--font-space-grotesk",
+const inter = Inter({
+  variable: "--font-inter",
+  subsets: ["latin"],
+});
+
+const poppins = Poppins({
+  variable: "--font-poppins",
+  weight: ["600", "700"],
   subsets: ["latin"],
 });
 
@@ -21,7 +27,7 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
-    <html lang="en" className={`${spaceGrotesk.variable} h-full antialiased`}>
+    <html lang="en" className={`${inter.variable} ${poppins.variable} h-full antialiased`}>
       <body className="flex min-h-full flex-col">
         <Nav />
         <main className="flex flex-1 flex-col">{children}</main>

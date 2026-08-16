@@ -8,7 +8,7 @@ export default function SchemeCard({ scheme }: { scheme: Scheme }) {
   const timeline = scheme.timeline;
 
   return (
-    <div className="flex h-full flex-col rounded-squircle border border-gray-200 bg-white p-5 shadow-sm transition-all hover:-translate-y-1 hover:border-indigo-200 hover:shadow-md">
+    <div className="flex h-full flex-col rounded-squircle border border-slate-200 bg-white p-5 shadow-sm transition-all duration-200 hover:-translate-y-1 hover:border-primary/40 hover:shadow-lg">
       <div className="flex items-center justify-between gap-2">
         <span
           className={`inline-flex items-center rounded-full px-2.5 py-0.5 text-[11px] font-semibold ${
